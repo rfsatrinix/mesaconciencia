@@ -1,0 +1,57 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const entradas = await getCollection('recetas');
+  return entradas.map((e) => ({
+    params: { slug: e.id },
+    props: { entrada: e },
+  }));
+}
+
+const { entrada } = Astro.props;
+const { Content } = await render(entrada);
+---
+
+<Layout title={entrada.data.title} description={entrada.data.description}>
+  <article class="container seccion">
+    <nav class="migas">
+      <a href="/">Inicio</a>
+      <span class="sep">›</span>
+      <a href="/recetas">Recetas</a>
+      <span class="sep">›</span>
+      <span>{entrada.data.title}</span>
+    </nav>
+    <div class="prosa">
+      {entrada.data.categoria && (
+        <span class="etiqueta" style="margin-bottom: 1rem; display: inline-block;">
+          {entrada.data.categoria}
+        </span>
+      )}
+      <h1>{entrada.data.title}</h1>
+      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
+      {(entrada.data.tiempoPrep || entrada.data.raciones) && (
+        <div class="datos-receta">
+          {entrada.data.tiempoPrep && <span>⏱ Tiempo: {entrada.data.tiempoPrep} min</span>}
+          {entrada.data.raciones && <span>🍽 Raciones: {entrada.data.raciones}</span>}
+        </div>
+      )}
+      <Content />
+    </div>
+  </article>
+</Layout>
+
+<style>
+  .datos-receta {
+    display: flex;
+    gap: 1.5rem;
+    padding: 1rem 1.25rem;
+    background: var(--bg-alt);
+    border-radius: var(--radio);
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    flex-wrap: wrap;
+  }
+</style>

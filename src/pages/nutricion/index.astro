@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const entradas = await getCollection('nutricion', ({ data }) => !data.draft);
+---
+
+<Layout
+  title="Nutrición"
+  description="Macronutrientes, vitaminas, minerales, agua y fibra. Todo lo que necesita tu cuerpo para funcionar, explicado con rigor científico."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <span>Nutrición</span>
+      </nav>
+      <h1>Nutrición</h1>
+      <p class="intro">
+        Proteínas, carbohidratos, grasas, vitaminas, minerales, agua y fibra.
+        Todo lo que necesita tu cuerpo para funcionar, explicado con rigor científico y sin tecnicismos innecesarios.
+      </p>
+    </div>
+
+    {
+      entradas.length > 0 ? (
+        <div class="grid-articulos seccion">
+          {entradas.map((e) => (
+            <a href={`/nutricion/${e.id}`} class="tarjeta-articulo tarjeta">
+              <div class="tarjeta-articulo-inner">
+                <h2>{e.data.title}</h2>
+                <p>{e.data.description}</p>
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="pronto">Contenido en preparación. Próximamente.</p>
+      )
+    }
+  </div>
+</Layout>

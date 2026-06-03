@@ -1,0 +1,54 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const entradas = await getCollection('articulos', ({ data }) => !data.draft);
+const ordenadas = entradas.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<Layout
+  title="Artículos"
+  description="Artículos sobre alimentación, nutrición y sostenibilidad. Opinión fundada con evidencia científica."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <span>Artículos</span>
+      </nav>
+      <h1>Artículos</h1>
+      <p class="intro">
+        Reflexiones y análisis sobre alimentación, nutrición, sostenibilidad y temas de actualidad.
+        Opinión con fundamento, no opiniones disfrazadas de hechos.
+      </p>
+    </div>
+
+    {
+      ordenadas.length > 0 ? (
+        <div class="grid-articulos seccion">
+          {ordenadas.map((e) => (
+            <a href={`/articulos/${e.id}`} class="tarjeta-articulo tarjeta">
+              <div class="tarjeta-articulo-inner">
+                <p class="fecha">{e.data.date.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}</p>
+                <h2>{e.data.title}</h2>
+                <p>{e.data.description}</p>
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="pronto">Contenido en preparación. Próximamente.</p>
+      )
+    }
+  </div>
+</Layout>
+
+<style>
+  .fecha {
+    font-size: 0.8rem;
+    color: var(--texto-suave);
+    margin-bottom: 0.5rem;
+  }
+</style>

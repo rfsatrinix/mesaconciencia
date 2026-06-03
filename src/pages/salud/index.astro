@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const entradas = await getCollection('salud', ({ data }) => !data.draft);
+---
+
+<Layout
+  title="Salud y alimentación"
+  description="Cómo la alimentación afecta a enfermedades metabólicas y autoinmunes. Información con rigor científico para pacientes y sus familias."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <span>Salud</span>
+      </nav>
+      <h1>Salud y alimentación</h1>
+      <p class="intro">
+        Diabetes, colesterol, hipertensión, obesidad, celiaquía, artritis reumatoide y otras enfermedades.
+        Cómo la alimentación puede ser una herramienta de salud. Información con rigor científico para pacientes y familias.
+      </p>
+      <p class="aviso-legal">
+        ⚠️ Este contenido es informativo. No sustituye el consejo médico individualizado.
+        Consulta siempre con tu médico o dietista antes de hacer cambios en tu alimentación.
+      </p>
+    </div>
+
+    {
+      entradas.length > 0 ? (
+        <div class="grid-articulos seccion">
+          {entradas.map((e) => (
+            <a href={`/salud/${e.id}`} class="tarjeta-articulo tarjeta">
+              <div class="tarjeta-articulo-inner">
+                {e.data.tipo && <span class="etiqueta" style="margin-bottom: 0.75rem; display: inline-block;">{e.data.tipo}</span>}
+                <h2>{e.data.title}</h2>
+                <p>{e.data.description}</p>
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="pronto">Contenido en preparación. Próximamente.</p>
+      )
+    }
+  </div>
+</Layout>
+
+<style>
+  .aviso-legal {
+    margin-top: 1rem;
+    padding: 0.75rem 1rem;
+    background: #fffbeb;
+    border: 1px solid #fde68a;
+    border-radius: var(--radio);
+    font-size: 0.85rem;
+    color: #92400e;
+    max-width: 680px;
+  }
+</style>

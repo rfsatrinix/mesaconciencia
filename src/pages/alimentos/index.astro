@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+const entradas = await getCollection('alimentos', ({ data }) => !data.draft);
+---
+
+<Layout
+  title="Alimentos"
+  description="Propiedades nutricionales de frutas, verduras, carnes, pescados, legumbres, cereales y mucho más, con respaldo científico."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <span>Alimentos</span>
+      </nav>
+      <h1>Alimentos</h1>
+      <p class="intro">
+        Frutas, verduras, carnes, pescados, legumbres, cereales, hongos, algas e insectos.
+        Propiedades nutricionales reales, sin exageraciones ni afirmaciones sin evidencia.
+      </p>
+    </div>
+
+    {
+      entradas.length > 0 ? (
+        <div class="grid-articulos seccion">
+          {entradas.map((e) => (
+            <a href={`/alimentos/${e.id}`} class="tarjeta-articulo tarjeta">
+              <div class="tarjeta-articulo-inner">
+                <h2>{e.data.title}</h2>
+                <p>{e.data.description}</p>
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="pronto">Contenido en preparación. Próximamente.</p>
+      )
+    }
+  </div>
+</Layout>

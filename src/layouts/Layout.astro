@@ -1,0 +1,511 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Nutrición con rigor científico. Sin dogmas.' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconciencia.com');
+
+const nav = [
+  { label: 'Nutrición', href: '/nutricion' },
+  { label: 'Alimentos', href: '/alimentos' },
+  { label: 'Recetas', href: '/recetas' },
+  { label: 'Dietas', href: '/dietas' },
+  { label: 'Salud', href: '/salud' },
+  { label: 'Plantas', href: '/plantas' },
+  { label: 'Artículos', href: '/articulos' },
+];
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="canonical" href={canonicalURL} />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{title} | Mesa con Ciencia</title>
+    <meta name="description" content={description} />
+
+    <meta property="og:title" content={`${title} | Mesa con Ciencia`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header>
+      <div class="container header-inner">
+        <a href="/" class="logo">Mesa<span>con</span>Ciencia</a>
+        <nav aria-label="Navegación principal">
+          <ul>
+            {nav.map((item) => (
+              <li>
+                <a href={item.href} class={Astro.url.pathname.startsWith(item.href) ? 'active' : ''}>
+                  {item.label}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer>
+      <div class="container footer-inner">
+        <div class="footer-brand">
+          <a href="/" class="logo">Mesa<span>con</span>Ciencia</a>
+          <p>Nutrición con rigor científico.<br />Sin dogmas.</p>
+        </div>
+        <nav class="footer-nav" aria-label="Navegación secundaria">
+          <div>
+            <h4>Contenido</h4>
+            <ul>
+              <li><a href="/nutricion">Nutrición</a></li>
+              <li><a href="/alimentos">Alimentos</a></li>
+              <li><a href="/recetas">Recetas</a></li>
+              <li><a href="/dietas">Dietas</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Más</h4>
+            <ul>
+              <li><a href="/salud">Salud</a></li>
+              <li><a href="/plantas">Plantas</a></li>
+              <li><a href="/articulos">Artículos</a></li>
+              <li><a href="/sobre-mi">Sobre mí</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="footer-bottom">
+        <div class="container">
+          <p>&copy; {new Date().getFullYear()} Mesa con Ciencia &mdash; Contenido elaborado por un dietista titulado.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  :root {
+    --verde: #2d6a4f;
+    --verde-oscuro: #1b4332;
+    --verde-claro: #d1fae5;
+    --ambar: #d97706;
+    --bg: #ffffff;
+    --bg-alt: #f7faf8;
+    --texto: #111827;
+    --texto-suave: #6b7280;
+    --borde: #e5e7eb;
+    --radio: 8px;
+    --ancho: 1200px;
+  }
+
+  html {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-size: 16px;
+    color: var(--texto);
+    background: var(--bg);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', Georgia, serif;
+    line-height: 1.25;
+    color: var(--texto);
+  }
+
+  a {
+    color: var(--verde);
+    text-decoration: none;
+  }
+  a:hover {
+    color: var(--verde-oscuro);
+    text-decoration: underline;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* ── Contenedor ── */
+  .container {
+    max-width: var(--ancho);
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  /* ── Cabecera ── */
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--borde);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 64px;
+    gap: 2rem;
+  }
+
+  .logo {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--texto) !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .logo span {
+    color: var(--verde);
+  }
+
+  header nav ul {
+    display: flex;
+    list-style: none;
+    gap: 0.1rem;
+  }
+
+  header nav a {
+    display: block;
+    padding: 0.4rem 0.7rem;
+    border-radius: var(--radio);
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--texto-suave) !important;
+    transition: color 0.15s, background 0.15s;
+    white-space: nowrap;
+    text-decoration: none !important;
+  }
+  header nav a:hover,
+  header nav a.active {
+    color: var(--verde) !important;
+    background: var(--bg-alt);
+  }
+
+  /* ── Pie de página ── */
+  footer {
+    margin-top: 5rem;
+    border-top: 1px solid var(--borde);
+    background: var(--bg-alt);
+  }
+
+  .footer-inner {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 3rem;
+    padding: 3rem 1.5rem;
+  }
+
+  .footer-brand p {
+    margin-top: 0.6rem;
+    font-size: 0.875rem;
+    color: var(--texto-suave);
+    line-height: 1.6;
+  }
+
+  .footer-nav {
+    display: flex;
+    gap: 3rem;
+  }
+
+  .footer-nav h4 {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--texto-suave);
+    margin-bottom: 0.75rem;
+  }
+
+  .footer-nav ul {
+    list-style: none;
+  }
+  .footer-nav li {
+    margin-bottom: 0.4rem;
+  }
+  .footer-nav a {
+    font-size: 0.875rem;
+    color: var(--texto-suave) !important;
+    transition: color 0.15s;
+  }
+  .footer-nav a:hover {
+    color: var(--verde) !important;
+    text-decoration: none;
+  }
+
+  .footer-bottom {
+    border-top: 1px solid var(--borde);
+    padding: 1rem 1.5rem;
+  }
+  .footer-bottom p {
+    font-size: 0.8rem;
+    color: var(--texto-suave);
+    text-align: center;
+  }
+
+  /* ── Utilidades ── */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.625rem 1.375rem;
+    border-radius: var(--radio);
+    font-weight: 600;
+    font-size: 0.9375rem;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none !important;
+    line-height: 1;
+  }
+  .btn-primario {
+    background: var(--verde);
+    color: white !important;
+    border: 2px solid var(--verde);
+  }
+  .btn-primario:hover {
+    background: var(--verde-oscuro);
+    border-color: var(--verde-oscuro);
+  }
+  .btn-contorno {
+    border: 2px solid var(--verde);
+    color: var(--verde) !important;
+    background: transparent;
+  }
+  .btn-contorno:hover {
+    background: var(--verde);
+    color: white !important;
+  }
+
+  .etiqueta {
+    display: inline-block;
+    padding: 0.2rem 0.65rem;
+    border-radius: 100px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    background: var(--verde-claro);
+    color: var(--verde-oscuro);
+  }
+
+  .seccion {
+    padding: 4rem 0;
+  }
+
+  .titulo-seccion {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: 0.5rem;
+  }
+  .subtitulo-seccion {
+    color: var(--texto-suave);
+    margin-bottom: 2.5rem;
+    font-size: 1rem;
+  }
+
+  /* ── Tarjetas genéricas ── */
+  .tarjeta {
+    background: var(--bg);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    overflow: hidden;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .tarjeta:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+  }
+
+  /* ── Migas de pan ── */
+  .migas {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    color: var(--texto-suave);
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .migas a {
+    color: var(--texto-suave) !important;
+    text-decoration: none;
+  }
+  .migas a:hover {
+    color: var(--verde) !important;
+  }
+  .migas span.sep {
+    color: var(--borde);
+  }
+
+  /* ── Grid de artículos ── */
+  .grid-articulos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .tarjeta-articulo {
+    display: block;
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+  .tarjeta-articulo-inner {
+    padding: 1.5rem;
+  }
+  .tarjeta-articulo h2 {
+    font-size: 1.05rem;
+    margin-bottom: 0.5rem;
+    color: var(--texto);
+  }
+  .tarjeta-articulo p {
+    font-size: 0.875rem;
+    color: var(--texto-suave);
+    margin-bottom: 1rem;
+    line-height: 1.5;
+  }
+  .leer-mas {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--verde);
+  }
+
+  /* ── Cabecera de categoría ── */
+  .cabecera-categoria {
+    padding: 3rem 0 2rem;
+    border-bottom: 1px solid var(--borde);
+    margin-bottom: 2.5rem;
+  }
+  .cabecera-categoria h1 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    margin-bottom: 0.75rem;
+  }
+  .cabecera-categoria .intro {
+    font-size: 1rem;
+    color: var(--texto-suave);
+    max-width: 680px;
+    line-height: 1.7;
+  }
+
+  /* ── Texto de artículo ── */
+  .prosa {
+    max-width: 720px;
+  }
+  .prosa .lead {
+    font-size: 1.1rem;
+    color: var(--texto-suave);
+    margin-bottom: 2rem;
+    line-height: 1.7;
+  }
+  .prosa h2 {
+    font-size: 1.5rem;
+    margin: 2.5rem 0 0.75rem;
+  }
+  .prosa h3 {
+    font-size: 1.2rem;
+    margin: 2rem 0 0.5rem;
+  }
+  .prosa p {
+    margin-bottom: 1.1rem;
+  }
+  .prosa ul,
+  .prosa ol {
+    margin: 0 0 1.1rem 1.5rem;
+  }
+  .prosa li {
+    margin-bottom: 0.3rem;
+  }
+  .prosa blockquote {
+    border-left: 4px solid var(--verde);
+    margin: 2rem 0;
+    padding: 0.75rem 1.25rem;
+    background: var(--bg-alt);
+    border-radius: 0 var(--radio) var(--radio) 0;
+    font-style: italic;
+    color: var(--texto-suave);
+  }
+  .prosa a {
+    color: var(--verde);
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  .prosa strong {
+    font-weight: 600;
+    color: var(--texto);
+  }
+  .prosa table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+  }
+  .prosa th, .prosa td {
+    padding: 0.6rem 0.75rem;
+    border: 1px solid var(--borde);
+    text-align: left;
+  }
+  .prosa th {
+    background: var(--bg-alt);
+    font-weight: 600;
+  }
+
+  /* ── Sin contenido ── */
+  .pronto {
+    color: var(--texto-suave);
+    font-style: italic;
+    padding: 3rem 0;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    header nav {
+      display: none;
+    }
+
+    .footer-inner {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      padding: 2rem 1.5rem;
+    }
+    .footer-nav {
+      flex-wrap: wrap;
+      gap: 2rem;
+    }
+
+    .seccion {
+      padding: 2.5rem 0;
+    }
+  }
+</style>

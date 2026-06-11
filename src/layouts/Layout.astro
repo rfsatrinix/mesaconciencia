@@ -59,7 +59,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
       <div class="container footer-inner">
         <div class="footer-brand">
           <a href="/" class="logo logo-footer">Mesa<span>con</span>Ciencia</a>
-          <p>Nutrición explicada con claridad.<br />Sin modas ni dogmas.</p>
+          <p>Nutrición explicada con claridad.</p>
         </div>
         <nav class="footer-nav" aria-label="Navegación secundaria">
           <div>
@@ -521,10 +521,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
 
   /* ── Responsive ── */
   @media (max-width: 768px) {
-    header nav {
-      display: none;
-    }
-
     .footer-inner {
       grid-template-columns: 1fr;
       gap: 2rem;
@@ -537,6 +533,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
 
     .seccion {
       padding: 2.5rem 0;
+    }
+
+    .prosa table {
+      display: block;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
     }
   }
 </style>

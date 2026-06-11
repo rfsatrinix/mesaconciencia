@@ -18,7 +18,12 @@ const items = [
 ---
 
 <nav aria-label="Navegación principal">
-  <ul class="nav-lista">
+  <button id="nav-toggle" class="nav-toggle" aria-label="Abrir menú" aria-expanded="false">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </button>
+  <ul class="nav-lista" id="nav-lista">
     {items.map(item => (
       <li>
         <a href={item.href} class={`nav-enlace ${activo(item.href)}`}>{item.label}</a>
@@ -27,11 +32,34 @@ const items = [
   </ul>
 </nav>
 
+<script>
+  const toggle = document.getElementById('nav-toggle');
+  const lista = document.getElementById('nav-lista');
+
+  toggle?.addEventListener('click', () => {
+    const abierta = lista?.classList.toggle('abierto');
+    toggle.setAttribute('aria-expanded', String(!!abierta));
+    toggle.classList.toggle('activo', !!abierta);
+  });
+
+  lista?.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      lista.classList.remove('abierto');
+      toggle?.setAttribute('aria-expanded', 'false');
+      toggle?.classList.remove('activo');
+    });
+  });
+</script>
+
 <style>
   .nav-lista {
     display: flex;
     list-style: none;
     gap: 0;
+  }
+
+  .nav-toggle {
+    display: none;
   }
 
   .nav-enlace {
@@ -50,5 +78,62 @@ const items = [
   .nav-enlace.activo {
     color: #ffffff !important;
     background: rgba(255, 255, 255, 0.1);
+  }
+
+  @media (max-width: 768px) {
+    .nav-toggle {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 5px;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 8px;
+      height: 64px;
+    }
+
+    .bar {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: rgba(255, 255, 255, 0.85);
+      border-radius: 2px;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .nav-toggle.activo .bar:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .nav-toggle.activo .bar:nth-child(2) {
+      opacity: 0;
+    }
+    .nav-toggle.activo .bar:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    .nav-lista {
+      display: none;
+      position: fixed;
+      top: 64px;
+      left: 0;
+      right: 0;
+      background: var(--cabecera-bg);
+      flex-direction: column;
+      padding: 0.5rem 0 1rem;
+      z-index: 99;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+    }
+
+    .nav-lista.abierto {
+      display: flex;
+    }
+
+    .nav-enlace {
+      height: auto;
+      padding: 0.875rem 1.5rem;
+      white-space: normal;
+    }
   }
 </style>

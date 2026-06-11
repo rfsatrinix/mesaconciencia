@@ -48,33 +48,34 @@ const categorias = [
   <!-- Hero -->
   <section class="hero">
     <div class="container">
-      <h1>«Que tu medicina sea tu alimento y el alimento tu medicina»<span class="cita-autor"> — Hipócrates</span></h1>
-      <p class="hero-desc">
-        Nutrición explicada de forma sencilla para el común de los mortales.
-      </p>
+      <div class="hero-col">
+        <h1>«Que tu medicina sea tu alimento y el alimento tu medicina»<span class="cita-autor"> — Hipócrates</span></h1>
+        <p class="hero-desc">
+          Nutrición explicada de forma sencilla para el común de los mortales.
+        </p>
+      </div>
     </div>
   </section>
 
   <!-- Categorías -->
   <section class="seccion">
     <div class="container">
-      <h2 class="titulo-seccion">¿Qué quieres consultar?</h2>
-      <p class="subtitulo-seccion">
-        Cada artículo cita las fuentes en las que se basa.
-      </p>
-      <div class="grid-categorias">
-        {
-          categorias.map((cat) => (
-            <a href={cat.href} class="tarjeta-categoria tarjeta">
-              <div class="tarjeta-categoria-inner">
-                <span class="icono-cat" aria-hidden="true">{cat.icono}</span>
-                <h3>{cat.nombre}</h3>
-                <p>{cat.desc}</p>
-                <span class="leer-mas">Ver {cat.nombre.toLowerCase()} →</span>
-              </div>
-            </a>
-          ))
-        }
+      <div class="hero-col">
+        <h2 class="titulo-seccion">¿Qué quieres consultar?</h2>
+        <div class="grid-categorias">
+          {
+            categorias.map((cat) => (
+              <a href={cat.href} class="tarjeta-categoria tarjeta">
+                <div class="tarjeta-categoria-inner">
+                  <span class="icono-cat" aria-hidden="true">{cat.icono}</span>
+                  <h3>{cat.nombre}</h3>
+                  <p>{cat.desc}</p>
+                  <span class="leer-mas">Ver {cat.nombre.toLowerCase()} →</span>
+                </div>
+              </a>
+            ))
+          }
+        </div>
       </div>
     </div>
   </section>
@@ -82,6 +83,7 @@ const categorias = [
   <!-- Por qué Mesa con Ciencia -->
   <section class="seccion seccion-porque">
     <div class="container">
+      <div class="hero-col">
       <div class="porque-grid">
         <div class="porque-texto">
           <h2>¿Por qué Mesa con Ciencia?</h2>
@@ -94,22 +96,19 @@ const categorias = [
             Cada artículo cita los estudios en que se basa, para que puedas
             contrastar lo que lees.
           </p>
-          <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce al autor →</a>
+          <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce a la autora →</a>
         </div>
         <div class="porque-pilares">
           <div class="pilar">
-            <strong>Fuentes citadas</strong>
-            <p>Cada artículo incluye los estudios científicos en que se basa.</p>
-          </div>
-          <div class="pilar">
-            <strong>Dietista titulado</strong>
-            <p>Autor con estudios superiores reglados de dietética.</p>
+            <strong>Dietista titulada</strong>
+            <p>Autora con estudios superiores reglados de dietética.</p>
           </div>
           <div class="pilar">
             <strong>Sin dogmas</strong>
             <p>La ciencia evoluciona. Si la evidencia cambia, el contenido también.</p>
           </div>
         </div>
+      </div>
       </div>
     </div>
   </section>
@@ -125,13 +124,15 @@ const categorias = [
     margin-bottom: 1.25rem;
     display: inline-block;
   }
+  .hero-col {
+    max-width: 960px;
+    margin: 0 auto;
+  }
   .hero h1 {
-    font-size: 1.2rem;
+    font-size: clamp(1.2rem, 2.3vw, 1.7rem);
     font-style: italic;
-    margin: 1rem 0 1.25rem;
-    line-height: 1.5;
-    max-width: none;
-    white-space: nowrap;
+    margin: 0 0 1.25rem;
+    line-height: 1.4;
   }
   .cita-autor {
     font-style: normal;
@@ -141,7 +142,6 @@ const categorias = [
     font-size: 1.1rem;
     color: var(--texto-suave);
     max-width: none;
-    white-space: nowrap;
     margin-bottom: 2.25rem;
     line-height: 1.7;
   }
@@ -154,7 +154,7 @@ const categorias = [
   /* Grid categorías */
   .grid-categorias {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
   }
 
@@ -230,9 +230,18 @@ const categorias = [
     .hero {
       padding: 3rem 0 3rem;
     }
+    .grid-categorias {
+      grid-template-columns: repeat(2, 1fr);
+    }
     .porque-grid {
       grid-template-columns: 1fr;
       gap: 2rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .grid-categorias {
+      grid-template-columns: 1fr;
     }
   }
 </style>

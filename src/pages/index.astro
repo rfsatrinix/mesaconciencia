@@ -42,22 +42,16 @@ const categorias = [
 ---
 
 <Layout
-  title="Nutrición con rigor. Sin dogmas."
-  description="Mesa con Ciencia: información nutricional con respaldo científico y un lenguaje que entiende cualquier persona. Elaborado por un dietista titulado."
+  title="Mesa con Ciencia"
+  description="Nutrición explicada de forma sencilla para el común de los mortales."
 >
   <!-- Hero -->
   <section class="hero">
     <div class="container">
-      <span class="etiqueta">Elaborado por un dietista titulado</span>
-      <h1>Nutrición con rigor.<br />Sin dogmas.</h1>
+      <h1>«Que tu medicina sea tu alimento y el alimento tu medicina»<span class="cita-autor"> — Hipócrates</span></h1>
       <p class="hero-desc">
-        Información nutricional con respaldo científico y un lenguaje que entiende cualquier persona.
-        Sin modas, sin gurús, sin intereses.
+        Nutrición explicada de forma sencilla para el común de los mortales.
       </p>
-      <div class="hero-ctas">
-        <a href="/nutricion" class="btn btn-primario">Explorar nutrientes</a>
-        <a href="/alimentos" class="btn btn-contorno">Ver alimentos</a>
-      </div>
     </div>
   </section>
 
@@ -66,7 +60,7 @@ const categorias = [
     <div class="container">
       <h2 class="titulo-seccion">¿Qué quieres consultar?</h2>
       <p class="subtitulo-seccion">
-        Todo el contenido está respaldado por referencias a estudios científicos publicados.
+        Cada artículo cita las fuentes en las que se basa.
       </p>
       <div class="grid-categorias">
         {
@@ -92,27 +86,28 @@ const categorias = [
         <div class="porque-texto">
           <h2>¿Por qué Mesa con Ciencia?</h2>
           <p>
-            En internet hay dos tipos de contenido sobre nutrición: el que vende y el que aburre.
-            El primero tiene audiencia pero no tiene rigor. El segundo tiene rigor pero no llega a la gente.
+            En dietética hay mucho ruido: modas que van y vienen, afirmaciones sin base
+            y controversias que no lo son.
           </p>
           <p>
-            Este proyecto nació para cubrir ese hueco: información nutricional con respaldo científico,
-            escrita para cualquier persona, sin necesidad de un máster en bioquímica para entenderla.
+            Mesa con Ciencia está escrito con el máximo rigor posible.
+            Cada artículo cita los estudios en que se basa, para que puedas
+            contrastar lo que lees.
           </p>
           <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce al autor →</a>
         </div>
         <div class="porque-pilares">
           <div class="pilar">
-            <strong>Referencias bibliográficas</strong>
-            <p>Cada afirmación está respaldada por estudios publicados en revistas científicas.</p>
+            <strong>Fuentes citadas</strong>
+            <p>Cada artículo incluye los estudios científicos en que se basa.</p>
           </div>
           <div class="pilar">
             <strong>Dietista titulado</strong>
-            <p>El autor tiene estudios superiores reglados de dietética.</p>
+            <p>Autor con estudios superiores reglados de dietética.</p>
           </div>
           <div class="pilar">
-            <strong>Sin intereses comerciales</strong>
-            <p>Sin laboratorios detrás. Sin suplementos que vender. Solo información honesta.</p>
+            <strong>Sin dogmas</strong>
+            <p>La ciencia evoluciona. Si la evidencia cambia, el contenido también.</p>
           </div>
         </div>
       </div>
@@ -131,15 +126,22 @@ const categorias = [
     display: inline-block;
   }
   .hero h1 {
-    font-size: clamp(2rem, 5vw, 3.25rem);
+    font-size: 1.2rem;
+    font-style: italic;
     margin: 1rem 0 1.25rem;
-    line-height: 1.1;
-    max-width: 560px;
+    line-height: 1.5;
+    max-width: none;
+    white-space: nowrap;
+  }
+  .cita-autor {
+    font-style: normal;
+    color: var(--texto-suave);
   }
   .hero-desc {
     font-size: 1.1rem;
     color: var(--texto-suave);
-    max-width: 520px;
+    max-width: none;
+    white-space: nowrap;
     margin-bottom: 2.25rem;
     line-height: 1.7;
   }

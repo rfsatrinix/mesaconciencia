@@ -1,0 +1,54 @@
+---
+const path = Astro.url.pathname;
+
+function activo(href: string) {
+  return path === href || path.startsWith(href + '/') ? 'activo' : '';
+}
+
+const items = [
+  { label: 'Nutrición',  href: '/nutricion' },
+  { label: 'Alimentos',  href: '/alimentos' },
+  { label: 'Recetas',    href: '/recetas' },
+  { label: 'Dietas',     href: '/dietas' },
+  { label: 'Salud',      href: '/salud' },
+  { label: 'Plantas',    href: '/plantas' },
+  { label: 'Artículos',  href: '/articulos' },
+  { label: 'Libros',     href: '/libros' },
+];
+---
+
+<nav aria-label="Navegación principal">
+  <ul class="nav-lista">
+    {items.map(item => (
+      <li>
+        <a href={item.href} class={`nav-enlace ${activo(item.href)}`}>{item.label}</a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  .nav-lista {
+    display: flex;
+    list-style: none;
+    gap: 0;
+  }
+
+  .nav-enlace {
+    display: flex;
+    align-items: center;
+    padding: 0 0.7rem;
+    height: 64px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.72) !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: color 0.15s, background 0.15s;
+  }
+  .nav-enlace:hover,
+  .nav-enlace.activo {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.1);
+  }
+</style>

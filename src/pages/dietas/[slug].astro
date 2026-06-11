@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('dietas');
@@ -11,30 +12,29 @@ export async function getStaticPaths() {
 }
 
 const { entrada } = Astro.props;
-const { Content } = await render(entrada);
+const { Content, headings } = await render(entrada);
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>
-  <article class="container seccion">
-    <nav class="migas">
-      <a href="/">Inicio</a>
-      <span class="sep">›</span>
-      <a href="/dietas">Dietas</a>
-      <span class="sep">›</span>
-      <span>{entrada.data.title}</span>
-    </nav>
-    <div class="prosa">
-      {entrada.data.tipo && (
-        <span
-          class="etiqueta"
-          style={`margin-bottom: 1rem; display: inline-block; ${entrada.data.tipo === 'peligrosa' ? 'background: #fee2e2; color: #991b1b;' : ''}`}
-        >
-          {entrada.data.tipo}
-        </span>
-      )}
-      <h1>{entrada.data.title}</h1>
-      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
+  <div class="container seccion">
+    {entrada.data.tipo && (
+      <span
+        class="etiqueta"
+        style={`display: inline-block; margin-bottom: 1rem; ${entrada.data.tipo === 'peligrosa' ? 'background: #fee2e2; color: #991b1b;' : ''}`}
+      >
+        {entrada.data.tipo}
+      </span>
+    )}
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      backHref="/dietas"
+      backLabel="Dietas"
+      headings={headings}
+    >
       <Content />
-    </div>
-  </article>
+    </ArticleLayout>
+  </div>
 </Layout>

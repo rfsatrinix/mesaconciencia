@@ -1,0 +1,128 @@
+---
+interface Props {
+  noTracking?: boolean;
+}
+const { noTracking = false } = Astro.props;
+---
+
+<div id="cookie-banner" class="cookie-banner" data-no-tracking={noTracking ? 'true' : 'false'} role="dialog" aria-label="Consentimiento de cookies" aria-live="polite">
+  <div class="cookie-banner-inner">
+    <p>
+      Este sitio usa cookies analíticas (Google Analytics) para medir el tráfico de forma anónima.
+      Consulta la <a href="/cookies">política de cookies</a>.
+    </p>
+    <div class="cookie-acciones">
+      <button id="cookies-rechazar" class="btn btn-contorno btn-sm">Rechazar</button>
+      <button id="cookies-aceptar" class="btn btn-primario btn-sm">Aceptar</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const CLAVE = 'mcc-cookies';
+  const banner = document.getElementById('cookie-banner');
+  const noTracking = banner?.dataset.noTracking === 'true';
+
+  const consentido = localStorage.getItem(CLAVE);
+  if (consentido === 'aceptado') {
+    if (!noTracking) cargarGA();
+    banner?.remove();
+  } else if (consentido === 'rechazado') {
+    banner?.remove();
+  }
+
+  document.getElementById('cookies-aceptar')?.addEventListener('click', () => {
+    localStorage.setItem(CLAVE, 'aceptado');
+    if (!noTracking) cargarGA();
+    banner?.remove();
+  });
+
+  document.getElementById('cookies-rechazar')?.addEventListener('click', () => {
+    localStorage.setItem(CLAVE, 'rechazado');
+    banner?.remove();
+  });
+
+  function cargarGA() {
+    const GA_ID = 'G-X8W4DP3VCH';
+
+    const s = document.createElement('script');
+    s.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
+    s.async = true;
+    document.head.appendChild(s);
+
+    (window as any).dataLayer = (window as any).dataLayer || [];
+    function gtag(...args: any[]) { (window as any).dataLayer.push(args); }
+    gtag('js', new Date());
+    gtag('config', GA_ID, { anonymize_ip: true });
+  }
+</script>
+
+<style>
+  .cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    background: var(--verde-oscuro);
+    color: #fdfaf4;
+    border-top: 2px solid var(--terracota);
+    padding: 1rem 1.5rem;
+  }
+
+  .cookie-banner-inner {
+    max-width: var(--ancho);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+
+  .cookie-banner p {
+    font-size: 0.875rem;
+    line-height: 1.5;
+    margin: 0;
+    color: rgba(253, 250, 244, 0.9);
+  }
+
+  .cookie-banner a {
+    color: var(--terracota);
+    text-decoration: underline;
+    font-weight: 500;
+  }
+
+  .cookie-acciones {
+    display: flex;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .btn-sm {
+    padding: 0.45rem 1.1rem;
+    font-size: 0.85rem;
+  }
+
+  /* Adaptar colores al fondo oscuro */
+  .cookie-banner .btn-contorno {
+    border-color: rgba(253, 250, 244, 0.5);
+    color: rgba(253, 250, 244, 0.85) !important;
+  }
+  .cookie-banner .btn-contorno:hover {
+    background: rgba(253, 250, 244, 0.1);
+    border-color: rgba(253, 250, 244, 0.8);
+    color: #fdfaf4 !important;
+  }
+
+  @media (max-width: 600px) {
+    .cookie-banner-inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .cookie-acciones {
+      width: 100%;
+      justify-content: flex-end;
+    }
+  }
+</style>

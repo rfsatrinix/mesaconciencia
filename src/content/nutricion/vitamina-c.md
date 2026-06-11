@@ -1,6 +1,8 @@
 ---
 title: "Vitamina C"
-description: "Qué es la vitamina C, para qué sirve realmente, cuánta necesitas y en qué alimentos la encuentras. Con evidencia científica."
+description: "Qué es la vitamina C, para qué sirve realmente, cuánta necesitas y en qué alimentos la encuentras."
+image: "/images/nutricion/vitamina-c.svg"
+imageAlt: "Imagen de portada del artículo sobre vitamina C"
 draft: false
 ---
 
@@ -23,12 +25,16 @@ Los fumadores necesitan entre 35-40 mg/día más porque el tabaco aumenta el est
 
 | Alimento | mg por 100 g |
 |---|---|
+| Acerola (cruda) | 1677 mg |
+| Escaramujo (fresco) | 426 mg |
 | Pimiento rojo crudo | 190 mg |
 | Kiwi | 93 mg |
 | Brócoli cocido | 65 mg |
-| Naranja | 53 mg |
 | Fresa | 59 mg |
+| Naranja | 53 mg |
 | Espinaca cruda | 28 mg |
+
+*Fuentes: BEDCA; USDA FoodData Central.*
 
 **Dato importante:** la vitamina C es sensible al calor y al oxígeno. La cocción prolongada puede destruir hasta el 50% del contenido. Consumir frutas y verduras crudas o con cocción mínima maximiza el aporte.
 
@@ -38,6 +44,8 @@ Una alimentación variada con frutas y verduras frescas cubre sin dificultad la 
 
 Las megadosis de vitamina C (>1 g/día) no han demostrado beneficios adicionales en personas sanas y pueden causar molestias gastrointestinales y cálculos renales en personas predispuestas.
 
+Si decides suplementar, en el mercado existen dos categorías principales. La vitamina C liposomal envuelve el ácido ascórbico en una capa lipídica que mejora su absorción intestinal; Suravitasan comercializa una versión de alta biodisponibilidad disponible en farmacias especializadas y tiendas de nutrición. Para quien prefiera una opción más económica, los comprimidos estándar de ácido ascórbico de 1000 mg funcionan bien en personas sanas; Redoxon 1000 mg, disponible en cualquier farmacia española, es una referencia accesible y ampliamente contrastada.
+
 ---
 
-*Fuentes: EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin C. EFSA Journal. 2013.*
+*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3418" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin C. EFSA Journal. 2013.</a>*

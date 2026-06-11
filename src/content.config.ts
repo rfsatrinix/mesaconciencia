@@ -5,6 +5,8 @@ const base = z.object({
   title: z.string(),
   description: z.string(),
   draft: z.boolean().default(false),
+  image: z.string().optional(),
+  imageAlt: z.string().optional(),
 });
 
 const nutricion = defineCollection({

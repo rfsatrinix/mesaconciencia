@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('recetas');
@@ -11,26 +12,20 @@ export async function getStaticPaths() {
 }
 
 const { entrada } = Astro.props;
-const { Content } = await render(entrada);
+const { Content, headings } = await render(entrada);
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>
-  <article class="container seccion">
-    <nav class="migas">
-      <a href="/">Inicio</a>
-      <span class="sep">›</span>
-      <a href="/recetas">Recetas</a>
-      <span class="sep">›</span>
-      <span>{entrada.data.title}</span>
-    </nav>
-    <div class="prosa">
-      {entrada.data.categoria && (
-        <span class="etiqueta" style="margin-bottom: 1rem; display: inline-block;">
-          {entrada.data.categoria}
-        </span>
-      )}
-      <h1>{entrada.data.title}</h1>
-      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
+  <div class="container seccion">
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      backHref="/recetas"
+      backLabel="Recetas"
+      headings={headings}
+    >
       {(entrada.data.tiempoPrep || entrada.data.raciones) && (
         <div class="datos-receta">
           {entrada.data.tiempoPrep && <span>⏱ Tiempo: {entrada.data.tiempoPrep} min</span>}
@@ -38,8 +33,8 @@ const { Content } = await render(entrada);
         </div>
       )}
       <Content />
-    </div>
-  </article>
+    </ArticleLayout>
+  </div>
 </Layout>
 
 <style>

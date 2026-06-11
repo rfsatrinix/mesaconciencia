@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('articulos');
@@ -11,34 +12,33 @@ export async function getStaticPaths() {
 }
 
 const { entrada } = Astro.props;
-const { Content } = await render(entrada);
+const { Content, headings } = await render(entrada);
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>
-  <article class="container seccion">
-    <nav class="migas">
-      <a href="/">Inicio</a>
-      <span class="sep">›</span>
-      <a href="/articulos">Artículos</a>
-      <span class="sep">›</span>
-      <span>{entrada.data.title}</span>
-    </nav>
-    <div class="prosa">
+  <div class="container seccion">
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      backHref="/articulos"
+      backLabel="Artículos"
+      headings={headings}
+    >
       <p class="fecha-articulo">
         {entrada.data.date.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}
-        {entrada.data.autor && entrada.data.autor !== 'Mesa con Ciencia' && ` · ${entrada.data.autor}`}
       </p>
-      <h1>{entrada.data.title}</h1>
-      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
       <Content />
-    </div>
-  </article>
+    </ArticleLayout>
+  </div>
 </Layout>
 
 <style>
   .fecha-articulo {
     font-size: 0.875rem;
     color: var(--texto-suave);
-    margin-bottom: 0.75rem;
+    margin-bottom: 1.5rem;
+    text-align: left !important;
   }
 </style>

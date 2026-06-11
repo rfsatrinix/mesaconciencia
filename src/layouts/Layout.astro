@@ -1,21 +1,15 @@
 ---
+import Nav from '../components/Nav.astro';
+import CookieBanner from '../components/CookieBanner.astro';
+
 interface Props {
   title: string;
   description?: string;
+  noTracking?: boolean;
 }
 
-const { title, description = 'Nutrición con rigor científico. Sin dogmas.' } = Astro.props;
+const { title, description = 'Nutrición explicada con claridad y referencias a las fuentes.', noTracking = false } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconciencia.com');
-
-const nav = [
-  { label: 'Nutrición', href: '/nutricion' },
-  { label: 'Alimentos', href: '/alimentos' },
-  { label: 'Recetas', href: '/recetas' },
-  { label: 'Dietas', href: '/dietas' },
-  { label: 'Salud', href: '/salud' },
-  { label: 'Plantas', href: '/plantas' },
-  { label: 'Artículos', href: '/articulos' },
-];
 ---
 
 <!doctype html>
@@ -49,17 +43,7 @@ const nav = [
     <header>
       <div class="container header-inner">
         <a href="/" class="logo">Mesa<span>con</span>Ciencia</a>
-        <nav aria-label="Navegación principal">
-          <ul>
-            {nav.map((item) => (
-              <li>
-                <a href={item.href} class={Astro.url.pathname.startsWith(item.href) ? 'active' : ''}>
-                  {item.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
+        <Nav />
       </div>
     </header>
 
@@ -67,11 +51,15 @@ const nav = [
       <slot />
     </main>
 
+    <CookieBanner noTracking={noTracking} />
+
+    <button id="btn-inicio" aria-label="Volver al inicio de la página">↑</button>
+
     <footer>
       <div class="container footer-inner">
         <div class="footer-brand">
-          <a href="/" class="logo">Mesa<span>con</span>Ciencia</a>
-          <p>Nutrición con rigor científico.<br />Sin dogmas.</p>
+          <a href="/" class="logo logo-footer">Mesa<span>con</span>Ciencia</a>
+          <p>Nutrición explicada con claridad.<br />Sin modas ni dogmas.</p>
         </div>
         <nav class="footer-nav" aria-label="Navegación secundaria">
           <div>
@@ -92,16 +80,35 @@ const nav = [
               <li><a href="/sobre-mi">Sobre mí</a></li>
             </ul>
           </div>
+          <div>
+            <h4>Legal</h4>
+            <ul>
+              <li><a href="/privacidad">Política de privacidad</a></li>
+              <li><a href="/cookies">Cookies</a></li>
+              <li><a href="/aviso-legal">Aviso legal</a></li>
+              <li><a href="/contacto">Contacto</a></li>
+            </ul>
+          </div>
         </nav>
       </div>
       <div class="footer-bottom">
         <div class="container">
-          <p>&copy; {new Date().getFullYear()} Mesa con Ciencia &mdash; Contenido elaborado por un dietista titulado.</p>
+          <p>&copy; {new Date().getFullYear()} Mesa con Ciencia &mdash; Dietista con estudios superiores de dietética.</p>
         </div>
       </div>
     </footer>
   </body>
 </html>
+
+<script>
+  const btn = document.getElementById('btn-inicio');
+  window.addEventListener('scroll', () => {
+    btn?.classList.toggle('visible', window.scrollY > 400);
+  }, { passive: true });
+  btn?.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+</script>
 
 <style is:global>
   *, *::before, *::after {
@@ -111,15 +118,18 @@ const nav = [
   }
 
   :root {
-    --verde: #2d6a4f;
-    --verde-oscuro: #1b4332;
-    --verde-claro: #d1fae5;
-    --ambar: #d97706;
-    --bg: #ffffff;
-    --bg-alt: #f7faf8;
-    --texto: #111827;
-    --texto-suave: #6b7280;
-    --borde: #e5e7eb;
+    --verde: #2a6349;
+    --verde-oscuro: #1a3d2b;
+    --verde-claro: #c8ead8;
+    --terracota: #f08030;
+    --terracota-oscuro: #c45e14;
+    --cabecera-bg: #1a3d2b;
+    --bg: #f1f8f2;
+    --bg-alt: #e2efe5;
+    --blanco: #ffffff;
+    --texto: #1c1410;
+    --texto-suave: #4a5e4e;
+    --borde: #c8dece;
     --radio: 8px;
     --ancho: 1200px;
   }
@@ -167,9 +177,7 @@ const nav = [
     position: sticky;
     top: 0;
     z-index: 100;
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(8px);
-    border-bottom: 1px solid var(--borde);
+    background: var(--cabecera-bg);
   }
 
   .header-inner {
@@ -184,37 +192,18 @@ const nav = [
     font-family: 'Lora', Georgia, serif;
     font-size: 1.2rem;
     font-weight: 700;
-    color: var(--texto) !important;
     text-decoration: none !important;
     white-space: nowrap;
     flex-shrink: 0;
   }
-  .logo span {
-    color: var(--verde);
+
+  header .logo {
+    color: #fdfaf4 !important;
+  }
+  header .logo span {
+    color: var(--terracota);
   }
 
-  header nav ul {
-    display: flex;
-    list-style: none;
-    gap: 0.1rem;
-  }
-
-  header nav a {
-    display: block;
-    padding: 0.4rem 0.7rem;
-    border-radius: var(--radio);
-    font-size: 0.875rem;
-    font-weight: 500;
-    color: var(--texto-suave) !important;
-    transition: color 0.15s, background 0.15s;
-    white-space: nowrap;
-    text-decoration: none !important;
-  }
-  header nav a:hover,
-  header nav a.active {
-    color: var(--verde) !important;
-    background: var(--bg-alt);
-  }
 
   /* ── Pie de página ── */
   footer {
@@ -237,9 +226,16 @@ const nav = [
     line-height: 1.6;
   }
 
+  .logo-footer {
+    color: var(--texto) !important;
+  }
+  .logo-footer span {
+    color: var(--verde);
+  }
+
   .footer-nav {
     display: flex;
-    gap: 3rem;
+    gap: 2.5rem;
   }
 
   .footer-nav h4 {
@@ -278,7 +274,7 @@ const nav = [
     text-align: center;
   }
 
-  /* ── Utilidades ── */
+  /* ── Botones ── */
   .btn {
     display: inline-flex;
     align-items: center;
@@ -293,13 +289,13 @@ const nav = [
     line-height: 1;
   }
   .btn-primario {
-    background: var(--verde);
+    background: var(--terracota);
     color: white !important;
-    border: 2px solid var(--verde);
+    border: 2px solid var(--terracota);
   }
   .btn-primario:hover {
-    background: var(--verde-oscuro);
-    border-color: var(--verde-oscuro);
+    background: var(--terracota-oscuro);
+    border-color: var(--terracota-oscuro);
   }
   .btn-contorno {
     border: 2px solid var(--verde);
@@ -311,6 +307,7 @@ const nav = [
     color: white !important;
   }
 
+  /* ── Etiqueta ── */
   .etiqueta {
     display: inline-block;
     padding: 0.2rem 0.65rem;
@@ -335,16 +332,16 @@ const nav = [
     font-size: 1rem;
   }
 
-  /* ── Tarjetas genéricas ── */
+  /* ── Tarjetas ── */
   .tarjeta {
-    background: var(--bg);
+    background: var(--blanco);
     border: 1px solid var(--borde);
     border-radius: var(--radio);
     overflow: hidden;
     transition: box-shadow 0.2s, transform 0.2s;
   }
   .tarjeta:hover {
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 20px rgba(28, 20, 16, 0.1);
     transform: translateY(-2px);
   }
 
@@ -421,6 +418,8 @@ const nav = [
   /* ── Texto de artículo ── */
   .prosa {
     max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
   }
   .prosa .lead {
     font-size: 1.1rem;
@@ -438,6 +437,7 @@ const nav = [
   }
   .prosa p {
     margin-bottom: 1.1rem;
+    text-align: justify;
   }
   .prosa ul,
   .prosa ol {
@@ -479,6 +479,37 @@ const nav = [
   .prosa th {
     background: var(--bg-alt);
     font-weight: 600;
+  }
+
+  /* ── Botón volver arriba ── */
+  #btn-inicio {
+    position: fixed;
+    bottom: 1.75rem;
+    right: 1.75rem;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background: var(--verde);
+    color: white;
+    border: none;
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.2s, transform 0.2s, background 0.15s;
+    z-index: 200;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #btn-inicio.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  #btn-inicio:hover {
+    background: var(--verde-oscuro);
   }
 
   /* ── Sin contenido ── */

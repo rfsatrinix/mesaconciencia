@@ -1,0 +1,195 @@
+---
+import BotonesCompartir from '../components/BotonesCompartir.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  imageAlt?: string;
+  backHref: string;
+  backLabel: string;
+  headings: { depth: number; slug: string; text: string }[];
+}
+
+const { title, description, image, imageAlt, backHref, backLabel, headings } = Astro.props;
+const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
+const urlRelativa = Astro.url.pathname;
+---
+
+<nav class="migas">
+  <a href="/">Inicio</a>
+  <span class="sep">›</span>
+  <a href={backHref}>{backLabel}</a>
+  <span class="sep">›</span>
+  <span>{title}</span>
+</nav>
+
+<div class="layout-art">
+
+  <div class="art-contenido prosa">
+    <h1>{title}</h1>
+    {description && <p class="lead">{description}</p>}
+
+    {image && (
+      <figure class="art-imagen">
+        <img src={image} alt={imageAlt ?? title} loading="lazy" />
+      </figure>
+    )}
+
+    {toc.length > 0 && (
+      <nav class="art-indice" aria-label="Índice del artículo">
+        <p class="art-indice-titulo">En este artículo</p>
+        <ol>
+          {toc.map(h => (
+            <li class={`indice-n${h.depth}`}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
+
+    <slot />
+
+    <BotonesCompartir titulo={title} urlRelativa={urlRelativa} />
+  </div>
+
+  <aside class="art-sidebar">
+    <div class="sidebar-card">
+      <div class="autor-avatar">Á</div>
+      <div class="autor-info">
+        <strong>Ángela Nova</strong>
+        <p>Dietista con estudios superiores reglados de dietética.</p>
+      </div>
+    </div>
+  </aside>
+
+</div>
+
+<style>
+  .layout-art {
+    display: grid;
+    grid-template-columns: 1fr 260px;
+    gap: 3rem;
+    align-items: start;
+  }
+
+  /* Imagen de cabecera */
+  .art-imagen {
+    margin: 1.5rem 0 2rem;
+    border-radius: var(--radio);
+    overflow: hidden;
+    border: 1px solid var(--borde);
+  }
+  .art-imagen img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Índice de contenido */
+  .art-indice {
+    background: var(--bg-alt);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .art-indice-titulo {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--texto-suave);
+    margin-bottom: 0.75rem !important;
+    text-align: left !important;
+  }
+  .art-indice ol {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0 !important;
+    counter-reset: toc-h2;
+  }
+  .art-indice li {
+    margin-bottom: 0.35rem !important;
+  }
+  .indice-n2 {
+    counter-increment: toc-h2;
+  }
+  .indice-n2::before {
+    content: counter(toc-h2) ". ";
+    color: var(--texto-suave);
+    font-size: 0.875rem;
+  }
+  .indice-n3 {
+    padding-left: 1.5rem;
+  }
+  .indice-n3::before {
+    content: "— ";
+    color: var(--borde);
+    font-size: 0.875rem;
+  }
+  .art-indice a {
+    font-size: 0.875rem;
+    color: var(--texto) !important;
+    text-decoration: none !important;
+    font-weight: 500;
+    transition: color 0.15s;
+  }
+  .art-indice a:hover {
+    color: var(--verde) !important;
+  }
+
+  /* Sidebar */
+  .art-sidebar {
+    position: sticky;
+    top: 84px;
+  }
+
+  .sidebar-card {
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    padding: 1.25rem;
+  }
+
+  .autor-avatar {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    background: var(--cabecera-bg);
+    color: #fdfaf4;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .autor-info strong {
+    display: block;
+    font-size: 0.875rem;
+    margin-bottom: 0.3rem;
+    color: var(--texto);
+  }
+  .autor-info p {
+    font-size: 0.8rem;
+    color: var(--texto-suave);
+    line-height: 1.5;
+    margin: 0 !important;
+    text-align: left !important;
+  }
+
+  @media (max-width: 960px) {
+    .layout-art {
+      grid-template-columns: 1fr;
+    }
+    .art-sidebar {
+      display: none;
+    }
+  }
+</style>

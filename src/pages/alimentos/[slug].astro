@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('alimentos');
@@ -11,22 +12,21 @@ export async function getStaticPaths() {
 }
 
 const { entrada } = Astro.props;
-const { Content } = await render(entrada);
+const { Content, headings } = await render(entrada);
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>
-  <article class="container seccion">
-    <nav class="migas">
-      <a href="/">Inicio</a>
-      <span class="sep">›</span>
-      <a href="/alimentos">Alimentos</a>
-      <span class="sep">›</span>
-      <span>{entrada.data.title}</span>
-    </nav>
-    <div class="prosa">
-      <h1>{entrada.data.title}</h1>
-      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
+  <div class="container seccion">
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      backHref="/alimentos"
+      backLabel="Alimentos"
+      headings={headings}
+    >
       <Content />
-    </div>
-  </article>
+    </ArticleLayout>
+  </div>
 </Layout>

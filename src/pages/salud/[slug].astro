@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('salud');
@@ -11,30 +12,26 @@ export async function getStaticPaths() {
 }
 
 const { entrada } = Astro.props;
-const { Content } = await render(entrada);
+const { Content, headings } = await render(entrada);
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>
-  <article class="container seccion">
-    <nav class="migas">
-      <a href="/">Inicio</a>
-      <span class="sep">›</span>
-      <a href="/salud">Salud</a>
-      <span class="sep">›</span>
-      <span>{entrada.data.title}</span>
-    </nav>
-    <div class="prosa">
-      {entrada.data.tipo && (
-        <span class="etiqueta" style="margin-bottom: 1rem; display: inline-block;">{entrada.data.tipo}</span>
-      )}
-      <h1>{entrada.data.title}</h1>
-      {entrada.data.description && <p class="lead">{entrada.data.description}</p>}
+  <div class="container seccion">
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      backHref="/salud"
+      backLabel="Salud"
+      headings={headings}
+    >
       <div class="aviso-legal">
         ⚠️ Este artículo es informativo. No sustituye el consejo médico individualizado.
       </div>
       <Content />
-    </div>
-  </article>
+    </ArticleLayout>
+  </div>
 </Layout>
 
 <style>

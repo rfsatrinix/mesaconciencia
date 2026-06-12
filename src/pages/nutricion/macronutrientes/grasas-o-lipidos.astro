@@ -1,38 +1,37 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
 const intro = await getEntry('nutricion', 'macronutrientes/grasas-o-lipidos/que-son');
-const { Content } = await render(intro!);
+const { Content, headings } = await render(intro!);
 
 const subArticulos = (await getCollection('nutricion', ({ data, id }) =>
   !data.draft &&
   id.startsWith('macronutrientes/grasas-o-lipidos/') &&
   id !== 'macronutrientes/grasas-o-lipidos/que-son'
 )).sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? '', 'es'));
+
+const migas = [
+  { href: '/nutricion', label: 'Nutrición' },
+  { href: '/nutricion/macronutrientes', label: 'Macronutrientes' },
+];
 ---
 
 <Layout
   title="Grasas o lípidos"
-  description="Qué son las grasas, tipos, cuántas necesitas al día, qué son los ácidos grasos esenciales y qué fuentes alimentarias priorizar."
+  description={intro!.data.description}
 >
-  <div class="container">
-    <div class="cabecera-categoria">
-      <nav class="migas">
-        <a href="/">Inicio</a>
-        <span class="sep">›</span>
-        <a href="/nutricion">Nutrición</a>
-        <span class="sep">›</span>
-        <a href="/nutricion/macronutrientes">Macronutrientes</a>
-        <span class="sep">›</span>
-        <span>Grasas o lípidos</span>
-      </nav>
-      <h1>Grasas o lípidos</h1>
-    </div>
-
-    <div class="intro-prosa prosa seccion">
+  <div class="container seccion">
+    <ArticleLayout
+      title="Grasas o lípidos"
+      description={intro!.data.description}
+      breadcrumbs={migas}
+      headings={headings}
+      relacionados={[]}
+    >
       <Content />
-    </div>
+    </ArticleLayout>
 
     {subArticulos.length > 0 && (
       <section class="seccion seccion-tipos">

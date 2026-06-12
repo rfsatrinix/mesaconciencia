@@ -1,9 +1,10 @@
 ---
 import { getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
 const intro = await getEntry('nutricion', 'macronutrientes/proteinas/que-son');
-const { Content } = await render(intro!);
+const { Content, headings } = await render(intro!);
 
 const subcategorias = [
   {
@@ -22,29 +23,27 @@ const subcategorias = [
     href:  '/nutricion/macronutrientes/proteinas/origen-vegetal',
   },
 ];
+
+const migas = [
+  { href: '/nutricion', label: 'Nutrición' },
+  { href: '/nutricion/macronutrientes', label: 'Macronutrientes' },
+];
 ---
 
 <Layout
   title="Proteínas"
-  description="Qué son las proteínas, cuántas necesitas al día, en qué alimentos las encuentras y cuándo tienen sentido los suplementos."
+  description={intro!.data.description}
 >
-  <div class="container">
-    <div class="cabecera-categoria">
-      <nav class="migas">
-        <a href="/">Inicio</a>
-        <span class="sep">›</span>
-        <a href="/nutricion">Nutrición</a>
-        <span class="sep">›</span>
-        <a href="/nutricion/macronutrientes">Macronutrientes</a>
-        <span class="sep">›</span>
-        <span>Proteínas</span>
-      </nav>
-      <h1>Proteínas</h1>
-    </div>
-
-    <div class="intro-prosa prosa seccion">
+  <div class="container seccion">
+    <ArticleLayout
+      title="Proteínas"
+      description={intro!.data.description}
+      breadcrumbs={migas}
+      headings={headings}
+      relacionados={[]}
+    >
       <Content />
-    </div>
+    </ArticleLayout>
 
     <section class="seccion seccion-tipos">
       <h2 class="titulo-seccion">Profundiza</h2>

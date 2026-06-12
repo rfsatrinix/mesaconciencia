@@ -9,14 +9,17 @@ const subcategorias = [
   {
     label: 'Aminoácidos esenciales',
     desc:  'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
+    href:  null,
   },
   {
     label: 'Proteínas de origen animal',
     desc:  'Carnes, pescado, huevos y lácteos: perfil de aminoácidos, biodisponibilidad y papel en la dieta.',
+    href:  '/nutricion/macronutrientes/proteinas/origen-animal',
   },
   {
     label: 'Proteínas de origen vegetal',
     desc:  'Legumbres, cereales, soja y otros vegetales: cómo cubrir las necesidades proteicas sin productos animales.',
+    href:  '/nutricion/macronutrientes/proteinas/origen-vegetal',
   },
 ];
 ---
@@ -46,7 +49,15 @@ const subcategorias = [
     <section class="seccion seccion-tipos">
       <h2 class="titulo-seccion">Profundiza</h2>
       <div class="grid-articulos">
-        {subcategorias.map(sub => (
+        {subcategorias.map(sub => sub.href ? (
+          <a href={sub.href} class="tarjeta tarjeta-articulo">
+            <div class="tarjeta-articulo-inner">
+              <h2>{sub.label}</h2>
+              <p>{sub.desc}</p>
+              <span class="leer-mas">Leer artículo →</span>
+            </div>
+          </a>
+        ) : (
           <div class="tarjeta tarjeta-articulo tarjeta-pronto">
             <div class="tarjeta-articulo-inner">
               <h2>{sub.label}</h2>

@@ -1,15 +1,22 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 
-const articulos = await getCollection('nutricion', ({ data }) =>
-  !data.draft && data.categoria === 'Hidratos de carbono'
-);
+// Artículo overview de la categoría
+const intro = await getEntry('nutricion', 'macronutrientes/hidratos-de-carbono/que-son');
+const { Content } = await render(intro!);
+
+// Sub-artículos (excluye el overview)
+const subArticulos = (await getCollection('nutricion', ({ data, id }) =>
+  !data.draft &&
+  id.startsWith('macronutrientes/hidratos-de-carbono/') &&
+  id !== 'macronutrientes/hidratos-de-carbono/que-son'
+)).sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? '', 'es'));
 ---
 
 <Layout
   title="Hidratos de carbono"
-  description="Artículos sobre hidratos de carbono: tipos, índice glucémico, fuentes alimentarias de calidad y necesidades diarias."
+  description="Qué son los hidratos de carbono, tipos, diferencias entre simples y complejos, su impacto en la glucemia y las mejores fuentes alimentarias."
 >
   <div class="container">
     <div class="cabecera-categoria">
@@ -23,16 +30,17 @@ const articulos = await getCollection('nutricion', ({ data }) =>
         <span>Hidratos de carbono</span>
       </nav>
       <h1>Hidratos de carbono</h1>
-      <p class="intro">
-        La principal fuente de energía del organismo. Azúcares simples, almidones complejos,
-        índice glucémico y cómo elegir las mejores fuentes dentro de una dieta equilibrada.
-      </p>
     </div>
 
-    <section class="seccion">
-      {articulos.length > 0 ? (
+    <div class="intro-prosa prosa seccion">
+      <Content />
+    </div>
+
+    {subArticulos.length > 0 && (
+      <section class="seccion seccion-tipos">
+        <h2 class="titulo-seccion">Tipos de hidratos de carbono</h2>
         <div class="grid-articulos">
-          {articulos.map(e => (
+          {subArticulos.map(e => (
             <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
               <div class="tarjeta-articulo-inner">
                 <h2>{e.data.title}</h2>
@@ -42,9 +50,13 @@ const articulos = await getCollection('nutricion', ({ data }) =>
             </a>
           ))}
         </div>
-      ) : (
-        <p class="pronto">Contenido en preparación. Próximamente.</p>
-      )}
-    </section>
+      </section>
+    )}
   </div>
 </Layout>
+
+<style>
+  .seccion-tipos {
+    border-top: 1px solid var(--borde);
+  }
+</style>

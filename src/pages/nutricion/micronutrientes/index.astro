@@ -1,0 +1,51 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+
+const subcategorias = [
+  {
+    label: 'Vitaminas',
+    href:  '/nutricion/micronutrientes/vitaminas',
+    desc:  'Compuestos orgánicos esenciales que regulan procesos metabólicos clave: inmunidad, coagulación, visión, síntesis de colágeno y mucho más.',
+  },
+  {
+    label: 'Minerales',
+    href:  '/nutricion/micronutrientes/minerales',
+    desc:  'Elementos inorgánicos imprescindibles para la estructura ósea, la contracción muscular, el equilibrio electrolítico y el transporte de oxígeno.',
+  },
+];
+---
+
+<Layout
+  title="Micronutrientes"
+  description="Vitaminas y minerales: qué son, para qué sirven, cuánto necesitas y en qué alimentos encontrarlos."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <a href="/nutricion">Nutrición</a>
+        <span class="sep">›</span>
+        <span>Micronutrientes</span>
+      </nav>
+      <h1>Micronutrientes</h1>
+      <p class="intro">
+        A diferencia de los macronutrientes, los micronutrientes no aportan energía, pero son
+        imprescindibles para que el organismo funcione. Una carencia —aunque sea leve— puede
+        deteriorar la salud antes de que aparezca ningún síntoma evidente.
+      </p>
+    </div>
+
+    <section class="seccion">
+      <div class="grid-categorias">
+        {subcategorias.map(sub => (
+          <a href={sub.href} class="tarjeta tarjeta-categoria">
+            <h2>{sub.label}</h2>
+            <p>{sub.desc}</p>
+            <span class="ver-mas">Ver artículos →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Layout>

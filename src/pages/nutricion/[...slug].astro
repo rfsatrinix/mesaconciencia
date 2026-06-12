@@ -14,10 +14,35 @@ export async function getStaticPaths() {
 const { entrada } = Astro.props;
 const { Content, headings } = await render(entrada);
 
+// Breadcrumbs from the article's path
+const segmentos = entrada.id.split('/').slice(0, -1);
+
+const etiquetas: Record<string, string> = {
+  macronutrientes:       'Macronutrientes',
+  'hidratos-de-carbono': 'Hidratos de carbono',
+  'grasas-o-lipidos':    'Grasas o lípidos',
+  proteinas:             'Proteínas',
+  micronutrientes:       'Micronutrientes',
+  vitaminas:             'Vitaminas',
+  minerales:             'Minerales',
+  agua:                  'Agua',
+  'fibra-alimenticia':   'Fibra alimenticia',
+};
+
+const migas = [
+  { href: '/nutricion', label: 'Nutrición' },
+  ...segmentos.map((seg, i) => ({
+    href: '/nutricion/' + segmentos.slice(0, i + 1).join('/'),
+    label: etiquetas[seg] ?? seg,
+  })),
+];
+
+// Related articles: same parent directory
+const parentPath = segmentos.length > 0 ? segmentos.join('/') + '/' : '';
 const todos = await getCollection('nutricion', ({ data }) => !data.draft);
 const relacionados = todos
   .filter(e => e.id !== entrada.id)
-  .filter(e => !entrada.data.categoria || e.data.categoria === entrada.data.categoria)
+  .filter(e => !parentPath || e.id.startsWith(parentPath))
   .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0))
   .slice(0, 3)
   .map(e => ({ id: e.id, coleccion: 'nutricion', data: { title: e.data.title, description: e.data.description } }));
@@ -30,8 +55,7 @@ const relacionados = todos
       description={entrada.data.description}
       image={entrada.data.image}
       imageAlt={entrada.data.imageAlt}
-      backHref="/nutricion"
-      backLabel="Nutrición"
+      breadcrumbs={migas}
       headings={headings}
       relacionados={relacionados}
     >

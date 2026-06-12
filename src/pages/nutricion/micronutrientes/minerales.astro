@@ -3,13 +3,13 @@ import { getCollection } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 
 const articulos = await getCollection('nutricion', ({ data, id }) =>
-  !data.draft && id.startsWith('macronutrientes/proteinas/')
+  !data.draft && id.startsWith('micronutrientes/minerales/')
 );
 ---
 
 <Layout
-  title="Proteínas"
-  description="Artículos sobre proteínas: aminoácidos esenciales, fuentes alimentarias, necesidades diarias y suplementación."
+  title="Minerales"
+  description="Artículos sobre minerales y oligoelementos: funciones, necesidades diarias, fuentes alimentarias y señales de deficiencia."
 >
   <div class="container">
     <div class="cabecera-categoria">
@@ -18,14 +18,15 @@ const articulos = await getCollection('nutricion', ({ data, id }) =>
         <span class="sep">›</span>
         <a href="/nutricion">Nutrición</a>
         <span class="sep">›</span>
-        <a href="/nutricion/macronutrientes">Macronutrientes</a>
+        <a href="/nutricion/micronutrientes">Micronutrientes</a>
         <span class="sep">›</span>
-        <span>Proteínas</span>
+        <span>Minerales</span>
       </nav>
-      <h1>Proteínas</h1>
+      <h1>Minerales</h1>
       <p class="intro">
-        Los bloques constructores del organismo. Aminoácidos esenciales, síntesis proteica,
-        fuentes alimentarias y necesidades según edad, actividad física y estado de salud.
+        Los minerales son elementos inorgánicos esenciales para la estructura del organismo
+        y la regulación de múltiples procesos fisiológicos. Algunos se necesitan en gramos
+        al día (macrominerales) y otros en cantidades de microgramos (oligoelementos).
       </p>
     </div>
 

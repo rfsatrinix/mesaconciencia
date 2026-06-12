@@ -12,21 +12,24 @@ interface Props {
   description?: string;
   image?: string;
   imageAlt?: string;
-  backHref: string;
-  backLabel: string;
+  backHref?: string;
+  backLabel?: string;
+  breadcrumbs?: { href: string; label: string }[];
   headings: { depth: number; slug: string; text: string }[];
   relacionados?: Relacionado[];
 }
 
-const { title, description, image, imageAlt, backHref, backLabel, headings, relacionados = [] } = Astro.props;
+const { title, description, image, imageAlt, backHref, backLabel, breadcrumbs, headings, relacionados = [] } = Astro.props;
 const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
 const urlRelativa = Astro.url.pathname;
 ---
 
 <nav class="migas">
   <a href="/">Inicio</a>
-  <span class="sep">›</span>
-  <a href={backHref}>{backLabel}</a>
+  {breadcrumbs
+    ? breadcrumbs.map(b => <><span class="sep">›</span><a href={b.href}>{b.label}</a></>)
+    : <><span class="sep">›</span><a href={backHref}>{backLabel}</a></>
+  }
   <span class="sep">›</span>
   <span>{title}</span>
 </nav>

@@ -1,15 +1,20 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 
-const articulos = await getCollection('nutricion', ({ data }) =>
-  !data.draft && data.categoria === 'Grasas o lípidos'
-);
+const intro = await getEntry('nutricion', 'macronutrientes/grasas-o-lipidos/que-son');
+const { Content } = await render(intro!);
+
+const subArticulos = (await getCollection('nutricion', ({ data, id }) =>
+  !data.draft &&
+  id.startsWith('macronutrientes/grasas-o-lipidos/') &&
+  id !== 'macronutrientes/grasas-o-lipidos/que-son'
+)).sort((a, b) => (a.data.title ?? '').localeCompare(b.data.title ?? '', 'es'));
 ---
 
 <Layout
   title="Grasas o lípidos"
-  description="Artículos sobre grasas: tipos, ácidos grasos esenciales, fuentes alimentarias y su papel en la salud cardiovascular."
+  description="Qué son las grasas, tipos, cuántas necesitas al día, qué son los ácidos grasos esenciales y qué fuentes alimentarias priorizar."
 >
   <div class="container">
     <div class="cabecera-categoria">
@@ -23,17 +28,17 @@ const articulos = await getCollection('nutricion', ({ data }) =>
         <span>Grasas o lípidos</span>
       </nav>
       <h1>Grasas o lípidos</h1>
-      <p class="intro">
-        Imprescindibles para la absorción de vitaminas liposolubles, la síntesis de hormonas
-        y la integridad de las membranas celulares. No todas las grasas son iguales
-        ni tienen el mismo efecto sobre la salud.
-      </p>
     </div>
 
-    <section class="seccion">
-      {articulos.length > 0 ? (
+    <div class="intro-prosa prosa seccion">
+      <Content />
+    </div>
+
+    {subArticulos.length > 0 && (
+      <section class="seccion seccion-tipos">
+        <h2 class="titulo-seccion">Tipos de grasas</h2>
         <div class="grid-articulos">
-          {articulos.map(e => (
+          {subArticulos.map(e => (
             <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
               <div class="tarjeta-articulo-inner">
                 <h2>{e.data.title}</h2>
@@ -43,9 +48,13 @@ const articulos = await getCollection('nutricion', ({ data }) =>
             </a>
           ))}
         </div>
-      ) : (
-        <p class="pronto">Contenido en preparación. Próximamente.</p>
-      )}
-    </section>
+      </section>
+    )}
   </div>
 </Layout>
+
+<style>
+  .seccion-tipos {
+    border-top: 1px solid var(--borde);
+  }
+</style>

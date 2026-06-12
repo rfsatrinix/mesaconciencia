@@ -1,6 +1,12 @@
 ---
 import BotonesCompartir from '../components/BotonesCompartir.astro';
 
+type Relacionado = {
+  id: string;
+  coleccion: string;
+  data: { title: string; description?: string };
+};
+
 interface Props {
   title: string;
   description?: string;
@@ -9,9 +15,10 @@ interface Props {
   backHref: string;
   backLabel: string;
   headings: { depth: number; slug: string; text: string }[];
+  relacionados?: Relacionado[];
 }
 
-const { title, description, image, imageAlt, backHref, backLabel, headings } = Astro.props;
+const { title, description, image, imageAlt, backHref, backLabel, headings, relacionados = [] } = Astro.props;
 const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
 const urlRelativa = Astro.url.pathname;
 ---
@@ -36,19 +43,6 @@ const urlRelativa = Astro.url.pathname;
       </figure>
     )}
 
-    {toc.length > 0 && (
-      <nav class="art-indice" aria-label="Índice del artículo">
-        <p class="art-indice-titulo">En este artículo</p>
-        <ol>
-          {toc.map(h => (
-            <li class={`indice-n${h.depth}`}>
-              <a href={`#${h.slug}`}>{h.text}</a>
-            </li>
-          ))}
-        </ol>
-      </nav>
-    )}
-
     <slot />
 
     <BotonesCompartir titulo={title} urlRelativa={urlRelativa} />
@@ -62,9 +56,39 @@ const urlRelativa = Astro.url.pathname;
         <p>Dietista con estudios superiores reglados de dietética.</p>
       </div>
     </div>
+
+    {toc.length > 0 && (
+      <nav class="art-indice sidebar-card" aria-label="Índice del artículo">
+        <p class="art-indice-titulo">En este artículo</p>
+        <ol>
+          {toc.map(h => (
+            <li class={`indice-n${h.depth}`}>
+              <a href={`#${h.slug}`}>{h.text}</a>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )}
   </aside>
 
 </div>
+
+{relacionados.length > 0 && (
+  <section class="relacionados">
+    <h2 class="relacionados-titulo">También te puede interesar</h2>
+    <div class="grid-articulos">
+      {relacionados.map(r => (
+        <a href={`/${r.coleccion}/${r.id}`} class="tarjeta tarjeta-articulo">
+          <div class="tarjeta-articulo-inner">
+            <h2>{r.data.title}</h2>
+            {r.data.description && <p>{r.data.description}</p>}
+            <span class="leer-mas">Leer artículo →</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
 
 <style>
   .layout-art {
@@ -88,13 +112,9 @@ const urlRelativa = Astro.url.pathname;
     display: block;
   }
 
-  /* Índice de contenido */
+  /* Índice de contenido (sidebar) */
   .art-indice {
     background: var(--bg-alt);
-    border: 1px solid var(--borde);
-    border-radius: var(--radio);
-    padding: 1.25rem 1.5rem;
-    margin-bottom: 2.5rem;
   }
   .art-indice-titulo {
     font-family: 'Inter', sans-serif;
@@ -146,6 +166,9 @@ const urlRelativa = Astro.url.pathname;
   .art-sidebar {
     position: sticky;
     top: 84px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
 
   .sidebar-card {
@@ -182,6 +205,18 @@ const urlRelativa = Astro.url.pathname;
     line-height: 1.5;
     margin: 0 !important;
     text-align: left !important;
+  }
+
+  /* ── También te puede interesar ── */
+  .relacionados {
+    margin-top: 3rem;
+    padding-top: 2.5rem;
+    border-top: 1px solid var(--borde);
+  }
+
+  .relacionados-titulo {
+    font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+    margin-bottom: 1.5rem;
   }
 
   @media (max-width: 960px) {

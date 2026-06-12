@@ -1,0 +1,56 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+
+const subcategorias = [
+  {
+    label: 'Hidratos de carbono',
+    href:  '/nutricion/macronutrientes/hidratos-de-carbono',
+    desc:  'La principal fuente de energía. Azúcares simples, almidones complejos y su impacto en la glucemia.',
+  },
+  {
+    label: 'Grasas o lípidos',
+    href:  '/nutricion/macronutrientes/grasas-o-lipidos',
+    desc:  'Esenciales para la absorción de vitaminas liposolubles, la síntesis hormonal y la integridad celular.',
+  },
+  {
+    label: 'Proteínas',
+    href:  '/nutricion/macronutrientes/proteinas',
+    desc:  'Los bloques constructores del organismo: crecimiento, reparación tisular y síntesis enzimática.',
+  },
+];
+---
+
+<Layout
+  title="Macronutrientes"
+  description="Proteínas, carbohidratos y grasas: los nutrientes que el cuerpo necesita en mayor cantidad para obtener energía y mantener sus estructuras."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <a href="/nutricion">Nutrición</a>
+        <span class="sep">›</span>
+        <span>Macronutrientes</span>
+      </nav>
+      <h1>Macronutrientes</h1>
+      <p class="intro">
+        Los macronutrientes son los nutrientes que el cuerpo necesita en mayor cantidad: proteínas,
+        carbohidratos y grasas. Cada uno cumple funciones específicas y los tres son imprescindibles
+        para el correcto funcionamiento del organismo.
+      </p>
+    </div>
+
+    <section class="seccion">
+      <div class="grid-categorias">
+        {subcategorias.map(sub => (
+          <a href={sub.href} class="tarjeta tarjeta-categoria">
+            <h2>{sub.label}</h2>
+            <p>{sub.desc}</p>
+            <span class="ver-mas">Ver artículos →</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  </div>
+</Layout>

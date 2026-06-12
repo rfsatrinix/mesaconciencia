@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+
+const articulos = await getCollection('nutricion', ({ data }) =>
+  !data.draft && data.categoria === 'Proteínas'
+);
+---
+
+<Layout
+  title="Proteínas"
+  description="Artículos sobre proteínas: aminoácidos esenciales, fuentes alimentarias, necesidades diarias y suplementación."
+>
+  <div class="container">
+    <div class="cabecera-categoria">
+      <nav class="migas">
+        <a href="/">Inicio</a>
+        <span class="sep">›</span>
+        <a href="/nutricion">Nutrición</a>
+        <span class="sep">›</span>
+        <a href="/nutricion/macronutrientes">Macronutrientes</a>
+        <span class="sep">›</span>
+        <span>Proteínas</span>
+      </nav>
+      <h1>Proteínas</h1>
+      <p class="intro">
+        Los bloques constructores del organismo. Aminoácidos esenciales, síntesis proteica,
+        fuentes alimentarias y necesidades según edad, actividad física y estado de salud.
+      </p>
+    </div>
+
+    <section class="seccion">
+      {articulos.length > 0 ? (
+        <div class="grid-articulos">
+          {articulos.map(e => (
+            <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
+              <div class="tarjeta-articulo-inner">
+                <h2>{e.data.title}</h2>
+                {e.data.description && <p>{e.data.description}</p>}
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="pronto">Contenido en preparación. Próximamente.</p>
+      )}
+    </section>
+  </div>
+</Layout>

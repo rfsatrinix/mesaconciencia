@@ -1,20 +1,69 @@
 ---
+import { getCollection } from 'astro:content';
+
 const path = Astro.url.pathname;
 
 function activo(href: string) {
   return path === href || path.startsWith(href + '/') ? 'activo' : '';
 }
 
-const items = [
-  { label: 'Nutrición',  href: '/nutricion' },
-  { label: 'Alimentos',  href: '/alimentos' },
-  { label: 'Recetas',    href: '/recetas' },
-  { label: 'Dietas',     href: '/dietas' },
-  { label: 'Salud',      href: '/salud' },
-  { label: 'Plantas',    href: '/plantas' },
-  { label: 'Artículos',  href: '/articulos' },
-  { label: 'Libros',     href: '/libros' },
+// ── Contar artículos publicados por colección ────────────────
+const colecciones = ['nutricion', 'alimentos', 'recetas', 'dietas', 'salud', 'plantas', 'articulos'] as const;
+const cuentas: Record<string, number> = {};
+await Promise.all(
+  colecciones.map(async col => {
+    const entradas = await getCollection(col, ({ data }) => !data.draft);
+    cuentas[col] = entradas.length;
+  })
+);
+
+// ── Detectar qué páginas de subcategoría existen ─────────────
+// import.meta.glob evalúa en build time; excluimos rutas dinámicas ([slug])
+const archivos = import.meta.glob('../pages/**/*.astro');
+const rutasExistentes = new Set(
+  Object.keys(archivos)
+    .filter(f => !f.includes('['))
+    .map(f =>
+      f.replace('../pages', '').replace('/index.astro', '').replace('.astro', '') || '/'
+    )
+);
+
+const existePagina = (href: string) => rutasExistentes.has(href);
+
+// ── Definición completa del menú ─────────────────────────────
+type SubItem = { label: string; href: string };
+type NavItem  = { label: string; href: string; coleccion?: string; submenu?: SubItem[] };
+
+const definicion: NavItem[] = [
+  {
+    label: 'Nutrición',
+    href:  '/nutricion',
+    coleccion: 'nutricion',
+    submenu: [
+      { label: 'Macronutrientes',   href: '/nutricion/macronutrientes' },
+      { label: 'Micronutrientes',   href: '/nutricion/micronutrientes' },
+      { label: 'Agua',              href: '/nutricion/agua' },
+      { label: 'Fibra alimenticia', href: '/nutricion/fibra-alimenticia' },
+    ],
+  },
+  { label: 'Alimentos', href: '/alimentos', coleccion: 'alimentos' },
+  { label: 'Recetas',   href: '/recetas',   coleccion: 'recetas' },
+  { label: 'Dietas',    href: '/dietas',    coleccion: 'dietas' },
+  { label: 'Salud',     href: '/salud',     coleccion: 'salud' },
+  { label: 'Plantas',   href: '/plantas',   coleccion: 'plantas' },
+  { label: 'Artículos', href: '/articulos', coleccion: 'articulos' },
+  { label: 'Libros',    href: '/libros' },
 ];
+
+// ── Filtrar: mostrar solo ítems con contenido ────────────────
+// Ítem principal: visible si no tiene colección o si la colección tiene ≥1 artículo.
+// Submenú: solo los ítems cuya página existe en src/pages/.
+const items = definicion
+  .filter(item => !item.coleccion || (cuentas[item.coleccion] ?? 0) > 0)
+  .map(item => {
+    const submenu = item.submenu?.filter(sub => existePagina(sub.href));
+    return { ...item, submenu: submenu?.length ? submenu : undefined };
+  });
 ---
 
 <nav aria-label="Navegación principal">
@@ -24,9 +73,27 @@ const items = [
     <span class="bar"></span>
   </button>
   <ul class="nav-lista" id="nav-lista">
-    {items.map(item => (
-      <li>
-        <a href={item.href} class={`nav-enlace ${activo(item.href)}`}>{item.label}</a>
+    {items.map((item) => (
+      <li class={item.submenu ? 'tiene-submenu' : ''}>
+        <a href={item.href} class={`nav-enlace ${activo(item.href)}`}>
+          {item.label}
+        </a>
+        {item.submenu && (
+          <>
+            <button class="submenu-toggle" aria-label={`Expandir ${item.label}`} aria-expanded="false">
+              <span class="chevron" aria-hidden="true">▾</span>
+            </button>
+            <ul class="submenu">
+              {item.submenu.map(sub => (
+                <li>
+                  <a href={sub.href} class={`submenu-enlace ${activo(sub.href)}`}>
+                    {sub.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
       </li>
     ))}
   </ul>
@@ -34,14 +101,16 @@ const items = [
 
 <script>
   const toggle = document.getElementById('nav-toggle');
-  const lista = document.getElementById('nav-lista');
+  const lista  = document.getElementById('nav-lista');
 
+  // Hamburger
   toggle?.addEventListener('click', () => {
     const abierta = lista?.classList.toggle('abierto');
     toggle.setAttribute('aria-expanded', String(!!abierta));
     toggle.classList.toggle('activo', !!abierta);
   });
 
+  // Cerrar hamburger al hacer clic en cualquier enlace
   lista?.querySelectorAll('a').forEach(a => {
     a.addEventListener('click', () => {
       lista.classList.remove('abierto');
@@ -49,9 +118,19 @@ const items = [
       toggle?.classList.remove('activo');
     });
   });
+
+  // Submenús (móvil): botón de flecha
+  document.querySelectorAll('.submenu-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const submenu = btn.nextElementSibling as HTMLElement | null;
+      const isOpen  = submenu?.classList.toggle('abierto');
+      btn.setAttribute('aria-expanded', String(!!isOpen));
+    });
+  });
 </script>
 
 <style>
+  /* ── Barra horizontal (escritorio) ───────────────────────── */
   .nav-lista {
     display: flex;
     list-style: none;
@@ -80,6 +159,64 @@ const items = [
     background: rgba(255, 255, 255, 0.1);
   }
 
+  /* ── Dropdown (escritorio) ───────────────────────────────── */
+  .tiene-submenu {
+    position: relative;
+  }
+
+  .tiene-submenu > .nav-enlace::after {
+    content: '▾';
+    font-size: 0.65em;
+    margin-left: 0.3em;
+    opacity: 0.65;
+  }
+
+  .submenu-toggle {
+    display: none;
+  }
+
+  .submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 200px;
+    list-style: none;
+    padding: 0.4rem 0;
+    background: var(--cabecera-bg);
+    border-top: 2px solid var(--verde);
+    border-radius: 0 0 var(--radio) var(--radio);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    z-index: 200;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-4px);
+    transition: opacity 0.15s, transform 0.15s, visibility 0s 0.15s;
+  }
+
+  .tiene-submenu:hover .submenu {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.15s, transform 0.15s, visibility 0s 0s;
+  }
+
+  .submenu-enlace {
+    display: block;
+    padding: 0.6rem 1.25rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.72) !important;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: color 0.15s, background 0.15s;
+  }
+  .submenu-enlace:hover,
+  .submenu-enlace.activo {
+    color: #ffffff !important;
+    background: rgba(255, 255, 255, 0.1);
+  }
+
+  /* ── Móvil ───────────────────────────────────────────────── */
   @media (max-width: 768px) {
     .nav-toggle {
       display: flex;
@@ -102,15 +239,9 @@ const items = [
       transition: transform 0.2s, opacity 0.2s;
     }
 
-    .nav-toggle.activo .bar:nth-child(1) {
-      transform: translateY(7px) rotate(45deg);
-    }
-    .nav-toggle.activo .bar:nth-child(2) {
-      opacity: 0;
-    }
-    .nav-toggle.activo .bar:nth-child(3) {
-      transform: translateY(-7px) rotate(-45deg);
-    }
+    .nav-toggle.activo .bar:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .nav-toggle.activo .bar:nth-child(2) { opacity: 0; }
+    .nav-toggle.activo .bar:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
 
     .nav-lista {
       display: none;
@@ -125,15 +256,71 @@ const items = [
       border-top: 1px solid rgba(255, 255, 255, 0.1);
       box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
     }
-
     .nav-lista.abierto {
       display: flex;
+    }
+
+    .tiene-submenu > .nav-enlace::after {
+      display: none;
+    }
+
+    .tiene-submenu {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
     }
 
     .nav-enlace {
       height: auto;
       padding: 0.875rem 1.5rem;
       white-space: normal;
+      flex: 1;
+    }
+
+    .submenu-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: none;
+      border: none;
+      border-left: 1px solid rgba(255, 255, 255, 0.1);
+      cursor: pointer;
+      padding: 0 1rem;
+      color: rgba(255, 255, 255, 0.72);
+    }
+
+    .chevron {
+      display: inline-block;
+      font-size: 1rem;
+      transition: transform 0.2s;
+    }
+    .submenu-toggle[aria-expanded="true"] .chevron {
+      transform: rotate(180deg);
+    }
+
+    .submenu {
+      position: static;
+      flex-basis: 100%;
+      visibility: visible;
+      opacity: 1;
+      transform: none;
+      transition: none;
+      background: rgba(0, 0, 0, 0.15);
+      border-top: none;
+      border-left: 2px solid var(--verde);
+      border-radius: 0;
+      box-shadow: none;
+      padding: 0.25rem 0;
+      margin-left: 1.5rem;
+      display: none;
+    }
+    .submenu.abierto {
+      display: block;
+    }
+
+    .submenu-enlace {
+      padding: 0.7rem 1.25rem;
+      font-size: 0.875rem;
     }
   }
 </style>

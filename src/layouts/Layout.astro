@@ -512,6 +512,40 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
     background: var(--verde-oscuro);
   }
 
+  /* ── Tarjetas de categoría ── */
+  .grid-categorias {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .tarjeta-categoria {
+    display: block;
+    text-decoration: none !important;
+    color: inherit !important;
+    padding: 1.5rem;
+    border-top: 3px solid var(--verde);
+  }
+
+  .tarjeta-categoria h2 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: var(--texto);
+  }
+
+  .tarjeta-categoria p {
+    font-size: 0.875rem;
+    color: var(--texto-suave);
+    line-height: 1.55;
+    margin-bottom: 1rem;
+  }
+
+  .tarjeta-categoria .ver-mas {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--verde);
+  }
+
   /* ── Sin contenido ── */
   .pronto {
     color: var(--texto-suave);

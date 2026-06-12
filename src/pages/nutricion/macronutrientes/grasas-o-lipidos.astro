@@ -36,7 +36,7 @@ const subArticulos = (await getCollection('nutricion', ({ data, id }) =>
 
     {subArticulos.length > 0 && (
       <section class="seccion seccion-tipos">
-        <h2 class="titulo-seccion">Tipos de grasas</h2>
+        <h2 class="titulo-seccion">Profundiza</h2>
         <div class="grid-articulos">
           {subArticulos.map(e => (
             <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">

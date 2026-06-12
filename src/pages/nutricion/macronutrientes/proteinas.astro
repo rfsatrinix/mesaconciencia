@@ -1,15 +1,29 @@
 ---
-import { getCollection } from 'astro:content';
+import { getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 
-const articulos = await getCollection('nutricion', ({ data, id }) =>
-  !data.draft && id.startsWith('macronutrientes/proteinas/')
-);
+const intro = await getEntry('nutricion', 'macronutrientes/proteinas/que-son');
+const { Content } = await render(intro!);
+
+const subcategorias = [
+  {
+    label: 'Aminoácidos esenciales',
+    desc:  'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
+  },
+  {
+    label: 'Proteínas de origen animal',
+    desc:  'Carnes, pescado, huevos y lácteos: perfil de aminoácidos, biodisponibilidad y papel en la dieta.',
+  },
+  {
+    label: 'Proteínas de origen vegetal',
+    desc:  'Legumbres, cereales, soja y otros vegetales: cómo cubrir las necesidades proteicas sin productos animales.',
+  },
+];
 ---
 
 <Layout
   title="Proteínas"
-  description="Artículos sobre proteínas: aminoácidos esenciales, fuentes alimentarias, necesidades diarias y suplementación."
+  description="Qué son las proteínas, cuántas necesitas al día, en qué alimentos las encuentras y cuándo tienen sentido los suplementos."
 >
   <div class="container">
     <div class="cabecera-categoria">
@@ -23,28 +37,48 @@ const articulos = await getCollection('nutricion', ({ data, id }) =>
         <span>Proteínas</span>
       </nav>
       <h1>Proteínas</h1>
-      <p class="intro">
-        Los bloques constructores del organismo. Aminoácidos esenciales, síntesis proteica,
-        fuentes alimentarias y necesidades según edad, actividad física y estado de salud.
-      </p>
     </div>
 
-    <section class="seccion">
-      {articulos.length > 0 ? (
-        <div class="grid-articulos">
-          {articulos.map(e => (
-            <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
-              <div class="tarjeta-articulo-inner">
-                <h2>{e.data.title}</h2>
-                {e.data.description && <p>{e.data.description}</p>}
-                <span class="leer-mas">Leer artículo →</span>
-              </div>
-            </a>
-          ))}
-        </div>
-      ) : (
-        <p class="pronto">Contenido en preparación. Próximamente.</p>
-      )}
+    <div class="intro-prosa prosa seccion">
+      <Content />
+    </div>
+
+    <section class="seccion seccion-tipos">
+      <h2 class="titulo-seccion">Profundiza</h2>
+      <div class="grid-articulos">
+        {subcategorias.map(sub => (
+          <div class="tarjeta tarjeta-articulo tarjeta-pronto">
+            <div class="tarjeta-articulo-inner">
+              <h2>{sub.label}</h2>
+              <p>{sub.desc}</p>
+              <span class="pronto-badge">Próximamente</span>
+            </div>
+          </div>
+        ))}
+      </div>
     </section>
   </div>
 </Layout>
+
+<style>
+  .seccion-tipos {
+    border-top: 1px solid var(--borde);
+  }
+
+  .tarjeta-pronto {
+    opacity: 0.6;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .pronto-badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--texto-suave);
+    background: var(--bg-alt);
+    border-radius: 4px;
+    padding: 0.2em 0.6em;
+    margin-top: 0.5rem;
+  }
+</style>

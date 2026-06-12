@@ -5,6 +5,7 @@ categoria: "Legumbres"
 image: "/images/alimentos/garbanzos.svg"
 imageAlt: "Imagen de portada del artículo sobre garbanzos"
 draft: false
+date: 2026-06-01
 ---
 
 El cocido lleva ocho horas en el fuego cuando mi madre añade la última cucharada de pimentón. Son las dos del mediodía de un miércoles de febrero. El piso huele a garbanzo. Y yo, que de niño rechazaba el plato, me sirvo dos veces.

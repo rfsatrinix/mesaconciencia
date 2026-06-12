@@ -1,44 +1,28 @@
 ---
+import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 
-const categorias = [
-  {
-    nombre: 'Nutrición',
-    href: '/nutricion',
-    icono: '🧬',
-    desc: 'Proteínas, carbohidratos, grasas, vitaminas, minerales y fibra. Lo que tu cuerpo necesita y por qué.',
-  },
-  {
-    nombre: 'Alimentos',
-    href: '/alimentos',
-    icono: '🥦',
-    desc: 'Frutas, verduras, carnes, legumbres y mucho más. Propiedades nutricionales con evidencia científica.',
-  },
-  {
-    nombre: 'Recetas',
-    href: '/recetas',
-    icono: '🍲',
-    desc: 'Recetas saludables y equilibradas para desayunos, comidas, cenas y postres.',
-  },
-  {
-    nombre: 'Dietas',
-    href: '/dietas',
-    icono: '📋',
-    desc: 'Dietas populares, terapéuticas y peligrosas analizadas sin filtros ni marketing.',
-  },
-  {
-    nombre: 'Salud',
-    href: '/salud',
-    icono: '❤️',
-    desc: 'Diabetes, colesterol, hipertensión, enfermedades autoinmunes. La alimentación como herramienta.',
-  },
-  {
-    nombre: 'Plantas',
-    href: '/plantas',
-    icono: '🌿',
-    desc: 'Plantas medicinales. Qué dice la evidencia científica sobre sus propiedades reales.',
-  },
-];
+const COLECCIONES = ['alimentos', 'nutricion', 'dietas', 'salud', 'plantas', 'recetas'] as const;
+
+type Entrada = { id: string; coleccion: string; data: { title: string; description?: string; date?: Date; draft: boolean } };
+
+const articulos: Entrada[] = (
+  await Promise.all(
+    COLECCIONES.map(async (col) => {
+      const entradas = await getCollection(col, ({ data }) => !data.draft);
+      return entradas.map(e => ({ ...e, coleccion: col })) as Entrada[];
+    })
+  )
+).flat().sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)).slice(0, 6);
+
+const etiquetas: Record<string, string> = {
+  alimentos: 'Alimentos',
+  nutricion: 'Nutrición',
+  dietas:    'Dietas',
+  salud:     'Salud',
+  plantas:   'Plantas',
+  recetas:   'Recetas',
+};
 ---
 
 <Layout
@@ -57,24 +41,22 @@ const categorias = [
     </div>
   </section>
 
-  <!-- Categorías -->
+  <!-- Últimos artículos -->
   <section class="seccion">
     <div class="container">
       <div class="hero-col">
-        <h2 class="titulo-seccion">¿Qué quieres consultar?</h2>
-        <div class="grid-categorias">
-          {
-            categorias.map((cat) => (
-              <a href={cat.href} class="tarjeta-categoria tarjeta">
-                <div class="tarjeta-categoria-inner">
-                  <span class="icono-cat" aria-hidden="true">{cat.icono}</span>
-                  <h3>{cat.nombre}</h3>
-                  <p>{cat.desc}</p>
-                  <span class="leer-mas">Ver {cat.nombre.toLowerCase()} →</span>
-                </div>
-              </a>
-            ))
-          }
+        <h2 class="titulo-seccion">Últimos artículos</h2>
+        <div class="grid-articulos-home">
+          {articulos.map((art) => (
+            <a href={`/${art.coleccion}/${art.id}`} class="tarjeta tarjeta-home">
+              <div class="tarjeta-home-inner">
+                <span class="etiqueta">{etiquetas[art.coleccion]}</span>
+                <h3>{art.data.title}</h3>
+                {art.data.description && <p>{art.data.description}</p>}
+                <span class="leer-mas">Leer artículo →</span>
+              </div>
+            </a>
+          ))}
         </div>
       </div>
     </div>
@@ -84,31 +66,20 @@ const categorias = [
   <section class="seccion seccion-porque">
     <div class="container">
       <div class="hero-col">
-      <div class="porque-grid">
-        <div class="porque-texto">
-          <h2>¿Por qué Mesa con Ciencia?</h2>
-          <p>
-            En dietética hay mucho ruido: modas que van y vienen, afirmaciones sin base
-            y controversias que no lo son.
-          </p>
-          <p>
-            Mesa con Ciencia está escrito con el máximo rigor posible.
-            Cada artículo cita los estudios en que se basa, para que puedas
-            contrastar lo que lees.
-          </p>
-          <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce a la autora →</a>
-        </div>
-        <div class="porque-pilares">
-          <div class="pilar">
-            <strong>Dietista titulada</strong>
-            <p>Autora con estudios superiores reglados de dietética.</p>
-          </div>
-          <div class="pilar">
-            <strong>Sin dogmas</strong>
-            <p>La ciencia evoluciona. Si la evidencia cambia, el contenido también.</p>
+        <div class="porque-grid">
+          <div class="porque-texto">
+            <h2>¿Por qué Mesa con Ciencia?</h2>
+            <p>
+              En dietética hay mucho ruido: modas que van y vienen, afirmaciones sin base
+              y controversias que no lo son.
+            </p>
+            <p>
+              Quiero que Mesa con Ciencia esté escrito con rigor. Si la ciencia evoluciona,
+              si la evidencia cambia, el contenido también.
+            </p>
+            <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce a la autora →</a>
           </div>
         </div>
-      </div>
       </div>
     </div>
   </section>
@@ -119,10 +90,6 @@ const categorias = [
   .hero {
     padding: 5rem 0 4.5rem;
     background: linear-gradient(160deg, var(--bg-alt) 0%, var(--bg) 55%);
-  }
-  .hero .etiqueta {
-    margin-bottom: 1.25rem;
-    display: inline-block;
   }
   .hero-col {
     max-width: 960px;
@@ -141,45 +108,47 @@ const categorias = [
   .hero-desc {
     font-size: 1.1rem;
     color: var(--texto-suave);
-    max-width: none;
     margin-bottom: 2.25rem;
     line-height: 1.7;
   }
-  .hero-ctas {
-    display: flex;
-    gap: 0.875rem;
-    flex-wrap: wrap;
-  }
 
-  /* Grid categorías */
-  .grid-categorias {
+  /* Grid artículos */
+  .grid-articulos-home {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
+    margin-top: 1.5rem;
   }
 
-  .tarjeta-categoria {
+  .tarjeta-home {
     display: block;
     text-decoration: none !important;
     color: inherit !important;
   }
-  .tarjeta-categoria-inner {
-    padding: 1.75rem;
+  .tarjeta-home-inner {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    height: 100%;
   }
-  .icono-cat {
-    font-size: 2rem;
-    display: block;
-    margin-bottom: 1rem;
+  .tarjeta-home h3 {
+    font-size: 1.05rem;
+    margin: 0;
+    color: var(--texto);
   }
-  .tarjeta-categoria h3 {
-    font-size: 1.1rem;
-    margin-bottom: 0.5rem;
-  }
-  .tarjeta-categoria p {
+  .tarjeta-home p {
     font-size: 0.875rem;
     color: var(--texto-suave);
-    margin-bottom: 1rem;
     line-height: 1.55;
+    margin: 0;
+    flex: 1;
+  }
+  .tarjeta-home .leer-mas {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--verde);
+    margin-top: 0.25rem;
   }
 
   /* Por qué */
@@ -201,7 +170,6 @@ const categorias = [
     margin-bottom: 0.875rem;
     line-height: 1.7;
   }
-
   .porque-pilares {
     display: flex;
     flex-direction: column;
@@ -230,7 +198,7 @@ const categorias = [
     .hero {
       padding: 3rem 0 3rem;
     }
-    .grid-categorias {
+    .grid-articulos-home {
       grid-template-columns: repeat(2, 1fr);
     }
     .porque-grid {
@@ -240,7 +208,7 @@ const categorias = [
   }
 
   @media (max-width: 480px) {
-    .grid-categorias {
+    .grid-articulos-home {
       grid-template-columns: 1fr;
     }
   }

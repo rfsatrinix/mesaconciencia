@@ -52,14 +52,6 @@ const urlRelativa = Astro.url.pathname;
   </div>
 
   <aside class="art-sidebar">
-    <div class="sidebar-card">
-      <div class="autor-avatar">Á</div>
-      <div class="autor-info">
-        <strong>Ángela Nova</strong>
-        <p>Dietista con estudios superiores reglados de dietética.</p>
-      </div>
-    </div>
-
     {toc.length > 0 && (
       <nav class="art-indice sidebar-card" aria-label="Índice del artículo">
         <p class="art-indice-titulo">En este artículo</p>
@@ -179,35 +171,6 @@ const urlRelativa = Astro.url.pathname;
     border: 1px solid var(--borde);
     border-radius: var(--radio);
     padding: 1.25rem;
-  }
-
-  .autor-avatar {
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
-    background: var(--cabecera-bg);
-    color: #fdfaf4;
-    font-family: 'Lora', Georgia, serif;
-    font-size: 1.2rem;
-    font-weight: 700;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 0.75rem;
-  }
-
-  .autor-info strong {
-    display: block;
-    font-size: 0.875rem;
-    margin-bottom: 0.3rem;
-    color: var(--texto);
-  }
-  .autor-info p {
-    font-size: 0.8rem;
-    color: var(--texto-suave);
-    line-height: 1.5;
-    margin: 0 !important;
-    text-align: left !important;
   }
 
   /* ── También te puede interesar ── */

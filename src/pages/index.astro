@@ -149,13 +149,24 @@ const etiquetas: Record<string, string> = {
 
   /* Por qué */
   .seccion-porque {
-    background: var(--bg-alt);
   }
   .porque-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 4rem;
     align-items: start;
+  }
+  .porque-texto {
+    background: var(--blanco);
+    border: 1px solid var(--borde);
+    border-radius: var(--radio);
+    padding: 2rem 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .porque-texto .btn {
+    align-self: flex-end;
   }
   .porque-texto h2 {
     font-size: clamp(1.5rem, 3vw, 2rem);

@@ -60,6 +60,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
         <div class="footer-brand">
           <a href="/" class="logo logo-footer">Mesa<span>con</span>Ciencia</a>
           <p>Nutrición explicada con claridad.</p>
+          <p class="footer-aviso">El contenido de este sitio tiene fines exclusivamente educativos e informativos. No sustituye la consulta con un médico u otro profesional sanitario cualificado. Si tiene dudas sobre su salud, consulte siempre con un profesional.</p>
         </div>
         <nav class="footer-nav" aria-label="Navegación secundaria">
           <div>
@@ -215,15 +216,15 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
   .footer-inner {
     display: grid;
     grid-template-columns: 1fr auto;
-    gap: 3rem;
-    padding: 3rem 1.5rem;
+    gap: 2rem;
+    padding: 1.5rem 1.5rem;
   }
 
   .footer-brand p {
-    margin-top: 0.6rem;
+    margin-top: 0.25rem;
     font-size: 0.875rem;
     color: var(--texto-suave);
-    line-height: 1.6;
+    line-height: 1.5;
   }
 
   .logo-footer {
@@ -245,14 +246,14 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: var(--texto-suave);
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.35rem;
   }
 
   .footer-nav ul {
     list-style: none;
   }
   .footer-nav li {
-    margin-bottom: 0.4rem;
+    margin-bottom: 0.2rem;
   }
   .footer-nav a {
     font-size: 0.875rem;
@@ -266,12 +267,17 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
 
   .footer-bottom {
     border-top: 1px solid var(--borde);
-    padding: 1rem 1.5rem;
+    padding: 0.6rem 1.5rem;
   }
   .footer-bottom p {
     font-size: 0.8rem;
     color: var(--texto-suave);
     text-align: center;
+  }
+  .footer-aviso {
+    font-size: 0.8rem !important;
+    font-style: italic;
+    margin-top: 1rem !important;
   }
 
   /* ── Botones ── */

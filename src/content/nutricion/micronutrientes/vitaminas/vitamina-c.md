@@ -1,6 +1,6 @@
 ---
 title: "Vitamina C"
-description: "Qué es la vitamina C, para qué sirve realmente, cuánta necesitas y en qué alimentos la encuentras."
+description: "Qué es la vitamina C (ácido ascórbico), para qué sirve, cuánta necesitas al día, en qué alimentos la encuentras y cuándo tiene sentido suplementar."
 image: "/images/nutricion/vitamina-c.svg"
 imageAlt: "Imagen de portada del artículo sobre vitamina C"
 draft: false

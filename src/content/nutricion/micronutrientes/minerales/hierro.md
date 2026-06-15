@@ -1,6 +1,6 @@
 ---
 title: "Hierro"
-description: "Qué es el hierro, para qué sirve, cuánto necesitas, diferencia entre hierro hemo y no hemo, y cómo mejorar su absorción."
+description: "Qué es el hierro, para qué sirve, cuánto necesitas según edad y sexo, diferencia entre hierro hemo y no hemo, y cómo mejorar su absorción al máximo."
 categoria: "Minerales"
 draft: false
 date: 2026-06-12

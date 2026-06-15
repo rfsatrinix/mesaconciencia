@@ -1,6 +1,6 @@
 ---
 title: "Vitamina D"
-description: "Qué es la vitamina D, para qué sirve, cuánta necesitas, por qué es tan difícil obtenerla de la dieta y cuándo suplementar."
+description: "Vitamina D: funciones en el hueso y el sistema inmunitario, cuánta necesitas, por qué la dieta apenas la aporta y cuándo tiene sentido suplementar."
 categoria: "Vitaminas"
 draft: false
 date: 2026-06-12

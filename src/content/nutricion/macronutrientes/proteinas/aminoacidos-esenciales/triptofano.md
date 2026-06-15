@@ -1,6 +1,7 @@
 ---
 title: "Triptófano"
-description: "El aminoácido esencial precursor de la serotonina y la melatonina: funciones, fuentes alimentarias, relación con el sueño y el estado de ánimo, y suplementación."
+description: "El aminoácido esencial precursor de la serotonina y la melatonina: funciones, fuentes, relación con el sueño y el estado de ánimo, y suplementación."
+categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-12
 ---

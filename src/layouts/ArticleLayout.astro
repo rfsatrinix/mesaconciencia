@@ -17,9 +17,11 @@ interface Props {
   breadcrumbs?: { href: string; label: string }[];
   headings: { depth: number; slug: string; text: string }[];
   relacionados?: Relacionado[];
+  hermanos?: Relacionado[];
+  categoriaLabel?: string;
 }
 
-const { title, description, image, imageAlt, backHref, backLabel, breadcrumbs, headings, relacionados = [] } = Astro.props;
+const { title, description, image, imageAlt, backHref, backLabel, breadcrumbs, headings, relacionados = [], hermanos = [], categoriaLabel } = Astro.props;
 const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
 const urlRelativa = Astro.url.pathname;
 ---
@@ -64,9 +66,34 @@ const urlRelativa = Astro.url.pathname;
         </ol>
       </nav>
     )}
+    {hermanos.length > 0 && (
+      <nav class="sidebar-card sidebar-hermanos" aria-label={`Más en ${categoriaLabel}`}>
+        <p class="art-indice-titulo">Más en {categoriaLabel}</p>
+        <ul>
+          {hermanos.map(h => (
+            <li>
+              <a href={`/${h.coleccion}/${h.id}`}>{h.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )}
   </aside>
 
 </div>
+
+{hermanos.length > 0 && (
+  <nav class="hermanos-movil" aria-label={`Más en ${categoriaLabel}`}>
+    <p class="art-indice-titulo">Más en {categoriaLabel}</p>
+    <ul>
+      {hermanos.map(h => (
+        <li>
+          <a href={`/${h.coleccion}/${h.id}`}>{h.data.title}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}
 
 {relacionados.length > 0 && (
   <section class="relacionados">
@@ -173,6 +200,26 @@ const urlRelativa = Astro.url.pathname;
     padding: 1.25rem;
   }
 
+  /* Más en [Categoría] (sidebar) */
+  .sidebar-hermanos ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .sidebar-hermanos li {
+    margin-bottom: 0.35rem;
+  }
+  .sidebar-hermanos a {
+    font-size: 0.875rem;
+    color: var(--texto) !important;
+    text-decoration: none !important;
+    font-weight: 500;
+    transition: color 0.15s;
+  }
+  .sidebar-hermanos a:hover {
+    color: var(--verde) !important;
+  }
+
   /* ── También te puede interesar ── */
   .relacionados {
     margin-top: 3rem;
@@ -185,12 +232,58 @@ const urlRelativa = Astro.url.pathname;
     margin-bottom: 1.5rem;
   }
 
+  /* Más en [Categoría] en móvil (solo visible cuando el sidebar está oculto) */
+  .hermanos-movil {
+    display: none;
+  }
+  .hermanos-movil ul {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .hermanos-movil li {
+    margin: 0;
+  }
+  .hermanos-movil a {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--verde) !important;
+    text-decoration: none !important;
+    border: 1px solid var(--verde-claro);
+    background: var(--bg-alt);
+    border-radius: 100px;
+    padding: 0.3em 0.85em;
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .hermanos-movil a:hover {
+    background: var(--verde-claro);
+    border-color: var(--verde);
+  }
+
   @media (max-width: 960px) {
     .layout-art {
       grid-template-columns: 1fr;
     }
     .art-sidebar {
       display: none;
+    }
+    .hermanos-movil {
+      display: block;
+      margin-top: 1.75rem;
+      padding: 1rem 1.25rem;
+      background: var(--blanco);
+      border: 1px solid var(--borde);
+      border-radius: var(--radio);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .art-imagen img {
+      height: 220px;
     }
   }
 </style>

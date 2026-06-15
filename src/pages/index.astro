@@ -13,7 +13,7 @@ const articulos: Entrada[] = (
       return entradas.map(e => ({ ...e, coleccion: col })) as Entrada[];
     })
   )
-).flat().sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)).slice(0, 6);
+).flat().sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)).slice(0, 9);
 
 const etiquetas: Record<string, string> = {
   alimentos: 'Alimentos',
@@ -217,6 +217,9 @@ const etiquetas: Record<string, string> = {
   @media (max-width: 480px) {
     .grid-articulos-home {
       grid-template-columns: 1fr;
+    }
+    .porque-texto {
+      padding: 1.5rem;
     }
   }
 </style>

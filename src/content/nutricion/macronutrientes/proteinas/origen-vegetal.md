@@ -1,6 +1,6 @@
 ---
 title: "Proteínas de origen vegetal"
-description: "Legumbres, cereales, soja y otros vegetales: aminoácidos limitantes, biodisponibilidad, complementariedad proteica y cómo cubrir las necesidades sin productos animales."
+description: "Legumbres, cereales, soja y otros vegetales: aminoácidos limitantes, biodisponibilidad y cómo cubrir todas las necesidades proteicas sin productos animales."
 categoria: "Proteínas"
 draft: false
 date: 2026-06-12

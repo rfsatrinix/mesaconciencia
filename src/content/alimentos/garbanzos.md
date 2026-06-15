@@ -62,7 +62,7 @@ Eso significa que tras comer garbanzos, la glucosa sube despacio y sin picos. Un
 
 Los garbanzos tienen hierro. Bastante. Pero es hierro no hemo, el de origen vegetal, que el organismo absorbe peor que el hierro hemo de la carne.
 
-La solución es sencilla: añadir vitamina C a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, o un tomate. La <a href="/nutricion/vitamina-c" target="_blank" rel="noopener noreferrer">vitamina C</a> puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
+La solución es sencilla: añadir vitamina C a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, o un tomate. La [vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c) puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
 
 Un chorrito de limón en el potaje no es solo costumbre. Tiene su lógica.
 

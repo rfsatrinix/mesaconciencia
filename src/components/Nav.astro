@@ -18,13 +18,19 @@ await Promise.all(
 );
 
 // ── Detectar qué páginas de subcategoría existen ─────────────
-// import.meta.glob evalúa en build time; excluimos rutas dinámicas ([slug])
+// import.meta.glob evalúa en build time.
+// Incluimos rutas estáticas y también [...page].astro (landings paginadas),
+// que representan la raíz de su carpeta. Excluimos [slug] y similares.
 const archivos = import.meta.glob('../pages/**/*.astro');
 const rutasExistentes = new Set(
   Object.keys(archivos)
-    .filter(f => !f.includes('['))
+    .filter(f => !f.includes('[') || f.includes('[...page]'))
     .map(f =>
-      f.replace('../pages', '').replace('/index.astro', '').replace('.astro', '') || '/'
+      f.replace('../pages', '')
+        .replace('/[...page].astro', '')
+        .replace('/index.astro', '')
+        .replace('.astro', '')
+      || '/'
     )
 );
 

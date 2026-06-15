@@ -4,7 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 
 export async function getStaticPaths() {
-  const entradas = await getCollection('nutricion');
+  const entradas = await getCollection('nutricion', ({ data }) => !data.draft);
   return entradas.map((e) => ({
     params: { slug: e.id },
     props: { entrada: e },
@@ -38,13 +38,35 @@ const migas = [
   })),
 ];
 
-// Related articles: same parent directory
 const parentPath = segmentos.length > 0 ? segmentos.join('/') + '/' : '';
 const todos = await getCollection('nutricion', ({ data }) => !data.draft);
+
+// Sidebar: artículos hermanos directos (misma carpeta padre, excl. actual y que-son)
+const hermanos = parentPath
+  ? todos
+      .filter(e => e.id !== entrada.id)
+      .filter(e => e.id.startsWith(parentPath) && !e.id.slice(parentPath.length).includes('/'))
+      .filter(e => !e.id.endsWith('que-son'))
+      .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'))
+      .map(e => ({ id: e.id, coleccion: 'nutricion', data: { title: e.data.title, description: e.data.description } }))
+  : [];
+
+const categoriaLabel = segmentos.length > 0
+  ? (etiquetas[segmentos[segmentos.length - 1]] ?? segmentos[segmentos.length - 1])
+  : 'Nutrición';
+
+// También te puede interesar: misma colección, distinta categoría
+const entradaCategoria = (entrada.data as Record<string, unknown>).categoria as string | undefined;
 const relacionados = todos
   .filter(e => e.id !== entrada.id)
-  .filter(e => !parentPath || e.id.startsWith(parentPath))
-  .sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0))
+  .filter(e => entradaCategoria
+    ? (e.data as Record<string, unknown>).categoria !== entradaCategoria
+    : !hermanos.some(h => h.id === e.id))
+  .sort((a, b) => {
+    const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+    const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+    return db - da;
+  })
   .slice(0, 3)
   .map(e => ({ id: e.id, coleccion: 'nutricion', data: { title: e.data.title, description: e.data.description } }));
 ---
@@ -59,6 +81,8 @@ const relacionados = todos
       breadcrumbs={migas}
       headings={headings}
       relacionados={relacionados}
+      hermanos={hermanos}
+      categoriaLabel={categoriaLabel}
     >
       <Content />
     </ArticleLayout>

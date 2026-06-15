@@ -1,6 +1,6 @@
 ---
 title: "Hidratos de carbono simples"
-description: "Qué son los azúcares simples, diferencia entre azúcares naturales y añadidos, su metabolismo y el impacto del exceso en la salud."
+description: "Qué son los hidratos de carbono simples (azúcares), diferencia entre azúcares naturales y añadidos, su metabolismo y efectos sobre la salud."
 categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12

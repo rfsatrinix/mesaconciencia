@@ -593,10 +593,20 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site ?? 'https://mesaconc
       padding: 2.5rem 0;
     }
 
+    .prosa p {
+      text-align: left;
+    }
+
     .prosa table {
       display: block;
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
+    }
+  }
+
+  @media (max-width: 340px) {
+    .grid-articulos {
+      grid-template-columns: 1fr;
     }
   }
 </style>

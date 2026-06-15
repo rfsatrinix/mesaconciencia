@@ -1,6 +1,6 @@
 ---
 title: "Proteínas de origen animal"
-description: "Carnes, pescado, huevos y lácteos: perfil de aminoácidos, calidad proteica, bioasdisponibilidad y cómo integrarlas en una dieta saludable."
+description: "Carnes, pescado, huevos y lácteos: perfil de aminoácidos, calidad proteica, biodisponibilidad y cómo integrarlas en una dieta saludable."
 categoria: "Proteínas"
 draft: false
 date: 2026-06-12

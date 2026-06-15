@@ -1,8 +1,8 @@
 ---
 title: "Hidratos de carbono"
-description: "Qué son, tipos, diferencias entre simples y complejos, su impacto en la glucemia y las mejores fuentes alimentarias."
+description: "Qué son los hidratos de carbono, sus tipos, las diferencias entre simples y complejos, su impacto en la glucemia y las mejores fuentes alimentarias."
 categoria: "Hidratos de carbono"
-draft: false
+draft: true
 date: 2026-06-11
 ---
 

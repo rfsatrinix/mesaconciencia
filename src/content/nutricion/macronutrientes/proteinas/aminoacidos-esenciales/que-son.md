@@ -1,7 +1,8 @@
 ---
 title: "Aminoácidos esenciales"
 description: "Los nueve aminoácidos que el organismo humano no puede sintetizar: qué son, qué función cumple cada uno y en qué alimentos encontrarlos."
-draft: false
+categoria: "Aminoácidos esenciales"
+draft: true
 date: 2026-06-12
 ---
 

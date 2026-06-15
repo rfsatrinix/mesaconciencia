@@ -1,8 +1,8 @@
 ---
 title: "Proteínas"
-description: "Qué son las proteínas, cuántas necesitas al día, en qué alimentos las encuentras y cuándo tienen sentido los suplementos."
+description: "Qué son las proteínas, sus funciones en el organismo, cuántas necesitas según tu situación, las mejores fuentes alimentarias y cuándo suplementar."
 categoria: "Proteínas"
-draft: false
+draft: true
 date: 2026-06-12
 ---
 

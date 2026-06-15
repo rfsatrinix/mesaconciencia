@@ -1,12 +1,12 @@
 ---
 title: "Proteínas de origen animal"
-description: "Carnes, pescado, huevos y lácteos: perfil de aminoácidos, calidad proteica, biodisponibilidad y cómo integrarlas en una dieta saludable."
+description: "Carnes, pescado, huevos y lácteos: perfil completo de aminoácidos, calidad proteica (DIAAS), biodisponibilidad y cómo integrarlas en una dieta saludable."
 categoria: "Proteínas"
 draft: false
 date: 2026-06-12
 ---
 
-Las proteínas de origen animal son aquellas que proceden de tejidos animales o de sus secreciones (leche, huevos). Se caracterizan por tener un **perfil completo de aminoácidos esenciales**: contienen los nueve que el organismo humano no puede sintetizar, en proporciones cercanas a las que necesitamos.
+Las proteínas de origen animal son aquellas que proceden de tejidos animales o de sus secreciones (leche, huevos). Se caracterizan por tener un **perfil completo de aminoácidos esenciales**: contienen los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que el organismo humano no puede sintetizar, en proporciones cercanas a las que necesitamos.
 
 ## Calidad proteica: PDCAAS y DIAAS
 
@@ -27,7 +27,7 @@ Un DIAAS > 1,00 indica que la proteína cubre sobradamente todas las necesidades
 
 ## Huevos: la referencia proteica
 
-El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, vitamina D, B12, selenio y luteína.
+El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d), B12, selenio y luteína.
 
 | Presentación | Proteína por 100 g |
 |---|---|
@@ -52,7 +52,7 @@ Alto contenido proteico con menor proporción de grasa saturada que las rojas. E
 
 ### Carnes rojas (vacuno, cordero, cerdo)
 
-Mayor contenido de hierro hemo, zinc y vitamina B12. La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
+Mayor contenido de [hierro](/nutricion/micronutrientes/minerales/hierro) hemo, zinc y vitamina B12. La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
 
 | Alimento (cocido) | Proteína por 100 g | Hierro |
 |---|---|---|
@@ -67,7 +67,7 @@ Embutidos, salchichas, beicon y hamburguesas industriales no deben equipararse a
 
 ## Pescado y marisco
 
-Excelente fuente proteica con el beneficio añadido de los ácidos grasos omega-3 (EPA y DHA) en el caso del pescado azul. Los pescados blancos son más magros pero igualmente ricos en proteína de alta calidad.
+Excelente fuente proteica con el beneficio añadido de los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) (EPA y DHA) en el caso del pescado azul. Los pescados blancos son más magros pero igualmente ricos en proteína de alta calidad.
 
 | Alimento (cocido) | Proteína por 100 g | EPA + DHA |
 |---|---|---|

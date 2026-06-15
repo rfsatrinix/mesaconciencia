@@ -6,7 +6,7 @@ draft: false
 date: 2026-06-12
 ---
 
-Las proteínas vegetales son las que proceden de legumbres, cereales, frutos secos, semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más aminoácidos esenciales. Esa etiqueta es útil para entender su bioquímica, pero **no significa que sean insuficientes** para cubrir las necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
+Las proteínas vegetales son las que proceden de legumbres, cereales, frutos secos, semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales). Esa etiqueta es útil para entender su bioquímica, pero **no significa que sean insuficientes** para cubrir las necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
 
 ## El concepto de aminoácido limitante
 
@@ -15,8 +15,8 @@ Cada fuente vegetal tiende a ser deficitaria en algún aminoácido esencial conc
 | Fuente vegetal | Aminoácido limitante principal |
 |---|---|
 | Legumbres (lentejas, garbanzos, alubias) | Metionina |
-| Cereales (trigo, arroz, maíz) | Lisina |
-| Maíz | Triptófano y lisina |
+| Cereales (trigo, arroz, maíz) | [Lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina) |
+| Maíz | [Triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) y lisina |
 | Frutos secos y semillas | Lisina |
 
 **Excepciones con perfil completo:**
@@ -32,7 +32,7 @@ Cada fuente vegetal tiende a ser deficitaria en algún aminoácido esencial conc
 | Tempeh | 19 g | ~0,85 |
 | Tofu firme | 17 g | ~0,80 |
 | Lentejas cocidas | 9 g | ~0,60 |
-| Garbanzos cocidos | 9 g | ~0,55 |
+| [Garbanzos](/alimentos/garbanzos) cocidos | 9 g | ~0,55 |
 | Alubias negras cocidas | 9 g | ~0,55 |
 | Quinoa cocida | 4 g | ~0,85 |
 | Edamame (soja verde) | 11 g | ~0,90 |
@@ -57,7 +57,7 @@ Lo que sí importa:
 
 Los alimentos vegetales contienen compuestos que pueden reducir la absorción de proteínas y minerales:
 
-- **Fitatos**: en legumbres y cereales integrales. Reducen la absorción de zinc, hierro y calcio. El remojo, la germinación y la fermentación los disminuyen significativamente.
+- **Fitatos**: en legumbres y cereales integrales. Reducen la absorción de zinc, [hierro](/nutricion/micronutrientes/minerales/hierro) y calcio. El remojo, la germinación y la fermentación los disminuyen significativamente.
 - **Inhibidores de tripsina**: en soja y otras legumbres crudas. La cocción los inactiva.
 - **Lectinas**: en legumbres crudas. La cocción adecuada (hervir, no solo remojar) las neutraliza.
 - **Oxalatos**: en espinacas y otros vegetales de hoja. Afectan principalmente al calcio, menos a la proteína.

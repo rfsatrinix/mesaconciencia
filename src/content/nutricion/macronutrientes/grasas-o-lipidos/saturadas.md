@@ -16,7 +16,7 @@ La longitud de la cadena carbonada determina cómo se absorben y metabolizan:
 
 ### Ácidos grasos de cadena corta (C2–C6)
 
-- **Ácido butírico** (C4): producido por fermentación bacteriana de la fibra en el colon. Es el principal combustible de los colonocitos y tiene efectos antiinflamatorios sobre la mucosa intestinal. Se encuentra en la mantequilla (~3–4 %).
+- **Ácido butírico** (C4): producido por fermentación bacteriana de la [fibra](/nutricion/fibra-alimenticia) en el colon. Es el principal combustible de los colonocitos y tiene efectos antiinflamatorios sobre la mucosa intestinal. Se encuentra en la mantequilla (~3–4 %).
 - Son absorbidos directamente en el colon o en el intestino delgado sin pasar por el sistema linfático.
 
 ### Ácidos grasos de cadena media (C8–C12)
@@ -34,7 +34,7 @@ Son los más abundantes en la dieta y los que más influyen en el perfil lipídi
 | Ácido palmítico (C16:0) | Larga | Elevación moderada | Carnes, lácteos, aceite de palma |
 | Ácido esteárico (C18:0) | Larga | Neutro | Carne de vacuno, manteca de cacao |
 
-El **ácido esteárico** es una excepción importante: el hígado lo convierte eficientemente en ácido oleico (la grasa monoinsaturada del aceite de oliva), por lo que no eleva el LDL. Esto explica en parte por qué el chocolate negro tiene un efecto lipídico más moderado de lo que cabría esperar por su contenido de grasa saturada.
+El **ácido esteárico** es una excepción importante: el hígado lo convierte eficientemente en ácido oleico (la [grasa monoinsaturada](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) del aceite de oliva), por lo que no eleva el LDL. Esto explica en parte por qué el chocolate negro tiene un efecto lipídico más moderado de lo que cabría esperar por su contenido de grasa saturada.
 
 ## Grasas saturadas y colesterol LDL
 
@@ -48,7 +48,7 @@ El ácido palmítico (C16:0) es el más consumido y el que más contribuye a est
 |---|---|
 | AGS → hidratos refinados (pan blanco, azúcar) | Sin beneficio o perjudicial |
 | AGS → grasas monoinsaturadas (AOVE) | Beneficio moderado |
-| AGS → grasas poliinsaturadas (omega-3/6) | Beneficio más consistente |
+| AGS → [grasas poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) (omega-3/6) | Beneficio más consistente |
 
 ## ¿Cuántas grasas saturadas puedo consumir?
 

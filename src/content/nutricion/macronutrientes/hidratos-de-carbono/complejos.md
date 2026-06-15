@@ -1,6 +1,6 @@
 ---
 title: "Hidratos de carbono complejos"
-description: "Qué son los hidratos de carbono complejos, cómo se digieren, por qué su impacto glucémico es menor y qué alimentos los contienen."
+description: "Qué son los hidratos de carbono complejos, cómo se digieren, por qué su impacto glucémico es menor que el de los azúcares simples y qué alimentos los contienen."
 categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
@@ -14,7 +14,7 @@ Los polisacáridos —la familia química de los hidratos complejos— se clasif
 
 - **Almidón**: el polisacárido de reserva de las plantas. Formado por amilosa (cadenas lineales) y amilopectina (cadenas ramificadas). Las enzimas digestivas humanas lo descomponen en glucosa.
 - **Glucógeno**: la forma de reserva en el músculo y el hígado humanos. Tiene una estructura muy ramificada, lo que permite movilizar glucosa con rapidez cuando se necesita energía.
-- **Fibra**: polisacáridos no digeribles por las enzimas humanas. Técnicamente no aportan glucosa al organismo, pero tienen efectos relevantes sobre la salud. Se trata en el artículo específico de fibra alimenticia.
+- **Fibra**: polisacáridos no digeribles por las enzimas humanas. Técnicamente no aportan glucosa al organismo, pero tienen efectos relevantes sobre la salud. Se trata en el artículo específico de [fibra alimenticia](/nutricion/fibra-alimenticia).
 
 ## Almidón resistente
 

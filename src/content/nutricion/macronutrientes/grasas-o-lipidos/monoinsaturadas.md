@@ -1,12 +1,12 @@
 ---
 title: "Grasas monoinsaturadas"
-description: "Qué son las grasas monoinsaturadas, su efecto sobre el colesterol y la salud cardiovascular, y qué alimentos son las mejores fuentes."
+description: "Qué son las grasas monoinsaturadas, su efecto sobre el colesterol LDL y HDL, la salud cardiovascular y qué alimentos son las mejores fuentes."
 categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 ---
 
-Las grasas monoinsaturadas (AGMI) son ácidos grasos con un único doble enlace en su cadena carbonada. Esa característica les confiere una estructura ligeramente doblada que las hace líquidas a temperatura ambiente, pero más estables frente a la oxidación que las poliinsaturadas.
+Las grasas monoinsaturadas (AGMI) son ácidos grasos con un único doble enlace en su cadena carbonada. Esa característica les confiere una estructura ligeramente doblada que las hace líquidas a temperatura ambiente, pero más estables frente a la oxidación que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas).
 
 Son el tipo de grasa más representativo de la **dieta mediterránea** y el que más se ha estudiado en relación con la salud cardiovascular.
 
@@ -24,7 +24,7 @@ El ácido oleico tiene un efecto diferenciado respecto a otros tipos de grasa:
 
 | Comparación | Efecto sobre LDL | Efecto sobre HDL |
 |---|---|---|
-| AGMI vs grasas saturadas | Reduce LDL | Mantiene o eleva HDL |
+| AGMI vs [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) | Reduce LDL | Mantiene o eleva HDL |
 | AGMI vs hidratos refinados | Reduce LDL | Eleva HDL |
 | AGMI vs poliinsaturadas | Similar reducción de LDL | Mejor mantenimiento de HDL |
 

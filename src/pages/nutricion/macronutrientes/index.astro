@@ -53,18 +53,20 @@ const migas = [{ href: '/nutricion', label: 'Nutrición' }];
       <Content />
     </ArticleLayout>
 
-    <section class="seccion seccion-subcategorias">
-      <h2 class="titulo-seccion">Profundiza</h2>
-      <div class="grid-categorias">
-        {subcategorias.map(sub => (
-          <a href={sub.href} class="tarjeta tarjeta-categoria">
-            <h2>{sub.label}</h2>
-            <p>{sub.desc}</p>
-            <span class="ver-mas">Ver artículos →</span>
-          </a>
-        ))}
-      </div>
-    </section>
+    {subcategorias.length > 0 && (
+      <section class="seccion seccion-subcategorias">
+        <h2 class="titulo-seccion">Profundiza</h2>
+        <div class="grid-categorias">
+          {subcategorias.map(sub => (
+            <a href={sub.href} class="tarjeta tarjeta-categoria">
+              <h2>{sub.label}</h2>
+              <p>{sub.desc}</p>
+              <span class="ver-mas">Ver artículos →</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
 
     {articulos.length > 0 && (
       <section class="seccion seccion-todos">

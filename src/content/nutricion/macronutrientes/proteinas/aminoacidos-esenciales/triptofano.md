@@ -43,7 +43,7 @@ El triptófano está presente en todas las fuentes de proteína completa. Las m�
 
 La conexión bioquímica entre el triptófano y la serotonina es real, pero la relación entre comer alimentos ricos en triptófano y mejorar el ánimo o el sueño no es tan directa. El motivo es la competencia en el transporte al cerebro.
 
-El triptófano comparte el transportador de la barrera hematoencefálica con los aminoácidos de cadena ramificada (BCAA: leucina, isoleucina, valina). Cuantos más BCAA circulen en sangre, menos triptófano accede al cerebro. Paradójicamente, una comida rica en carbohidratos —que estimula la insulina y reduce los BCAA libres en sangre— puede facilitar más la entrada de triptófano al cerebro que una comida alta en proteínas.
+El triptófano comparte el transportador de la barrera hematoencefálica con los aminoácidos de cadena ramificada (BCAA: leucina, isoleucina, valina). Cuantos más BCAA circulen en sangre, menos triptófano accede al cerebro. Paradójicamente, una comida rica en [carbohidratos](/nutricion/macronutrientes/hidratos-de-carbono) —que estimula la insulina y reduce los BCAA libres en sangre— puede facilitar más la entrada de triptófano al cerebro que una comida alta en proteínas.
 
 La inflamación crónica también reduce los niveles cerebrales de serotonina: la enzima IDO (indolamina-2,3-dioxigenasa), activada por citocinas proinflamatorias, desvía el triptófano hacia la vía de la kinurenina, restando sustrato a la síntesis de serotonina. Este mecanismo se estudia como posible vínculo entre inflamación y depresión.
 

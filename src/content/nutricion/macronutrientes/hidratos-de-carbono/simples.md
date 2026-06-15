@@ -6,7 +6,7 @@ draft: false
 date: 2026-06-12
 ---
 
-Los hidratos de carbono simples son moléculas de uno o dos azúcares. Su estructura sencilla hace que se digieran y absorban con rapidez, lo que provoca una elevación más rápida de la glucosa en sangre en comparación con los hidratos complejos.
+Los hidratos de carbono simples son moléculas de uno o dos azúcares. Su estructura sencilla hace que se digieran y absorban con rapidez, lo que provoca una elevación más rápida de la glucosa en sangre en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
 
 La clave para entenderlos no es si son "malos" o "buenos" en abstracto, sino **de dónde proceden** y en qué cantidad se consumen.
 
@@ -36,7 +36,7 @@ Formados por dos monosacáridos unidos. El intestino los descompone antes de abs
 
 Esta distinción es fundamental para entender las recomendaciones de salud:
 
-**Azúcares naturales** (intrínsecos): los que se encuentran dentro de la estructura celular de los alimentos (fruta entera, leche). Vienen acompañados de fibra, agua, vitaminas y minerales que modulan su absorción y aporte nutricional.
+**Azúcares naturales** (intrínsecos): los que se encuentran dentro de la estructura celular de los alimentos (fruta entera, leche). Vienen acompañados de [fibra](/nutricion/fibra-alimenticia), agua, vitaminas y minerales que modulan su absorción y aporte nutricional.
 
 **Azúcares libres**: los que han sido extraídos de su matriz original o añadidos a los alimentos. Incluyen:
 - Azúcar blanco, moreno y panela añadidos a recetas o productos
@@ -72,7 +72,7 @@ Estos alimentos contienen azúcares simples pero con un perfil nutricional compl
 | Plátano maduro | 15 g | Potasio, B6, fibra |
 | Manzana | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
-| Leche entera | 5 g (lactosa) | Proteína, calcio, vitamina D |
+| Leche entera | 5 g (lactosa) | Proteína, calcio, [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d) |
 | Yogur natural sin azúcar | 4 g (lactosa) | Probióticos, proteína |
 
 *Fuente: BEDCA; USDA FoodData Central.*

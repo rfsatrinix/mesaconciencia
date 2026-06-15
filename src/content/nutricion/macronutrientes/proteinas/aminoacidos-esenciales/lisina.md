@@ -24,7 +24,7 @@ La OMS establece una necesidad media de **30 mg/kg de peso corporal al día** en
 
 ## Fuentes alimentarias
 
-La lisina abunda en las proteínas de origen animal y en las legumbres, y escasea en los cereales.
+La lisina abunda en las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) y en las legumbres, y escasea en los cereales.
 
 | Alimento | Lisina por 100 g |
 |---|---|
@@ -33,7 +33,7 @@ La lisina abunda en las proteínas de origen animal y en las legumbres, y escase
 | Pechuga de pollo (cocida) | ~2.400 mg |
 | Salmón del Atlántico (cocido) | ~2.300 mg |
 | Lentejas cocidas | ~650 mg |
-| Garbanzos cocidos | ~530 mg |
+| [Garbanzos](/alimentos/garbanzos) cocidos | ~530 mg |
 | Arroz blanco cocido | ~110 mg |
 | Pan de trigo | ~90 mg |
 

@@ -1,26 +1,31 @@
 ---
-import { getEntry, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
 const intro = await getEntry('nutricion', 'macronutrientes/proteinas/que-son');
 const { Content, headings } = await render(intro!);
 
+const articulos = (await getCollection('nutricion', ({ data, id }) =>
+  !data.draft && id.startsWith('macronutrientes/proteinas/')
+)).sort((a, b) => {
+  const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  return db - da;
+});
+
+const PAGE_SIZE = 8;
+const grupos = Array.from(
+  { length: Math.ceil(articulos.length / PAGE_SIZE) },
+  (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
+);
+
+// Solo landings hijas — origen-animal y origen-vegetal son artículos individuales
 const subcategorias = [
   {
     label: 'Aminoácidos esenciales',
-    desc:  'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
     href:  '/nutricion/macronutrientes/proteinas/aminoacidos-esenciales',
-  },
-  {
-    label: 'Proteínas de origen animal',
-    desc:  'Carnes, pescado, huevos y lácteos: perfil de aminoácidos, biodisponibilidad y papel en la dieta.',
-    href:  '/nutricion/macronutrientes/proteinas/origen-animal',
-  },
-  {
-    label: 'Proteínas de origen vegetal',
-    desc:  'Legumbres, cereales, soja y otros vegetales: cómo cubrir las necesidades proteicas sin productos animales.',
-    href:  '/nutricion/macronutrientes/proteinas/origen-vegetal',
+    desc:  'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
   },
 ];
 
@@ -30,10 +35,7 @@ const migas = [
 ];
 ---
 
-<Layout
-  title="Proteínas"
-  description={intro!.data.description}
->
+<Layout title="Proteínas" description={intro!.data.description}>
   <div class="container seccion">
     <ArticleLayout
       title="Proteínas"
@@ -45,50 +47,116 @@ const migas = [
       <Content />
     </ArticleLayout>
 
-    <section class="seccion seccion-tipos">
-      <h2 class="titulo-seccion">Profundiza</h2>
-      <div class="grid-articulos">
-        {subcategorias.map(sub => sub.href ? (
-          <a href={sub.href} class="tarjeta tarjeta-articulo">
-            <div class="tarjeta-articulo-inner">
+    {subcategorias.length > 0 && (
+      <section class="seccion seccion-subcategorias">
+        <h2 class="titulo-seccion">Profundiza</h2>
+        <div class="grid-categorias">
+          {subcategorias.map(sub => (
+            <a href={sub.href} class="tarjeta tarjeta-categoria">
               <h2>{sub.label}</h2>
               <p>{sub.desc}</p>
-              <span class="leer-mas">Leer artículo →</span>
-            </div>
-          </a>
-        ) : (
-          <div class="tarjeta tarjeta-articulo tarjeta-pronto">
-            <div class="tarjeta-articulo-inner">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="pronto-badge">Próximamente</span>
+              <span class="ver-mas">Ver artículos →</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {articulos.length > 0 && (
+      <section class="seccion seccion-todos">
+        <h2 class="titulo-seccion">Todos los artículos en Proteínas</h2>
+
+        {grupos.length > 1 && (
+          <p class="paginacion-info" id="paginacion-info" aria-live="polite">
+            Página 1 de {grupos.length}
+          </p>
+        )}
+
+        {grupos.map((grupo, idx) => (
+          <div
+            class="grupo-articulos"
+            data-pagina={idx + 1}
+            style={idx > 0 ? 'display:none' : ''}
+          >
+            <div class="grid-articulos">
+              {grupo.map(e => (
+                <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
+                  <div class="tarjeta-articulo-inner">
+                    <h2>{e.data.title}</h2>
+                    {e.data.description && <p>{e.data.description}</p>}
+                    <span class="leer-mas">Leer artículo →</span>
+                  </div>
+                </a>
+              ))}
             </div>
           </div>
         ))}
-      </div>
-    </section>
+
+        {grupos.length > 1 && (
+          <nav class="paginacion" aria-label="Paginación de artículos">
+            <button id="btn-anterior" class="btn btn-contorno" disabled>← Anterior</button>
+            <button id="btn-siguiente" class="btn btn-primario">Siguiente →</button>
+          </nav>
+        )}
+      </section>
+    )}
   </div>
 </Layout>
 
-<style>
-  .seccion-tipos {
-    border-top: 1px solid var(--borde);
+<script>
+  const grupos = document.querySelectorAll<HTMLElement>('.grupo-articulos');
+  const btnAnterior = document.getElementById('btn-anterior') as HTMLButtonElement | null;
+  const btnSiguiente = document.getElementById('btn-siguiente') as HTMLButtonElement | null;
+  const infoPaginacion = document.getElementById('paginacion-info');
+  const totalPaginas = grupos.length;
+  let paginaActual = 1;
+
+  function mostrarPagina(n: number) {
+    grupos.forEach((g, i) => {
+      g.style.display = i + 1 === n ? '' : 'none';
+    });
+    if (btnAnterior) btnAnterior.disabled = n === 1;
+    if (btnSiguiente) btnSiguiente.disabled = n === totalPaginas;
+    if (infoPaginacion) infoPaginacion.textContent = `Página ${n} de ${totalPaginas}`;
+    paginaActual = n;
   }
 
-  .tarjeta-pronto {
-    opacity: 0.6;
+  btnAnterior?.addEventListener('click', () => {
+    if (paginaActual > 1) mostrarPagina(paginaActual - 1);
+  });
+
+  btnSiguiente?.addEventListener('click', () => {
+    if (paginaActual < totalPaginas) mostrarPagina(paginaActual + 1);
+  });
+</script>
+
+<style>
+  .seccion-subcategorias,
+  .seccion-todos {
+    border-top: 1px solid var(--borde);
+  }
+  .paginacion-info {
+    color: var(--texto-suave);
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+  }
+  .paginacion {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2.5rem;
+    justify-content: center;
+  }
+  .paginacion .btn:disabled {
+    opacity: 0.4;
     cursor: default;
     pointer-events: none;
   }
 
-  .pronto-badge {
-    display: inline-block;
-    font-size: 0.75rem;
-    font-weight: 600;
-    color: var(--texto-suave);
-    background: var(--bg-alt);
-    border-radius: 4px;
-    padding: 0.2em 0.6em;
-    margin-top: 0.5rem;
+  @media (max-width: 480px) {
+    .paginacion {
+      flex-direction: column;
+      align-items: stretch;
+      text-align: center;
+    }
   }
 </style>

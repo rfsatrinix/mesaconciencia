@@ -57,7 +57,7 @@ Lo que sí importa:
 
 Los alimentos vegetales contienen compuestos que pueden reducir la absorción de proteínas y minerales:
 
-- **Fitatos**: en legumbres y cereales integrales. Reducen la absorción de zinc, [hierro](/nutricion/micronutrientes/minerales/hierro) y calcio. El remojo, la germinación y la fermentación los disminuyen significativamente.
+- **Fitatos**: en legumbres y cereales integrales. Reducen la absorción de zinc, [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y calcio. El remojo, la germinación y la fermentación los disminuyen significativamente.
 - **Inhibidores de tripsina**: en soja y otras legumbres crudas. La cocción los inactiva.
 - **Lectinas**: en legumbres crudas. La cocción adecuada (hervir, no solo remojar) las neutraliza.
 - **Oxalatos**: en espinacas y otros vegetales de hoja. Afectan principalmente al calcio, menos a la proteína.

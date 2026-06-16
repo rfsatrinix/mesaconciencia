@@ -52,7 +52,7 @@ Alto contenido proteico con menor proporción de grasa saturada que las rojas. E
 
 ### Carnes rojas (vacuno, cordero, cerdo)
 
-Mayor contenido de [hierro](/nutricion/micronutrientes/minerales/hierro) hemo, zinc y vitamina B12. La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
+Mayor contenido de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) hemo, zinc y vitamina B12. La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
 
 | Alimento (cocido) | Proteína por 100 g | Hierro |
 |---|---|---|

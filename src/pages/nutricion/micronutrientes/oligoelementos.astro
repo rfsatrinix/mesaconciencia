@@ -3,11 +3,11 @@ import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
-const intro = await getEntry('nutricion', 'micronutrientes/vitaminas/que-son');
+const intro = await getEntry('nutricion', 'micronutrientes/oligoelementos/que-son');
 const { Content, headings } = await render(intro!);
 
 const articulos = (await getCollection('nutricion', ({ data, id }) =>
-  !data.draft && id.startsWith('micronutrientes/vitaminas/')
+  !data.draft && id.startsWith('micronutrientes/oligoelementos/')
 )).sort((a, b) => {
   const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
   const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
@@ -21,8 +21,8 @@ const grupos = Array.from(
 );
 
 const hermanas = [
+  { label: 'Vitaminas', href: '/nutricion/micronutrientes/vitaminas' },
   { label: 'Minerales', href: '/nutricion/micronutrientes/minerales' },
-  { label: 'Oligoelementos', href: '/nutricion/micronutrientes/oligoelementos' },
 ];
 
 const migas = [
@@ -31,10 +31,10 @@ const migas = [
 ];
 ---
 
-<Layout title="Vitaminas" description={intro!.data.description}>
+<Layout title="Oligoelementos" description={intro!.data.description}>
   <div class="container seccion">
     <ArticleLayout
-      title="Vitaminas"
+      title="Oligoelementos"
       description={intro!.data.description}
       breadcrumbs={migas}
       headings={headings}
@@ -47,7 +47,7 @@ const migas = [
 
     {articulos.length > 0 && (
       <section class="seccion seccion-todos">
-        <h2 class="titulo-seccion">Todos los artículos en Vitaminas</h2>
+        <h2 class="titulo-seccion">Todos los artículos en Oligoelementos</h2>
 
         {grupos.length > 1 && (
           <p class="paginacion-info" id="paginacion-info" aria-live="polite">

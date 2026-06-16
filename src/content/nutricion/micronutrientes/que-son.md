@@ -24,7 +24,7 @@ La carencia de micronutrientes es más habitual de lo que parece, incluso en pa�
 - Problemas de absorción intestinal (celiaquía, enfermedades inflamatorias)
 - Etapas con mayor demanda: embarazo, lactancia, crecimiento, vejez
 
-La deficiencia leve no siempre genera síntomas inmediatos, pero deteriora el funcionamiento celular de forma silenciosa. Las más comunes en Europa son las de [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d), [hierro](/nutricion/micronutrientes/minerales/hierro) y yodo.
+La deficiencia leve no siempre genera síntomas inmediatos, pero deteriora el funcionamiento celular de forma silenciosa. Las más comunes en Europa son las de [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d), [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y yodo.
 
 ## La clave es la variedad alimentaria
 

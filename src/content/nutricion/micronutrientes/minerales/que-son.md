@@ -1,46 +1,38 @@
 ---
-title: "Minerales y oligoelementos"
-description: "Los minerales regulan desde la estructura ósea hasta el transporte de oxígeno. Guía de macrominerales y oligoelementos con necesidades y fuentes alimentarias."
+title: "Minerales"
+description: "Calcio, magnesio, potasio, fósforo y sodio: los macrominerales que el organismo necesita en cantidades de cientos de miligramos al día."
 categoria: "Minerales"
 draft: true
 date: 2026-06-16
 ---
 
-Los minerales son elementos inorgánicos esenciales para el organismo. A diferencia de las [vitaminas](/nutricion/micronutrientes/vitaminas), no contienen carbono y provienen exclusivamente de la dieta: el cuerpo no puede sintetizarlos. Sus funciones abarcan desde la construcción del tejido óseo hasta la regulación nerviosa y el transporte de gases en sangre.
+Los minerales son la segunda gran categoría de [micronutrientes](/nutricion/micronutrientes), junto con las [vitaminas](/nutricion/micronutrientes/vitaminas). Los macrominerales son los que el organismo necesita en cantidades de cientos de miligramos al día, a diferencia de los [oligoelementos](/nutricion/micronutrientes/oligoelementos), que se requieren en microgramos o pocos miligramos.
 
-## Macrominerales y oligoelementos
+## Los macrominerales
 
-Según la cantidad diaria necesaria, los minerales se dividen en dos categorías:
+| Mineral | Función principal | Fuentes principales |
+|---|---|---|
+| **Calcio** | Estructura ósea y dental; contracción muscular; coagulación | Lácteos, sardinas, brócoli, almendras |
+| **Fósforo** | Huesos, membranas celulares, metabolismo energético (ATP) | Carnes, pescado, lácteos, legumbres |
+| **Magnesio** | Cofactor de más de 300 enzimas; función neuromuscular | Frutos secos, legumbres, cereales integrales |
+| **Potasio** | Electrolito intracelular; equilibrio hídrico; presión arterial | Frutas, verduras, legumbres, patata |
+| **Sodio** | Electrolito extracelular; conducción nerviosa; equilibrio ácido-base | Sal común, alimentos procesados |
+| **Azufre** | Componente de aminoácidos (metionina, cisteína) y del glutatión | Carnes, huevos, legumbres, crucíferas |
 
-**Macrominerales** — se necesitan en cantidades de cientos de miligramos al día:
+## El calcio: el mineral más abundante
 
-- **Calcio:** componente principal del hueso y los dientes; interviene también en la contracción muscular y la coagulación sanguínea
-- **Fósforo:** presente en huesos, membranas celulares y moléculas de ATP; clave en el metabolismo energético
-- **Magnesio:** cofactor de más de 300 enzimas; regula la función neuromuscular y la síntesis de proteínas
-- **Potasio y sodio:** principales electrolitos intracelular y extracelular; regulan la presión arterial y el equilibrio hídrico
-- **Azufre:** presente en aminoácidos como la metionina y la cisteína, y en el glutatión
+El calcio es el mineral más abundante en el organismo: un adulto contiene entre 1000 y 1200 gramos, el 99 % en huesos y dientes. El 1 % restante participa en la contracción muscular, la transmisión nerviosa y la coagulación sanguínea.
 
-**Oligoelementos** — se necesitan en microgramos o pocos miligramos al día:
-
-- **[Hierro](/nutricion/micronutrientes/minerales/hierro):** transporte de oxígeno en la hemoglobina; su deficiencia es la carencia nutricional más frecuente en el mundo
-- **Zinc:** síntesis de proteínas, cicatrización y función inmune
-- **Yodo:** síntesis de hormonas tiroideas; su déficit afecta al desarrollo neurológico
-- **Selenio:** antioxidante, cofactor de la glutation peroxidasa
-- **Cobre, manganeso, cromo y cobalto:** funciones enzimáticas y metabólicas específicas
+Su absorción depende en gran medida de la [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d): sin niveles adecuados, el intestino no puede absorber el calcio de forma eficiente, por lo que ambos nutrientes están estrechamente relacionados.
 
 ## Biodisponibilidad
 
-No todos los minerales de los alimentos se absorben con la misma eficiencia. Algunos factores reducen la absorción:
+Los macrominerales compiten entre sí por los transportadores intestinales:
 
-- **Fitatos:** en cereales integrales y legumbres; reducen la absorción de zinc, [hierro](/nutricion/micronutrientes/minerales/hierro) y calcio. El remojo y la cocción los disminuyen.
-- **Oxalatos:** en espinacas y acelgas; interfieren con la absorción del calcio
-- **Taninos:** en té y café; dificultan la absorción del hierro no hemo
+- El calcio en dosis altas reduce la absorción de magnesio y de [hierro](/nutricion/micronutrientes/oligoelementos/hierro)
+- El exceso de sodio aumenta la excreción urinaria de calcio
+- Los fitatos de cereales y legumbres reducen la absorción de calcio y magnesio; el remojo y la cocción los disminuyen
 
-Y otros la mejoran:
+## Deficiencias más frecuentes
 
-- La [vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c) multiplica la absorción del hierro no hemo
-- La [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d) es imprescindible para absorber el calcio en el intestino
-
-## Deficiencias más frecuentes en Europa
-
-Las deficiencias minerales más habituales son las de [hierro](/nutricion/micronutrientes/minerales/hierro) (especialmente en mujeres en edad fértil y en personas con dietas vegetales), yodo y zinc. La deficiencia de calcio es menos frecuente pero relevante en poblaciones con baja ingesta de lácteos y poca exposición solar.
+La deficiencia grave de macrominerales es poco habitual en países con acceso a alimentos variados. Sin embargo, la ingesta insuficiente de calcio y magnesio es frecuente en dietas desequilibradas, especialmente en personas que evitan los lácteos sin compensación adecuada. El déficit de magnesio puede manifestarse como calambres musculares, irritabilidad y alteraciones del sueño.

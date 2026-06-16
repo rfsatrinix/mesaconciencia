@@ -20,6 +20,11 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const hermanas = [
+  { label: 'Proteínas de origen animal', href: '/nutricion/macronutrientes/proteinas/origen-animal' },
+  { label: 'Proteínas de origen vegetal', href: '/nutricion/macronutrientes/proteinas/origen-vegetal' },
+];
+
 const migas = [
   { href: '/nutricion', label: 'Nutrición' },
   { href: '/nutricion/macronutrientes', label: 'Macronutrientes' },
@@ -35,6 +40,8 @@ const migas = [
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
+      hermanas={hermanas}
+      categoriaLabel="Proteínas"
     >
       <Content />
     </ArticleLayout>

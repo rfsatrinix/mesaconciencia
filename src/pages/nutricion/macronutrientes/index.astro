@@ -38,6 +38,12 @@ const subcategorias = [
   },
 ];
 
+const hermanas = [
+  { label: 'Micronutrientes', href: '/nutricion/micronutrientes' },
+  { label: 'Agua', href: '/nutricion/agua' },
+  { label: 'Fibra alimenticia', href: '/nutricion/fibra-alimenticia' },
+];
+
 const migas = [{ href: '/nutricion', label: 'Nutrición' }];
 ---
 
@@ -49,6 +55,8 @@ const migas = [{ href: '/nutricion', label: 'Nutrición' }];
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
+      hermanas={hermanas}
+      categoriaLabel="Nutrición"
     >
       <Content />
     </ArticleLayout>

@@ -20,6 +20,11 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const hermanas = [
+  { label: 'Hidratos de carbono', href: '/nutricion/macronutrientes/hidratos-de-carbono' },
+  { label: 'Grasas o lípidos', href: '/nutricion/macronutrientes/grasas-o-lipidos' },
+];
+
 // Solo landings hijas — origen-animal y origen-vegetal son artículos individuales
 const subcategorias = [
   {
@@ -43,6 +48,8 @@ const migas = [
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
+      hermanas={hermanas}
+      categoriaLabel="Macronutrientes"
     >
       <Content />
     </ArticleLayout>

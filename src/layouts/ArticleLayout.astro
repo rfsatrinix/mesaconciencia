@@ -18,10 +18,11 @@ interface Props {
   headings: { depth: number; slug: string; text: string }[];
   relacionados?: Relacionado[];
   hermanos?: Relacionado[];
+  hermanas?: { label: string; href: string }[];
   categoriaLabel?: string;
 }
 
-const { title, description, image, imageAlt, backHref, backLabel, breadcrumbs, headings, relacionados = [], hermanos = [], categoriaLabel } = Astro.props;
+const { title, description, image, imageAlt, backHref, backLabel, breadcrumbs, headings, relacionados = [], hermanos = [], hermanas = [], categoriaLabel } = Astro.props;
 const toc = headings.filter(h => h.depth === 2 || h.depth === 3);
 const urlRelativa = Astro.url.pathname;
 ---
@@ -78,6 +79,16 @@ const urlRelativa = Astro.url.pathname;
         </ul>
       </nav>
     )}
+    {hermanas.length > 0 && (
+      <nav class="sidebar-card sidebar-hermanos" aria-label={`Más en ${categoriaLabel}`}>
+        <p class="art-indice-titulo">Más en {categoriaLabel}</p>
+        <ul>
+          {hermanas.map(h => (
+            <li><a href={h.href}>{h.label}</a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
   </aside>
 
 </div>
@@ -90,6 +101,17 @@ const urlRelativa = Astro.url.pathname;
         <li>
           <a href={`/${h.coleccion}/${h.id}`}>{h.data.title}</a>
         </li>
+      ))}
+    </ul>
+  </nav>
+)}
+
+{hermanas.length > 0 && (
+  <nav class="hermanos-movil" aria-label={`Más en ${categoriaLabel}`}>
+    <p class="art-indice-titulo">Más en {categoriaLabel}</p>
+    <ul>
+      {hermanas.map(h => (
+        <li><a href={h.href}>{h.label}</a></li>
       ))}
     </ul>
   </nav>

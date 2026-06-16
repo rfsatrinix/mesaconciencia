@@ -1,51 +1,143 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
-const articulos = await getCollection('nutricion', ({ data, id }) =>
+const intro = await getEntry('nutricion', 'micronutrientes/vitaminas/que-son');
+const { Content, headings } = await render(intro!);
+
+const articulos = (await getCollection('nutricion', ({ data, id }) =>
   !data.draft && id.startsWith('micronutrientes/vitaminas/')
+)).sort((a, b) => {
+  const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  return db - da;
+});
+
+const PAGE_SIZE = 8;
+const grupos = Array.from(
+  { length: Math.ceil(articulos.length / PAGE_SIZE) },
+  (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
+
+const hermanas = [
+  { label: 'Minerales', href: '/nutricion/micronutrientes/minerales' },
+];
+
+const migas = [
+  { href: '/nutricion', label: 'Nutrición' },
+  { href: '/nutricion/micronutrientes', label: 'Micronutrientes' },
+];
 ---
 
-<Layout
-  title="Vitaminas"
-  description="Artículos sobre vitaminas: funciones, necesidades diarias, fuentes alimentarias y señales de deficiencia."
->
-  <div class="container">
-    <div class="cabecera-categoria">
-      <nav class="migas">
-        <a href="/">Inicio</a>
-        <span class="sep">›</span>
-        <a href="/nutricion">Nutrición</a>
-        <span class="sep">›</span>
-        <a href="/nutricion/micronutrientes">Micronutrientes</a>
-        <span class="sep">›</span>
-        <span>Vitaminas</span>
-      </nav>
-      <h1>Vitaminas</h1>
-      <p class="intro">
-        Las vitaminas son compuestos orgánicos que el organismo necesita en pequeñas cantidades
-        para regular procesos metabólicos esenciales. La mayoría deben obtenerse de la alimentación
-        porque no podemos sintetizarlas, o lo hacemos en cantidades insuficientes.
-      </p>
-    </div>
+<Layout title="Vitaminas" description={intro!.data.description}>
+  <div class="container seccion">
+    <ArticleLayout
+      title="Vitaminas"
+      description={intro!.data.description}
+      breadcrumbs={migas}
+      headings={headings}
+      relacionados={[]}
+      hermanas={hermanas}
+      categoriaLabel="Micronutrientes"
+    >
+      <Content />
+    </ArticleLayout>
 
-    <section class="seccion">
-      {articulos.length > 0 ? (
-        <div class="grid-articulos">
-          {articulos.map(e => (
-            <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
-              <div class="tarjeta-articulo-inner">
-                <h2>{e.data.title}</h2>
-                {e.data.description && <p>{e.data.description}</p>}
-                <span class="leer-mas">Leer artículo →</span>
-              </div>
-            </a>
-          ))}
-        </div>
-      ) : (
-        <p class="pronto">Contenido en preparación. Próximamente.</p>
-      )}
-    </section>
+    {articulos.length > 0 && (
+      <section class="seccion seccion-todos">
+        <h2 class="titulo-seccion">Todos los artículos en Vitaminas</h2>
+
+        {grupos.length > 1 && (
+          <p class="paginacion-info" id="paginacion-info" aria-live="polite">
+            Página 1 de {grupos.length}
+          </p>
+        )}
+
+        {grupos.map((grupo, idx) => (
+          <div
+            class="grupo-articulos"
+            data-pagina={idx + 1}
+            style={idx > 0 ? 'display:none' : ''}
+          >
+            <div class="grid-articulos">
+              {grupo.map(e => (
+                <a href={`/nutricion/${e.id}`} class="tarjeta tarjeta-articulo">
+                  <div class="tarjeta-articulo-inner">
+                    <h2>{e.data.title}</h2>
+                    {e.data.description && <p>{e.data.description}</p>}
+                    <span class="leer-mas">Leer artículo →</span>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        ))}
+
+        {grupos.length > 1 && (
+          <nav class="paginacion" aria-label="Paginación de artículos">
+            <button id="btn-anterior" class="btn btn-contorno" disabled>← Anterior</button>
+            <button id="btn-siguiente" class="btn btn-primario">Siguiente →</button>
+          </nav>
+        )}
+      </section>
+    )}
   </div>
 </Layout>
+
+<script>
+  const grupos = document.querySelectorAll<HTMLElement>('.grupo-articulos');
+  const btnAnterior = document.getElementById('btn-anterior') as HTMLButtonElement | null;
+  const btnSiguiente = document.getElementById('btn-siguiente') as HTMLButtonElement | null;
+  const infoPaginacion = document.getElementById('paginacion-info');
+  const totalPaginas = grupos.length;
+  let paginaActual = 1;
+
+  function mostrarPagina(n: number) {
+    grupos.forEach((g, i) => {
+      g.style.display = i + 1 === n ? '' : 'none';
+    });
+    if (btnAnterior) btnAnterior.disabled = n === 1;
+    if (btnSiguiente) btnSiguiente.disabled = n === totalPaginas;
+    if (infoPaginacion) infoPaginacion.textContent = `Página ${n} de ${totalPaginas}`;
+    paginaActual = n;
+  }
+
+  btnAnterior?.addEventListener('click', () => {
+    if (paginaActual > 1) mostrarPagina(paginaActual - 1);
+  });
+
+  btnSiguiente?.addEventListener('click', () => {
+    if (paginaActual < totalPaginas) mostrarPagina(paginaActual + 1);
+  });
+</script>
+
+<style>
+  .seccion-todos {
+    border-top: 1px solid var(--borde);
+  }
+  .paginacion-info {
+    color: var(--texto-suave);
+    font-size: 0.875rem;
+    margin-bottom: 1.5rem;
+  }
+  .paginacion {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2.5rem;
+    justify-content: center;
+  }
+  .paginacion .btn:disabled {
+    opacity: 0.4;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  @media (max-width: 480px) {
+    .paginacion {
+      flex-direction: column;
+      align-items: stretch;
+      text-align: center;
+    }
+  }
+</style>

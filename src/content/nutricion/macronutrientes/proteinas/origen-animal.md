@@ -27,7 +27,7 @@ Un DIAAS > 1,00 indica que la proteína cubre sobradamente todas las necesidades
 
 ## Huevos: la referencia proteica
 
-El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d), B12, selenio y luteína.
+El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), B12, selenio y luteína.
 
 | Presentación | Proteína por 100 g |
 |---|---|

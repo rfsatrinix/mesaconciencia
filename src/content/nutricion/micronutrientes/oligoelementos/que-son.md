@@ -30,7 +30,7 @@ El selenio presenta un patrón geográfico marcado: algunas regiones europeas ti
 
 La absorción de los oligoelementos depende del contexto dietético:
 
-- La [vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c) potencia significativamente la absorción del [hierro](/nutricion/micronutrientes/oligoelementos/hierro) no hemo
+- La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) potencia significativamente la absorción del [hierro](/nutricion/micronutrientes/oligoelementos/hierro) no hemo
 - Los fitatos de cereales y legumbres reducen la absorción de hierro y zinc; el remojo y la fermentación los neutralizan parcialmente
 - El calcio en dosis altas puede inhibir la absorción de hierro cuando se consumen juntos
 

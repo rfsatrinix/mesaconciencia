@@ -1,13 +1,13 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
-import Layout from '../../../layouts/Layout.astro';
-import ArticleLayout from '../../../layouts/ArticleLayout.astro';
+import Layout from '../../../../layouts/Layout.astro';
+import ArticleLayout from '../../../../layouts/ArticleLayout.astro';
 
-const intro = await getEntry('nutricion', 'micronutrientes/vitaminas/que-son');
+const intro = await getEntry('nutricion', 'micronutrientes/vitaminas/liposolubles/que-son');
 const { Content, headings } = await render(intro!);
 
 const articulos = (await getCollection('nutricion', ({ data, id }) =>
-  !data.draft && id.startsWith('micronutrientes/vitaminas/')
+  !data.draft && id.startsWith('micronutrientes/vitaminas/liposolubles/')
 )).sort((a, b) => {
   const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
   const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
@@ -20,62 +20,34 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
-const subcategorias = [
-  {
-    label: 'Vitaminas hidrosolubles',
-    href:  '/nutricion/micronutrientes/vitaminas/hidrosolubles',
-    desc:  'Las vitaminas del grupo B y la vitamina C: coenzimas del metabolismo energético, síntesis de colágeno, formación de glóbulos rojos y sistema nervioso.',
-  },
-  {
-    label: 'Vitaminas liposolubles',
-    href:  '/nutricion/micronutrientes/vitaminas/liposolubles',
-    desc:  'Las vitaminas A, D, E y K se almacenan en el tejido adiposo e hígado. Esenciales para la visión, la coagulación, la salud ósea y la defensa antioxidante.',
-  },
-];
-
 const hermanas = [
-  { label: 'Minerales', href: '/nutricion/micronutrientes/minerales' },
-  { label: 'Oligoelementos', href: '/nutricion/micronutrientes/oligoelementos' },
+  { label: 'Vitaminas hidrosolubles', href: '/nutricion/micronutrientes/vitaminas/hidrosolubles' },
 ];
 
 const migas = [
   { href: '/nutricion', label: 'Nutrición' },
   { href: '/nutricion/micronutrientes', label: 'Micronutrientes' },
+  { href: '/nutricion/micronutrientes/vitaminas', label: 'Vitaminas' },
 ];
 ---
 
-<Layout title="Vitaminas" description={intro!.data.description}>
+<Layout title="Vitaminas liposolubles" description={intro!.data.description}>
   <div class="container seccion">
     <ArticleLayout
-      title="Vitaminas"
+      title="Vitaminas liposolubles"
       description={intro!.data.description}
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
       hermanas={hermanas}
-      categoriaLabel="Micronutrientes"
+      categoriaLabel="Vitaminas"
     >
       <Content />
     </ArticleLayout>
 
-    {subcategorias.length > 0 && (
-      <section class="seccion seccion-subcategorias">
-        <h2 class="titulo-seccion">Profundiza</h2>
-        <div class="grid-categorias">
-          {subcategorias.map(sub => (
-            <a href={sub.href} class="tarjeta tarjeta-categoria">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="ver-mas">Ver artículos →</span>
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
-
     {articulos.length > 0 && (
       <section class="seccion seccion-todos">
-        <h2 class="titulo-seccion">Todos los artículos en Vitaminas</h2>
+        <h2 class="titulo-seccion">Todos los artículos en Vitaminas liposolubles</h2>
 
         {grupos.length > 1 && (
           <p class="paginacion-info" id="paginacion-info" aria-live="polite">

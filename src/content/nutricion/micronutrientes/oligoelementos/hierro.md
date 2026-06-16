@@ -61,7 +61,7 @@ Las mujeres en edad fértil tienen necesidades significativamente mayores debido
 Consumir hierro no hemo de forma estratégica puede casi duplicar o triplicar su absorción:
 
 **Favorecen la absorción:**
-- **[Vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c)**: acompañar legumbres o verduras con pimiento, perejil, limón o fruta. Es el potenciador más efectivo.
+- **[Vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c)**: acompañar legumbres o verduras con pimiento, perejil, limón o fruta. Es el potenciador más efectivo.
 - **Ácidos orgánicos** (vinagre, fermentados): acidifican el medio intestinal y mejoran la solubilidad del hierro.
 - **Cocción**: reduce el contenido de fitatos en legumbres y cereales.
 - **Remojo previo** de legumbres y cereales.

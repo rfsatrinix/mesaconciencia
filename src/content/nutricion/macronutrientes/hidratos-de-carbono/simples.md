@@ -72,7 +72,7 @@ Estos alimentos contienen azúcares simples pero con un perfil nutricional compl
 | Plátano maduro | 15 g | Potasio, B6, fibra |
 | Manzana | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
-| Leche entera | 5 g (lactosa) | Proteína, calcio, [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d) |
+| Leche entera | 5 g (lactosa) | Proteína, calcio, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
 | Yogur natural sin azúcar | 4 g (lactosa) | Probióticos, proteína |
 
 *Fuente: BEDCA; USDA FoodData Central.*

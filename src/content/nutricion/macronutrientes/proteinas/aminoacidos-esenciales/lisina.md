@@ -16,7 +16,7 @@ La OMS establece una necesidad media de **30 mg/kg de peso corporal al día** en
 
 **Síntesis de colágeno** — Es quizá la función más conocida. El colágeno es la proteína más abundante del cuerpo humano: forma tendones, ligamentos, piel, huesos y vasos sanguíneos. Para que el colágeno sea estable, la lisina debe ser modificada enzimáticamente en la célula: una enzima llamada lisil oxidasa convierte la lisina en hidroxilisina, que actúa como punto de anclaje para crear las cadenas cruzadas que dan resistencia a la estructura. Sin lisina suficiente, el colágeno pierde integridad.
 
-**Síntesis de carnitina** — La carnitina es la molécula que transporta los ácidos grasos al interior de las mitocondrias para ser quemados como energía. El organismo la fabrica a partir de lisina y metionina, con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c), B3 y B6. Las personas con ingesta insuficiente de lisina pueden tener niveles bajos de carnitina, lo que afecta al metabolismo de las grasas.
+**Síntesis de carnitina** — La carnitina es la molécula que transporta los ácidos grasos al interior de las mitocondrias para ser quemados como energía. El organismo la fabrica a partir de lisina y metionina, con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), B3 y B6. Las personas con ingesta insuficiente de lisina pueden tener niveles bajos de carnitina, lo que afecta al metabolismo de las grasas.
 
 **Absorción del calcio** — La lisina favorece la absorción intestinal de calcio y reduce su excreción urinaria. Este doble efecto la convierte en un factor relevante para la mineralización ósea, aunque el mecanismo exacto no está completamente dilucidado.
 

@@ -14,13 +14,13 @@ El criterio de clasificación más importante es su solubilidad:
 
 **Vitaminas hidrosolubles** — se disuelven en agua, no se almacenan en grandes cantidades y el exceso se elimina por la orina. Incluyen:
 
-- **[Vitamina C](/nutricion/micronutrientes/vitaminas/vitamina-c):** síntesis de colágeno, antioxidante, mejora la absorción del hierro no hemo
+- **[Vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c):** síntesis de colágeno, antioxidante, mejora la absorción del hierro no hemo
 - **Vitaminas del grupo B** (B1/tiamina, B2/riboflavina, B3/niacina, B5/ácido pantoténico, B6/piridoxina, B8/biotina, B9/ácido fólico, B12/cobalamina): cofactores esenciales en el metabolismo energético y la síntesis de ADN y proteínas
 
 **Vitaminas liposolubles** — se disuelven en grasa y se almacenan en el tejido adiposo y el hígado. El exceso puede acumularse y resultar tóxico en dosis muy altas:
 
 - **Vitamina A:** visión, diferenciación celular, función inmune
-- **[Vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d):** absorción de calcio, función musculoesquelética, modulación inmune
+- **[Vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d):** absorción de calcio, función musculoesquelética, modulación inmune
 - **Vitamina E:** antioxidante liposoluble, protección de membranas celulares
 - **Vitamina K:** coagulación sanguínea y metabolismo óseo
 
@@ -32,4 +32,4 @@ A diferencia de las vitaminas liposolubles, las hidrosolubles tienen un riesgo d
 
 ## ¿Cuándo suplementar?
 
-Los suplementos vitamínicos están indicados cuando existe una deficiencia documentada o un riesgo elevado: la [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d) en latitudes con poca luz solar, el ácido fólico en el embarazo o la vitamina B12 en dietas veganas. Para el resto de la población con una alimentación variada, la evidencia no respalda la suplementación rutinaria.
+Los suplementos vitamínicos están indicados cuando existe una deficiencia documentada o un riesgo elevado: la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca luz solar, el ácido fólico en el embarazo o la vitamina B12 en dietas veganas. Para el resto de la población con una alimentación variada, la evidencia no respalda la suplementación rutinaria.

@@ -23,7 +23,7 @@ Los minerales son la segunda gran categoría de [micronutrientes](/nutricion/mic
 
 El calcio es el mineral más abundante en el organismo: un adulto contiene entre 1000 y 1200 gramos, el 99 % en huesos y dientes. El 1 % restante participa en la contracción muscular, la transmisión nerviosa y la coagulación sanguínea.
 
-Su absorción depende en gran medida de la [vitamina D](/nutricion/micronutrientes/vitaminas/vitamina-d): sin niveles adecuados, el intestino no puede absorber el calcio de forma eficiente, por lo que ambos nutrientes están estrechamente relacionados.
+Su absorción depende en gran medida de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d): sin niveles adecuados, el intestino no puede absorber el calcio de forma eficiente, por lo que ambos nutrientes están estrechamente relacionados.
 
 ## Biodisponibilidad
 

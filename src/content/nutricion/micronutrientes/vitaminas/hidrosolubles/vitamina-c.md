@@ -5,7 +5,7 @@ image: "/images/nutricion/vitamina-c.svg"
 imageAlt: "Imagen de portada del artículo sobre vitamina C"
 draft: false
 date: 2026-06-05
-categoria: "Vitaminas"
+categoria: "Vitaminas hidrosolubles"
 ---
 
 La vitamina C (ácido ascórbico) es una vitamina hidrosoluble esencial para el ser humano. A diferencia de la mayoría de mamíferos, no podemos sintetizarla: tenemos que obtenerla a través de la alimentación.

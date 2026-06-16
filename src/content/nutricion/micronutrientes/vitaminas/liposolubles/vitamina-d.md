@@ -1,7 +1,7 @@
 ---
 title: "Vitamina D"
 description: "Vitamina D: funciones en el hueso y el sistema inmunitario, cuánta necesitas, por qué la dieta apenas la aporta y cuándo tiene sentido suplementar."
-categoria: "Vitaminas"
+categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-06-12
 ---

@@ -10,10 +10,12 @@ function activo(href: string) {
 // ── Contar artículos publicados por colección ────────────────
 const colecciones = ['nutricion', 'alimentos', 'recetas', 'dietas', 'salud', 'plantas', 'articulos'] as const;
 const cuentas: Record<string, number> = {};
+const rutasContenido = new Set<string>();
 await Promise.all(
   colecciones.map(async col => {
     const entradas = await getCollection(col, ({ data }) => !data.draft);
     cuentas[col] = entradas.length;
+    entradas.forEach(e => rutasContenido.add(`/${col}/${e.id}`));
   })
 );
 
@@ -34,7 +36,7 @@ const rutasExistentes = new Set(
     )
 );
 
-const existePagina = (href: string) => rutasExistentes.has(href);
+const existePagina = (href: string) => rutasExistentes.has(href) || rutasContenido.has(href);
 
 // ── Definición completa del menú ─────────────────────────────
 type SubItem = { label: string; href: string };

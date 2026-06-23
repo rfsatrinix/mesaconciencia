@@ -44,16 +44,16 @@ const { noTracking = false } = Astro.props;
 
   function cargarGA() {
     const GA_ID = 'G-X8W4DP3VCH';
-
+    (window as any).dataLayer = (window as any).dataLayer || [];
+    (window as any).gtag = function gtag() {
+      ((window as any).dataLayer as unknown[]).push(arguments);
+    };
+    (window as any).gtag('js', new Date());
+    (window as any).gtag('config', GA_ID);
     const s = document.createElement('script');
     s.src = `https://www.googletagmanager.com/gtag/js?id=${GA_ID}`;
     s.async = true;
     document.head.appendChild(s);
-
-    (window as any).dataLayer = (window as any).dataLayer || [];
-    function gtag(...args: any[]) { (window as any).dataLayer.push(args); }
-    gtag('js', new Date());
-    gtag('config', GA_ID, { anonymize_ip: true });
   }
 </script>
 

@@ -30,4 +30,4 @@ La deficiencia leve no siempre genera síntomas inmediatos, pero deteriora el fu
 
 La forma más eficaz de cubrir las necesidades de micronutrientes es seguir una dieta variada con predominio de alimentos sin procesar: frutas, verduras, legumbres, cereales integrales, frutos secos y proteínas de calidad. Ningún suplemento replica la sinergia de los nutrientes presentes en los alimentos reales.
 
-Los suplementos tienen su lugar cuando existe una deficiencia confirmada o un riesgo elevado, como la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca exposición solar o la [vitamina B12](/nutricion/micronutrientes/vitaminas/vitamina-b12) en dietas veganas. Pero no son un sustituto de una alimentación equilibrada.
+Los suplementos tienen su lugar cuando existe una deficiencia confirmada o un riesgo elevado, como la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca exposición solar o la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) en dietas veganas. Pero no son un sustituto de una alimentación equilibrada.

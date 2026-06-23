@@ -32,4 +32,4 @@ A diferencia de las vitaminas liposolubles, las hidrosolubles tienen un riesgo d
 
 ## ¿Cuándo suplementar?
 
-Los suplementos vitamínicos están indicados cuando existe una deficiencia documentada o un riesgo elevado: la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca luz solar, el ácido fólico en el embarazo o la vitamina B12 en dietas veganas. Para el resto de la población con una alimentación variada, la evidencia no respalda la suplementación rutinaria.
+Los suplementos vitamínicos están indicados cuando existe una deficiencia documentada o un riesgo elevado: la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca luz solar, el ácido fólico en el embarazo o la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) en dietas veganas. Para el resto de la población con una alimentación variada, la evidencia no respalda la suplementación rutinaria.

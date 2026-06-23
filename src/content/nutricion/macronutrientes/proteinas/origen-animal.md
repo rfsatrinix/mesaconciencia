@@ -27,7 +27,7 @@ Un DIAAS > 1,00 indica que la proteína cubre sobradamente todas las necesidades
 
 ## Huevos: la referencia proteica
 
-El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), B12, selenio y luteína.
+El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para el ser humano, además de colina, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), [B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12), selenio y luteína.
 
 | Presentación | Proteína por 100 g |
 |---|---|
@@ -52,7 +52,7 @@ Alto contenido proteico con menor proporción de grasa saturada que las rojas. E
 
 ### Carnes rojas (vacuno, cordero, cerdo)
 
-Mayor contenido de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) hemo, zinc y vitamina B12. La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
+Mayor contenido de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) hemo, zinc y [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La grasa varía mucho según el corte. Las guías nutricionales no las prohíben, pero recomiendan moderar el consumo, especialmente de las más grasas.
 
 | Alimento (cocido) | Proteína por 100 g | Hierro |
 |---|---|---|

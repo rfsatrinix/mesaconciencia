@@ -40,4 +40,4 @@ El ser humano, a diferencia de la mayoría de mamíferos, no puede sintetizarla:
 
 ## Riesgo de deficiencia
 
-Por su eliminación rápida, las deficiencias de vitaminas hidrosolubles pueden aparecer en semanas o meses con una dieta restrictiva o poco variada. La [vitamina B12](/nutricion/micronutrientes/vitaminas/vitamina-b12) es la excepción: su deficiencia puede tardar años en manifestarse clínicamente, pero las consecuencias neurológicas son graves y en parte irreversibles. Las personas que siguen dietas veganas o vegetarianas estrictas deben prestar atención particular a la B12.
+Por su eliminación rápida, las deficiencias de vitaminas hidrosolubles pueden aparecer en semanas o meses con una dieta restrictiva o poco variada. La [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) es la excepción: su deficiencia puede tardar años en manifestarse clínicamente, pero las consecuencias neurológicas son graves y en parte irreversibles. Las personas que siguen dietas veganas o vegetarianas estrictas deben prestar atención particular a la B12.

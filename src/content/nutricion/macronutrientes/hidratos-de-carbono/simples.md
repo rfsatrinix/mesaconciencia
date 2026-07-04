@@ -6,25 +6,27 @@ draft: false
 date: 2026-06-12
 ---
 
-Los hidratos de carbono simples son moléculas de uno o dos azúcares. Su estructura sencilla hace que se digieran y absorban con rapidez, lo que provoca una elevación más rápida de la glucosa en sangre en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares. Su estructura sencilla hace que se digieran y absorban con rapidez, lo que provoca una elevación más rápida de la glucosa en sangre —la glucemia— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
 
-La clave para entenderlos no es si son "malos" o "buenos" en abstracto, sino **de dónde proceden** y en qué cantidad se consumen.
+Clasificarlos como "buenos" o "malos" en abstracto no lleva a ningún sitio. Lo que importa es **de dónde proceden** y en qué cantidad los consumes.
 
-## Clasificación química
+## Clasificación de los hidratos de carbono simples
 
 ### Monosacáridos
 
-Son la unidad más pequeña de hidrato de carbono. No se pueden descomponer más durante la digestión.
+Son la unidad más pequeña de hidrato de carbono y no se pueden descomponer más durante tu digestión.
 
 | Monosacárido | Dónde se encuentra | Peculiaridades |
 |---|---|---|
-| **Glucosa** | Frutas, miel, almidón digerido | Principal combustible celular; referencia del IG (IG = 100) |
-| **Fructosa** | Frutas, miel, jarabe de maíz | Se metaboliza principalmente en el hígado; no eleva la glucosa sanguínea directamente |
+| **Glucosa** | Frutas, miel, almidón digerido | Principal combustible de tus células; referencia del índice glucémico (IG = 100) |
+| **Fructosa** | Frutas, miel, jarabe de maíz | Se metaboliza principalmente en el hígado; no eleva tu glucemia directamente |
 | **Galactosa** | Lácteos (como parte de la lactosa) | Se convierte en glucosa en el hígado |
+
+*El índice glucémico (IG) mide con qué rapidez un alimento eleva tu glucemia en comparación con la glucosa pura, a la que se asigna un valor de 100.*
 
 ### Disacáridos
 
-Formados por dos monosacáridos unidos. El intestino los descompone antes de absorberlos.
+Están formados por dos monosacáridos encadenados. Tu intestino los descompone antes de absorberlos.
 
 | Disacárido | Composición | Fuentes principales |
 |---|---|---|
@@ -32,38 +34,37 @@ Formados por dos monosacáridos unidos. El intestino los descompone antes de abs
 | **Lactosa** | Glucosa + Galactosa | Leche y derivados lácteos |
 | **Maltosa** | Glucosa + Glucosa | Cereales germinados, cerveza |
 
-## Azúcares naturales vs. azúcares libres
+## Por qué no todos los azúcares simples tienen el mismo impacto
 
-Esta distinción es fundamental para entender las recomendaciones de salud:
+La diferencia entre los azúcares naturales y los libres es lo que explica por qué las recomendaciones de la OMS no prohíben la fruta pero sí los refrescos:
 
-**Azúcares naturales** (intrínsecos): los que se encuentran dentro de la estructura celular de los alimentos (fruta entera, leche). Vienen acompañados de [fibra](/nutricion/fibra-alimenticia), agua, vitaminas y minerales que modulan su absorción y aporte nutricional.
+**Azúcares naturales** (intrínsecos): son los que forman parte de la estructura celular del alimento —como ocurre en la fruta entera o en la leche—. Vienen acompañados de [fibra](/nutricion/fibra-alimenticia), [agua](/nutricion/agua), [vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales) que moderan su absorción y enriquecen el conjunto.
 
-**Azúcares libres**: los que han sido extraídos de su matriz original o añadidos a los alimentos. Incluyen:
+**Azúcares libres**: son los que han sido extraídos de su matriz original o añadidos a los alimentos. Incluyen:
 - Azúcar blanco, moreno y panela añadidos a recetas o productos
-- Miel, siropes y zumos de frutas (aunque naturales, el proceso de extracción libera los azúcares)
-- Azúcares presentes en ultraprocesados (refrescos, bollería, salsas)
+- Miel, siropes y zumos de frutas (aunque naturales, el proceso de extracción separa el azúcar de la fibra que lo acompañaba)
+- Azúcares añadidos a ultraprocesados (refrescos, bollería, salsas)
 
 La OMS y la EFSA basan sus recomendaciones restrictivas en los **azúcares libres**, no en los azúcares naturales de la fruta o la leche.
 
-## ¿Cuántos azúcares libres son demasiados?
+## ¿Cuántos azúcares libres deberías tomar al día?
 
-La EFSA recomienda que los azúcares libres supongan **menos del 10 % de la ingesta energética total**. Para una dieta de 2000 kcal, son unos 50 g/día — equivalente a 10 cucharaditas de azúcar.
+La EFSA recomienda que los azúcares libres supongan **menos del 10 % de tu energía total**. Si sigues una dieta de 2000 kilocalorías al día, son unos 50 g —equivalente a unas 10 cucharaditas de azúcar—.
 
-La OMS va un paso más allá y sugiere que bajarlos al 5 % (25 g/día) aportaría beneficios adicionales para la salud dental y el control del peso.
+La OMS va un paso más allá y sugiere que bajarlos al 5 % (25 g/día) aportaría beneficios adicionales para tu salud dental y el control de tu peso.
 
-Para contexto: una lata de refresco de cola estándar (330 ml) contiene aproximadamente 35 g de azúcares libres.
+Para que te hagas una idea: una lata de refresco de cola estándar (330 ml) contiene aproximadamente 35 g de azúcares libres —el 70 % del límite diario recomendado por la EFSA en una sola bebida—.
 
-## El metabolismo de la fructosa
+## Cómo metaboliza tu cuerpo la fructosa
 
-La fructosa merece atención especial porque su metabolismo es diferente al de la glucosa:
+La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la glucosa, que cualquier célula de tu cuerpo puede usar directamente. Esa diferencia tiene consecuencias concretas:
 
-- **No estimula la insulina** ni la leptina directamente → no genera la misma señal de saciedad.
-- **Se metaboliza casi exclusivamente en el hígado**, donde puede convertirse en glucógeno, glucosa o, en exceso, en grasa (triglicéridos).
-- Consumida en **cantidades elevadas y aisladas** (como en bebidas azucaradas con jarabe de maíz de alta fructosa), se asocia con esteatosis hepática, resistencia a la insulina y elevación de triglicéridos.
+- **No estimula la insulina ni la leptina directamente**: la leptina —la hormona que le indica a tu cerebro que ya has comido suficiente— no recibe la señal habitual, por lo que la fructosa genera menos saciedad que la glucosa a igual cantidad de calorías.
+- **En cantidades elevadas**, el hígado la convierte en triglicéridos —un tipo de grasa que circula en tu sangre— en lugar de en glucosa disponible. El consumo habitual de bebidas azucaradas con jarabe de maíz de alta fructosa se asocia con hígado graso no alcohólico (esteatosis hepática), resistencia a la insulina y elevación de triglicéridos en sangre.
 
-Sin embargo, la fructosa de la **fruta entera** no tiene estos efectos negativos. La fibra ralentiza su absorción y las cantidades son mucho menores que en los productos procesados.
+La fructosa de la fruta entera no tiene estos efectos: la fibra ralentiza su absorción y las cantidades ingeridas son muy inferiores a las de los productos procesados.
 
-## Fuentes naturales de azúcares simples recomendables
+## Fuentes naturales de azúcares simples
 
 Estos alimentos contienen azúcares simples pero con un perfil nutricional completo:
 
@@ -72,22 +73,22 @@ Estos alimentos contienen azúcares simples pero con un perfil nutricional compl
 | Plátano maduro | 15 g | Potasio, B6, fibra |
 | Manzana | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
-| Leche entera | 5 g (lactosa) | Proteína, calcio, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
+| Leche entera | 5 g (lactosa) | Proteína, [calcio](/nutricion/micronutrientes/minerales/calcio), [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
 | Yogur natural sin azúcar | 4 g (lactosa) | Probióticos, proteína |
 
 *Fuente: BEDCA; USDA FoodData Central.*
 
-## Impacto del exceso de azúcares libres en la salud
+## Qué le hace a tu salud el exceso de azúcares libres
 
-La evidencia científica relaciona el consumo elevado de azúcares libres con:
+El consumo elevado de azúcares libres tiene efectos documentados sobre varios sistemas:
 
-- **Caries dental**: la fermentación de azúcares por bacterias orales produce ácidos que desmineralizan el esmalte.
-- **Exceso de peso**: las bebidas azucaradas no generan la misma saciedad que los alimentos sólidos con igual aporte calórico.
-- **Hígado graso no alcohólico**: el exceso de fructosa puede promover la lipogénesis hepática.
-- **Resistencia a la insulina y diabetes tipo 2**: el consumo crónico elevado de azúcares libres se asocia con peor sensibilidad a la insulina.
-- **Dislipemia**: el exceso de fructosa eleva los triglicéridos séricos.
+- **Caries dental**: las bacterias de tu boca fermentan los azúcares y producen ácidos que desmineralizan el esmalte dental.
+- **Exceso de peso**: las bebidas azucaradas no te generan la misma saciedad que los alimentos sólidos con las mismas calorías. Consumes energía sin que tu cuerpo registre que has comido.
+- **Hígado graso no alcohólico**: el exceso de fructosa puede hacer que tu hígado fabrique grasa en lugar de procesarla correctamente —un proceso llamado lipogénesis hepática—.
+- **Resistencia a la insulina y diabetes tipo 2**: el consumo crónico elevado de azúcares libres se asocia con que tus células respondan peor a la insulina —la hormona que regula tu glucemia—, lo que obliga al páncreas a producir más para compensar.
+- **Dislipemia** —alteración de los niveles de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre—: el exceso de fructosa eleva los triglicéridos, un factor de riesgo cardiovascular independiente.
 
-Estos riesgos son dosis-dependientes y están relacionados con el patrón alimentario global, no con episodios puntuales.
+Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Una dieta en la que los azúcares libres son la excepción —y la fruta entera, la leche y los cereales integrales son la norma— tiene margen de sobra para un postre ocasional sin ningún impacto relevante.
 
 ---
 

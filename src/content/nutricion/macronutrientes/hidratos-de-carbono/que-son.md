@@ -6,39 +6,39 @@ draft: true
 date: 2026-06-11
 ---
 
-Los hidratos de carbono son la principal fuente de energía del organismo. Proporcionan **4 kcal por gramo** y son el combustible preferido del cerebro y los músculos durante el ejercicio de alta intensidad.
+Los hidratos de carbono son la fuente de energía que tu organismo consume con mayor preferencia. Aportan **4 kilocalorías (kcal) por gramo** y son el combustible principal de tu cerebro —que no almacena reservas propias y depende de un suministro constante de glucosa— y de tus músculos durante el ejercicio de alta intensidad.
 
 ## Tipos de hidratos de carbono
 
 ### Simples (azúcares)
 
-Moléculas de uno o dos azúcares. Se absorben con rapidez y provocan una elevación rápida de la glucosa en sangre.
+Se absorben con rapidez en tu intestino y producen una elevación rápida de la glucosa en sangre —lo que se llama glucemia—.
 
-- **Monosacáridos**: glucosa, fructosa, galactosa.
-- **Disacáridos**: sacarosa (glucosa + fructosa), lactosa (glucosa + galactosa), maltosa.
+- **Monosacáridos**: son los azúcares más simples, formados por una sola molécula. Los principales son la glucosa —el combustible directo de tus células—, la fructosa —que abunda en las frutas— y la galactosa —presente en la leche—.
+- **Disacáridos**: están formados por dos monosacáridos encadenados. La sacarosa —el azúcar de mesa— une glucosa y fructosa; la lactosa —el azúcar de la leche— une glucosa y galactosa.
 
 Se encuentran de forma natural en frutas, leche y miel, pero también se añaden en forma de azúcar refinado a ultraprocesados.
 
 ### Complejos (polisacáridos)
 
-Cadenas largas de unidades de glucosa. Se digieren más lentamente, con menor impacto sobre la glucemia.
+Son cadenas muy largas de moléculas de glucosa encadenadas —a veces miles de ellas—. Se digieren más lentamente que los azúcares simples y tienen un impacto menor sobre tu glucemia.
 
-- **Almidón**: la forma de reserva energética en plantas (cereales, legumbres, tubérculos).
-- **Glucógeno**: la forma de reserva en músculo e hígado.
+- **Almidón**: es la forma en que las plantas almacenan energía. Está presente en cereales, legumbres y tubérculos, y es el hidrato complejo más abundante en tu dieta habitual.
+- **Glucógeno**: es la forma en que tu propio cuerpo guarda hidratos de carbono, principalmente en el músculo y en el hígado. Cuando haces ejercicio intenso, tus músculos lo movilizan para obtener glucosa con rapidez.
 
-### Fibra alimentaria
+### Fibra alimenticia
 
-Polisacáridos no digeribles por las enzimas humanas. No aportan energía significativa pero tienen efectos relevantes sobre la salud intestinal, la glucemia y el colesterol.
+Son polisacáridos que las enzimas de tu intestino no pueden descomponer. No te aportan energía significativa, pero regulan tu tránsito intestinal, ralentizan la absorción de glucosa y reducen la reabsorción de colesterol en el intestino. La EFSA recomienda 25 g al día para adultos. Más detalle en el artículo sobre [fibra alimenticia](/nutricion/fibra-alimenticia).
 
-## ¿Cuántos hidratos necesito?
+## ¿Cuántos hidratos de carbono necesitas?
 
-La EFSA recomienda que entre el **45 y el 60 % de la energía total** provenga de los hidratos de carbono, con menos del 10 % en forma de azúcares libres.
+La EFSA recomienda que entre el **45 y el 60 % de tu energía total** provenga de los hidratos de carbono, con menos del 10 % en forma de azúcares libres.
 
-Para una dieta de 2000 kcal, son entre 225 y 300 g/día de hidratos totales.
+Si sigues una dieta de 2000 kilocalorías al día, eso equivale a entre 225 y 300 g de hidratos totales.
 
-## Índice glucémico e índice insulínico
+## El índice glucémico de los hidratos de carbono
 
-El **índice glucémico (IG)** mide la velocidad a la que un alimento eleva la glucosa en sangre en comparación con la glucosa pura (IG = 100).
+El **índice glucémico (IG)** mide con qué rapidez un alimento eleva tu glucemia en comparación con la glucosa pura, a la que se asigna un IG de 100. Cuanto más alto, más rápido sube la glucosa en tu sangre tras comer ese alimento.
 
 | Alimento | IG aproximado |
 |---|---|
@@ -50,16 +50,20 @@ El **índice glucémico (IG)** mide la velocidad a la que un alimento eleva la g
 | Garbanzo cocido | 28 |
 | Lenteja cocida | 25 |
 
-Un IG bajo no significa automáticamente que un alimento sea mejor; hay que considerar también la cantidad consumida (carga glucémica) y el contexto de la comida completa.
+Un IG bajo no garantiza automáticamente que un alimento sea mejor: también importa cuánto comes. Por eso existe la **carga glucémica** —el IG multiplicado por la cantidad de hidratos que contiene una ración—, que da una imagen más real de cómo afecta a tu glucemia lo que tienes en el plato.
 
-## Fuentes de calidad
+Además, el mismo alimento puede tener un IG muy diferente según cómo lo prepares: el boniato cocido entero ronda 44, pero en puré puede superar 60 porque el procesado rompe la estructura del almidón y acelera su digestión.
 
-Priorizar fuentes integrales sobre refinadas mejora el perfil de fibra y micronutrientes y reduce el impacto glucémico:
+## Fuentes de hidratos de carbono de calidad
 
-- Cereales integrales (avena, arroz integral, centeno, espelta)
-- Legumbres (lentejas, garbanzos, alubias)
-- Tubérculos (patata, boniato)
-- Frutas enteras (no zumos)
+Las diferencias entre fuentes integrales y refinadas van más allá del IG. Los hidratos integrales conservan la [fibra](/nutricion/fibra-alimenticia) y los [micronutrientes](/nutricion/micronutrientes) que el refinado elimina:
+
+- **Cereales integrales** (avena, arroz integral, centeno, espelta): conservan el salvado y el germen, donde se concentran la fibra, las [vitaminas del grupo B](/nutricion/micronutrientes/vitaminas) y los [minerales](/nutricion/micronutrientes/minerales).
+- **Legumbres** (lentejas, [garbanzos](/alimentos/garbanzos), alubias): tienen los índices glucémicos más bajos de todos los hidratos complejos habituales y aportan también proteína vegetal.
+- **Tubérculos** (patata, boniato): son nutritivos y versátiles; su IG varía mucho según la preparación —hervidos o asados enteros tienen menor impacto que en puré o fritos—.
+- **Frutas enteras** (no zumos): la fibra de la fruta entera ralentiza la absorción de sus azúcares naturales y modera el pico de glucemia.
+
+Elegir bien las fuentes importa más que contar gramos: un plato de lentejas y una barrita de cereales refinados pueden contener cantidades similares de hidratos, pero su efecto en tu glucemia y en tu saciedad es completamente diferente.
 
 ---
 

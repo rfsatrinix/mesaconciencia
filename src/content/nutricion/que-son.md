@@ -1,43 +1,41 @@
 ---
 title: "Nutrición"
-description: "Qué es la nutrición, para qué sirven los macronutrientes, los micronutrientes, el agua y la fibra, y cómo influyen en tu salud y energía diaria."
+description: "Qué es la nutrición, para qué sirven los macronutrientes y micronutrientes, y cómo influyen en tu salud, tu energía y el riesgo de enfermedades crónicas."
 categoria: "Nutrición"
 draft: true
 date: 2026-06-15
 ---
 
-La **nutrición** es el conjunto de procesos por los que el organismo ingiere, digiere, absorbe y utiliza los nutrientes de los alimentos para mantener sus funciones vitales, crecer, reparar tejidos y obtener energía.
-
-No es sinónimo de alimentación: la alimentación es el acto de comer; la nutrición es lo que ocurre después, desde que el alimento entra en el tubo digestivo hasta que sus componentes llegan a las células.
+La nutrición es lo que ocurre entre que el alimento entra en tu boca y sus componentes llegan a tus células. No es sinónimo de alimentación: la alimentación es el acto de comer; la nutrición es el proceso de digestión, absorción y utilización de los nutrientes para mantener tus funciones vitales, crecer, reparar tejidos y obtener energía.
 
 ## Qué son los nutrientes
 
-Los nutrientes son las sustancias que el organismo puede absorber y utilizar. Se clasifican según la cantidad que necesitamos:
+Los nutrientes son las sustancias que tu organismo puede absorber y utilizar. Se clasifican según la cantidad que necesitas al día en macronutrientes, micronutrientes, agua y fibra.
 
 ### Macronutrientes
 
-Necesarios en grandes cantidades. Aportan energía y son los bloques constructores del organismo:
+Los [macronutrientes](/nutricion/macronutrientes) son los que necesitas en grandes cantidades y los que te aportan energía:
 
-- **Hidratos de carbono**: fuente de energía preferida del cerebro y los músculos. Aportan 4 kcal/g.
-- **Proteínas**: construyen y reparan tejidos, forman enzimas, hormonas y anticuerpos. Aportan 4 kcal/g.
-- **Grasas o lípidos**: imprescindibles para la absorción de vitaminas liposolubles y la síntesis hormonal. Aportan 9 kcal/g.
+- **[Hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono):** son la fuente de energía preferida de tu cerebro y tus músculos. Aportan 4 kilocalorías por gramo.
+- **[Proteínas](/nutricion/macronutrientes/proteinas):** construyen y reparan tus tejidos, y forman las enzimas, hormonas y anticuerpos que mantienen tu cuerpo en funcionamiento. Aportan 4 kilocalorías por gramo.
+- **[Grasas o lípidos](/nutricion/macronutrientes/grasas-o-lipidos):** son imprescindibles para que tu cuerpo absorba ciertas vitaminas y para fabricar tus hormonas. Aportan 9 kilocalorías por gramo —más del doble que los otros dos macronutrientes.
 
 ### Micronutrientes
 
-Necesarios en pequeñas cantidades, pero esenciales para que el metabolismo funcione con normalidad:
+Los [micronutrientes](/nutricion/micronutrientes) se necesitan en cantidades pequeñas —miligramos o microgramos al día— pero sin ellos tu metabolismo, el conjunto de reacciones químicas que te mantiene vivo, no funciona:
 
-- **Vitaminas**: compuestos orgánicos reguladores. Las hay liposolubles (A, D, E, K) e hidrosolubles (grupo B, vitamina C).
-- **Minerales**: elementos inorgánicos como el hierro, el calcio, el magnesio o el zinc.
+- **[Vitaminas](/nutricion/micronutrientes/vitaminas):** son compuestos orgánicos que regulan procesos esenciales. Las liposolubles —A, D, E y K— se almacenan en la grasa corporal; las hidrosolubles —el grupo B y la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c)— no se acumulan y necesitas aportarlas con regularidad.
+- **[Minerales](/nutricion/micronutrientes/minerales):** son elementos inorgánicos que tu cuerpo no puede fabricar y tiene que obtener de lo que comes, como el [hierro](/nutricion/micronutrientes/oligoelementos/hierro), el [calcio](/nutricion/micronutrientes/minerales/calcio), el magnesio o el [zinc](/nutricion/micronutrientes/oligoelementos/zinc).
 
 ### Agua y fibra
 
-El agua es el componente más abundante del organismo y el nutriente cuya carencia compromete la vida más rápidamente. La fibra alimentaria, aunque no se digiere, mejora la salud intestinal, regula la glucemia y reduce el colesterol.
+El [agua](/nutricion/agua) es el componente más abundante de tu cuerpo y el nutriente cuya carencia compromete la vida más rápidamente. La [fibra alimenticia](/nutricion/fibra-alimenticia), aunque no se digiere, mejora tu salud intestinal, regula tu glucemia y reduce el colesterol.
 
 ## Por qué importa la nutrición
 
-La calidad de la dieta influye directamente en la energía diaria, la composición corporal, el rendimiento cognitivo y el riesgo de enfermedades crónicas: la diabetes tipo 2, las enfermedades cardiovasculares y algunos tipos de cáncer están estrechamente relacionados con los patrones alimentarios.
+La calidad de tu dieta influye directamente en tu energía diaria, tu composición corporal, tu rendimiento cognitivo y el riesgo de enfermedades crónicas: la diabetes tipo 2, las enfermedades cardiovasculares y algunos tipos de cáncer están estrechamente relacionados con los patrones alimentarios.
 
-Una nutrición adecuada no exige dietas restrictivas. Se sustenta en equilibrio, variedad y calidad de los alimentos que se consumen con regularidad.
+Entender cómo funcionan los nutrientes no es solo información académica. Te permite tomar decisiones alimentarias con criterio propio, sin depender de modas ni de consejos contradictorios.
 
 ---
 

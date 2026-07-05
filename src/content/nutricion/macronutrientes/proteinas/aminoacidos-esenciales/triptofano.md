@@ -67,4 +67,4 @@ En dietas occidentales variadas, alcanzar los 280 mg/día no exige ningún alime
 
 ---
 
-*Fuentes: <a href="https://www.who.int/publications/i/item/9241209356" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://academic.oup.com/jn/article/142/12/2236S/4630929" target="_blank" rel="noopener noreferrer">Fernstrom JD. Effects and side effects associated with the non-nutritional use of tryptophan by humans. J Nutr. 2012;142(12):2236S–2244S.</a>*
+*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://academic.oup.com/jn/article/142/12/2236S/4630929" target="_blank" rel="noopener noreferrer">Fernstrom JD. Effects and side effects associated with the non-nutritional use of tryptophan by humans. J Nutr. 2012;142(12):2236S–2244S.</a>*

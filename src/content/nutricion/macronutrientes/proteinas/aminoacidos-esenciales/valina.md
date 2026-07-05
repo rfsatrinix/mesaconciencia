@@ -60,4 +60,4 @@ La valina suma sin brillar: no activa la síntesis proteica como la leucina ni c
 
 ---
 
-*Fuentes: <a href="https://www.who.int/publications/i/item/9241209356" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/22592853/" target="_blank" rel="noopener noreferrer">Fernstrom JD. Branched-chain amino acids and brain function. J Nutr. 2005.</a>*
+*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/22592853/" target="_blank" rel="noopener noreferrer">Fernstrom JD. Branched-chain amino acids and brain function. J Nutr. 2005.</a>*

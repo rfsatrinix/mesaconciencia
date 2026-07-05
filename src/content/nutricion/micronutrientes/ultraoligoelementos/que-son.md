@@ -52,4 +52,4 @@ La investigación dietética no avanza declarando esenciales a los candidatos an
 
 ---
 
-*Fuentes: <a href="https://www.who.int/publications/i/item/9789241561730" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a> · <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3098" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for molybdenum. EFSA Journal. 2013 (referencia para verificar ausencia de DRV en ultraoligoelementos).</a>*
+*Fuentes: <a href="https://iris.who.int/handle/10665/37931" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a> · <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3098" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for molybdenum. EFSA Journal. 2013 (referencia para verificar ausencia de DRV en ultraoligoelementos).</a>*

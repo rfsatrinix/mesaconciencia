@@ -105,6 +105,6 @@ Somos el país del potaje y cada vez comemos menos potaje.
 ## Referencias
 
 - Hallberg L, Brune M, Rossander L. (1989). The role of vitamin C in iron absorption. *International Journal for Vitamin and Nutrition Research*, Suppl 30, 103-108.
-- <a href="https://doi.org/10.1001/archinternmed.2012.3292" target="_blank" rel="noopener noreferrer">Jenkins DJ, et al. (2012). Effect of legumes as part of a low glycemic index diet on glycemic control and cardiovascular risk factors in type 2 diabetes mellitus. *Archives of Internal Medicine*, 172(21), 1653-1660.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/23089999/" target="_blank" rel="noopener noreferrer">Jenkins DJ, et al. (2012). Effect of legumes as part of a low glycemic index diet on glycemic control and cardiovascular risk factors in type 2 diabetes mellitus. *Archives of Internal Medicine*, 172(21), 1653-1660.</a>
 - <a href="https://doi.org/10.1503/cmaj.131727" target="_blank" rel="noopener noreferrer">Viguiliouk E, et al. (2014). Effect of dietary pulses on blood pressure: a systematic review and meta-analysis of controlled feeding trials. *Canadian Medical Association Journal*, 186(8), E252-E262.</a>
 - Base de Datos Española de Composición de Alimentos (BEDCA). bedca.net.

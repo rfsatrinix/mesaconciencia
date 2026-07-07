@@ -1,6 +1,6 @@
 ---
 title: "Triptófano"
-description: "El aminoácido esencial precursor de la serotonina y la melatonina: funciones, fuentes, relación con el sueño y el estado de ánimo, y suplementación."
+description: "Es el aminoácido esencial precursor de la serotonina y la melatonina: funciones, fuentes, relación con el sueño y el estado de ánimo, y suplementación."
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-12
@@ -18,7 +18,7 @@ Una vez absorbido, el triptófano se distribuye principalmente por tres rutas:
 
 **Vía de la serotonina (5-HT)** — La más conocida, aunque minoritaria. El triptófano se convierte en 5-hidroxitriptófano (5-HTP) mediante la triptófano hidroxilasa —una enzima, es decir, una proteína especializada que cataliza esa transformación— y, a continuación, en serotonina. En la glándula pineal, la serotonina se transforma en melatonina, que regula el ciclo sueño-vigilia.
 
-**Vía de la kinurenina** — La mayoritaria: absorbe entre el 90 y el 95 % del triptófano dietético. Como subproducto produce niacina (vitamina B3), aunque la eficiencia es baja: se necesitan aproximadamente 60 mg de triptófano para sintetizar 1 mg de niacina. Esta vía también participa en la regulación inmunitaria.
+**Vía de la kinurenina** — Es la ruta principal: gestiona entre el 90 y el 95 % del triptófano que ingieres, fundamentalmente en el hígado. A lo largo de esta cadena de reacciones, el triptófano se descompone en moléculas sucesivas —entre ellas la propia kinurenina que da nombre a la vía— y genera como subproducto **niacina** ([vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3)), aunque con una eficiencia muy baja: hacen falta unos 60 mg de triptófano para producir apenas 1 mg de niacina. Esta vía también interviene en la respuesta inmunitaria: cuando hay inflamación, el sistema inmune la activa para desviar el triptófano disponible y alejarlo de otras rutas —lo que, entre otras consecuencias, reduce la síntesis de serotonina, fenómeno que se detalla en el apartado siguiente.
 
 **Incorporación a proteínas** — El triptófano se usa directamente como bloque estructural en la síntesis de proteínas propias de tu organismo.
 

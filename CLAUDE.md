@@ -77,7 +77,22 @@ Cantidades, nombres y mecanismos específicos en la prosa, no solo en tablas. Ev
 
 Cada artículo y cada `que-son.md` de landing híbrida necesita una frase final potente que capture lo más distintivo del tema. No un resumen, no una recomendación genérica: una observación concreta y memorable.
 
-### 11. Prosa inteligible para legos
+### 11. Metadescripción como frase completa
+
+El campo `description` debe redactarse como una frase completa con verbo explícito, no como un fragmento nominal.
+
+Patrón vetado:
+```
+"Treonina: aminoácido esencial imprescindible para las mucinas intestinales, el colágeno y la señalización celular, con sus fuentes y efectos del déficit."
+```
+Patrón correcto:
+```
+"Treonina: es el aminoácido esencial imprescindible para las mucinas intestinales, el colágeno y la señalización celular, con sus fuentes y efectos del déficit."
+```
+
+El keyword va al inicio seguido de dos puntos; a continuación, verbo conjugado + desarrollo. Longitud: 140–160 caracteres.
+
+### 12. Prosa inteligible para legos
 
 El público objetivo tiene cero conocimientos de dietética y nutrición. Más allá de explicar los términos técnicos (criterio 2), la prosa en su conjunto debe ser comprensible para alguien sin ninguna formación previa.
 
@@ -107,7 +122,7 @@ Los `que-son.md` de landings híbridas llevan `draft: true`.
 
 ## Flujo de revisión de un artículo
 
-1. Aplicar los 11 criterios al escribir/reescribir.
+1. Aplicar los 12 criterios al escribir/reescribir.
 2. Ejecutar `node scripts/audit-enlaces.mjs --archivo=ruta`.
 3. Resolver todos los hallazgos (reales o falsos positivos reformulando).
 4. Segunda auditoría hasta obtener «✅ No se detectaron menciones sin enlace».

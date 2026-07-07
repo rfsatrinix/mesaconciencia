@@ -77,6 +77,16 @@ Cantidades, nombres y mecanismos específicos en la prosa, no solo en tablas. Ev
 
 Cada artículo y cada `que-son.md` de landing híbrida necesita una frase final potente que capture lo más distintivo del tema. No un resumen, no una recomendación genérica: una observación concreta y memorable.
 
+### 11. Prosa inteligible para legos
+
+El público objetivo tiene cero conocimientos de dietética y nutrición. Más allá de explicar los términos técnicos (criterio 2), la prosa en su conjunto debe ser comprensible para alguien sin ninguna formación previa.
+
+- Antes de introducir un mecanismo, el lector debe saber por qué le importa.
+- Las frases con múltiples subordinadas se dividen si son difíciles de seguir sin conocimiento previo.
+- Cuando se mencionan dos conceptos relacionados, explicitar la relación en lugar de asumirla.
+- Si un concepto se desarrolla en otro apartado del mismo artículo, reenviar con «como se explica en el apartado X».
+- Prueba de verificación: ¿puede alguien sin formación en nutrición seguir el argumento de principio a fin sin perderse?
+
 ---
 
 ## Frontmatter obligatorio en artículos individuales
@@ -97,7 +107,7 @@ Los `que-son.md` de landings híbridas llevan `draft: true`.
 
 ## Flujo de revisión de un artículo
 
-1. Aplicar los 10 criterios al escribir/reescribir.
+1. Aplicar los 11 criterios al escribir/reescribir.
 2. Ejecutar `node scripts/audit-enlaces.mjs --archivo=ruta`.
 3. Resolver todos los hallazgos (reales o falsos positivos reformulando).
 4. Segunda auditoría hasta obtener «✅ No se detectaron menciones sin enlace».

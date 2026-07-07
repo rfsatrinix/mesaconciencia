@@ -1,12 +1,12 @@
 ---
 title: "Metionina"
-description: "Metionina: el aminoácido azufrado donante de grupos metilo, precursor del glutatión y fuente de homocisteína, con sus implicaciones cardiovasculares."
+description: "Metionina: es el aminoácido azufrado donante de grupos metilo, precursor del glutatión y fuente de homocisteína, con sus implicaciones cardiovasculares."
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
 ---
 
-La metionina —Met en la nomenclatura estándar— es uno de los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) y el único con un átomo de azufre en su estructura. Esa particularidad no es un detalle menor: convierte a la metionina en el principal donante de grupos metilo —pequeñas unidades (–CH₃) que activan y regulan múltiples reacciones biológicas— de tu organismo, a través de la S-adenosilmetionina (SAM), una molécula implicada en más de cien procesos bioquímicos. Es también el aminoácido con el que comienza, en el ribosoma —la maquinaria molecular que ensambla las [proteínas](/nutricion/macronutrientes/proteinas) dentro de la célula—, la síntesis de cualquier proteína: el codón AUG —la señal genética que marca el punto de inicio— codifica siempre metionina, aunque en la mayoría de los casos se elimina del producto final.
+La metionina —Met en la nomenclatura estándar— es uno de los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) y el único con un átomo de [azufre](/nutricion/micronutrientes/minerales/azufre) en su estructura. Esa particularidad no es un detalle menor: convierte a la metionina en el principal donante de grupos metilo —pequeñas unidades (–CH₃) que activan y regulan múltiples reacciones biológicas— de tu organismo, a través de la S-adenosilmetionina (SAM), una molécula implicada en más de cien procesos bioquímicos —desde la fabricación de hormonas y neurotransmisores hasta la regulación de tus genes—, como se detalla en el apartado siguiente. Es también el aminoácido con el que comienza la síntesis de cualquier proteína en el ribosoma —la maquinaria molecular que ensambla las [proteínas](/nutricion/macronutrientes/proteinas) dentro de la célula—: el codón AUG, la señal genética que marca el punto de inicio, siempre codifica metionina, aunque en la mayoría de los casos esa metionina inicial se elimina del producto final.
 
 ## ¿Cuánta metionina necesitas?
 
@@ -14,23 +14,29 @@ La OMS establece el requerimiento de aminoácidos azufrados totales —metionina
 
 ## El ciclo SAM: la metionina como donante de grupos metilo
 
-En el hígado, la metionina se convierte en S-adenosilmetionina (SAM), el principal reservorio de grupos metilo de tu organismo. El SAM cede un grupo –CH₃ al aceptor correspondiente y queda convertido en S-adenosilhomocisteína (SAH), un compuesto intermedio que se hidroliza en homocisteína —un aminoácido que el cuerpo produce como subproducto de este ciclo y que debe gestionar correctamente para no acumularse—. La homocisteína puede entonces seguir dos caminos: ser reciclada de nuevo a metionina (con [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) y folato como cofactores) o ser convertida en cisteína por la vía de la transulfuración (con vitamina B6).
+En el hígado, la metionina se convierte en S-adenosilmetionina (SAM), el principal reservorio de grupos metilo de tu organismo. El SAM cede un grupo –CH₃ al aceptor correspondiente y queda convertido en S-adenosilhomocisteína (SAH), un compuesto intermedio que se transforma en homocisteína —un aminoácido que el cuerpo produce como subproducto de este ciclo y que debe gestionar correctamente para no acumularse—. La homocisteína puede entonces seguir dos caminos: ser reciclada de nuevo a metionina (con [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) y [folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) como cofactores —vitaminas que actúan como piezas imprescindibles para que la enzima funcione—) o ser convertida en cisteína por la vía de la transulfuración (con [vitamina B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6)).
 
 Los procesos que dependen de esta transferencia de grupos metilo son numerosos:
 
-- **Síntesis de creatina.** Es el mayor consumidor del SAM: el 40–50 % de todos los grupos metilo se destinan a fabricar creatina —el compuesto que tu músculo usa como fuente rápida de energía durante el ejercicio intenso—. Si obtienes creatina de la dieta —principalmente a través de carne y pescado— reduces en esa misma proporción la demanda sobre la metionina.
-- **Síntesis de fosfatidilcolina.** La fosfatidilcolina es el fosfolípido —la grasa estructural que forma las membranas de tus células— más abundante en tu organismo, y la molécula que el hepatocito —la célula de tu hígado— necesita para exportar grasa. Sin metionina suficiente, tu hígado no puede empaquetar los triglicéridos para su transporte y se produce esteatosis hepática —acumulación de grasa en el hígado—.
-- **Síntesis de adrenalina y melatonina.** Ambas hormonas requieren un paso de metilación en su cadena de síntesis.
-- **Metilación del ADN.** Las marcas metilo sobre el ADN son uno de los mecanismos centrales de la regulación epigenética —los cambios que controlan cómo se leen tus genes sin modificar su secuencia—: determinan qué genes se expresan en cada tipo celular y en cada momento.
-- **Síntesis de carnitina.** Junto con la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina), la metionina es precursora de la carnitina, la molécula que introduce los ácidos grasos en las mitocondrias —las centrales energéticas de tus células— para su oxidación.
+**Síntesis de creatina.** Es el mayor consumidor del SAM: el 40–50 % de todos los grupos metilo se destinan a fabricar creatina —el compuesto que tu músculo usa como fuente rápida de energía durante el ejercicio intenso—. Si obtienes creatina de la dieta —principalmente a través de carne y pescado— reduces en esa misma proporción la demanda sobre la metionina.
 
-La creatina es el detalle que más sorprende: casi la mitad del trabajo metilador de la metionina se dedica a este único objetivo. Es un argumento sólido para que los omnívoros que comen carne habitualmente no se preocupen en exceso por la síntesis de creatina: ya la obtienen preformada sin consumir metionina en ello.
+**Síntesis de fosfatidilcolina.** La fosfatidilcolina es el fosfolípido —la grasa estructural que forma las membranas de tus células— más abundante en tu organismo, y la molécula que el hepatocito —la célula de tu hígado— necesita para exportar grasa. Sin metionina suficiente, tu hígado no puede empaquetar los triglicéridos —la forma en que almacena la grasa— para su transporte y se produce esteatosis hepática —acumulación de grasa en el hígado—.
+
+**Síntesis de adrenalina y melatonina.** Ambas hormonas necesitan que el SAM les done un grupo –CH₃ durante su fabricación.
+
+**Metilación del ADN.** Las marcas metilo sobre el ADN son uno de los mecanismos centrales de la regulación epigenética —los cambios que controlan cómo se leen tus genes sin modificar su secuencia—: determinan qué genes se expresan en cada tipo celular y en cada momento.
+
+**Síntesis de carnitina.** Junto con la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina), la metionina es precursora de la carnitina, la molécula que introduce los ácidos grasos en las mitocondrias —las centrales energéticas de tus células— para convertirlos en energía.
+
+De todos los procesos de la lista anterior, la síntesis de creatina consume casi la mitad del trabajo metilador de la metionina. Los omnívoros que comen carne habitualmente ya obtienen la creatina preformada, sin gastar metionina en fabricarla.
 
 ## Metionina, glutatión y capacidad antioxidante
 
-La cisteína generada por la transulfuración de la homocisteína es el componente cuya disponibilidad determina cuánto **glutatión** (GSH) puede fabricar tu organismo. El glutatión es el principal antioxidante intracelular: neutraliza radicales libres —moléculas inestables que dañan las células—, participa en la detoxificación de xenobióticos —sustancias ajenas al organismo, como fármacos o contaminantes ambientales— en el hígado, y mantiene el estado redox de las proteínas —el equilibrio entre oxidación y reducción que las mantiene funcionales—.
+La cisteína que tu organismo produce a partir de la homocisteína —mediante la transulfuración descrita en el apartado anterior— es el componente cuya disponibilidad determina cuánto **glutatión** (GSH) puede fabricar. El glutatión es el principal antioxidante intracelular: neutraliza radicales libres —moléculas inestables que dañan las células—, participa en la detoxificación de xenobióticos —sustancias ajenas al organismo, como fármacos o contaminantes ambientales— en el hígado, y mantiene el equilibrio químico de las proteínas que las conserva funcionales.
 
-Si tu ingesta de metionina es insuficiente, tu cuerpo produce menos cisteína y, con ella, menos glutatión. Este es el vínculo por el que la metionina, a pesar de no ser un antioxidante en sí misma, influye directamente en tu capacidad antioxidante celular.
+Si tu ingesta de metionina es insuficiente, tu cuerpo produce menos cisteína y, con ella, menos glutatión.
+
+La metionina no es un antioxidante. Pero su escasez reduce directamente cuánto glutatión puede fabricar tu organismo.
 
 ## Fuentes alimentarias de metionina
 
@@ -58,11 +64,15 @@ La homocisteína es el subproducto inevitable del ciclo SAM. Cuando se acumula e
 
 Tres [vitaminas](/nutricion/micronutrientes/vitaminas) regulan su destino:
 
-- **Folato (vitamina B9):** actúa como cofactor de la metionina sintasa, la enzima que recicla la homocisteína de vuelta a metionina.
-- **Vitamina B12:** también actúa como cofactor indispensable en ese mismo paso. Su deficiencia es la causa más frecuente de hiperhomocisteinemia en adultos mayores y en personas con dieta vegana sin suplementación.
-- **Vitamina B6:** actúa como cofactor de la cistationina beta-sintasa, la enzima que convierte la homocisteína en cisteína por la vía de la transulfuración.
+**Folato (vitamina B9):** actúa como cofactor de la metionina sintasa, la enzima que recicla la homocisteína de vuelta a metionina.
 
-El patrón dietético más desfavorable para la homocisteína combina alta ingesta de carne —rica en metionina— con baja ingesta de verduras, legumbres y cereales integrales, que son las fuentes más ricas en folato. Los suplementos de folato y B12 reducen eficazmente los niveles de homocisteína; los ensayos clínicos no han demostrado de forma consistente que esa reducción se traduzca en menor riesgo cardiovascular, lo que sugiere que la homocisteína elevada es más un marcador que una causa directa del daño.
+**Vitamina B12:** también actúa como cofactor indispensable en ese mismo paso. Su deficiencia es la causa más frecuente de hiperhomocisteinemia en adultos mayores y en personas con dieta vegana sin suplementación.
+
+**Vitamina B6:** actúa como cofactor de la cistationina beta-sintasa, la enzima que convierte la homocisteína en cisteína por la vía de la transulfuración.
+
+El patrón dietético más desfavorable para la homocisteína combina alta ingesta de carne —rica en metionina— con baja ingesta de verduras, legumbres y cereales integrales, que son las fuentes más ricas en folato. Los suplementos de folato y B12 reducen eficazmente los niveles de homocisteína. Los ensayos clínicos no han demostrado de forma consistente que esa reducción se traduzca en menor riesgo cardiovascular.
+
+La homocisteína elevada parece ser más un marcador que una causa directa del daño.
 
 ## Metionina como aminoácido limitante en las legumbres
 
@@ -74,11 +84,11 @@ Este patrón complementario es el fundamento de la combinación clásica legumbr
 
 La deficiencia grave de metionina es poco frecuente en dietas que incluyan proteína de calidad de distintas fuentes. Puede aparecer en desnutrición severa, en dietas muy restrictivas basadas casi exclusivamente en legumbres sin cereales ni proteína animal, o en enfermedades que comprometen la absorción proteica.
 
-Sus manifestaciones más características son la esteatosis hepática —el hígado no puede exportar grasa sin fosfatidilcolina, y la fosfatidilcolina requiere metionina— y la reducción del glutatión, que incrementa el estrés oxidativo —el daño que se produce cuando los radicales libres superan la capacidad antioxidante de tus células—. Se describen también fatiga, pérdida de masa muscular y alteraciones en la síntesis de proteínas que requieren metilación.
+Sus manifestaciones más características son la esteatosis hepática —el hígado no puede exportar grasa sin fosfatidilcolina, y la fosfatidilcolina requiere metionina— y la reducción del glutatión, que incrementa el estrés oxidativo —el daño que se produce cuando los radicales libres superan la capacidad antioxidante de tus células—. A eso se añaden fatiga, pérdida de masa muscular y alteraciones en la síntesis de proteínas que requieren metilación.
 
 ## SAMe: el suplemento derivado de la metionina
 
-La S-adenosilmetionina (SAMe) se comercializa como suplemento —distinto del aminoácido L-metionina— con tres usos respaldados por ensayos clínicos de calidad moderada: depresión leve a moderada, osteoartritis —el desgaste del cartílago articular que provoca dolor en las articulaciones— y esteatohepatitis no alcohólica —inflamación del hígado causada por acumulación de grasa sin relación con el alcohol—. En los tres casos, los resultados son positivos pero no concluyentes, y los estudios son insuficientes para hacer recomendaciones firmes. Su ventaja sobre los antidepresivos en la depresión es el perfil de efectos adversos más favorable; su desventaja es el coste y la variabilidad de absorción oral.
+La S-adenosilmetionina (SAMe) se comercializa como suplemento —distinto del aminoácido L-metionina— con tres usos respaldados por ensayos clínicos de calidad moderada: depresión leve a moderada, osteoartritis —el desgaste del cartílago articular que provoca dolor en las articulaciones— y esteatohepatitis no alcohólica —inflamación del hígado causada por acumulación de grasa sin relación con el alcohol—. En los tres casos, los resultados son positivos pero no concluyentes, y los estudios son insuficientes para hacer recomendaciones firmes. Su ventaja sobre los antidepresivos en la depresión es que genera menos efectos secundarios; su desventaja es el coste y la variabilidad de absorción oral.
 
 El suplemento de L-metionina no es equivalente al SAMe: el aminoácido libre debe pasar por el ciclo de activación en el hígado antes de estar disponible como donante de metilo, con menor eficiencia en personas con función hepática comprometida.
 

@@ -1,6 +1,6 @@
 ---
 title: "Lisina"
-description: "El aminoácido esencial limitante en los cereales: funciones en el colágeno y la carnitina, relación con el calcio, fuentes alimentarias y suplementación."
+description: "Lisina: es el aminoácido esencial limitante en los cereales; funciones en el colágeno y la carnitina, relación con el calcio, fuentes y suplementación."
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-15
@@ -14,9 +14,9 @@ La OMS establece una necesidad media de **30 mg/kg de peso corporal al día** en
 
 ## Funciones principales de la lisina
 
-**Síntesis de colágeno** — La más conocida. El colágeno es la proteína más abundante de tu cuerpo: forma tendones, ligamentos, piel, huesos y vasos sanguíneos. Para que el colágeno sea estable, la lisina debe ser modificada por una enzima —una proteína especializada— llamada lisil oxidasa, que la convierte en hidroxilisina —una variante modificada de la propia lisina— que actúa como punto de anclaje para crear las cadenas cruzadas que dan resistencia a la estructura. Sin lisina suficiente, el colágeno pierde integridad.
+**Síntesis de colágeno** — Es la más conocida. El colágeno es la proteína más abundante de tu cuerpo: forma tendones, ligamentos, piel, huesos y vasos sanguíneos. Para que el colágeno sea estable, la lisina debe ser modificada por una enzima —una proteína especializada— llamada lisil oxidasa, que la convierte en hidroxilisina —una variante modificada de la propia lisina— que actúa como punto de anclaje para crear las cadenas cruzadas que dan resistencia a la estructura. Sin lisina suficiente, el colágeno pierde integridad.
 
-**Síntesis de carnitina** — La carnitina es la molécula que transporta los ácidos grasos al interior de las mitocondrias —las centrales energéticas de tus células— para ser convertidos en energía. Tu organismo la fabrica a partir de lisina y [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), B3 y B6. Si tu ingesta de lisina es insuficiente, puedes tener niveles bajos de carnitina, lo que afecta a tu metabolismo de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos).
+**Síntesis de carnitina** — La carnitina es la molécula que transporta los ácidos grasos —las grasas descompuestas por la digestión— al interior de las mitocondrias —las centrales energéticas de tus células— para convertirlos en energía. Tu organismo la fabrica a partir de lisina y [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), la [vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3) y la [vitamina B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6). Si tu ingesta de lisina es insuficiente, puedes tener niveles bajos de carnitina, lo que afecta a tu metabolismo de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos).
 
 **Absorción del calcio** — La lisina favorece la absorción intestinal de [calcio](/nutricion/micronutrientes/minerales/calcio) y reduce su excreción urinaria. Este doble efecto la convierte en un factor relevante para la mineralización ósea —el proceso por el que el calcio se deposita en tus huesos—, aunque el mecanismo exacto no se conoce completamente.
 
@@ -51,7 +51,7 @@ Esto tiene consecuencias prácticas para quienes basan su dieta mayoritariamente
 
 Existe evidencia clínica —modesta pero consistente— de que la suplementación con L-lisina puede reducir la frecuencia y la duración de los brotes de herpes simple (VHS-1, el herpes labial).
 
-El mecanismo propuesto se basa en la **competencia con la arginina**. El virus del herpes necesita arginina para replicarse. La lisina y la arginina comparten el mismo transportador —la proteína que los lleva a través de la pared intestinal y de las membranas celulares— en el intestino y en las células: cuando hay más lisina disponible, menos arginina entra en juego, lo que dificulta la replicación viral.
+El mecanismo propuesto se basa en la **competencia con la arginina** —otro aminoácido que el virus del herpes necesita para replicarse y que comparte con la lisina el mismo transportador de absorción—. La lisina y la arginina comparten el mismo transportador —la proteína que los lleva a través de la pared intestinal y de las membranas celulares— en el intestino y en las células: cuando hay más lisina disponible, menos arginina entra en juego, lo que dificulta la replicación viral.
 
 Varios ensayos clínicos han mostrado que dosis de **1.000–3.000 mg/día** reducen la frecuencia de brotes en personas propensas. Los resultados no son uniformes: algunos estudios no encuentran diferencia significativa frente a placebo. La evidencia es suficiente para considerarla una opción razonable y segura en personas con brotes frecuentes, pero no se puede considerar un tratamiento definitivo.
 
@@ -61,8 +61,9 @@ La misma lógica lleva a recomendar **limitar los alimentos ricos en arginina** 
 
 La suplementación con L-lisina tiene dos usos clínicos con evidencia:
 
-- **Prevención de herpes labial**: la dosis estudiada es de 1.000–3.000 mg/día en personas propensas a brotes. El protocolo y los matices de la evidencia se describen en la sección anterior.
-- **Soporte del colágeno**: se suele combinar en dosis bajas (500–1.000 mg/día) con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), con la que comparte la vía de síntesis de colágeno. La evidencia específica de este protocolo combinado es limitada, aunque la bioquímica subyacente es sólida.
+**Prevención de herpes labial:** la dosis estudiada es de 1.000–3.000 mg/día en personas propensas a brotes. El protocolo y los matices de la evidencia se describen en la sección anterior.
+
+**Soporte del colágeno:** se suele combinar en dosis bajas (500–1.000 mg/día) con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), con la que comparte la vía de síntesis de colágeno. La evidencia específica de este protocolo combinado es limitada, aunque la bioquímica subyacente es sólida.
 
 Es bien tolerada en el rango habitual. Dosis superiores a 10 g/día pueden provocar diarrea y dolor abdominal. No hay interacciones relevantes documentadas con medicamentos comunes, salvo las ya mencionadas por competencia con la arginina.
 
@@ -70,7 +71,7 @@ Es bien tolerada en el rango habitual. Dosis superiores a 10 g/día pueden provo
 
 La deficiencia grave de lisina es rara en dietas variadas. Puede aparecer en personas que consumen dietas muy basadas en cereales refinados sin apenas legumbres, huevos, lácteos o carne. Los signos descritos incluyen fatiga, pérdida de apetito, náuseas, retraso del crecimiento en niños y, en casos severos, alteraciones en la síntesis de colágeno.
 
-Históricamente, las poblaciones que dependían casi exclusivamente del maíz no nixtamalizado —sin el proceso de cocción con cal que libera los nutrientes atrapados en el grano— sufrían déficits combinados de lisina, [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) y niacina —la vitamina B3— que se manifestaban como pelagra y retraso del crecimiento.
+Históricamente, las poblaciones que dependían casi exclusivamente del maíz no nixtamalizado —sin el proceso de cocción con cal que libera los nutrientes atrapados en el grano— sufrían déficits combinados de lisina, [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) y niacina —la [vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3)— que se manifestaban como **pelagra** —una enfermedad de déficit que provoca lesiones en la piel, diarrea y deterioro cognitivo— y retraso del crecimiento.
 
 La lisina es el aminoácido esencial con mayor impacto práctico en dietas centradas en cereales: es el primero en escasear cuando las legumbres y la proteína animal están ausentes.
 

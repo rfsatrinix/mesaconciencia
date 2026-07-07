@@ -1,6 +1,6 @@
 ---
 title: "Triptófano"
-description: "Es el aminoácido esencial precursor de la serotonina y la melatonina: funciones, fuentes, relación con el sueño y el estado de ánimo, y suplementación."
+description: "Triptófano: es el aminoácido esencial precursor de la serotonina y la melatonina, con sus fuentes, efectos sobre el sueño y el ánimo, y suplementación."
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-12
@@ -16,7 +16,7 @@ La OMS establece una necesidad media estimada de **4 mg/kg de peso corporal al d
 
 Una vez absorbido, el triptófano se distribuye principalmente por tres rutas:
 
-**Vía de la serotonina (5-HT)** — La más conocida, aunque minoritaria. El triptófano se convierte en 5-hidroxitriptófano (5-HTP) mediante la triptófano hidroxilasa —una enzima, es decir, una proteína especializada que cataliza esa transformación— y, a continuación, en serotonina. En la glándula pineal, la serotonina se transforma en melatonina, que regula el ciclo sueño-vigilia.
+**Vía de la serotonina (5-HT)** — Es la más conocida de las tres, aunque gestiona solo el 5–10 % del triptófano total. El triptófano se convierte en 5-hidroxitriptófano (5-HTP) mediante la triptófano hidroxilasa —una enzima, es decir, una proteína especializada que cataliza esa transformación— y, a continuación, en serotonina. En la glándula pineal, la serotonina se transforma en melatonina, que regula el ciclo sueño-vigilia.
 
 **Vía de la kinurenina** — Es la ruta principal: gestiona entre el 90 y el 95 % del triptófano que ingieres, fundamentalmente en el hígado. A lo largo de esta cadena de reacciones, el triptófano se descompone en moléculas sucesivas —entre ellas la propia kinurenina que da nombre a la vía— y genera como subproducto **niacina** ([vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3)), aunque con una eficiencia muy baja: hacen falta unos 60 mg de triptófano para producir apenas 1 mg de niacina. Esta vía también interviene en la respuesta inmunitaria: cuando hay inflamación, el sistema inmune la activa para desviar el triptófano disponible y alejarlo de otras rutas —lo que, entre otras consecuencias, reduce la síntesis de serotonina, fenómeno que se detalla en el apartado siguiente.
 
@@ -57,13 +57,15 @@ La idea de que el pavo provoca sueño por su triptófano es un mito extendido. E
 
 **5-HTP (5-hidroxitriptófano)**: es el paso metabólico intermedio entre el triptófano y la serotonina. Atraviesa la barrera hematoencefálica de forma más eficiente que el triptófano. Hay evidencia preliminar de utilidad en depresión leve, trastornos del sueño y migraña, pero los ensayos son escasos y de calidad limitada.
 
-El 5-HTP no debe combinarse con antidepresivos inhibidores de la recaptación de serotonina (ISRS), inhibidores de la MAO (IMAO) ni tramadol: el riesgo de síndrome serotoninérgico —una acumulación peligrosa de serotonina en el sistema nervioso— es real y puede ser grave.
+El 5-HTP no debe tomarse si usas antidepresivos que también elevan la serotonina —como los ISRS (inhibidores de la recaptación de serotonina, entre ellos la fluoxetina o la sertralina) o los IMAO (inhibidores de la MAO, la enzima que degrada la serotonina)— ni con tramadol: el riesgo de síndrome serotoninérgico —una acumulación peligrosa de serotonina en el sistema nervioso— es real y puede ser grave.
 
 ## Deficiencia de triptófano
 
-La deficiencia aislada de triptófano es rara en dietas variadas. Su manifestación histórica más conocida es la **pelagra**, causada por déficit combinado de niacina y triptófano. Fue frecuente en poblaciones que subsistían mayoritariamente de maíz no nixtamalizado: el maíz es bajo en triptófano y en niacina biodisponible —la forma de niacina que tu intestino puede absorber—, y sin nixtamalización (el proceso de cocción con cal que libera la niacina) ambos déficits se suman.
+La deficiencia aislada de triptófano es rara en dietas variadas. Su manifestación histórica más conocida es la **pelagra** —una enfermedad de déficit que provoca lesiones en la piel, diarrea y deterioro cognitivo—, causada por el déficit combinado de niacina y triptófano. Fue frecuente en poblaciones que subsistían mayoritariamente de maíz no nixtamalizado: el maíz es bajo en triptófano y en niacina biodisponible —la forma de niacina que tu intestino puede absorber—, y sin nixtamalización (el proceso de cocción con cal que libera la niacina) ambos déficits se suman.
 
 En dietas occidentales variadas, alcanzar los 280 mg/día no exige ningún alimento especial: cualquier comida con proteína de calidad cubre la mayor parte de esa cifra.
+
+El 95 % del triptófano que ingieres no produce serotonina: termina en la vía de la kinurenina. Lo que mejor facilita que el resto llegue al cerebro no es comer más pavo ni más proteína, sino acompañar cualquier fuente proteica con hidratos de carbono que reduzcan la competencia en el transportador.
 
 ---
 

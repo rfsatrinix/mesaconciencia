@@ -8,6 +8,8 @@ Sitio web de nutrición con contenido científico divulgativo. Stack: Astro 6, c
 
 Estos criterios se aplican a TODOS los artículos individuales y landings híbridas, tanto al crearlos como al revisarlos.
 
+**Antes de empezar cualquier tarea de escritura:** leer los archivos de memoria referenciados en MEMORY.md con trigger «Leer si: redactar cualquier artículo» o «Leer si: crear o revisar cualquier artículo». En particular: `feedback_criterio13-estilo-rafa.md` (criterio 13 y veredicto sobre tensiones entre criterios), `feedback_guia-editorial-textos.md`, `feedback_formato-listas.md` y `feedback_seo-y-enlaces-internos.md`.
+
 ### 1. Tuteo
 
 Dirigirse al lector de «tú» siempre que el contexto sea una recomendación o descripción dirigida a él. Sustituir construcciones impersonales («se recomienda», «es aconsejable», «en dietas que contienen», «el organismo») por frases con «tú» o «tu».
@@ -102,6 +104,18 @@ El público objetivo tiene cero conocimientos de dietética y nutrición. Más a
 - Si un concepto se desarrolla en otro apartado del mismo artículo, reenviar con «como se explica en el apartado X».
 - Prueba de verificación: ¿puede alguien sin formación en nutrición seguir el argumento de principio a fin sin perderse?
 
+### 13. Ritmo por contraste de longitudes y primera persona opinativa
+
+**Ritmo:** Tras un bloque explicativo denso, una sola frase corta puede rematar la idea principal o fijar el dato más llamativo. El contraste de longitudes no es decorativo: activa la atención y ayuda al lector a recordar lo esencial. No en todos los párrafos: solo cuando hay una conclusión nítida o un dato que merece destacarse solo.
+
+**Primera persona:** Cuando la afirmación es interpretación del autor y no resultado establecido por la evidencia, usar explícitamente «creo que», «propongo» o «mi valoración es». No esconder el juicio personal detrás de impersonales («se podría decir que», «cabe considerar que»).
+
+Ejemplos del patrón de ritmo:
+- Bloque largo con mecanismo complejo → frase sola de remate: «La metionina no es el aminoácido que acapara titulares, pero pocas moléculas de la dieta tocan tantos procesos a la vez.»
+- Bloque largo → dato concreto sorprendente solo: «El 95 % del triptófano que ingieres no produce serotonina: termina en la vía de la kinurenina.»
+
+**Verificación:** Al terminar un artículo, revisar que haya al menos un momento de frase corta de remate en las secciones más densas.
+
 ---
 
 ## Frontmatter obligatorio en artículos individuales
@@ -122,7 +136,7 @@ Los `que-son.md` de landings híbridas llevan `draft: true`.
 
 ## Flujo de revisión de un artículo
 
-1. Aplicar los 12 criterios al escribir/reescribir.
+1. Aplicar los 13 criterios al escribir/reescribir.
 2. Ejecutar `node scripts/audit-enlaces.mjs --archivo=ruta`.
 3. Resolver todos los hallazgos (reales o falsos positivos reformulando).
 4. Segunda auditoría hasta obtener «✅ No se detectaron menciones sin enlace».

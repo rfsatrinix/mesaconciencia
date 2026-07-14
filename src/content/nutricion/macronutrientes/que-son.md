@@ -1,6 +1,6 @@
 ---
 title: "Macronutrientes"
-description: "Qué son los macronutrientes, qué función cumple cada uno, cuánta cantidad necesitas al día y cómo repartir proteínas, carbohidratos y grasas en la dieta."
+description: "Macronutrientes: son los tres nutrientes que aportan energía a tu cuerpo, con sus funciones, cantidades de referencia y cómo repartirlos en tu dieta."
 categoria: "Macronutrientes"
 draft: true
 date: 2026-06-15
@@ -8,21 +8,21 @@ date: 2026-06-15
 
 Los **macronutrientes** son los nutrientes que tu organismo necesita en grandes cantidades para obtener energía y mantener sus estructuras. Son tres: hidratos de carbono, proteínas y grasas.
 
-A diferencia de los [micronutrientes](/nutricion/micronutrientes) —[vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales)—, los macronutrientes aportan calorías —kilocalorías (kcal) en la terminología técnica—. Cada uno tiene una densidad energética propia y cumple funciones que van mucho más allá de darte energía.
+A diferencia de los [micronutrientes](/nutricion/micronutrientes) —[vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales)—, los macronutrientes aportan calorías —técnicamente, **kilocalorías (kcal)**—. Cada uno tiene una densidad energética propia y cumple funciones que van mucho más allá de darte energía.
 
 ## Los tres macronutrientes
 
 ### Hidratos de carbono
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) son la fuente de energía preferida de tu cerebro y tus músculos durante el ejercicio de alta intensidad. Aportan **4 kilocalorías por gramo**. Se dividen en simples (azúcares) y complejos (almidones y [fibra](/nutricion/fibra-alimenticia)). La EFSA recomienda que aporten entre el 45 y el 60 % de tu energía total diaria.
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) son la fuente de energía preferida de tu cerebro y tus músculos durante el ejercicio de alta intensidad. Aportan **4 kilocalorías por gramo**. Se dividen en los que el cuerpo digiere rápido —los **hidratos simples**, como los azúcares— y los que procesa más lentamente —los **hidratos complejos**, como los almidones y la [fibra](/nutricion/fibra-alimenticia)—. La EFSA recomienda que aporten entre el 45 y el 60 % de tu energía total diaria.
 
 ### Proteínas
 
-Las [proteínas](/nutricion/macronutrientes/proteinas) forman el material estructural de tu cuerpo: el músculo, el tejido conjuntivo —la red de fibras que sostiene y une tus órganos y articulaciones—, las enzimas, las hormonas y los anticuerpos. Aportan **4 kilocalorías por gramo**. La ingesta de referencia para adultos sanos es de **0,83 g por kg de peso corporal al día**; tus necesidades aumentan con la actividad física o en etapas de crecimiento y reparación tisular.
+Las [proteínas](/nutricion/macronutrientes/proteinas) forman el material estructural de tu cuerpo: el músculo, la red de fibras que sostiene y une tus órganos y articulaciones —el **tejido conjuntivo**—, las enzimas, las hormonas y los anticuerpos. Aportan **4 kilocalorías por gramo**. La ingesta de referencia para adultos sanos es de **0,83 g por kg de peso corporal al día**; tus necesidades aumentan con la actividad física o en etapas de crecimiento y reparación de tejidos.
 
 ### Grasas o lípidos
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) aportan **9 kilocalorías por gramo** —más del doble que los hidratos o las proteínas—. Más que un depósito de energía, son imprescindibles para que tu cuerpo absorba las [vitaminas liposolubles](/nutricion/micronutrientes/vitaminas/liposolubles) (A, D, E, K), fabrique tus hormonas y mantenga la integridad de las membranas celulares —las paredes que delimitan cada una de tus células—. La EFSA recomienda que aporten entre el 20 y el 35 % de tu energía total.
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) aportan **9 kilocalorías por gramo** —más del doble que los hidratos o las proteínas—. Más que un depósito de energía, son imprescindibles para que tu cuerpo absorba las [vitaminas liposolubles](/nutricion/micronutrientes/vitaminas/liposolubles) (A, D, E, K), fabrique tus hormonas y mantenga en buen estado las paredes que delimitan cada una de tus células —las **membranas celulares**—. La EFSA recomienda que aporten entre el 20 y el 35 % de tu energía total.
 
 ## ¿Cuánto de cada macronutriente necesitas?
 
@@ -36,9 +36,13 @@ Estas cifras son orientativas. Tus necesidades reales varían según tu edad, tu
 
 ## Por qué el equilibrio entre macronutrientes importa
 
-Eliminar cualquiera de los tres —algo frecuente en dietas de moda— tiene consecuencias concretas: reducir drásticamente los hidratos limita tu rendimiento cognitivo y físico; restringir demasiado las grasas compromete tu salud hormonal; una ingesta proteica insuficiente acelera la pérdida de tu masa muscular con los años.
+Eliminar cualquiera de los tres —algo frecuente en dietas de moda— tiene consecuencias concretas: reducir drásticamente los hidratos limita la capacidad de tu cerebro para pensar —tu **rendimiento cognitivo**— y tu capacidad de esfuerzo físico; restringir demasiado las grasas compromete la producción de tus hormonas; una ingesta de proteínas insuficiente acelera la pérdida de tu masa muscular con los años.
 
-La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son las fuentes que lo aportan: cereales integrales en lugar de azúcares añadidos, grasas insaturadas en lugar de grasas trans —un tipo de grasa artificial que eleva el colesterol LDL y que conviene evitar—, proteínas de alta biodisponibilidad —es decir, que tu intestino puede absorber y aprovechar con facilidad— como las de origen animal o las combinaciones vegetales bien planificadas.
+Las dietas de moda cambian. Tu biología, no.
+
+La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son las fuentes que lo aportan. Eso implica elegir cereales integrales antes que azúcares añadidos, grasas saludables —las **insaturadas**— antes que las artificiales que elevan el colesterol malo (LDL) —las **grasas trans**—, y proteínas que tu intestino pueda absorber con facilidad —las de **alta biodisponibilidad**—, como las de origen animal o las combinaciones vegetales bien planificadas.
+
+La fuente importa más que el porcentaje.
 
 ---
 

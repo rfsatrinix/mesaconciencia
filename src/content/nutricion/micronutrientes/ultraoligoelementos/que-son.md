@@ -1,52 +1,61 @@
 ---
 title: "Ultraoligoelementos"
-description: "Boro, silicio, vanadio y germanio: los cuatro elementos traza sin esencialidad reconocida por EFSA ni OMS y sin dosis de referencia dietética establecida."
+description: "Ultraoligoelementos: son los cuatro elementos traza cuya esencialidad no está reconocida; evidencia disponible y riesgos del boro, silicio, vanadio y germanio."
 categoria: "Ultraoligoelementos"
 draft: true
 date: 2026-07-04
 ---
 
-Los ultraoligoelementos son elementos traza que aparecen en los alimentos y en los tejidos humanos —huesos, hígado, riñones, sangre— pero cuya esencialidad para la salud humana no ha sido reconocida por la EFSA ni por la OMS. No tienen dosis de referencia dietética establecida porque la evidencia disponible no ha permitido identificar ningún proceso fisiológico que los requiera de forma específica e irremplazable. Esto los distingue de los [oligoelementos](/nutricion/micronutrientes/oligoelementos) clásicos —[hierro](/nutricion/micronutrientes/oligoelementos/hierro), [zinc](/nutricion/micronutrientes/oligoelementos/zinc), [yodo](/nutricion/micronutrientes/oligoelementos/yodo), [selenio](/nutricion/micronutrientes/oligoelementos/selenio), [cobre](/nutricion/micronutrientes/oligoelementos/cobre)—, cuya función biológica esencial en humanos está documentada con suficiente rigor como para que las autoridades sanitarias hayan fijado recomendaciones de ingesta.
+Los ultraoligoelementos son componentes que aparecen en cantidades ínfimas —los **elementos traza**— tanto en los alimentos como en los tejidos de tu cuerpo: huesos, hígado, riñones, sangre. Lo que los diferencia de los [oligoelementos](/nutricion/micronutrientes/oligoelementos) clásicos —[hierro](/nutricion/micronutrientes/oligoelementos/hierro), [zinc](/nutricion/micronutrientes/oligoelementos/zinc), [yodo](/nutricion/micronutrientes/oligoelementos/yodo), [selenio](/nutricion/micronutrientes/oligoelementos/selenio), [cobre](/nutricion/micronutrientes/oligoelementos/cobre)— es que ninguna autoridad sanitaria ha podido confirmar que sean imprescindibles para vivir: su condición de nutrientes que el cuerpo necesita y no puede reemplazar con ningún otro —la **esencialidad**— no ha sido reconocida ni por la EFSA ni por la OMS. No tienen una ingesta de referencia establecida porque la evidencia disponible no ha identificado ninguna función del cuerpo que los requiera de forma específica.
 
-Que no tengan dosis de referencia no significa que sean inertes ni que la ciencia los ignore. Significa algo más preciso: la evidencia disponible —procedente en gran parte de estudios en animales y de ensayos clínicos pequeños en humanos— no es suficiente para establecer una relación causal entre la ingesta de estos elementos y un resultado de salud específico en poblaciones humanas. Ese estado de «posiblemente activo pero no establecido» no es permanente: el [selenio](/nutricion/micronutrientes/oligoelementos/selenio) fue durante décadas un elemento de toxicidad conocida pero sin función esencial reconocida, hasta que se identificaron las selenoproteínas en los años setenta. El [flúor](/nutricion/micronutrientes/oligoelementos/fluor) tardó más de un siglo en que su papel en la protección del esmalte dental fuera cuantificado con rigor suficiente para que la EFSA fijara una ingesta adecuada. Los cuatro ultraoligoelementos de esta sección son los candidatos que la investigación actual sitúa en esa frontera.
+Que no tengan una ingesta de referencia no significa que sean inertes ni que la ciencia los ignore. Significa algo más preciso: la evidencia disponible —procedente en gran parte de estudios en animales y de ensayos clínicos pequeños en humanos— no es suficiente para establecer una relación causal entre su ingesta y un resultado de salud concreto en poblaciones humanas. Ese estado de «posiblemente activo pero no establecido» no es permanente: el [selenio](/nutricion/micronutrientes/oligoelementos/selenio) fue durante décadas un elemento de toxicidad conocida pero sin función esencial reconocida, hasta que en los años setenta se descubrió que es parte estructural de un grupo de moléculas del organismo —las **selenoproteínas**—. El [flúor](/nutricion/micronutrientes/oligoelementos/fluor) tardó más de un siglo en que su papel en la protección del esmalte dental fuera cuantificado con rigor suficiente para que la EFSA fijara una ingesta adecuada. Los cuatro ultraoligoelementos de esta sección son los candidatos que la investigación actual sitúa en esa frontera.
 
 ## Los cuatro ultraoligoelementos estudiados
 
 | Elemento | Principales fuentes | Investigación principal | Toxicidad |
 |---|---|---|---|
-| **Boro** | Frutas, frutos secos, legumbres, verduras | Metabolismo óseo, regulación hormonal, función cognitiva | Baja a dosis dietéticas |
-| **Silicio** | Cereales integrales, verduras, granos fermentados | Síntesis de colágeno, mineralización ósea | Muy baja a dosis dietéticas |
-| **Vanadio** | Marisco, setas, cereales, pimienta negra | Sensibilidad a la insulina, metabolismo glucémico | Moderada; margen estrecho entre dosis estudiada y tóxica |
-| **Germanio** | Ajo, setas medicinales, ginseng | Sin función confirmada en humanos | Alta en formas inorgánicas; casos documentados de toxicidad renal |
+| **Boro** | Frutas, frutos secos, legumbres, verduras | Formación del hueso, regulación hormonal, función cognitiva | Baja a dosis dietéticas |
+| **Silicio** | Cereales integrales, verduras, granos fermentados | Fabricación de colágeno, estructura del hueso | Muy baja a dosis dietéticas |
+| **Vanadio** | Marisco, setas, cereales, pimienta negra | Sensibilidad a la insulina, control del azúcar en sangre | Moderada; margen estrecho entre dosis estudiada y tóxica |
+| **Germanio** | Ajo, setas medicinales, ginseng | Sin función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
 
-**Boro**: las investigaciones más consistentes apuntan al metabolismo óseo —el boro parece amplificar la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los estrógenos, que regulan la mineralización del hueso— y a la función cognitiva en personas mayores. La ingesta habitual en dietas ricas en frutas y verduras se sitúa entre 1 y 3 mg/día, y ningún caso de toxicidad se ha asociado a fuentes alimentarias.
+**[Boro](/nutricion/micronutrientes/ultraoligoelementos/boro).** Las investigaciones más consistentes apuntan a los procesos de formación y mantenimiento del hueso —el **metabolismo óseo**— y a la función cognitiva en personas mayores. El boro parece amplificar la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los estrógenos, que intervienen en la incorporación del [calcio](/nutricion/micronutrientes/minerales/calcio) al hueso. Si tu dieta es rica en frutas y verduras, tu ingesta habitual de boro se sitúa entre 1 y 3 mg/día, y ningún caso de toxicidad se ha asociado a fuentes alimentarias.
 
-**Silicio**: es el tercer elemento más abundante en la corteza terrestre y está presente en todos los alimentos de origen vegetal, especialmente en los cereales integrales. En el cuerpo humano se concentra en el tejido conectivo —huesos, cartílagos, tendones—, donde participa en la síntesis de colágeno y en la organización de la matriz ósea. La evidencia en humanos es sugestiva pero no concluyente: los estudios observacionales asocian mayor ingesta de silicio con mayor densidad mineral ósea, pero los ensayos de intervención son escasos y pequeños.
+**[Silicio](/nutricion/micronutrientes/ultraoligoelementos/silicio).** Es el tercer elemento más abundante en la corteza terrestre y está presente en todos los alimentos de origen vegetal, especialmente en los cereales integrales. En tu cuerpo se concentra en los tejidos que dan soporte y estructura al organismo —huesos, cartílagos y tendones, lo que se conoce como **tejido conectivo**—, donde participa en la fabricación de colágeno y en la arquitectura del tejido óseo. La evidencia en humanos es sugestiva pero no concluyente: los estudios observacionales asocian mayor ingesta de silicio con mayor solidez y densidad de los huesos, pero los ensayos clínicos son escasos y pequeños.
 
-**Vanadio**: ha generado interés clínico por su capacidad de mimetizar la acción de la insulina —activa los mismos receptores y vías de señalización intracelular—, y algunos ensayos en personas con diabetes tipo 2 han mostrado reducciones moderadas de la glucemia en ayunas con dosis de vanadio muy superiores a las dietéticas. El problema es que esas dosis se acercan a las que producen toxicidad gastrointestinal y renal en estudios en animales. Sin ensayos de seguridad a largo plazo en humanos, no existe una dosis de suplementación que se pueda considerar segura.
+**[Vanadio](/nutricion/micronutrientes/ultraoligoelementos/vanadio).** Ha generado interés clínico por su capacidad de imitar el efecto de la insulina —actúa sobre los mismos mecanismos que esta hormona activa dentro de las células—, y algunos ensayos en personas con diabetes tipo 2 han mostrado reducciones moderadas del azúcar en sangre en ayunas con dosis muy superiores a las dietéticas. El problema es que esas dosis se acercan a las que producen irritación del aparato digestivo y daño en los riñones en estudios en animales. Sin ensayos de seguridad a largo plazo en humanos, no existe una dosis de suplementación que se pueda considerar segura.
 
-**Germanio**: es el único de los cuatro con una señal de riesgo documentada de forma inequívoca. El dióxido de germanio (GeO₂) —la forma inorgánica presente en suplementos vendidos durante los años ochenta— causó insuficiencia renal grave y muertes en usuarios que lo tomaron de forma prolongada. Los compuestos orgánicos de germanio tienen un perfil de seguridad algo mejor, pero tampoco tienen ninguna función biológica reconocida ni evidencia clínica sólida de beneficio. Su inclusión en esta sección responde únicamente a que sigue generando búsquedas y a que la información disponible —incluyendo los riesgos reales— merece una exposición honesta.
+El problema del vanadio no es que no parezca activo: es que la dosis que podría serlo roza la que daña.
+
+**[Germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio).** Es el único de los cuatro con una señal de riesgo documentada de forma inequívoca. El dióxido de germanio (GeO₂) —la forma inorgánica presente en suplementos vendidos durante los años ochenta— causó la pérdida grave e irreversible de la función del riñón —la **insuficiencia renal**— y muertes en usuarios que lo tomaron de forma prolongada. Los compuestos orgánicos de germanio tienen un perfil de seguridad algo mejor, pero tampoco tienen ningún papel conocido en el organismo ni evidencia clínica sólida de beneficio. Su inclusión en esta sección responde únicamente a que sigue generando búsquedas y a que la información disponible —incluyendo los riesgos reales— merece una exposición honesta.
 
 ## ¿Por qué no existe una dosis de referencia?
 
-La EFSA establece ingestas de referencia cuando puede construir una curva dosis-respuesta fiable en humanos: identificar el nivel de ingesta a partir del cual aparece el beneficio y el nivel a partir del cual aparece el daño. Para los cuatro ultraoligoelementos, esa curva no existe con datos humanos suficientes.
+La EFSA establece ingestas de referencia cuando puede determinar, con datos en humanos, a partir de qué cantidad de un nutriente aparece el beneficio y a partir de cuánta empieza el daño —lo que se conoce como una **curva dosis-respuesta**—. Para los cuatro ultraoligoelementos, esa curva no existe con datos humanos suficientes.
 
 El proceso requiere tres pasos:
 
-- **Definir la función esencial**: qué proceso fisiológico requiere específicamente el elemento y no puede mantenerse con ningún sustituto. Para el boro y el silicio, este primer paso no está resuelto: hay funciones plausibles, pero ninguna que los estudios actuales demuestren inequívocamente como esencial.
-- **Cuantificar el requerimiento**: qué ingesta mínima sostiene esa función en condiciones normales. Sin el primer paso, el segundo es imposible.
-- **Establecer el límite de seguridad**: a partir de qué ingesta crónica aparecen efectos adversos. Para el vanadio, el umbral de efecto y el umbral de toxicidad están demasiado próximos entre sí para fijar una recomendación segura. Para el germanio, la ausencia de función y la toxicidad documentada hacen innecesario el proceso.
+**Definir la función esencial.** Qué función del cuerpo requiere específicamente el elemento y no puede mantenerse con ningún sustituto. Para el boro y el silicio, este primer paso no está resuelto: hay funciones plausibles, pero ninguna que los estudios actuales demuestren de forma inequívoca como esencial.
+
+**Cuantificar el requerimiento.** Qué ingesta mínima sostiene esa función en condiciones normales. Sin el primer paso, el segundo es imposible.
+
+**Establecer el límite de seguridad.** A partir de qué ingesta crónica aparecen efectos adversos. Para el vanadio, el nivel al que podría resultar beneficioso y el nivel al que empieza a ser tóxico están demasiado próximos entre sí para fijar una recomendación segura. Para el germanio, la ausencia de función y la toxicidad documentada hacen innecesario el proceso.
+
+Sin los tres pasos completados, la EFSA no puede fijar ninguna cifra. Con los ultraoligoelementos, ninguno de los tres está completamente cerrado.
 
 ## Suplementación: el principal riesgo
 
-Ninguno de los cuatro ultraoligoelementos tiene una indicación de suplementación respaldada por las guías clínicas europeas. Los riesgos concretos que debes conocer:
+Ninguno de los cuatro ultraoligoelementos tiene una indicación de suplementación respaldada por las guías clínicas europeas.
 
-- Los suplementos de **boro** en dosis altas (>20 mg/día) pueden interferir con el metabolismo hormonal y producir irritación gastrointestinal; sin DRV establecido, no existe una dosis de suplemento considerada segura formalmente.
-- El **silicio** suplementario se considera de bajo riesgo, pero los datos de seguridad a largo plazo en humanos son escasos.
-- El **vanadio** suplementario —en las dosis estudiadas para el metabolismo glucémico— entra en un rango de toxicidad potencial no bien caracterizado en humanos. No debe tomarse sin supervisión médica.
-- El **germanio** inorgánico no debe consumirse bajo ninguna circunstancia; el orgánico carece de evidencia de beneficio que justifique cualquier riesgo.
+Los suplementos de **boro** en dosis altas (>20 mg/día) pueden interferir con tus hormonas y causarte irritación gastrointestinal; sin una ingesta de referencia establecida, no existe una dosis de suplemento que se pueda considerar segura.
 
-En una dieta que incluya frutas, verduras, cereales integrales, legumbres y frutos secos con regularidad, la exposición a boro, silicio y vanadio a través de los alimentos está dentro de los rangos que los estudios disponibles consideran sin riesgo. El problema no es la dieta: es la suplementación sin evidencia que la respalde.
+El **silicio** suplementario se considera de bajo riesgo, pero los datos de seguridad a largo plazo son escasos.
+
+El **vanadio** suplementario —en las dosis estudiadas para el control del azúcar en sangre— entra en un rango de toxicidad potencial no bien caracterizado en humanos. No debes tomarlo sin supervisión médica.
+
+El **germanio** inorgánico no debes consumirlo bajo ninguna circunstancia; el orgánico carece de evidencia de beneficio que justifique cualquier riesgo.
+
+Si tu dieta incluye frutas, verduras, cereales integrales, legumbres y frutos secos con regularidad, tu exposición a boro, silicio y vanadio a través de los alimentos está dentro de los rangos que los estudios disponibles consideran sin riesgo. El problema no es la dieta: es la suplementación sin evidencia que la respalde.
 
 La investigación dietética no avanza declarando esenciales a los candidatos antes de que la evidencia lo justifique, sino acumulando datos hasta que una conclusión diferente resulta indefendible. Con el boro, el silicio y el vanadio estamos en ese intervalo: sabemos que están en los alimentos y en los tejidos, sabemos que hacen algo, pero todavía no sabemos con exactitud qué ni cuánto hace falta para hacerlo.
 

@@ -18,9 +18,24 @@ Dirigirse al lector de «tú» siempre que el contexto sea una recomendación o 
 
 ### 2. Didáctico para no expertos
 
-El público objetivo no tiene formación nutricional. Los términos técnicos se mantienen (rigor + SEO) pero se explican en la misma frase o en la siguiente, con em-dash o «es decir».
+El público objetivo no tiene formación nutricional. Los términos técnicos se mantienen (rigor + SEO) pero se explican antes de nombrarlos: primero la descripción en lenguaje llano, después el término técnico en **negrita** entre em-dashes.
 
-Ejemplo correcto: «La **selenocisteína** —un aminoácido parecido a la cisteína pero con selenio en lugar de azufre— es el elemento central de las selenoproteínas.»
+Patrón correcto — explicación primero, término después:
+```
+...la grasa estructural que forma las membranas de tus células —se conoce como **fosfolípido**—...
+...las centrales energéticas de tus células —las **mitocondrias**—...
+...esos paquetes se llaman **triglicéridos**—...
+...técnicamente, **esteatosis hepática**—...
+```
+
+Patrón vetado — término primero, explicación después:
+```
+...el **fosfolípido** —la grasa estructural que forma las membranas de tus células—...
+```
+
+Las fórmulas de introducción pueden variar para evitar la repetición mecánica: «—se conoce como **X**—», «—el **X**—», «—técnicamente, **X**—», «—estos paquetes se llaman **X**—», etc.
+
+**Excepción:** acrónimos en primera mención, donde la convención estándar es término + siglas entre paréntesis: «S-adenosilmetionina (SAM)», «glutatión (GSH)».
 
 ### 3. Listas con verbos explícitos
 

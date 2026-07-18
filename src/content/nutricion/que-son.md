@@ -10,7 +10,7 @@ La nutrición es lo que ocurre entre que el alimento entra en tu boca y sus comp
 
 ## Qué son los nutrientes
 
-Los nutrientes son las sustancias que tu organismo puede absorber y utilizar. Se clasifican según la cantidad que necesitas al día en macronutrientes, micronutrientes, agua y fibra.
+Los nutrientes son las sustancias que tu cuerpo puede absorber y utilizar. Se clasifican según la cantidad que necesitas al día en macronutrientes, micronutrientes, agua y fibra.
 
 ### Macronutrientes
 
@@ -36,9 +36,11 @@ El [agua](/nutricion/agua) es el componente más abundante de tu cuerpo y el nut
 
 ## Por qué importa la nutrición
 
-La calidad de tu dieta influye directamente en tu energía diaria, la distribución de músculo y grasa en tu cuerpo —tu **composición corporal**—, la capacidad de tu cerebro para pensar y concentrarte —tu **rendimiento cognitivo**— y el riesgo de enfermedades crónicas: la diabetes tipo 2, las enfermedades cardiovasculares y algunos tipos de cáncer están estrechamente relacionados con lo que comes de forma habitual.
+La calidad de tu dieta influye directamente en tu energía diaria, en la distribución de músculo y grasa en tu cuerpo —tu **composición corporal**— y en la capacidad de tu cerebro para pensar y concentrarte —tu **rendimiento cognitivo**—. También determina el riesgo de enfermedades crónicas: la diabetes tipo 2, las enfermedades cardiovasculares y algunos tipos de cáncer están estrechamente relacionados con lo que comes de forma habitual.
 
-Entender cómo funcionan los nutrientes no es solo información académica. Te permite tomar decisiones alimentarias con criterio propio, sin depender de modas ni de consejos contradictorios.
+Entender cómo funcionan los nutrientes te permite tomar decisiones alimentarias con criterio propio, sin depender de modas ni de consejos contradictorios.
+
+Comer es inevitable. Nutrirse es una decisión.
 
 ---
 

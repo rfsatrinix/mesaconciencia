@@ -1,24 +1,26 @@
 ---
 title: "Vitamina K"
-description: "Vitamina K: activa la coagulación y fija el calcio al hueso, y un cambio brusco en su ingesta puede anular o exacerbar el efecto de los anticoagulantes."
+description: "Vitamina K: es la vitamina liposoluble que activa la coagulación y frena la calcificación arterial; su ingesta inestable puede anular el efecto anticoagulante."
 categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-07-04
 ---
 
-La vitamina K es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que existe en dos formas naturales con comportamientos distintos: la **filoquinona o K1**, presente en vegetales de hoja verde, y las **menaquinonas o K2**, sintetizadas por bacterias y presentes en alimentos fermentados y de origen animal. Su nombre deriva del alemán *Koagulationsvitamin*: fue identificada en 1929 precisamente por su papel en la coagulación sanguínea. Décadas después quedó claro que la coagulación es solo una parte de su función; la otra ocurre en tejidos que los análisis de rutina raramente vigilan.
+La vitamina K es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que existe en dos formas naturales con comportamientos distintos: la que se encuentra en los vegetales de hoja verde —la **filoquinona o K1**—, y las que sintetizan las bacterias y aparecen en alimentos fermentados y de origen animal —las **menaquinonas o K2**—. Su nombre deriva del alemán *Koagulationsvitamin*: fue identificada en 1929 precisamente por su papel en la coagulación sanguínea. Décadas después quedó claro que la coagulación es solo una parte de su función; la otra ocurre en tejidos que los análisis de rutina raramente vigilan.
 
 ## ¿Para qué sirve la vitamina K?
 
-El mecanismo de acción de la vitamina K es preciso: actúa como cofactor de la gamma-glutamil carboxilasa (GGCX) —una enzima que añade un grupo carboxilo a residuos específicos de determinadas moléculas para activarlas—. Sin esa carboxilación, esas moléculas no pueden unirse al [calcio](/nutricion/micronutrientes/minerales/calcio) y permanecen funcionalmente inactivas. Las más relevantes son:
+La vitamina K tiene un mecanismo de acción concreto y único: sin ella, una enzima que añade una pequeña modificación química a ciertas [proteínas](/nutricion/macronutrientes/proteinas) para activarlas —la **gamma-glutamil carboxilasa (GGCX)**— no puede funcionar. Ese proceso de modificación y activación se llama **carboxilación**. Sin carboxilación, esas proteínas no pueden unirse al [calcio](/nutricion/micronutrientes/minerales/calcio) ni cumplir su función: permanecen inactivas aunque el organismo las produzca con normalidad. Las más relevantes son:
 
-- **Factores de coagulación** — Los factores II (protrombina), VII, IX y X, junto con las moléculas anticoagulantes naturales C, S y Z, necesitan carboxilación para activarse. Sin vitamina K funcional, la cascada de coagulación —la serie de reacciones en cadena que forma el coágulo y detiene el sangrado— no puede completarse, y cualquier herida puede sangrar sin control.
+**Coagulación sanguínea.** Los factores II (protrombina), VII, IX y X, junto con las moléculas anticoagulantes naturales C, S y Z, necesitan carboxilación para activarse. Sin vitamina K funcional, la serie de reacciones en cadena que forma el coágulo y detiene el sangrado —la **cascada de coagulación**— no puede completarse, y cualquier herida puede sangrar sin control.
 
-- **Osteocalcina** — Producida por los osteoblastos —las células formadoras de hueso—, esta molécula se integra en la matriz ósea y, una vez carboxilada, ancla el [calcio](/nutricion/micronutrientes/minerales/calcio) al tejido óseo. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) promueve la absorción intestinal de calcio; la vitamina K garantiza que ese calcio llegue a la matriz ósea y se deposite ahí.
+**Fijación del calcio al hueso.** Las células que forman hueso nuevo —los **osteoblastos**— producen una proteína que, una vez activada por la vitamina K, se integra en la matriz ósea y ancla el calcio al tejido óseo —la **osteocalcina**—. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) promueve la absorción intestinal de calcio; la vitamina K garantiza que ese calcio llegue a la matriz ósea y se deposite ahí.
 
-- **Proteína Gla de la matriz (MGP)** — Presente en el tejido vascular, la MGP carboxilada inhibe activamente la calcificación arterial —el depósito de calcio en las paredes de las arterias que las endurece y estrecha—. Con un estado de vitamina K insuficiente, la MGP queda infracarboxilada y la calcificación de las arterias progresa sin freno.
+**Freno de la calcificación arterial.** Una proteína presente en el tejido vascular —la **proteína Gla de la matriz (MGP)**— inhibe activamente el depósito de calcio en las paredes de las arterias que las endurece y estrecha —la **calcificación arterial**—. Cuando el estado de vitamina K es insuficiente, la MGP no recibe esa activación —queda **infracarboxilada**— y la calcificación progresa sin freno.
 
 La relación entre la MGP y la calcificación vascular ha impulsado el interés por la K2, que tiene mayor afinidad por los tejidos extrahepaticos —hueso y vasos— que la K1. Los estudios observacionales apuntan a beneficios cardiovasculares y óseos con ingestas más altas de K2, pero los ensayos clínicos controlados disponibles todavía no permiten hacer afirmaciones definitivas.
+
+Tres funciones en tres tejidos distintos —la sangre, el hueso y las arterias—, activadas por el mismo proceso de carboxilación.
 
 ## ¿Cuánta vitamina K necesitas?
 
@@ -60,17 +62,17 @@ El perejil concentra más K1 por gramo que cualquier otro alimento común, pero 
 
 ## La absorción de la vitamina K
 
-La vitamina K se absorbe con las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) de la comida —el mismo mecanismo que la [vitamina A](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-a) y la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d)—. La eficiencia de absorción de la K1 oscila entre el 10 y el 80 %, condicionada en gran parte por la integridad de la célula vegetal: la K1 está unida a los cloroplastos, y cocinar o masticar bien los vegetales libera más cantidad disponible para la absorción.
+La vitamina K se absorbe con las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) de la comida —el mismo mecanismo que la [vitamina A](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-a) y la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d)—. La eficiencia de absorción de la K1 oscila entre el 10 y el 80 %, condicionada en gran parte por la integridad de la célula vegetal: la K1 está atrapada en los compartimentos fotosintéticos de la célula —los **cloroplastos**—, y cocinar o masticar bien los vegetales libera más cantidad disponible para la absorción.
 
-K1 y K2 difieren sustancialmente en su distribución en el organismo. La K1 tiene una vida media —el tiempo que tarda en reducirse a la mitad en sangre— de cuatro a seis horas, y el hígado la retiene preferentemente para asegurar la síntesis de los factores de coagulación. La MK-7, la forma de K2 presente en el natto, tiene una vida media de aproximadamente 72 horas: se acumula en los tejidos de forma mucho más eficiente y alcanza el hueso y el tejido vascular con mayor consistencia. El queso curado aporta MK-8 y MK-9, también con vidas medias largas.
+K1 y K2 difieren sustancialmente en su distribución en el organismo. La K1 permanece activa en sangre solo cuatro a seis horas —una **vida media** corta—, y el hígado la retiene preferentemente para asegurar la síntesis de los factores de coagulación. La MK-7, la forma de K2 presente en el natto, tiene una vida media de aproximadamente 72 horas: se acumula en los tejidos de forma mucho más eficiente y alcanza el hueso y el tejido vascular con mayor consistencia. El queso curado aporta MK-8 y MK-9, también con vidas medias largas.
 
 Esta diferencia explica por qué los estudios observacionales asocian un mayor consumo de K2 —no de K1— con menor calcificación arterial y mejor densidad ósea: la K2 llega a los tejidos extrahepaticos con mucha más regularidad, mientras que la K1 queda mayoritariamente retenida en el hígado.
 
 ## ¿Qué ocurre si falta vitamina K?
 
-La deficiencia de vitamina K en adultos sanos es infrecuente. La dieta habitual aporta suficiente K1 a través de las verduras, tu organismo recicla eficientemente la vitamina K a través del ciclo VKOR —la enzima vitamina K epóxido reductasa, que regenera la forma activa de la vitamina K tras cada reacción de carboxilación—, y el tejido adiposo actúa como reserva.
+La deficiencia de vitamina K en adultos sanos es infrecuente. La dieta habitual aporta suficiente K1 a través de las verduras, tu organismo recicla eficientemente la vitamina K gracias a la enzima que regenera su forma activa tras cada ciclo de carboxilación —la **vitamina K epóxido reductasa (VKOR)**—, y el tejido adiposo actúa como reserva.
 
-Los recién nacidos son el grupo con mayor riesgo. La vitamina K atraviesa mal la barrera placentaria —el bebé nace con reservas mínimas—, la leche materna contiene cantidades muy bajas, y el intestino del neonato aún no alberga la microbiota que produce K2. Esta convergencia de factores hace que los recién nacidos sean vulnerables a la enfermedad hemorrágica por déficit de vitamina K (VKDB), una hemorragia que puede afectar al cerebro. Por eso la administración intramuscular de vitamina K al nacer es práctica estándar en todos los sistemas sanitarios desarrollados, incluida España; una dosis única elimina prácticamente el riesgo de VKDB clásica.
+Los recién nacidos son el grupo con mayor riesgo. La vitamina K atraviesa mal la barrera placentaria —el bebé nace con reservas mínimas—, la leche materna contiene cantidades muy bajas, y el intestino del neonato aún no alberga la microbiota que produce K2. Esta convergencia de factores hace que los recién nacidos sean vulnerables a la hemorragia por falta de vitamina K —la **enfermedad hemorrágica por déficit de vitamina K (VKDB)**—, que puede afectar al cerebro. Por eso la administración intramuscular de vitamina K al nacer es práctica estándar en todos los sistemas sanitarios desarrollados, incluida España; una dosis única elimina prácticamente el riesgo de VKDB clásica.
 
 En adultos, el déficit puede aparecer con uso prolongado de antibióticos de amplio espectro —que reducen la microbiota productora de K2—, en patologías con malabsorción de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) o durante tratamiento anticoagulante crónico. Los síntomas son hematomas fáciles, sangrado prolongado ante cortes menores y, en casos graves, hemorragias internas.
 
@@ -82,7 +84,9 @@ Si tomas warfarina o acenocumarol, un aumento repentino del consumo de verduras 
 
 La vitamina K en sus formas naturales —K1 y K2— no tiene nivel máximo tolerable establecido por la EFSA: no se conocen efectos adversos derivados del consumo dietético elevado. La única situación de riesgo real es la interacción con anticoagulantes antagonistas, y ese riesgo se gestiona con estabilidad en la ingesta, no con restricción.
 
-La misma vitamina que activa la coagulación también activa la molécula que frena la calcificación arterial. Un estado marginal de K2 —suficiente para que el hígado produzca los factores de coagulación sin señal de alarma, pero insuficiente para carboxilar la MGP en los vasos— es clínicamente invisible en los análisis habituales. Es la deficiencia que no sangra, pero que puede calcificar.
+La misma vitamina que activa la coagulación también activa la molécula que frena la calcificación arterial. Un estado marginal de K2 —suficiente para que el hígado produzca los factores de coagulación sin señal de alarma, pero insuficiente para carboxilar la MGP en los vasos— es clínicamente invisible en los análisis habituales.
+
+Es la deficiencia que no sangra, pero que puede calcificar.
 
 ---
 

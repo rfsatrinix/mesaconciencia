@@ -1,30 +1,28 @@
 ---
 title: "Grasas poliinsaturadas: Omega-3 y Omega-6"
-description: "Qué son las grasas poliinsaturadas, cómo funcionan los ácidos grasos esenciales omega-3 y omega-6, y por qué el equilibrio entre ambos importa."
+description: "Grasas poliinsaturadas: son los ácidos grasos esenciales con varios dobles enlaces; cómo funcionan el omega-3 y el omega-6 y por qué importa su equilibrio."
 categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 ---
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) poliinsaturadas (AGPI) tienen dos o más dobles enlaces —conexiones químicas entre átomos de carbono que dan a la molécula una estructura más compleja y menos rígida— en su cadena. Esa estructura las hace líquidas a temperatura ambiente y muy sensibles a la oxidación por calor y luz —más que las [monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas)—. Son también las únicas grasas que incluyen los **ácidos grasos esenciales**: compuestos que tu organismo no puede sintetizar y que tienes que obtener de la dieta.
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) poliinsaturadas (AGPI) son ácidos grasos cuya cadena tiene dos o más conexiones químicas especiales entre átomos de carbono —los **dobles enlaces**—. Esa estructura las hace líquidas a temperatura ambiente y mucho más sensibles al proceso por el que las grasas se degradan con el calor y la luz —la **oxidación**— que las [monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas). Son también las únicas grasas que incluyen compuestos que tu organismo no puede fabricar por sí solo y que tienes que obtener de la dieta —los **ácidos grasos esenciales**—.
 
 ## Las dos familias de grasas poliinsaturadas esenciales
 
 Las grasas poliinsaturadas se agrupan en familias según dónde se sitúa el primer doble enlace en la cadena. Las dos de mayor relevancia nutricional son el **omega-6** y el **omega-3**.
 
-Ambas familias compiten por las mismas enzimas —[proteínas](/nutricion/macronutrientes/proteinas) especializadas que actúan como herramientas moleculares para transformar los ácidos grasos—. Un exceso de una familia puede frenar el metabolismo de la otra, lo que tiene implicaciones directas sobre tu inflamación y tu salud cardiovascular.
+Ambas familias compiten por las mismas [proteínas](/nutricion/macronutrientes/proteinas) especializadas que actúan como herramientas moleculares para transformar los ácidos grasos —las **enzimas**—. Un exceso de una familia puede frenar el metabolismo de la otra, lo que tiene implicaciones directas sobre tu inflamación y tu salud cardiovascular.
 
 ## Omega-6: el ácido linoleico y sus derivados
 
 ### Ácido graso de partida: ácido linoleico (LA)
 
-El **ácido linoleico** (omega-6) es el ácido graso esencial de la familia omega-6. Tu organismo lo utiliza como punto de partida para sintetizar ácido araquidónico (AA) —un omega-6 de cadena larga que actúa como precursor de mensajeros químicos que regulan la inflamación y la respuesta inmune, como las prostaglandinas y los leucotrienos—.
+El ácido graso esencial de la familia omega-6 —el **ácido linoleico** (LA)— es el punto de partida que tu organismo usa para sintetizar una forma más activa de omega-6 de cadena larga —el **ácido araquidónico** (AA)—. El ácido araquidónico actúa como precursor de mensajeros químicos que regulan la inflamación y la respuesta inmune, entre ellos las prostaglandinas y los leucotrienos.
 
 ### Funciones del omega-6
 
-- **Son** componentes estructurales de todas las membranas celulares —las paredes que delimitan cada una de tus células—.
-- **Son** precursores de mediadores inflamatorios que activan la respuesta de tu sistema inmune ante lesiones e infecciones.
-- **Son** necesarios para el desarrollo normal de tu sistema nervioso y tu piel.
+Los ácidos grasos omega-6 forman parte de la estructura de las paredes que delimitan cada una de tus células —las **membranas celulares**—. Son también el punto de partida para fabricar los mensajeros que activan la respuesta de tu sistema inmune ante lesiones e infecciones, y son necesarios para el desarrollo normal de tu sistema nervioso y tu piel.
 
 ### Fuentes de omega-6
 
@@ -55,20 +53,22 @@ La familia omega-3 tiene tres ácidos grasos con roles diferentes:
 | EPA | Ácido eicosapentaenoico | Pescado azul, algas |
 | DHA | Ácido docosahexaenoico | Pescado azul, algas |
 
-El ALA es el ácido graso esencial de la familia omega-3. Tu organismo puede convertirlo en EPA y DHA, pero la **conversión es muy limitada**: aproximadamente el 5–8 % del ALA se convierte en EPA, y menos del 0,5 % llega a DHA. Para asegurarte niveles adecuados de EPA y DHA, consumirlos directamente a través de pescado azul o algas es la vía más fiable.
+El ALA es el ácido graso esencial de la familia omega-3. Tu organismo puede convertirlo en EPA y DHA, pero la conversión es muy limitada: aproximadamente el 5–8 % del ALA se convierte en EPA, y menos del 0,5 % llega a DHA. Para asegurarte niveles adecuados de EPA y DHA, consumirlos directamente a través de pescado azul o algas es la vía más fiable.
+
+Confiar solo en el ALA vegetal para obtener DHA es apostar por una conversión de menos del 0,5 %.
 
 ### Funciones del EPA y el DHA
 
 **EPA:**
-- Es precursor de mensajeros antiinflamatorios —eicosanoides de las series 3 y 5— que contrarrestan los derivados proinflamatorios del ácido araquidónico.
-- Reduce los triglicéridos —un tipo de grasa— en tu sangre.
-- Tiene un leve efecto antiagregante plaquetario: reduce la tendencia de las plaquetas —las células que forman los coágulos— a agruparse en exceso.
+- Es el punto de partida para fabricar mensajeros que frenan la inflamación —los **eicosanoides** antiinflamatorios de las series 3 y 5— y que contrarrestan los mensajeros proinflamatorios generados por el ácido araquidónico.
+- Reduce los niveles de un tipo de grasa que circula por tu sangre —los **triglicéridos**—.
+- Reduce la tendencia de las células que forman los coágulos en tus vasos sanguíneos —las **plaquetas**— a agruparse en exceso.
 - Varios ensayos clínicos lo asocian con mejoras en el estado de ánimo; parece ser el componente más activo de los suplementos de omega-3 en intervenciones sobre salud mental.
 
 **DHA:**
-- Es el componente estructural principal de las membranas de tus neuronas y de los fotorreceptores de tu retina —las células que captan la luz en tus ojos—.
+- Es el componente estructural principal de las membranas de tus neuronas y de las células que captan la luz en tus ojos —los **fotorreceptores** de la retina—.
 - Es crítico para el desarrollo del cerebro del feto y durante los primeros años de vida.
-- Influye en la fluidez de las membranas de tus neuronas, lo que afecta la transmisión de señales entre ellas —la sinapsis—.
+- Influye en la fluidez de las membranas de tus neuronas, lo que afecta el paso de señales de una neurona a otra —la **sinapsis**—.
 - La leche materna es rica en DHA para cubrir las necesidades del lactante.
 
 ### Fuentes de omega-3
@@ -96,7 +96,7 @@ El ALA es el ácido graso esencial de la familia omega-3. Tu organismo puede con
 
 *Fuente: USDA FoodData Central.*
 
-Las microalgas son la única fuente directa de EPA y DHA de origen no animal. Los suplementos de aceite de algas ofrecen la misma capacidad de absorción (biodisponibilidad) que los de aceite de pescado y son la alternativa de referencia para vegetarianos y veganos.
+Las microalgas son la única fuente directa de EPA y DHA de origen no animal. Los suplementos de aceite de algas ofrecen la misma capacidad de absorción —la **biodisponibilidad**— que los de aceite de pescado y son la alternativa de referencia para vegetarianos y veganos.
 
 ### Ingesta recomendada
 
@@ -124,7 +124,7 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 - Reduce el uso de **aceites de girasol y maíz** en favor del aceite de oliva.
 - Si sigues una dieta vegetariana o vegana, valora tomar un suplemento de **EPA+DHA de microalgas**.
 
-En la mayoría de dietas occidentales, el cambio con mayor impacto para mejorar tu ratio es aumentar el pescado azul semanal y sustituir los aceites de semillas industriales por aceite de oliva. El resto de ajustes suman, pero estos dos son los que mueven el equilibrio.
+En la mayoría de dietas occidentales, el cambio con mayor impacto es aumentar el pescado azul semanal y sustituir los aceites de semillas industriales por aceite de oliva. Con esos dos cambios vas de 15:1 a algo que tu metabolismo reconoce.
 
 ---
 

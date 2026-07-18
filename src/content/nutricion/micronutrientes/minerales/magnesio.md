@@ -1,32 +1,34 @@
 ---
 title: "Magnesio"
-description: "Magnesio: cofactor de más de 300 enzimas y de cada reacción que usa ATP; su deficiencia no aparece en los análisis de sangre habituales hasta que es severa."
+description: "Magnesio: es cofactor de más de 300 enzimas y de cada reacción que usa ATP; su deficiencia no aparece en los análisis de sangre habituales hasta que es severa."
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
 ---
 
-El magnesio es el cuarto [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano y el segundo más abundante dentro de las células, después del potasio: un adulto contiene entre 20 y 28 gramos, de los cuales el **60 % está en los huesos**, el 39 % en el músculo y otros tejidos blandos, y solo el 1 % circula en la sangre. Ese 1 % no refleja el estado real de tus depósitos: cuando tu ingesta cae, tu organismo extrae magnesio de los huesos y los músculos para mantener el nivel sérico dentro del rango normal, de modo que un análisis de sangre rutinario puede mostrarte resultados normales mientras tus tejidos acumulan déficit.
+El magnesio es el cuarto [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano y el segundo más abundante dentro de las células, después del [potasio](/nutricion/micronutrientes/minerales/potasio): un adulto contiene entre 20 y 28 gramos, de los cuales el **60 % está en los huesos**, el 39 % en el músculo y otros tejidos blandos, y solo el 1 % circula en la sangre. Ese 1 % no refleja el estado real de tus reservas: cuando tu ingesta cae, tu organismo extrae magnesio de los huesos y los músculos para mantener el nivel en sangre dentro del rango normal, de modo que un análisis de sangre rutinario puede mostrarte resultados normales mientras tus tejidos acumulan déficit.
 
 ## ¿Para qué sirve el magnesio?
 
-El magnesio actúa como **cofactor de más de 300 enzimas**, incluyendo todas las que sintetizan o utilizan ATP. Lo que esto implica es que el ATP —la moneda energética de la célula— no lo emplean las enzimas en su forma libre, sino como el complejo Mg-ATP: el magnesio se une al ATP y lo activa para cada reacción. Sin magnesio, la energía celular está disponible sobre el papel pero es inaccesible.
+El magnesio participa de forma directa en más de 300 reacciones enzimáticas —en todas ellas actúa como **cofactor**: el componente sin el cual la enzima no puede completar su función—. Eso incluye cada reacción que sintetiza o consume ATP. Lo que esto implica en la práctica es que el ATP no lo utilizan las enzimas en su forma libre, sino unido al magnesio; ese complejo activo formado por ambas moléculas se llama **Mg-ATP**, y es la forma funcional del ATP en la célula.
 
-Sus funciones más relevantes:
+Sin magnesio, la energía celular está disponible sobre el papel pero es inaccesible.
 
-- **Metabolismo energético** — Participa como cofactor obligatorio en la glucólisis —la vía que descompone la glucosa para obtener energía—, en el ciclo de Krebs y en la síntesis de ATP por la mitocondria. Cualquier proceso metabólico que genere o consuma energía involucra el magnesio.
+**Metabolismo energético.** El magnesio es cofactor obligatorio en la vía que descompone la glucosa para obtener energía —la **glucólisis**—, en el ciclo de reacciones que extraen energía de los combustibles metabólicos dentro de la mitocondria —el **ciclo de Krebs**— y en la síntesis de ATP por los complejos de la membrana mitocondrial interna. Cualquier proceso que genere o consuma energía requiere magnesio.
 
-- **Función neuromuscular** — El magnesio actúa como antagonista fisiológico del [calcio](/nutricion/micronutrientes/minerales/calcio): mientras el calcio desencadena la contracción muscular, el magnesio facilita la relajación posterior al bloquear los canales de calcio de la membrana muscular. Un déficit de magnesio deja el calcio sin contrapeso, lo que se traduce en hiperexcitabilidad neuromuscular —los calambres, espasmos y fasciculaciones musculares son la expresión más frecuente—.
+**Función neuromuscular.** El magnesio actúa como antagonista fisiológico del [calcio](/nutricion/micronutrientes/minerales/calcio): mientras el calcio desencadena la contracción muscular, el magnesio facilita la relajación posterior al bloquear los canales de calcio de la membrana muscular. Un déficit de magnesio deja el calcio sin contrapeso, lo que produce la excitabilidad excesiva del nervio y el músculo —la **hiperexcitabilidad neuromuscular**—: calambres, espasmos y fasciculaciones musculares son su expresión más frecuente.
 
-- **Síntesis de ADN, ARN y [proteínas](/nutricion/macronutrientes/proteinas)** — El magnesio estabiliza la estructura de los ribosomas —las máquinas moleculares que ensamblan las proteínas— y es necesario para la síntesis y la reparación del ADN. Sin él, la replicación celular y la síntesis proteica se ralentizan.
+**Síntesis de ADN, ARN y [proteínas](/nutricion/macronutrientes/proteinas).** El magnesio estabiliza la estructura de las máquinas moleculares que ensamblan las proteínas en la célula —los **ribosomas**— y es necesario para la síntesis y la reparación del ADN. Sin él, la replicación celular y la síntesis proteica se ralentizan.
 
-- **Estructura ósea** — Forma parte de la matriz mineral del hueso junto con el calcio y el [fósforo](/nutricion/micronutrientes/minerales/fosforo), e influye en la actividad de los osteoblastos —las células formadoras de hueso— y en la sensibilidad del tejido óseo a la hormona paratiroidea (PTH) —la hormona que regula el intercambio de calcio entre el hueso y la sangre—.
+**Estructura ósea.** El magnesio forma parte de la matriz mineral del hueso junto con el calcio y el [fósforo](/nutricion/micronutrientes/minerales/fosforo), e influye en la actividad de las células que construyen tejido óseo nuevo —los **osteoblastos**— y en la sensibilidad del hueso a la hormona que regula el intercambio de calcio entre el esqueleto y la sangre —la **hormona paratiroidea** (PTH)—.
 
-- **Regulación de la glucosa y la insulina** — El magnesio es cofactor de las enzimas que procesan la glucosa y de los receptores de insulina en las células. Un estado de magnesio insuficiente reduce la sensibilidad de tus células a la insulina —su capacidad de captar glucosa en respuesta a esa hormona— e incrementa el riesgo de desarrollar diabetes tipo 2. La relación es bidireccional: la diabetes deteriora la retención renal de magnesio, y la hipomagnesemia agrava la resistencia a la insulina.
+**Regulación de la glucosa y la insulina.** El magnesio es cofactor de las enzimas que procesan la glucosa y de los receptores de insulina en las células. Un estado de magnesio insuficiente hace que tus células respondan cada vez peor a la señal de la insulina —esa pérdida de capacidad de captar glucosa cuando la hormona se lo indica se llama **resistencia a la insulina**— e incrementa el riesgo de desarrollar diabetes tipo 2. La relación es bidireccional: la diabetes deteriora la retención renal de magnesio, y el déficit de magnesio agrava la resistencia a la insulina.
+
+La diabetes agota el magnesio. El magnesio deficiente facilita la diabetes.
 
 ## ¿Cuánto magnesio necesitas?
 
-La EFSA ha establecido ingestas adecuadas (IA) —no requerimientos medios, porque la evidencia no permite construir una curva dosis-respuesta fiable— basadas en el consumo observado en poblaciones europeas sanas:
+La EFSA ha establecido ingestas adecuadas (IA) —no requerimientos medios, porque los estudios disponibles no permiten establecer con precisión a qué cantidad exacta corresponde la necesidad de cada grupo— basadas en el consumo observado en poblaciones europeas sanas:
 
 | Grupo | Ingesta adecuada (EFSA) |
 |---|---|
@@ -43,11 +45,11 @@ La EFSA ha establecido ingestas adecuadas (IA) —no requerimientos medios, porq
 
 La ingesta media en la mayoría de los países europeos se sitúa entre 260 y 320 mg/día —por debajo de la referencia para los hombres y en el límite para las mujeres—. El magnesio es uno de los minerales con mayor prevalencia de insuficiencia crónica subclínica en dietas occidentales.
 
-La EFSA no ha establecido un nivel máximo tolerable para el magnesio procedente de los alimentos, porque la absorción intestinal se autorregula y el riñón excreta el exceso con eficiencia. Los suplementos son una excepción: dosis superiores a **250 mg/día de magnesio suplementario** tienen un efecto osmótico en el intestino —retienen líquido en el colon— que causa diarrea y malestar digestivo.
+La EFSA no ha establecido un nivel máximo tolerable para el magnesio procedente de los alimentos, porque la absorción intestinal se autorregula y el riñón excreta el exceso con eficiencia. Los suplementos son una excepción: dosis superiores a **250 mg/día de magnesio suplementario** retienen líquido en el colon —un efecto osmótico— y causan diarrea y malestar digestivo.
 
 ## Fuentes alimentarias de magnesio
 
-El magnesio ocupa el centro de cada molécula de clorofila —el pigmento verde de las plantas—, de la misma manera que el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) ocupa el centro de la hemoglobina. Por eso las verduras de hoja verde oscura son fuentes especialmente ricas: cuanto más intensa la clorofila, mayor la concentración de magnesio.
+El magnesio ocupa el centro de cada molécula del pigmento que da color verde a las plantas —la **clorofila**—, de la misma manera que el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) ocupa el centro de la hemoglobina. Por eso las verduras de hoja verde oscura son fuentes especialmente ricas: cuanto más intensa la clorofila, mayor la concentración de magnesio.
 
 Las fuentes con mayor contenido son semillas, frutos secos, cacao y legumbres:
 
@@ -72,28 +74,35 @@ Las semillas de calabaza tienen la concentración más alta, pero se consumen en
 
 Tu intestino delgado absorbe entre el 30 y el 40 % del magnesio ingerido en condiciones habituales. Cuando tu ingesta es baja, la eficiencia puede subir hasta el 80 %; cuando es alta, puede caer por debajo del 20 %, porque la absorción pasiva en el colon tiene capacidad limitada.
 
-Los factores que reducen la absorción:
+Tres factores reducen la absorción:
 
-- Los **fitatos** de cereales y legumbres sin procesar forman complejos con el magnesio en el intestino. El remojo y la fermentación activan las fitasas —enzimas que descomponen los fitatos— y liberan el magnesio para su absorción.
-- Los **oxalatos** de espinacas, acelgas y remolacha se unen al magnesio intestinal y reducen su biodisponibilidad, aunque el efecto es menor que con el [calcio](/nutricion/micronutrientes/minerales/calcio).
-- Las ingestas muy elevadas de [fósforo](/nutricion/micronutrientes/minerales/fosforo) y calcio compiten con el magnesio por los mismos transportadores intestinales.
+Los compuestos que almacenan fósforo en la capa exterior de los cereales y las legumbres sin procesar, y que el intestino no puede digerir directamente —los **fitatos**—, forman complejos con el magnesio e impiden su absorción. El remojo y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el magnesio para su absorción.
 
-La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el calcitriol— estimula la expresión de los canales de magnesio en el intestino delgado y potencia su absorción, igual que hace con el calcio y el fósforo.
+Los ácidos orgánicos presentes en espinacas, acelgas y remolacha —los **oxalatos**— se unen al magnesio en el intestino y reducen su biodisponibilidad, aunque el efecto es menor que con el [calcio](/nutricion/micronutrientes/minerales/calcio).
+
+Las ingestas muy elevadas de [fósforo](/nutricion/micronutrientes/minerales/fosforo) y calcio compiten con el magnesio por los mismos transportadores intestinales.
+
+La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— estimula la expresión de los canales de magnesio en el intestino delgado y potencia su absorción, igual que hace con el calcio y el fósforo.
 
 ## ¿Qué ocurre si falta magnesio?
 
-La **hipomagnesemia** —el descenso del magnesio en sangre por debajo de 0,75 mmol/L— es una de las alteraciones electrolíticas más frecuentes en el ámbito hospitalario. La insuficiencia subclínica —con magnesio sérico normal pero magnesio intracelular bajo— es mucho más prevalente y mucho menos diagnosticada: el cuerpo sacrifica los depósitos musculares y óseos para mantener el nivel sérico dentro del rango de referencia hasta que el déficit es severo.
+El descenso del magnesio en sangre por debajo de 0,75 mmol/L —la **hipomagnesemia**— es una de las alteraciones más frecuentes en el ámbito hospitalario. La situación más prevalente, sin embargo, es diferente: la situación en que el magnesio en sangre aparece normal en la analítica pero el magnesio dentro de las células es bajo —la **insuficiencia subclínica**—. El cuerpo sacrifica los depósitos musculares y óseos para mantener el nivel en sangre dentro del rango de referencia hasta que el déficit es severo, y el análisis de sangre no lo detecta hasta entonces.
 
 Los grupos con mayor riesgo de déficit son:
 
-- **Personas con diabetes tipo 2**: la hiperglucemia aumenta las pérdidas renales de magnesio; cuanto peor es el control glucémico, mayor la excreción urinaria del mineral.
-- **Consumidores habituales de alcohol**: el alcohol inhibe directamente la reabsorción renal de magnesio y eleva su excreción urinaria.
-- **Usuarios de inhibidores de la bomba de protones (IBP) a largo plazo** —omeprazol, pantoprazol y similares, usados para la acidez y el reflujo—: alteran el mecanismo de absorción activa de magnesio en el intestino delgado.
-- **Personas mayores**: la absorción intestinal de magnesio declina con la edad y la excreción renal aumenta, lo que estrecha el margen entre ingesta y pérdida.
+**Personas con diabetes tipo 2.** El exceso de glucosa en sangre aumenta las pérdidas renales de magnesio; cuanto peor es el control glucémico, mayor la excreción urinaria del mineral.
+
+**Consumidores habituales de alcohol.** El alcohol inhibe directamente la reabsorción renal de magnesio y eleva su excreción urinaria.
+
+**Usuarios de fármacos que reducen el ácido del estómago a largo plazo.** Los medicamentos que bloquean la enzima que genera el ácido gástrico —los **inhibidores de la bomba de protones** (IBP), como el omeprazol y el pantoprazol— alteran el mecanismo de absorción activa de magnesio en el intestino delgado.
+
+**Personas mayores.** La absorción intestinal de magnesio declina con la edad y la excreción renal aumenta, lo que estrecha el margen entre ingesta y pérdida.
 
 Los síntomas más frecuentes son calambres y espasmos musculares, insomnio e irritabilidad, y fatiga que no mejora con el descanso. En el déficit severo aparecen arritmias cardíacas, porque la función eléctrica del músculo cardíaco depende del equilibrio entre magnesio, calcio y potasio.
 
-Un hallazgo clínico importante: la hipomagnesemia casi siempre produce **hipopotasemia** —descenso del potasio en sangre— porque los riñones no pueden retener potasio cuando el magnesio es insuficiente. Corregir el potasio sin corregir el magnesio fracasa sistemáticamente; hay que tratar ambos déficits en paralelo.
+Un hallazgo clínico importante: la hipomagnesemia casi siempre produce el descenso del potasio en sangre —la **hipopotasemia**—, porque los riñones no pueden retener potasio cuando el magnesio es insuficiente.
+
+Corregir el potasio sin corregir el magnesio fracasa sistemáticamente.
 
 Cada molécula de clorofila que da color verde a las plantas lleva un átomo de magnesio en su centro, con la misma lógica que la hemoglobina lleva hierro en el suyo. Si las verduras de hoja verde son la fuente más fiable de magnesio en la dieta, es porque son, literalmente, un concentrado del mineral que la planta extrae del suelo.
 

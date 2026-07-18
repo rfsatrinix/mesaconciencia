@@ -1,14 +1,14 @@
 ---
 title: "Grasas saturadas"
-description: "Qué son las grasas saturadas, su relación con el colesterol LDL, la diferencia entre tipos de ácidos grasos saturados y cómo enfocarlas en la dieta."
+description: "Grasas saturadas: son los ácidos grasos sin dobles enlaces; su efecto sobre el colesterol LDL, la diferencia entre tipos y cómo enfocarlas en tu dieta."
 categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 ---
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) saturadas (AGS) son ácidos grasos sin dobles enlaces —las conexiones químicas que en otras grasas doblan la cadena y la hacen más fluida— en su estructura. Al no tenerlos, la cadena es perfectamente recta y las moléculas pueden empaquetarse con densidad, lo que explica que sean sólidas a temperatura ambiente (mantequilla, sebo, aceite de coco).
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) saturadas (AGS) son ácidos grasos cuya cadena carece de las conexiones químicas que en otras grasas la doblan y la hacen más fluida —los **dobles enlaces**—. Sin ellos, la cadena es perfectamente recta y las moléculas pueden empaquetarse con densidad, lo que explica que sean sólidas a temperatura ambiente: mantequilla, sebo, aceite de coco.
 
-Son el tipo de grasa más restringido en las guías nutricionales por su relación con el colesterol LDL —el llamado colesterol malo, que tiende a depositarse en las paredes de las arterias— y el riesgo cardiovascular. No todas las grasas saturadas se comportan igual ni tienen el mismo impacto en tu salud.
+Son el tipo de grasa más restringido en las guías nutricionales por su relación con el tipo de colesterol que tiende a depositarse en las paredes de las arterias —el **colesterol LDL**— y el riesgo cardiovascular. No todas las grasas saturadas se comportan igual ni tienen el mismo impacto en tu salud.
 
 ## Clasificación de las grasas saturadas por longitud de cadena
 
@@ -16,17 +16,17 @@ La longitud de la cadena determina cómo tu organismo las absorbe y metaboliza:
 
 ### Ácidos grasos de cadena corta (C2–C6)
 
-- **Ácido butírico** (C4): se produce por fermentación bacteriana de la [fibra](/nutricion/fibra-alimenticia) en el colon. Es el principal combustible de los colonocitos —las células que recubren la pared interior de tu colon— y tiene efectos antiinflamatorios sobre la mucosa intestinal. Se encuentra en la mantequilla (~3–4 %).
-- Se absorben directamente en el colon o en el intestino delgado sin pasar por el sistema linfático.
+El ácido graso de cadena corta más estudiado —el **ácido butírico** (C4)— se produce por fermentación bacteriana de la [fibra](/nutricion/fibra-alimenticia) en el colon. Es el principal combustible de las células que recubren la pared interior de tu colon —los **colonocitos**— y tiene efectos antiinflamatorios sobre el revestimiento intestinal. La mantequilla lo contiene en una proporción del 3–4 %. Los ácidos grasos de cadena corta se absorben directamente en el colon o en el intestino delgado sin pasar por el sistema linfático.
 
 ### Ácidos grasos de cadena media (C8–C12)
 
-- **Ácido caprílico** (C8) y **ácido cáprico** (C10): se encuentran en aceite de coco y lácteos. Se absorben directamente en el hígado sin necesidad de quilomicrones —las partículas que normalmente transportan las grasas por la linfa—, donde se oxidan con rapidez como fuente de energía. Son los componentes del aceite MCT (triglicéridos de cadena media).
-- **Ácido laúrico** (C12): es el ácido graso más abundante en el aceite de coco (~50 %). Eleva tanto el LDL como el HDL —el colesterol bueno, que protege las arterias—. El efecto neto sobre el riesgo cardiovascular es objeto de debate; la mayoría de organismos de salud lo clasifican como saturado con un efecto similar al de los de cadena larga en cuanto a LDL.
+El aceite de coco y los lácteos contienen dos ácidos grasos de cadena media —el **ácido caprílico** (C8) y el **ácido cáprico** (C10)— que tu hígado absorbe directamente sin necesidad de las partículas que normalmente transportan las grasas a través de la linfa —los **quilomicrones**—, y los convierte con rapidez en energía. Son los componentes del aceite de **triglicéridos de cadena media** (MCT).
+
+El ácido graso saturado más abundante en el aceite de coco —el **ácido laúrico** (C12), con aproximadamente el 50 % de su composición— eleva tanto el LDL como el tipo de colesterol que protege las arterias —el **HDL**—. El efecto neto sobre el riesgo cardiovascular es objeto de debate; la mayoría de los organismos de salud lo clasifican como saturado con un efecto sobre el LDL similar al de los ácidos grasos de cadena larga.
 
 ### Ácidos grasos de cadena larga (C14–C22)
 
-Son los más abundantes en tu dieta y los que más influyen en tu perfil lipídico —la distribución de colesterol y triglicéridos en tu sangre—:
+Son los más abundantes en tu dieta y los que más influyen en la distribución de colesterol y triglicéridos en tu sangre —tu **perfil lipídico**—:
 
 | Ácido graso | Efecto principal sobre LDL | Fuentes |
 |---|---|---|
@@ -34,11 +34,11 @@ Son los más abundantes en tu dieta y los que más influyen en tu perfil lipídi
 | Ácido palmítico (C16:0) | Elevación moderada | Carnes, lácteos, aceite de palma |
 | Ácido esteárico (C18:0) | Neutro | Carne de vacuno, manteca de cacao |
 
-El **ácido esteárico** es una excepción importante: tu hígado lo convierte eficientemente en ácido oleico (la [grasa monoinsaturada](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) del aceite de oliva), por lo que no eleva el LDL. Esto explica en parte por qué el chocolate negro tiene un efecto lipídico más moderado de lo que cabría esperar por su contenido de grasa saturada.
+Una excepción importante entre los ácidos grasos de cadena larga es el **ácido esteárico**: a diferencia del palmítico y el mirístico, tu hígado lo convierte con eficiencia en ácido oleico (la [grasa monoinsaturada](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) del aceite de oliva), por lo que no eleva el LDL. Esto explica en parte por qué el chocolate negro tiene un efecto sobre el colesterol más moderado de lo que cabría esperar por su contenido de grasa saturada.
 
 ## Grasas saturadas y colesterol LDL
 
-El mecanismo principal por el que las grasas saturadas elevan el LDL es que reducen la actividad de los receptores de LDL en los hepatocitos —las células de tu hígado encargadas de capturar y retirar el LDL de la sangre—. Cuando esos receptores funcionan peor, el LDL se acumula en tu torrente sanguíneo.
+El mecanismo principal por el que las grasas saturadas elevan el LDL es que reducen la capacidad de las células de tu hígado de capturar y retirar el LDL de la sangre —los **hepatocitos**—. Cuando estas células funcionan con menos eficacia, el LDL se acumula en tu sangre.
 
 El ácido palmítico (C16:0) es el más consumido y el que más contribuye a este efecto. Se encuentra en carnes rojas, productos lácteos enteros y aceite de palma.
 
@@ -49,6 +49,8 @@ Sustituir grasas saturadas no siempre mejora tu resultado cardiovascular. Los en
 | AGS → hidratos refinados (pan blanco, azúcar) | Sin beneficio o perjudicial |
 | AGS → grasas monoinsaturadas (AOVE) | Beneficio moderado |
 | AGS → [grasas poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) (omega-3/6) | Beneficio más consistente |
+
+Lo que reduces importa menos que con qué lo reemplazas.
 
 ## ¿Cuántas grasas saturadas puedes consumir?
 
@@ -77,15 +79,17 @@ Las principales fuentes en la dieta occidental son los aceites tropicales, los l
 
 El aceite de coco se ha popularizado como "grasa saludable" a pesar de contener un 86 % de grasa saturada —más que la mantequilla—. Los argumentos a su favor se basan en que su principal grasa es el ácido laúrico y los triglicéridos de cadena media (MCT).
 
-La AHA y la EFSA no respaldan su uso como tu aceite principal. El ácido laúrico sí eleva el LDL (aunque también el HDL), y la evidencia de que los MCT del aceite de coco tengan efectos metabólicos beneficiosos en personas sanas no es sólida.
+La AHA y la EFSA no respaldan su uso como aceite principal de tu cocina. El ácido laúrico sí eleva el LDL (aunque también el HDL), y la evidencia de que los MCT del aceite de coco tengan efectos metabólicos beneficiosos en personas sanas no es sólida.
 
-En uso ocasional o en contextos concretos (repostería, cocina asiática), no es un problema. Como aceite de uso diario, hay opciones con mejor perfil: aceite de oliva virgen extra para cocinar y aliñar, y aceites ricos en poliinsaturadas para platos fríos.
+En uso ocasional o en contextos concretos (repostería, cocina asiática), no es un problema. Como aceite para tu cocina de diario, hay opciones con mejor perfil: aceite de oliva virgen extra para cocinar y aliñar, y aceites ricos en poliinsaturadas para platos fríos.
 
 ## Cómo enfocar las grasas saturadas en tu dieta
 
-- No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en alimentos nutritivos como los lácteos enteros, los huevos y las carnes no procesadas.
-- El problema surge cuando desplazan a las grasas insaturadas en tu dieta, o cuando van de la mano de carnes procesadas (embutidos, bacon) que añaden sodio, nitratos y otros compuestos de riesgo.
-- Tu prioridad es sustituir las fuentes de saturadas de peor calidad (ultraprocesados, aceite de palma, embutidos) por grasas mono y poliinsaturadas, no obsesionarte con eliminar el queso o el huevo.
+No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en alimentos nutritivos como los lácteos enteros, los huevos y las carnes no procesadas.
+
+El problema surge cuando desplazan a las grasas insaturadas en tu dieta, o cuando van de la mano de carnes procesadas —embutidos, bacon— que añaden [sodio](/nutricion/micronutrientes/minerales/sodio), nitratos y otros compuestos de riesgo.
+
+Tu prioridad es sustituir las fuentes de saturadas de peor calidad —ultraprocesados, aceite de palma, embutidos— por grasas mono y [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), no obsesionarte con eliminar el queso o el huevo.
 
 El problema de las grasas saturadas no es el queso ni el huevo: es el patrón de tu dieta en que las saturadas desplazan sistemáticamente a las insaturadas.
 

@@ -1,27 +1,24 @@
 ---
 title: "Grasas monoinsaturadas"
-description: "Qué son las grasas monoinsaturadas, su efecto sobre el colesterol LDL y HDL, la salud cardiovascular y qué alimentos son las mejores fuentes."
+description: "Grasas monoinsaturadas: son los ácidos grasos con un solo doble enlace; efectos sobre el colesterol LDL y HDL, estabilidad al calor y mejores fuentes."
 categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 ---
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos con un único doble enlace —una conexión química especial entre dos átomos de carbono que da forma a la molécula— en su cadena. Esa característica les confiere una estructura ligeramente doblada que las hace líquidas a temperatura ambiente, pero más estables frente a la oxidación —el proceso por el que las grasas se degradan con el calor o el tiempo— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas).
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos cuya cadena tiene una única conexión química especial entre dos átomos de carbono —el **doble enlace**—. Esa característica les da una estructura ligeramente curvada que las mantiene líquidas a temperatura ambiente y las hace más resistentes al proceso por el que las grasas se degradan con el calor o el tiempo —la **oxidación**— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas).
 
 Son el tipo de grasa más representativo de la **dieta mediterránea** y el que más se ha estudiado en relación con tu salud cardiovascular.
 
 ## El ácido oleico: protagonista de las grasas monoinsaturadas
 
-El **ácido oleico** (omega-9) representa más del 90 % de las grasas monoinsaturadas en la dieta. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en almendras y avellanas.
+El principal ácido graso monoinsaturado de la dieta —el **ácido oleico** (omega-9)— representa más del 90 % de las grasas monoinsaturadas que consumes. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en almendras y avellanas.
 
-Otros ácidos grasos monoinsaturados presentes en la dieta en menor cantidad:
-
-- **Ácido palmitoleico**: es una variante de cadena más corta que el oleico y se encuentra principalmente en aceite de macadamia, pescado y grasa animal.
-- **Ácido vaccénico**: es un ácido graso trans de origen natural —se forma en el rumen de los rumiantes— y está presente en lácteos y carnes. A diferencia de los trans industriales, tiene un perfil metabólico neutral o ligeramente positivo.
+Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En lácteos y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—; a diferencia de los trans de producción industrial, su perfil metabólico es neutral o ligeramente positivo.
 
 ## Efecto de las grasas monoinsaturadas sobre tu perfil lipídico
 
-El perfil lipídico es la distribución de colesterol y triglicéridos en tu sangre, y es uno de los principales indicadores de riesgo cardiovascular. Las grasas monoinsaturadas tienen un efecto diferenciado sobre sus dos componentes clave: el colesterol LDL —el llamado colesterol malo, que se deposita en las arterias— y el HDL —el colesterol bueno, que las protege—.
+La distribución de colesterol y triglicéridos en tu sangre —el **perfil lipídico**— es uno de los principales indicadores de riesgo cardiovascular. Las grasas monoinsaturadas tienen un efecto diferenciado sobre sus dos componentes clave: el que se deposita en las paredes de las arterias —el **colesterol LDL**— y el que las protege retirando el LDL de la circulación —el **HDL**—.
 
 | Comparación | Efecto sobre LDL | Efecto sobre HDL |
 |---|---|---|
@@ -29,17 +26,19 @@ El perfil lipídico es la distribución de colesterol y triglicéridos en tu san
 | AGMI vs hidratos refinados | Reduce LDL | Eleva HDL |
 | AGMI vs poliinsaturadas | Similar reducción de LDL | Mejor mantenimiento de HDL |
 
-Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón más favorable para tu salud cardiovascular. Es uno de los mecanismos que explica los resultados del ensayo PREDIMED —un estudio clínico español con más de 7.000 personas de alto riesgo cardiovascular, publicado en The New England Journal of Medicine en 2013—: la dieta mediterránea enriquecida con AOVE redujo el riesgo de eventos cardiovasculares mayores en aproximadamente un 30 % respecto al grupo control.
+Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón más favorable para tu salud cardiovascular. Es uno de los mecanismos que explica los resultados de un estudio clínico español que siguió a más de 7.000 personas de alto riesgo cardiovascular y se publicó en The New England Journal of Medicine en 2013 —el ensayo **PREDIMED**—: la dieta mediterránea enriquecida con AOVE redujo el riesgo de eventos cardiovasculares mayores en aproximadamente un 30 % respecto al grupo control.
+
+Pocos alimentos tienen un ensayo de 7.000 participantes que los respalde. El aceite de oliva virgen extra tiene uno.
 
 ## Por qué las grasas monoinsaturadas son estables al calor
 
 Las grasas monoinsaturadas son más resistentes a la oxidación térmica que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), porque tienen un solo doble enlace susceptible de degradarse. Esto hace del AOVE una opción adecuada para cocinar a temperaturas moderadas.
 
-El punto de humo del AOVE —la temperatura a partir de la cual el aceite empieza a humear y a generar compuestos no deseados— es de aproximadamente 190–210 °C, suficiente para la mayoría de las técnicas culinarias habituales (salteado, sofrito, horno moderado). Para frituras profundas y prolongadas, su estabilidad sigue siendo mejor que la de aceites ricos en poliinsaturadas.
+La temperatura a partir de la cual el aceite empieza a humear y generar compuestos no deseados —el **punto de humo**— del AOVE es de aproximadamente 190–210 °C, suficiente para la mayoría de las técnicas culinarias habituales: salteado, sofrito, horno moderado. Para frituras profundas y prolongadas, su estabilidad sigue siendo mejor que la de aceites ricos en poliinsaturadas.
 
 ## Fuentes alimentarias de grasas monoinsaturadas
 
-La mayor concentración se da en aceites, frutos secos y algunos vegetales grasos:
+La mayor concentración está en aceites, frutos secos y algunos vegetales grasos:
 
 | Alimento | Grasa monoinsaturada (por 100 g) |
 |---|---|
@@ -63,7 +62,7 @@ En la práctica:
 - Incluye **frutos secos** (almendras, avellanas, pistachos) como fuente habitual de snack o acompañamiento.
 - Añade **aguacate** con frecuencia en ensaladas, tostadas y platos.
 
-Que la EFSA no fije un límite superior para las AGMI no es casual: dentro del rango total de grasas recomendado, cuanta más proporción venga de fuentes monoinsaturadas, mejor para tu salud cardiovascular.
+Que la EFSA no fije un límite superior para las AGMI no es casual. Es el único tipo de grasa sobre el que los datos dicen: dentro del rango recomendado, cuanto más, mejor.
 
 ---
 

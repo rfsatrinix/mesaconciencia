@@ -1,22 +1,24 @@
 ---
 title: "Vitamina C"
-description: "Vitamina C o ácido ascórbico: indispensable para el colágeno, multiplicadora del hierro vegetal y la única vitamina que los humanos no podemos sintetizar."
+description: "Vitamina C: es el ácido ascórbico, indispensable para el colágeno y el hierro vegetal, y la única vitamina que los humanos no podemos sintetizar."
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
 ---
 
-La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu organismo no puede sintetizar. La razón es una mutación en el gen GULO —el que codifica la enzima responsable del último paso de la síntesis de vitamina C—, que inutilizó esta capacidad en el linaje de los primates hace aproximadamente 63 millones de años. La mayoría de los mamíferos la fabrican en el hígado sin esfuerzo: un perro adulto produce entre 40 y 80 mg por kilogramo de peso al día; una cabra bajo estrés puede llegar a 200 mg/kg. Tu organismo no puede hacer nada de eso. La vitamina C que no obtienes de los alimentos, sencillamente no la tienes.
+La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu organismo no puede sintetizar. La razón es una mutación en el gen que codifica la enzima responsable del último paso de la síntesis de vitamina C —el **gen GULO**—, que inutilizó esta capacidad en el linaje de los primates hace aproximadamente 63 millones de años. La mayoría de los mamíferos la fabrican en el hígado sin esfuerzo: un perro adulto produce entre 40 y 80 mg por kilogramo de peso al día; una cabra bajo estrés puede llegar a 200 mg/kg. Tu organismo no puede hacer nada de eso. La vitamina C que no obtienes de los alimentos, sencillamente no la tienes.
 
 ## ¿Para qué sirve la vitamina C?
 
-**Síntesis de colágeno** — El colágeno es la proteína más abundante del cuerpo: forma la estructura mecánica de la piel, los tendones, los ligamentos, el cartílago, los huesos y las paredes de los vasos sanguíneos. Para fabricarlo, dos enzimas —la prolil hidroxilasa y la lisil hidroxilasa— añaden grupos hidroxilo a los residuos de prolina y [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina) de las cadenas de procolágeno; esa modificación permite que tres cadenas se enrollen entre sí formando la triple hélice rígida que caracteriza al colágeno maduro. Sin vitamina C como cofactor, esas enzimas no funcionan. El procolágeno no puede estabilizarse y el tejido conjuntivo —la red de soporte estructural que une y sustenta todos los tejidos del cuerpo— se desintegra progresivamente. Es la base molecular del escorbuto.
+**Síntesis de colágeno.** El colágeno es la proteína más abundante del cuerpo: forma la estructura mecánica de la piel, los tendones, los ligamentos, el cartílago, los huesos y las paredes de los vasos sanguíneos. Para fabricarlo, tu organismo ensambla primero cadenas de la versión inmadura que aún no ha tomado su forma final —el **procolágeno**—. Dos enzimas que añaden un grupo químico (hidroxilo) a los aminoácidos de cada cadena —la **prolil hidroxilasa** y la **lisil hidroxilasa**— permiten que las tres cadenas se retuerzan entre sí formando la estructura rígida que caracteriza al colágeno maduro —la **triple hélice**—. La vitamina C es el cofactor imprescindible para que esas dos enzimas funcionen; sin ella, las cadenas no pueden estabilizarse y la red de soporte estructural que une y sustenta todos los tejidos del cuerpo —el **tejido conjuntivo**— se desintegra progresivamente. Es la base molecular del escorbuto, la enfermedad que se describe en el apartado sobre deficiencia.
 
-**Antioxidante y regenerador** — La vitamina C es el antioxidante más importante de los que circulan disueltos en el plasma y en el líquido intracelular. Neutraliza los radicales libres —moléculas con un electrón desapareado que dañan las membranas celulares, el ADN y otros componentes celulares— antes de que alcancen estructuras críticas. También regenera la [vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) oxidada —el principal antioxidante de las membranas lipídicas— devolviéndole su capacidad de protección: la vitamina E detiene la oxidación en las membranas; la vitamina C la restaura desde el compartimento acuoso.
+**Antioxidante y regenerador.** La vitamina C es el antioxidante más importante de los que circulan disueltos en el plasma y en el líquido intracelular. Neutraliza las moléculas inestables con un electrón desapareado que dañan las membranas celulares, el ADN y otros componentes de la célula —los **radicales libres**— antes de que alcancen estructuras críticas. También regenera la [vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) oxidada —el principal antioxidante de las membranas lipídicas— devolviéndole su capacidad de protección: la vitamina E detiene la oxidación en las membranas; la vitamina C la restaura desde el compartimento acuoso.
 
-**Absorción del hierro vegetal** — El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de los alimentos vegetales se presenta en estado oxidado (Fe³⁺), que el intestino delgado absorbe mal porque no puede unirse al transportador celular DMT-1 —la proteína de membrana que introduce el hierro en las células del intestino delgado—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que DMT-1 sí transporta. Ingerida en la misma comida que legumbres, espinacas o cereales integrales, puede multiplicar la absorción del hierro vegetal entre dos y cuatro veces.
+**Absorción del hierro vegetal.** El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de los alimentos vegetales se presenta en estado oxidado (Fe³⁺), que el intestino delgado absorbe mal porque no puede unirse a la proteína de membrana que introduce el hierro en las células del intestino delgado —el **DMT-1**—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que el DMT-1 sí transporta. Ingerida en la misma comida que legumbres, espinacas o cereales integrales, puede multiplicar la absorción del hierro vegetal entre dos y cuatro veces.
 
-**Sistema inmunitario** — Los leucocitos —las células del sistema inmunitario: neutrófilos, linfocitos y macrófagos— concentran vitamina C en su interior a niveles entre 50 y 100 veces superiores a los del plasma. Esa acumulación activa potencia la quimiotaxis —la capacidad de los neutrófilos de desplazarse hasta el foco de infección—, la fagocitosis y la producción de interferón —moléculas de señalización que alertan a las células vecinas para que activen sus defensas—. Durante una infección aguda, los niveles plasmáticos de vitamina C caen rápidamente porque los leucocitos la movilizan hacia los tejidos afectados.
+**Sistema inmunitario.** Las células del sistema inmunitario —neutrófilos, linfocitos y macrófagos, agrupados bajo el nombre de **leucocitos**— concentran vitamina C en su interior a niveles entre 50 y 100 veces superiores a los del plasma. Esa acumulación activa la capacidad de los neutrófilos de desplazarse hasta el foco de infección —la **quimiotaxis**—, la fagocitosis y la producción de las moléculas de señalización que alertan a las células vecinas para que activen sus defensas —el **interferón**—. Durante una infección aguda, los niveles plasmáticos de vitamina C caen rápidamente porque los leucocitos la movilizan hacia los tejidos afectados.
+
+Cuatro funciones radicalmente distintas —estructura, protección, absorción y defensa—, la misma molécula detrás de todas.
 
 ## ¿Cuánta vitamina C necesitas?
 
@@ -31,7 +33,7 @@ La EFSA establece valores diferenciados por sexo porque las mujeres tienen, en p
 
 Si fumas, necesitas entre 35 y 40 mg adicionales diarios. El tabaco aumenta el estrés oxidativo sistémico y acelera el recambio metabólico de la vitamina C: los fumadores habituales tienen niveles plasmáticos entre un 25 y un 40 % inferiores a los de no fumadores con la misma ingesta dietética.
 
-La absorción de vitamina C no es lineal. Por debajo de 200 mg al día, el intestino absorbe entre el 80 y el 90 % de lo ingerido. A 1 000 mg, la absorción cae al 50 %. A dosis superiores a 2 000 mg, solo entra alrededor del 20 % y el riñón elimina el exceso en pocas horas. La EFSA establece un umbral orientativo de 1 000 mg/día; por encima, el primer límite práctico es la diarrea osmótica —un efecto laxante producido cuando el exceso de vitamina C no absorbida atrae líquido hacia la luz intestinal— antes que cualquier riesgo metabólico establecido.
+La absorción de vitamina C no es lineal. Por debajo de 200 mg al día, el intestino absorbe entre el 80 y el 90 % de lo ingerido. A 1 000 mg, la absorción cae al 50 %. A dosis superiores a 2 000 mg, solo entra alrededor del 20 % y el riñón elimina el exceso en pocas horas. La EFSA establece un umbral orientativo de 1 000 mg/día; por encima, el primer límite práctico es el efecto laxante que se produce cuando el exceso de vitamina C no absorbida atrae líquido hacia el intestino —la **diarrea osmótica**— antes que cualquier riesgo metabólico establecido.
 
 ## Fuentes alimentarias de vitamina C
 
@@ -63,20 +65,25 @@ El efecto requiere simultaneidad: la reducción de Fe³⁺ a Fe²⁺ ocurre en e
 
 En la práctica: añadir pimiento rojo, kiwi o zumo de limón a una ensalada de lentejas o a un plato de espinacas multiplica el hierro disponible sin cambios en la receta más allá de esa adición. Es especialmente relevante en dietas vegetarianas y veganas, donde el hierro vegetal es la única fuente.
 
+El zumo de limón sobre las lentejas no es un truco de cocina: es química aplicada.
+
 ## ¿Qué ocurre si falta vitamina C?
 
-La deficiencia grave produce **escorbuto**, que durante los siglos XV a XVIII fue la principal causa de muerte en la navegación oceánica de larga distancia. Los síntomas reflejan el fallo sistémico del colágeno.
+La deficiencia grave produce la enfermedad que entre los siglos XV y XVIII fue la principal causa de muerte en la navegación oceánica de larga distancia —el **escorbuto**—. Sus síntomas reflejan el fallo sistémico del colágeno.
 
-En las primeras semanas con una ingesta inferior a 10 mg/día —frente a los 95–110 mg recomendados— aparecen fatiga intensa, irritabilidad y dolores articulares. Después, las encías se vuelven edematosas —hinchadas por acumulación de líquido— y sangran al mínimo contacto; los dientes se aflojan porque el ligamento periodontal —el tejido que ancla el diente al hueso de la mandíbula— pierde el colágeno que lo sostiene. La piel muestra petequias —pequeñas hemorragias puntiformes bajo la superficie, producidas por la fragilidad capilar cuando la pared de los vasos pierde su soporte de colágeno—. Las heridas antiguas, ya cicatrizadas, pueden volver a abrirse: el colágeno que las mantenía cerradas se degrada sin que haya síntesis nueva que lo reponga. Sin tratamiento, la muerte llega en semanas.
+En las primeras semanas con una ingesta inferior a 10 mg/día —frente a los 95–110 mg recomendados— aparecen fatiga intensa, irritabilidad y dolores articulares. Después, las encías se hinchan de forma anormal por acumulación de líquido —**edematosas**— y sangran al mínimo contacto; los dientes se aflojan porque el tejido que ancla el diente al hueso de la mandíbula —el **ligamento periodontal**— pierde el colágeno que lo sostiene. La piel muestra pequeñas manchas rojizas producidas por hemorragias bajo la superficie cuando los capilares pierden su soporte de colágeno —las **petequias**—. Las heridas antiguas, ya cicatrizadas, pueden volver a abrirse: el colágeno que las mantenía cerradas se degrada sin que haya síntesis nueva que lo reponga. Sin tratamiento, la muerte llega en semanas.
 
 James Lind demostró en 1747 —en lo que se considera el primer ensayo clínico controlado de la historia moderna— que los limones y las naranjas revertían el escorbuto en marineros a bordo del HMS Salisbury en menos de dos semanas. Sus conclusiones tardaron décadas en traducirse en política naval. La Royal Navy no adoptó el suministro obligatorio de zumo de limón hasta 1795. Durante ese intervalo, el escorbuto siguió siendo la causa más letal del mar.
 
 Hoy la deficiencia grave es excepcional, pero la deficiencia subclínica —niveles por debajo del óptimo sin escorbuto clínico— persiste en grupos concretos:
 
-- **Fumadores habituales**: los niveles plasmáticos son sistemáticamente más bajos incluso con la misma ingesta dietética, porque el tabaco consume la vitamina C en las reacciones oxidativas que genera.
-- **Personas mayores institucionalizadas** con acceso limitado a frutas y verduras frescas: la ingesta puede caer por debajo de los mínimos durante meses sin síntomas evidentes.
-- **Personas con alcoholismo crónico**: el alcohol deteriora la absorción intestinal y el transporte celular de vitamina C.
-- **Personas con dietas basadas en alimentos ultraprocesados** sin fruta ni verdura: la vitamina C prácticamente desaparece de la dieta industrial elaborada.
+**Fumadores habituales.** Los niveles plasmáticos son sistemáticamente más bajos incluso con la misma ingesta dietética, porque el tabaco consume la vitamina C en las reacciones oxidativas que genera.
+
+**Personas mayores institucionalizadas** con acceso limitado a frutas y verduras frescas. La ingesta puede caer por debajo de los mínimos durante meses sin síntomas evidentes.
+
+**Personas con alcoholismo crónico.** El alcohol deteriora la absorción intestinal y el transporte celular de vitamina C.
+
+**Personas con dietas basadas en alimentos ultraprocesados** sin fruta ni verdura. La vitamina C prácticamente desaparece de la dieta industrial elaborada.
 
 ## La vitamina C y el resfriado: lo que dice la evidencia
 
@@ -92,9 +99,11 @@ Para la mayoría de las personas, no. Una dieta con dos o tres porciones diarias
 
 Los suplementos están justificados en situaciones concretas:
 
-- **Fumadores que no corrigen la dieta**: los niveles plasmáticos caen por debajo del umbral de saturación aunque la ingesta dietética sea adecuada para no fumadores.
-- **Personas con dietas muy restrictivas sin acceso regular a frutas y verduras**: la vitamina C es prácticamente inexistente en la dieta ultraprocesada.
-- **Convalecientes de cirugías, quemaduras o heridas extensas**: la síntesis de colágeno para la reparación tisular aumenta las necesidades por encima de la ingesta habitual.
+**Fumadores que no corrigen la dieta.** Los niveles plasmáticos caen por debajo del umbral de saturación aunque la ingesta dietética sea adecuada para no fumadores.
+
+**Personas con dietas muy restrictivas sin acceso regular a frutas y verduras.** La vitamina C prácticamente desaparece de la dieta basada en ultraprocesados.
+
+**Convalecientes de cirugías, quemaduras o heridas extensas.** La síntesis de colágeno para la reparación tisular aumenta las necesidades por encima de la ingesta habitual.
 
 Las dosis de 200–500 mg/día son suficientes para saturar el plasma. Dosis superiores a 1 000 mg no aumentan los niveles plasmáticos de forma apreciable —la absorción intestinal cae y el riñón elimina el exceso—. En personas con antecedentes de cálculos renales de oxalato cálcico, las dosis altas elevan la excreción urinaria de oxalato y pueden aumentar el riesgo de recidiva.
 

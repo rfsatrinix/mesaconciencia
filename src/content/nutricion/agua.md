@@ -1,6 +1,6 @@
 ---
 title: "Agua"
-description: "Agua: sin ella el organismo falla en días; las necesidades van de 2 a más de 4 litros según el ejercicio y el calor, y el 20% lo aportan los alimentos."
+description: "Agua: es el nutriente sin el que tu cuerpo falla en días; las necesidades reales van de 2 a más de 4 litros diarios según el ejercicio y el calor."
 categoria: "Nutrición"
 draft: false
 date: 2026-07-04
@@ -27,15 +27,17 @@ Estas cifras incluyen el agua de todos los alimentos y bebidas, no solo la que b
 
 La ingesta adecuada es una referencia para personas sedentarias en clima templado. Las necesidades reales pueden ser significativamente mayores en función de:
 
-- **Actividad física**: tu sudor durante el ejercicio puede suponer pérdidas de 0,5 a 2 litros por hora según la intensidad y el calor ambiente. Un corredor entrenando 90 minutos en verano puede perder más de 2 litros por encima de su necesidad basal.
+**Actividad física.** Tu sudor durante el ejercicio puede suponer pérdidas de 0,5 a 2 litros por hora según la intensidad y el calor ambiente. Un corredor entrenando 90 minutos en verano puede perder más de 2 litros por encima de su necesidad basal.
 
-- **Calor y humedad**: tu organismo incrementa la sudoración para regular la temperatura corporal, lo que eleva las pérdidas incluso en reposo.
+**Calor y humedad.** Tu cuerpo incrementa la sudoración para regular la temperatura corporal, lo que eleva las pérdidas incluso en reposo.
 
-- **Fiebre o enfermedad gastrointestinal**: los vómitos y la diarrea provocan pérdidas importantes que debes reponer activamente, porque el intestino deja de recuperar el agua que secretan los jugos digestivos.
+**Fiebre o enfermedad gastrointestinal.** Los vómitos y la diarrea provocan pérdidas importantes que debes reponer activamente, porque el intestino deja de recuperar el agua que secretan los jugos digestivos.
 
-- **Altitud elevada**: la respiración se acelera a mayor altitud y con ella se pierde más agua por el aliento en cada exhalación.
+**Altitud elevada.** La respiración se acelera a mayor altitud y con ella se pierde más agua por el aliento en cada exhalación.
 
-- **Dietas muy ricas en [proteínas](/nutricion/macronutrientes/proteinas) o sal**: tu riñón necesita más líquido para eliminar la urea —el residuo nitrogenado que resulta de descomponer los aminoácidos— y el exceso de sal de la dieta.
+**Dietas muy ricas en [proteínas](/nutricion/macronutrientes/proteinas) o sal.** Tu riñón necesita más líquido para eliminar el residuo nitrogenado que resulta de descomponer los aminoácidos —la **urea**— y el exceso de sal de la dieta.
+
+La cifra de la EFSA describe un día sin ejercicio, sin fiebre y sin calor. En cualquier otro día, el mínimo sube.
 
 ## ¿De dónde viene el agua que consumes?
 
@@ -57,13 +59,13 @@ Una pieza de fruta aporta entre 80 y 150 ml de agua; 100 g de verdura cruda, uno
 
 La sed es el mecanismo de alerta más fiable, pero en personas mayores puede aparecer tarde. Hay señales más objetivas:
 
-- **El color de tu orina** es el indicador más sencillo: la orina amarillo pálido indica hidratación adecuada; la orina oscura —amarillo intenso o marrón— indica que tus riñones están concentrando el agua disponible para compensar el déficit.
+**El color de tu orina** es el indicador más sencillo: la orina amarillo pálido indica hidratación adecuada; la orina oscura —amarillo intenso o marrón— indica que tus riñones están concentrando el agua disponible para compensar el déficit.
 
-- **La sequedad de boca y labios** aparece cuando la producción de saliva empieza a reducirse; es una señal temprana de que el aporte hídrico está por debajo de las pérdidas.
+**La sequedad de boca y labios** aparece cuando la producción de saliva empieza a reducirse; es una señal temprana de que el aporte hídrico está por debajo de las pérdidas.
 
-- **El dolor de cabeza y la dificultad para concentrarte** son los primeros síntomas cognitivos de la deshidratación leve —pérdida del 1–2 % del peso corporal—, que ya reduce el rendimiento físico y mental.
+**El dolor de cabeza y la dificultad para concentrarte** son los primeros síntomas cognitivos de la deshidratación leve —pérdida del 1–2 % del peso corporal—, que ya reduce el rendimiento físico y mental.
 
-- **La reducción del volumen urinario** y la necesidad de orinar con menos frecuencia indican que tus riñones están en modo de conservación y que el balance hídrico es negativo.
+**La reducción del volumen urinario** y la necesidad de orinar con menos frecuencia indican que tus riñones están en modo de conservación y que tu cuerpo pierde más agua de la que recibe.
 
 ## Agua del grifo frente al agua embotellada
 
@@ -73,15 +75,21 @@ Las diferencias en sabor y contenido mineral —la dureza del agua— son reales
 
 ## Bebidas que también hidratan
 
-- **Infusiones y café**: contribuyen a la hidratación aunque la cafeína tiene un efecto diurético leve —estimula la producción de orina, pero sin cancelar el aporte hídrico de la bebida en dosis habituales—.
-- **Leche y bebidas vegetales**: hidratan y aportan nutrientes adicionales.
-- **Bebidas isotónicas**: útiles solo en ejercicios prolongados de más de 60–90 minutos, cuando reponer electrolitos —las sales que el cuerpo pierde con el sudor: sodio, potasio y magnesio— es tan importante como reponer el agua.
-- **Refrescos azucarados**: hidratan, pero el azúcar añadido que contienen desaconseja su consumo habitual.
-- **Alcohol**: es diurético y contribuye negativamente al balance hídrico; su efecto sobre la producción de orina supera el agua que aporta la bebida.
+**Infusiones y café.** Contribuyen a la hidratación aunque la cafeína tiene un efecto diurético leve —estimula la producción de orina, pero sin cancelar el aporte hídrico de la bebida en dosis habituales—.
+
+**Leche y bebidas vegetales.** Hidratan y aportan nutrientes adicionales.
+
+**Bebidas isotónicas.** Son útiles solo en ejercicios prolongados de más de 60–90 minutos, cuando reponer las sales que tu cuerpo pierde con el sudor —[sodio](/nutricion/micronutrientes/minerales/sodio), [potasio](/nutricion/micronutrientes/minerales/potasio) y [magnesio](/nutricion/micronutrientes/minerales/magnesio), que en conjunto se denominan **electrolitos**— es tan importante como reponer el agua.
+
+**Refrescos azucarados.** Hidratan, pero el azúcar añadido que contienen desaconseja su consumo habitual.
+
+**Alcohol.** Es diurético y te deshidrata a pesar del líquido que aporta; su efecto sobre la producción de orina supera el agua que contiene la bebida.
 
 En la práctica, el agua, las infusiones sin azúcar y los caldos son las opciones con mejor perfil hídrico neto.
 
-Los 2,5 litros son el suelo, no el techo: el ejercicio, el calor o una dieta muy rica en sal y proteínas los elevan sin que el cuerpo siempre avise a tiempo. La sed detecta el déficit cuando ya ha comenzado; el color de la orina lo detecta antes.
+Los 2,5 litros son el suelo, no el techo: el ejercicio, el calor o una dieta muy rica en sal y proteínas los elevan sin que tu cuerpo siempre avise a tiempo.
+
+La sed detecta el déficit cuando ya ha comenzado; el color de la orina lo detecta antes.
 
 ---
 

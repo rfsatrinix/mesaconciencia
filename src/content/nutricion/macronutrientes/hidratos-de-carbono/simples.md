@@ -1,12 +1,12 @@
 ---
 title: "Hidratos de carbono simples"
-description: "Qué son los hidratos de carbono simples (azúcares), diferencia entre azúcares naturales y añadidos, su metabolismo y efectos sobre la salud."
+description: "Hidratos de carbono simples: son los azúcares que tu cuerpo absorbe con rapidez; qué diferencia a los naturales de los libres y cuántos deberías tomar al día."
 categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
 ---
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares. Su estructura sencilla hace que se digieran y absorban con rapidez, lo que provoca una elevación más rápida de la glucosa en sangre —la glucemia— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares. Tu cuerpo los digiere y absorbe con rapidez, lo que provoca una elevación más rápida de la glucosa en tu sangre —la **glucemia**— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
 
 Clasificarlos como "buenos" o "malos" en abstracto no lleva a ningún sitio. Lo que importa es **de dónde proceden** y en qué cantidad los consumes.
 
@@ -40,10 +40,7 @@ La diferencia entre los azúcares naturales y los libres es lo que explica por q
 
 **Azúcares naturales** (intrínsecos): son los que forman parte de la estructura celular del alimento —como ocurre en la fruta entera o en la leche—. Vienen acompañados de [fibra](/nutricion/fibra-alimenticia), [agua](/nutricion/agua), [vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales) que moderan su absorción y enriquecen el conjunto.
 
-**Azúcares libres**: son los que han sido extraídos de su matriz original o añadidos a los alimentos. Incluyen:
-- Azúcar blanco, moreno y panela añadidos a recetas o productos
-- Miel, siropes y zumos de frutas (aunque naturales, el proceso de extracción separa el azúcar de la fibra que lo acompañaba)
-- Azúcares añadidos a ultraprocesados (refrescos, bollería, salsas)
+**Azúcares libres**: son los que han sido extraídos de su matriz original o añadidos a los alimentos: el azúcar blanco, moreno y la panela que se añaden a recetas y productos; la miel, los siropes y los zumos de frutas —donde el proceso de extracción separa el azúcar de la fibra—; y los azúcares de los ultraprocesados, como refrescos, bollería o salsas.
 
 La OMS y la EFSA basan sus recomendaciones restrictivas en los **azúcares libres**, no en los azúcares naturales de la fruta o la leche.
 
@@ -57,12 +54,13 @@ Para que te hagas una idea: una lata de refresco de cola estándar (330 ml) cont
 
 ## Cómo metaboliza tu cuerpo la fructosa
 
-La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la glucosa, que cualquier célula de tu cuerpo puede usar directamente. Esa diferencia tiene consecuencias concretas:
+La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la glucosa, que cualquier célula de tu cuerpo puede usar directamente. Esa diferencia tiene dos consecuencias concretas.
 
-- **No estimula la insulina ni la leptina directamente**: la leptina —la hormona que le indica a tu cerebro que ya has comido suficiente— no recibe la señal habitual, por lo que la fructosa genera menos saciedad que la glucosa a igual cantidad de calorías.
-- **En cantidades elevadas**, el hígado la convierte en triglicéridos —un tipo de grasa que circula en tu sangre— en lugar de en glucosa disponible. El consumo habitual de bebidas azucaradas con jarabe de maíz de alta fructosa se asocia con hígado graso no alcohólico (esteatosis hepática), resistencia a la insulina y elevación de triglicéridos en sangre.
+**Menos saciedad.** La fructosa no estimula la producción de la hormona que tu páncreas libera para retirar glucosa de la sangre —la **insulina**—, ni activa la señal que avisa a tu cerebro de que ya has comido suficiente —la **leptina**—. El resultado es que la fructosa genera menos saciedad que la glucosa a igual cantidad de calorías: puedes consumir las mismas kilocalorías sin que tu cuerpo registre que ha comido.
 
-La fructosa de la fruta entera no tiene estos efectos: la fibra ralentiza su absorción y las cantidades ingeridas son muy inferiores a las de los productos procesados.
+**Producción de grasa en el hígado.** Cuando la ingesta de fructosa es elevada, el hígado la convierte en la forma de grasa que circula por tu sangre —los **triglicéridos**— en lugar de en glucosa disponible. El consumo habitual de bebidas azucaradas con jarabe de maíz de alta fructosa se asocia con la acumulación de grasa en las células del hígado —la **esteatosis hepática**—, con la pérdida gradual de la capacidad de tus células de responder a la insulina —la **resistencia a la insulina**— y con elevación de triglicéridos en sangre.
+
+La fructosa de la fruta entera no tiene estos efectos. La fibra y la cantidad lo cambian todo.
 
 ## Fuentes naturales de azúcares simples
 
@@ -70,7 +68,7 @@ Estos alimentos contienen azúcares simples pero con un perfil nutricional compl
 
 | Alimento | Azúcares por 100 g | Contexto nutricional |
 |---|---|---|
-| Plátano maduro | 15 g | Potasio, B6, fibra |
+| Plátano maduro | 15 g | [Potasio](/nutricion/micronutrientes/minerales/potasio), B6, fibra |
 | Manzana | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
 | Leche entera | 5 g (lactosa) | Proteína, [calcio](/nutricion/micronutrientes/minerales/calcio), [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
@@ -82,13 +80,17 @@ Estos alimentos contienen azúcares simples pero con un perfil nutricional compl
 
 El consumo elevado de azúcares libres tiene efectos documentados sobre varios sistemas:
 
-- **Caries dental**: las bacterias de tu boca fermentan los azúcares y producen ácidos que desmineralizan el esmalte dental.
-- **Exceso de peso**: las bebidas azucaradas no te generan la misma saciedad que los alimentos sólidos con las mismas calorías. Consumes energía sin que tu cuerpo registre que has comido.
-- **Hígado graso no alcohólico**: el exceso de fructosa puede hacer que tu hígado fabrique grasa en lugar de procesarla correctamente —un proceso llamado lipogénesis hepática—.
-- **Resistencia a la insulina y diabetes tipo 2**: el consumo crónico elevado de azúcares libres se asocia con que tus células respondan peor a la insulina —la hormona que regula tu glucemia—, lo que obliga al páncreas a producir más para compensar.
-- **Dislipemia** —alteración de los niveles de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre—: el exceso de fructosa eleva los triglicéridos, un factor de riesgo cardiovascular independiente.
+**Caries dental.** Las bacterias de tu boca fermentan los azúcares y producen ácidos que desmineralizan el esmalte.
 
-Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Una dieta en la que los azúcares libres son la excepción —y la fruta entera, la leche y los cereales integrales son la norma— tiene margen de sobra para un postre ocasional sin ningún impacto relevante.
+**Exceso de peso.** Las bebidas azucaradas no generan la misma saciedad que los alimentos sólidos con las mismas calorías. Consumes energía sin que tu cuerpo registre que has comido.
+
+**Hígado graso.** El exceso de fructosa puede hacer que tu hígado fabrique grasa en lugar de procesarla correctamente —un proceso que se llama **lipogénesis hepática**—.
+
+**Resistencia a la insulina y diabetes tipo 2.** El consumo crónico elevado de azúcares libres se asocia con que tus células respondan cada vez peor a la insulina, lo que obliga al páncreas a producir más para compensar.
+
+**Elevación de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre.** El exceso de fructosa altera los niveles de grasas en tu sangre —una condición que se conoce como **dislipemia**—, un factor de riesgo cardiovascular independiente del colesterol.
+
+Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
 
 ---
 

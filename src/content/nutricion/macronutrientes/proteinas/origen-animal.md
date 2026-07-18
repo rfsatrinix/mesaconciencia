@@ -1,6 +1,6 @@
 ---
 title: "Proteínas de origen animal"
-description: "Carnes, pescado, huevos y lácteos: perfil completo de aminoácidos, calidad proteica (DIAAS), biodisponibilidad y cómo integrarlas en una dieta saludable."
+description: "Proteínas de origen animal: son las proteínas que aportan los nueve aminoácidos esenciales, con datos de calidad (DIAAS), fuentes y biodisponibilidad."
 categoria: "Proteínas"
 draft: false
 date: 2026-07-03
@@ -10,10 +10,11 @@ Las [proteínas](/nutricion/macronutrientes/proteinas) de origen animal son las 
 
 ## Calidad proteica: PDCAAS y DIAAS
 
-Para comparar proteínas no basta con saber cuántos gramos contiene un alimento. Lo que importa es cuántos de esos gramos puede utilizar tu organismo. Los dos índices más usados son:
+Para comparar proteínas no basta con saber cuántos gramos contiene un alimento. Lo que importa es cuántos de esos gramos puede utilizar tu organismo.
 
-- **PDCAAS** (Protein Digestibility Corrected Amino Acid Score): es una puntuación que penaliza las proteínas con aminoácidos limitantes —aquellos que están presentes en menor cantidad de la que tu cuerpo necesita y que, por eso, limitan el aprovechamiento del resto— y corrige por digestibilidad fecal —la fracción de proteína que no se absorbe en el intestino y se pierde en las heces—. Fue el estándar de la FAO/OMS durante décadas.
-- **DIAAS** (Digestible Indispensable Amino Acid Score): es más preciso que el PDCAAS porque mide la digestibilidad en el intestino delgado en lugar de en las heces, lo que refleja mejor cuántos aminoácidos llegas a absorber de verdad. Es el método recomendado actualmente por la FAO.
+Durante décadas, la FAO/OMS usó una puntuación que corrige la calidad de las proteínas según sus aminoácidos presentes en menor cantidad relativa —los **aminoácidos limitantes**— y según la fracción que el intestino no absorbe y se pierde en las heces —la **digestibilidad fecal**—. Se llama **PDCAAS** (*Protein Digestibility Corrected Amino Acid Score*).
+
+La FAO recomienda actualmente un índice más preciso que mide la digestibilidad donde los aminoácidos se absorben de verdad: en el intestino delgado, no en las heces. Eso hace que su valor refleje mejor cuánta proteína aprovechas realmente. Se llama **DIAAS** (*Digestible Indispensable Amino Acid Score*).
 
 | Alimento | DIAAS aproximado |
 |---|---|
@@ -27,7 +28,7 @@ Un DIAAS superior a 1,00 indica que la proteína cubre sobradamente todas tus ne
 
 ## El huevo: la referencia proteica
 
-El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para tu organismo. La yema concentra la mayor parte de los [micronutrientes](/nutricion/micronutrientes): aporta colina —un nutriente esencial para el funcionamiento del hígado y la formación de membranas celulares—, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12), [selenio](/nutricion/micronutrientes/oligoelementos/selenio) y luteína —un pigmento que se acumula en la retina y protege la vista frente a la radiación de alta energía—.
+El huevo entero es históricamente el patrón de referencia para medir la calidad proteica. Contiene todos los aminoácidos esenciales en proporciones casi ideales para tu organismo. La yema concentra la mayor parte de los [micronutrientes](/nutricion/micronutrientes): aporta un nutriente esencial para el funcionamiento del hígado y la formación de membranas celulares —la **colina**—, [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12), [selenio](/nutricion/micronutrientes/oligoelementos/selenio) y un pigmento que se acumula en la retina y protege la vista frente a la radiación de alta energía —la **luteína**—.
 
 | Presentación | Proteína por 100 g |
 |---|---|
@@ -52,7 +53,7 @@ Alto contenido proteico con menor proporción de grasa saturada que las rojas. L
 
 ### Carnes rojas (vacuno, cordero, cerdo)
 
-Las carnes rojas aportan hierro hemo —la forma de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) presente en la carne, que tu intestino absorbe con mucha más eficiencia que el hierro de origen vegetal—, [zinc](/nutricion/micronutrientes/oligoelementos/zinc) y [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La [grasa](/nutricion/macronutrientes/grasas-o-lipidos) varía mucho según el corte; las guías nutricionales no las prohíben, pero sí recomiendan moderar su consumo, especialmente en los cortes más grasos.
+Las carnes rojas aportan la forma de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) que tu intestino absorbe con mucha más eficiencia que el hierro de origen vegetal —el **hierro hemo**—, [zinc](/nutricion/micronutrientes/oligoelementos/zinc) y [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La [grasa](/nutricion/macronutrientes/grasas-o-lipidos) varía mucho según el corte; las guías nutricionales no las prohíben, pero sí recomiendan moderar su consumo, especialmente en los cortes más grasos.
 
 | Alimento (cocido) | Proteína por 100 g | Hierro |
 |---|---|---|
@@ -63,11 +64,11 @@ Las carnes rojas aportan hierro hemo —la forma de [hierro](/nutricion/micronut
 
 ### Carnes procesadas: la excepción
 
-Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a la carne fresca. La Agencia Internacional para la Investigación del Cáncer (IARC) las clasifica como carcinógenas del grupo 1 —la categoría de mayor certeza, que comparte con el tabaco aunque con magnitudes de riesgo muy distintas— por su relación con el cáncer colorrectal. El problema no es solo la proteína que aportan: el sodio en exceso, los nitratos —conservantes que en el intestino pueden transformarse en nitrosaminas, compuestos con potencial carcinógeno— y las [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) forman un conjunto de riesgo que la carne fresca no tiene.
+Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a la carne fresca. La Agencia Internacional para la Investigación del Cáncer (IARC) las coloca en la categoría de mayor certeza sobre su relación con el cáncer, la misma que el tabaco aunque con magnitudes de riesgo muy distintas —el **Grupo 1** de la IARC—, por su asociación con el cáncer colorrectal. El problema no es solo la proteína que aportan. El [sodio](/nutricion/micronutrientes/minerales/sodio) en exceso y las [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) contribuyen a su peor perfil, pero el mayor riesgo específico viene de los aditivos conservantes —los **nitratos**— que en el intestino generan compuestos con potencial carcinógeno —las **nitrosaminas**—: un conjunto de riesgo que la carne fresca no tiene.
 
 ## Pescado y marisco
 
-El pescado combina proteína de alta calidad con los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) EPA y DHA —los de cadena larga que tu cuerpo utiliza directamente para reducir la inflamación y proteger el sistema cardiovascular— en el caso del pescado azul. Los pescados blancos son más magros pero igualmente ricos en proteína completa.
+El pescado azul combina proteína de alta calidad con los ácidos grasos de cadena larga que tu cuerpo puede usar directamente para reducir la inflamación y proteger el sistema cardiovascular —el **EPA** y el **DHA**, los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) más relevantes en la dieta—. Los pescados blancos son más magros pero igualmente ricos en proteína completa.
 
 | Alimento (cocido) | Proteína por 100 g | EPA + DHA |
 |---|---|---|
@@ -78,12 +79,17 @@ El pescado combina proteína de alta calidad con los [ácidos grasos omega-3](/n
 | Merluza | 18 g | ~300 mg |
 | Bacalao desalado | 18 g | ~200 mg |
 
+Para EPA y DHA, el salmón y la sardina son las fuentes más densas de la dieta habitual: ningún alimento de origen vegetal los aporta directamente.
+
 ## Lácteos
 
-La proteína láctea se divide en dos fracciones con características distintas:
+La proteína láctea se divide en dos fracciones con características distintas.
 
-- **Caseína** (~80 % de la proteína de la leche): es de digestión lenta y genera una liberación sostenida de aminoácidos durante varias horas. Es el componente principal del queso y la razón por la que en entrenamiento de fuerza se suele recomendar tomarla antes de dormir.
-- **Proteína de suero** (whey, ~20 %): se digiere rápidamente y tiene una alta concentración de [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina) —el aminoácido que activa directamente la señal de síntesis de proteína muscular—. Es la fracción más estudiada para la recuperación postentrenamiento.
+La fracción mayoritaria —cerca del 80 % de la proteína de la leche— se digiere lentamente y genera una liberación sostenida de aminoácidos durante varias horas. Es el componente principal del queso y la razón por la que en entrenamiento de fuerza se suele recomendar tomarla antes de dormir: la **caseína**.
+
+El 20 % restante se digiere rápidamente y contiene una alta concentración del aminoácido que activa directamente la señal de síntesis de proteína muscular —la **[leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina)**—. Es la fracción más estudiada para la recuperación postentrenamiento: la **proteína de suero** (whey).
+
+Dos fracciones, dos velocidades, dos momentos de uso: la caseína y el suero no son intercambiables.
 
 Principales fuentes lácteas y su contenido proteico:
 

@@ -1,6 +1,6 @@
 ---
 title: "Vitamina B1"
-description: "La tiamina fue la primera vitamina identificada: conecta la glucosa con la energía celular y su déficit produce beriberi o síndrome de Wernicke-Korsakoff."
+description: "Vitamina B1: es la tiamina, la primera vitamina identificada; conecta la glucosa con la energía celular y su déficit produce beriberi o Wernicke-Korsakoff."
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-03
@@ -8,21 +8,23 @@ date: 2026-07-03
 
 La **vitamina B1**, o **tiamina**, es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) y la primera en ser identificada históricamente. A finales del siglo XIX, el médico holandés Christiaan Eijkman demostró que el beriberi —una enfermedad neurológica y cardiovascular que diezmaba a las poblaciones asiáticas— estaba causado por comer arroz blanco pulido en lugar de arroz integral. Casimir Funk aisló el compuesto activo en 1912 y para nombrarlo acuñó el término «vitamina» —de *vita*, vida, y amina—: la tiamina fue su primer ejemplo.
 
-En tu organismo, la tiamina actúa en su forma activa, el **pirofosfato de tiamina (PPT)**, como cofactor de los complejos enzimáticos que convierten los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) y ciertos aminoácidos en energía utilizable. Sin ella, el metabolismo energético se interrumpe en puntos que tu cuerpo no puede rodear.
+En tu organismo, la tiamina actúa en su forma activa —el **pirofosfato de tiamina** (PPT)— como cofactor de los complejos enzimáticos que convierten los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) y ciertos aminoácidos en energía utilizable. Sin ella, el metabolismo energético se interrumpe en puntos que tu cuerpo no puede rodear.
 
 ## ¿Para qué sirve la vitamina B1?
 
 El PPT actúa como cofactor de cuatro complejos enzimáticos con funciones concretas e insustituibles:
 
-**Piruvato deshidrogenasa (PDH)** — Convierte el piruvato —el producto final de la glucólisis, la ruta que descompone la glucosa en el citoplasma celular— en acetil-CoA para que entre en el ciclo de Krebs —la ruta central de producción de energía en las mitocondrias—. Es el paso que conecta el metabolismo del azúcar con la producción de ATP, la moneda energética de la célula. Si la PDH no funciona, el piruvato se acumula y se desvía a lactato; el resultado es acidosis láctica y un músculo cardíaco que no puede sostener su demanda energética.
+**Piruvato deshidrogenasa (PDH).** Convierte el producto final de la ruta que descompone la glucosa en el citoplasma celular —la **glucólisis**— en acetil-CoA, la molécula que alimenta la ruta central de producción de energía en las mitocondrias —el **ciclo de Krebs**—. Es el puente que conecta la degradación del azúcar con la producción de la moneda energética de la célula —el **ATP**—. Si la PDH no funciona, ese puente colapsa: el intermediario se acumula y se desvía hacia lactato, lo que acidifica progresivamente la sangre —la **acidosis láctica**— y deja al músculo cardíaco sin energía para seguir latiendo.
 
-**Alfa-cetoglutarato deshidrogenasa** — Cataliza un paso dentro del propio ciclo de Krebs: la conversión de alfa-cetoglutarato en succinil-CoA. Su bloqueo detiene el ciclo a mitad del recorrido.
+**Alfa-cetoglutarato deshidrogenasa.** Cataliza un paso dentro del propio ciclo de Krebs: convierte el alfa-cetoglutarato —un intermediario del ciclo— en succinil-CoA. Su bloqueo detiene el ciclo a mitad del recorrido.
 
-**Transcetolasa** — Opera en la vía de las pentosas fosfato, que produce NADPH —un transportador de electrones necesario para la síntesis de ácidos grasos y para la defensa antioxidante de la célula— y ribosa-5-fosfato, el azúcar que forma la columna vertebral del ADN y el ARN. La medición de la actividad de la transcetolasa en los eritrocitos —los glóbulos rojos— es la prueba funcional estándar para valorar el estado de tiamina en tu organismo.
+**Transcetolasa.** Opera en la ruta metabólica que, en paralelo a la glucólisis, produce los materiales para construir ADN y ARN —la **vía de las pentosas fosfato**—. Esta ruta genera un transportador de electrones esencial para la síntesis de ácidos grasos y para la defensa antioxidante de la célula —el **NADPH**— y el azúcar que forma la columna vertebral del ADN y el ARN —la **ribosa-5-fosfato**—. La actividad de la transcetolasa en los glóbulos rojos —los **eritrocitos**— es la prueba funcional estándar para valorar el estado de tiamina en tu organismo.
 
-**BCKDH (deshidrogenasa de cetoácidos de cadena ramificada)** — Degrada los cetoácidos derivados de los aminoácidos de cadena ramificada [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina) y [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina). La misma enzima cuya mutación genética causa la enfermedad de la orina con olor a jarabe de arce (MSUD).
+**BCKDH (deshidrogenasa de cetoácidos de cadena ramificada).** Degrada los cetoácidos derivados de los aminoácidos de cadena ramificada [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina) y [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina). Es la misma enzima cuya mutación genética causa la enfermedad de la orina con olor a jarabe de arce (MSUD).
 
-La tiamina tiene también un papel en las membranas de los axones —las prolongaciones de las neuronas que conducen el impulso nervioso—, independiente de su función como cofactor. Este papel explica por qué la deficiencia afecta al sistema nervioso incluso antes de que los marcadores metabólicos se alteren de forma significativa.
+La tiamina tiene además un papel en las membranas de las prolongaciones de las neuronas que conducen el impulso nervioso —los **axones**—, independiente de su función como cofactor. Este papel explica por qué la deficiencia afecta al sistema nervioso incluso antes de que los marcadores metabólicos se alteren de forma significativa.
+
+Cuatro complejos enzimáticos críticos, todos dependientes del mismo cofactor. No existe ninguna ruta alternativa si el PPT falla.
 
 ## ¿Cuánta vitamina B1 necesitas?
 
@@ -60,16 +62,21 @@ La tiamina se concentra en el salvado y el germen de los cereales, en las legumb
 
 *Fuente: USDA FoodData Central.*
 
-La diferencia entre el arroz integral y el arroz blanco es la misma que causó décadas de beriberi en Asia: el proceso de pulido elimina el salvado y el germen, donde reside la práctica totalidad de la tiamina del grano. El arroz blanco que llega a la mesa conserva menos del 10 % de la tiamina original.
+La diferencia entre el arroz integral y el arroz blanco es la misma que causó décadas de beriberi en Asia: el proceso de pulido elimina el salvado y el germen, donde reside la práctica totalidad de la tiamina del grano.
+
+El arroz blanco que llega a la mesa conserva menos del 10 % de la tiamina original.
 
 ## Qué destruye la tiamina en la dieta
 
 Tus reservas corporales de tiamina son pequeñas —alrededor de 30 mg, distribuidos en corazón, hígado, riñones y cerebro— y su vida media es corta: una dieta deficiente puede producir síntomas en pocas semanas. Varios factores reducen la tiamina disponible en los alimentos o bloquean su absorción:
 
-- **Calor**: es la vitamina más sensible a las altas temperaturas entre las del grupo B; cocer a fuego alto durante mucho tiempo puede destruir hasta el 50 % del contenido en alimentos.
-- **Tiaminasas**: enzimas presentes en los peces de río crudos, en algunos mariscos crudos y en ciertas plantas, que degradan activamente la tiamina al entrar en contacto con ella; la cocción las inactiva.
-- **Sulfitos**: aditivos conservantes usados en vino, zumos industriales y frutas desecadas que destruyen la tiamina directamente en el alimento.
-- **Alcohol**: bloquea la absorción intestinal de tiamina y acelera su excreción renal —el mecanismo que explica la alta prevalencia de déficit de tiamina en personas con alcoholismo crónico—.
+**Calor.** Es la vitamina más sensible a las altas temperaturas entre las del grupo B; cocer a fuego alto durante mucho tiempo puede destruir hasta el 50 % del contenido en alimentos.
+
+**Tiaminasas.** Son enzimas presentes en los peces de río crudos, en algunos mariscos crudos y en ciertas plantas que degradan activamente la tiamina al entrar en contacto con ella; la cocción las inactiva.
+
+**Sulfitos.** Son aditivos conservantes usados en vino, zumos industriales y frutas desecadas que destruyen la tiamina directamente en el alimento.
+
+**Alcohol.** Bloquea la absorción intestinal de tiamina y acelera su excreción renal —el mecanismo que explica la alta prevalencia de déficit de tiamina en personas con alcoholismo crónico—.
 
 ## Beriberi: la enfermedad del arroz blanco
 
@@ -77,9 +84,9 @@ El beriberi fue durante siglos una causa importante de muerte y discapacidad en 
 
 Se distinguen dos formas principales:
 
-**Beriberi húmedo** — Forma cardiovascular. La incapacidad del miocardio —el músculo cardíaco— para producir energía suficiente lleva a un estado de gasto cardíaco elevado con vasodilatación periférica, edema, taquicardia y disnea —dificultad respiratoria—. Sin tratamiento, progresa a insuficiencia cardíaca de alto gasto: el corazón trabaja cada vez más rápido para compensar una perfusión que no mejora, hasta que falla.
+**Beriberi húmedo.** Es la forma cardiovascular. La incapacidad del músculo cardíaco —el **miocardio**— para producir energía suficiente lleva a un estado con expansión de los vasos sanguíneos periféricos —la **vasodilatación periférica**—, acumulación anormal de líquido en los tejidos —el **edema**—, ritmo cardíaco acelerado —la **taquicardia**— y dificultad respiratoria —la **disnea**—. Sin tratamiento, progresa a la situación en que el corazón trabaja cada vez más rápido para compensar una circulación insuficiente hasta que falla —la **insuficiencia cardíaca de alto gasto**—.
 
-**Beriberi seco** — Forma neurológica. La afectación de los nervios periféricos produce neuropatía ascendente: hormigueo y pérdida de sensibilidad en pies y piernas, seguidos de debilidad muscular y, en casos graves, parálisis. Los músculos se atrofian por desuso y por incapacidad directa para metabolizar energía.
+**Beriberi seco.** Es la forma neurológica. La afectación de los nervios periféricos produce una degeneración que comienza en los nervios más alejados del cerebro y sube progresivamente —la **neuropatía ascendente**—: hormigueo y pérdida de sensibilidad en pies y piernas, seguidos de debilidad muscular y, en casos graves, parálisis. Los músculos se atrofian por desuso y por incapacidad directa para metabolizar energía.
 
 El **beriberi infantil** ocurre en lactantes amamantados por madres con déficit de tiamina. La leche materna de una madre con déficit grave apenas contiene tiamina, y los lactantes —con reservas prácticamente nulas— pueden desarrollar insuficiencia cardíaca aguda en horas. Es uno de los diagnósticos nutricionales más urgentes en pediatría en regiones donde el arroz blanco es el alimento base.
 
@@ -89,11 +96,13 @@ La resolución histórica del problema fue accidental. En 1884, el médico naval
 
 El equivalente contemporáneo del beriberi en países industrializados no ocurre por escasez de arroz integral: ocurre por alcoholismo crónico. El alcohol bloquea la absorción de tiamina, acelera su degradación y va acompañado con frecuencia de una dieta escasa en [micronutrientes](/nutricion/micronutrientes). El resultado es el síndrome de Wernicke-Korsakoff, una de las urgencias neurológicas más subdiagnosticadas.
 
-**Encefalopatía de Wernicke** — Es la fase aguda. La tríada clásica incluye oftalmoplejía —parálisis de los músculos del ojo con movimientos oculares anómalos—, ataxia —pérdida de coordinación y marcha inestable— y confusión o estupor. Los tres síntomas juntos solo aparecen en el 16 % de los casos, lo que facilita el subdiagnóstico. La lesión afecta a las regiones cerebrales con mayor demanda energética: los cuerpos mamilares —pequeñas estructuras del hipotálamo implicadas en la memoria—, el tálamo mediodorsal y el área periacueductal.
+**Encefalopatía de Wernicke.** Es la fase aguda. La tríada clásica incluye parálisis de los músculos del ojo con movimientos oculares anómalos —la **oftalmoplejía**—, pérdida de coordinación y marcha inestable —la **ataxia**— y confusión o estupor. Los tres síntomas juntos solo aparecen en el 16 % de los casos, lo que facilita el subdiagnóstico. La lesión afecta a las regiones cerebrales con mayor demanda energética: pequeñas estructuras del hipotálamo implicadas en la memoria —los **cuerpos mamilares**—, una región central que conecta la corteza con el sistema límbico —el **tálamo mediodorsal**— y la zona que rodea el canal de fluido del tronco cerebral —el **área periacueductal**—.
 
 Es una emergencia médica: el tratamiento es tiamina intravenosa inmediata, y debe administrarse antes de cualquier infusión de glucosa, porque la glucosa sin tiamina agota los últimos depósitos de PPT y puede precipitar o agravar la encefalopatía de forma irreversible.
 
-**Psicosis de Korsakoff** — Es la fase crónica. Si la encefalopatía de Wernicke no se trata a tiempo, el 80 % de los casos progresa a psicosis de Korsakoff: amnesia anterógrada grave —incapacidad para formar nuevos recuerdos— con confabulación —el paciente construye recuerdos ficticios para cubrir los huecos de memoria sin ser consciente de hacerlo—. El daño es, en su mayor parte, irreversible.
+**Psicosis de Korsakoff.** Es la fase crónica. Si la encefalopatía de Wernicke no se trata a tiempo, el 80 % de los casos progresa a psicosis de Korsakoff: la incapacidad para formar nuevos recuerdos —la **amnesia anterógrada grave**— junto con la tendencia a construir recuerdos ficticios para cubrir los huecos de memoria sin ser consciente de hacerlo —la **confabulación**—.
+
+El daño es, en su mayor parte, irreversible.
 
 ## Deficiencia y grupos de riesgo
 
@@ -101,10 +110,13 @@ La deficiencia grave produce beriberi o síndrome de Wernicke-Korsakoff según e
 
 Los grupos con mayor riesgo son:
 
-- **Personas con alcoholismo crónico**: el alcohol bloquea la absorción y acelera la excreción de tiamina —el patrón más frecuente de déficit grave en países industrializados—.
-- **Pacientes con cirugía bariátrica**: el bypass gástrico y otras técnicas reducen la superficie de absorción intestinal de micronutrientes, incluida la tiamina.
-- **Pacientes con vómitos prolongados o alimentación parenteral mal formulada**: la pérdida continua de contenido gástrico o la ausencia de tiamina en la fórmula intravenosa pueden producir déficit en días o semanas.
-- **Poblaciones que dependen del arroz blanco sin acceso a otras fuentes**: la causa histórica del beriberi sigue activa en regiones de Asia y África donde el pulido del arroz no va acompañado de enriquecimiento nutricional.
+**Personas con alcoholismo crónico.** El alcohol bloquea la absorción y acelera la excreción de tiamina —el patrón más frecuente de déficit grave en países industrializados—.
+
+**Pacientes con cirugía bariátrica.** El bypass gástrico y otras técnicas reducen la superficie de absorción intestinal de micronutrientes, incluida la tiamina.
+
+**Pacientes con vómitos prolongados o alimentación parenteral mal formulada.** La pérdida continua de contenido gástrico o la ausencia de tiamina en la fórmula intravenosa pueden producir déficit en días o semanas.
+
+**Poblaciones que dependen del arroz blanco sin acceso a otras fuentes.** La causa histórica del beriberi sigue activa en regiones de Asia y África donde el pulido del arroz no va acompañado de enriquecimiento nutricional.
 
 La tiamina fue la primera vitamina que el ser humano aisló y la que dio nombre al grupo entero —Casimir Funk acuñó el término *vitamina* para describirla—; y hoy, un siglo después, su déficit agudo sigue siendo reversible si se trata con tiamina antes que con glucosa, e irreversible si se hace al revés: en urgencias, el orden de esas dos palabras es la diferencia entre recuperar al paciente o perderlo.
 

@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/nutricion/micronutrientes/vitaminas/vitamina-d",
+      "destination": "/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d",
+      "permanent": true
+    },
+    {
+      "source": "/nutricion/micronutrientes/vitaminas/vitamina-d/",
+      "destination": "/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d",
+      "permanent": true
+    }
+  ]
+}

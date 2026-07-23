@@ -66,13 +66,13 @@ El ALA vegetal no basta. Necesitas EPA y DHA directamente.
 | Alimento | Grasa total (por 100 g) | Tipo predominante |
 |---|---|---|
 | Aceite de oliva virgen extra | 99 g | Monoinsaturadas (oleico) |
+| Mantequilla | 81 g | Saturadas |
 | Nueces | 65 g | Poliinsaturadas (omega-3) |
 | Almendras | 50 g | Monoinsaturadas |
 | Semillas de chía | 31 g | Poliinsaturadas (ALA omega-3) |
 | Aguacate | 15 g | Monoinsaturadas |
 | Salmón (fresco) | 13 g | Poliinsaturadas (EPA, DHA) |
 | Sardina (fresca) | 9 g | Poliinsaturadas (EPA, DHA) |
-| Mantequilla | 81 g | Saturadas |
 
 *Fuente: BEDCA; USDA FoodData Central.*
 

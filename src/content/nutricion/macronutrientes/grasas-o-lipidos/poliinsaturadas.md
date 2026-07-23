@@ -12,7 +12,7 @@ Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) poliinsaturadas (AGPI)
 
 Las grasas poliinsaturadas se agrupan en familias según dónde se sitúa el primer doble enlace en la cadena. Las dos de mayor relevancia nutricional son el **omega-6** y el **omega-3**.
 
-Ambas familias compiten por las mismas [proteínas](/nutricion/macronutrientes/proteinas) especializadas que actúan como herramientas moleculares para transformar los ácidos grasos —las **enzimas**—. Un exceso de una familia puede frenar el metabolismo de la otra, lo que tiene implicaciones directas sobre tu inflamación y tu salud cardiovascular.
+Ambas familias compiten por las mismas [proteínas](/nutricion/macronutrientes/proteinas) especializadas que actúan como herramientas moleculares para transformar los ácidos grasos —las **enzimas**—. Un exceso de una familia puede frenar el metabolismo de la otra, lo que tiene implicaciones directas sobre tu salud cardiovascular y la inflamación.
 
 ## Omega-6: el ácido linoleico y sus derivados
 
@@ -45,7 +45,7 @@ La EFSA establece una ingesta adecuada de **4 % de tu energía total** para el �
 
 ### Los tres ácidos grasos omega-3 principales
 
-La familia omega-3 tiene tres ácidos grasos con roles diferentes:
+Los tres tienen en común que pertenecen a la familia omega-3, pero cumplen funciones diferentes: el ALA es el que tienes que obtener de la dieta porque tu cuerpo no puede fabricarlo; el EPA y el DHA son los que realizan las funciones más directas sobre la inflamación y el sistema nervioso, y se pueden obtener de la dieta o sintetizarse a partir del ALA.
 
 | Ácido graso | Nombre | Fuente principal |
 |---|---|---|
@@ -124,7 +124,7 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 - Reduce el uso de **aceites de girasol y maíz** en favor del aceite de oliva.
 - Si sigues una dieta vegetariana o vegana, valora tomar un suplemento de **EPA+DHA de microalgas**.
 
-En la mayoría de dietas occidentales, el cambio con mayor impacto es aumentar el pescado azul semanal y sustituir los aceites de semillas industriales por aceite de oliva. Con esos dos cambios vas de 15:1 a algo que tu metabolismo reconoce.
+En la mayoría de dietas occidentales, el cambio con mayor impacto es aumentar el pescado azul semanal y sustituir los aceites industriales de semillas por aceite de oliva. Con esos dos cambios vas de 15:1 a algo que tu metabolismo reconoce.
 
 ---
 

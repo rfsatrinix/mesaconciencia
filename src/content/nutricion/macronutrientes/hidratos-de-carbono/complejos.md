@@ -6,11 +6,11 @@ draft: false
 date: 2026-06-12
 ---
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) complejos son cadenas largas de moléculas de glucosa —a veces miles de ellas— unidas entre sí formando estructuras lineales o ramificadas. Cuando tu sistema digestivo las descompone, lo hace mucho más despacio que con los [azúcares simples](/nutricion/macronutrientes/hidratos-de-carbono/simples): las cadenas largas tardan más en romperse en fragmentos que tu intestino puede absorber. Ese retraso es lo que se traduce en glucosa llegando a la sangre de forma gradual en lugar de en una avalancha.
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) complejos son cadenas largas de moléculas de glucosa —a veces miles de ellas— unidas entre sí formando estructuras lineales o ramificadas. Cuando tu sistema digestivo las descompone, lo hace mucho más despacio que con los [azúcares simples](/nutricion/macronutrientes/hidratos-de-carbono/simples): las cadenas largas tardan más en romperse en fragmentos que tu intestino puede absorber. Ese retraso se traduce en glucosa llegando a la sangre de forma gradual en lugar de en una avalancha.
 
 ## La estructura química de los hidratos de carbono complejos
 
-El nombre técnico de estos hidratos de cadena larga —los **polisacáridos**— los divide en dos grandes familias según si tu cuerpo puede digerirlos o no:
+El nombre técnico de estos hidratos de cadena larga —los **polisacáridos**— los divide en dos grandes familias según si tu cuerpo puede digerirlos o no: los digestibles, que son el almidón y el glucógeno, y los no digestibles, que es la fibra.
 
 **Almidón.** Es el polisacárido que las plantas usan para almacenar energía, el equivalente vegetal de lo que la grasa es para nosotros. Está formado por dos tipos de cadena de glucosa: las lineales, como un collar largo —la **amilosa**—, y las muy ramificadas, como un árbol —la **amilopectina**—. La relación entre ambas importa: cuanta más amilosa tiene un alimento, más lenta es su digestión y menor la subida del nivel de glucosa en tu sangre —la **glucemia**—. Las enzimas digestivas descomponen ambas formas hasta liberar glucosa individual que el intestino absorbe.
 
@@ -46,7 +46,7 @@ La velocidad de ese proceso —y por tanto cuánto sube tu glucemia y en cuánto
 
 El mismo alimento, cocinado de distinta manera, puede tener un índice glucémico muy diferente.
 
-## Alimentos ricos en hidratos de carbono complejos
+## Fuentes de hidratos de carbono complejos
 
 La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grupos: cereales integrales, legumbres y tubérculos.
 
@@ -69,7 +69,7 @@ La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grup
 | Alubias negras | 24 g | 30 |
 | Guisantes secos | 22 g | 22 |
 
-Las legumbres tienen los índices glucémicos más bajos de todos los hidratos complejos habituales. El motivo es concreto: su almidón queda encerrado dentro de la estructura de la semilla, lo que frena la acción de las enzimas digestivas. Cuando comes lentejas, consumes hidratos de carbono que se absorben más despacio que casi cualquier otro alimento.
+Las legumbres tienen los índices glucémicos más bajos de todos los hidratos complejos habituales. El motivo es que su almidón queda encerrado dentro de la estructura de la semilla, lo que frena la acción de las enzimas digestivas. Cuando comes lentejas, consumes hidratos de carbono que se absorben más despacio que casi cualquier otro alimento.
 
 ### Tubérculos
 
@@ -83,7 +83,7 @@ Las legumbres tienen los índices glucémicos más bajos de todos los hidratos c
 
 ## Por qué priorizar los hidratos de carbono complejos en tu dieta
 
-La EFSA y la OMS recomiendan que los hidratos procedan mayoritariamente de fuentes integrales y complejas en lugar de azúcares simples y harinas refinadas. Las razones son concretas:
+La EFSA y la OMS recomiendan que los hidratos procedan mayoritariamente de fuentes integrales y complejas en lugar de azúcares simples y harinas refinadas. Y no es una recomendación arbitraria:
 
 **Control glucémico.** La absorción gradual de los hidratos complejos evita los picos bruscos de la hormona que tu páncreas libera para retirar glucosa de la sangre —la **insulina**— que siguen al consumo de azúcares simples. Niveles de insulina más estables se asocian con menor riesgo del estado en que tu cuerpo necesita producir cada vez más insulina para lograr el mismo efecto —la **resistencia a la insulina**— y de diabetes tipo 2.
 

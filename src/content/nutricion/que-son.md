@@ -1,6 +1,6 @@
 ---
 title: "Nutrición"
-description: "Nutrición: es el proceso que convierte lo que comes en energía y tejidos, y explica cómo tu dieta afecta la salud y el riesgo de enfermedades crónicas."
+description: "Nutrición: es el proceso que convierte lo que comes en energía y tejidos, y explica cómo tu dieta afecta la salud y al desarrollo de enfermedades crónicas."
 categoria: "Nutrición"
 draft: true
 date: 2026-06-15

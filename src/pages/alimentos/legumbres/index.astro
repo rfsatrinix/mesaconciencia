@@ -1,31 +1,34 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
-import Layout from '../../layouts/Layout.astro';
-import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import Layout from '../../../layouts/Layout.astro';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
-const intro = await getEntry('alimentos', 'que-son');
+const intro = await getEntry('alimentos', 'legumbres/que-son');
 const { Content, headings } = await render(intro!);
 
-const articulos = (await getCollection('alimentos', ({ data }) => !data.draft))
-  .sort((a, b) => {
-    const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
-    const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
-    return db - da;
-  });
+const articulos = (await getCollection('alimentos', ({ data, id }) =>
+  !data.draft && id.startsWith('legumbres/')
+)).sort((a, b) => {
+  const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+  return db - da;
+});
 
 const PAGE_SIZE = 8;
 const grupos = Array.from(
   { length: Math.ceil(articulos.length / PAGE_SIZE) },
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
+
+const migas = [{ href: '/alimentos', label: 'Alimentos' }];
 ---
 
-<Layout title="Alimentos" description={intro!.data.description}>
+<Layout title="Legumbres" description={intro!.data.description}>
   <div class="container seccion">
     <ArticleLayout
-      title="Alimentos"
+      title="Legumbres"
       description={intro!.data.description}
-      breadcrumbs={[]}
+      breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
     >
@@ -34,7 +37,7 @@ const grupos = Array.from(
 
     {articulos.length > 0 && (
       <section class="seccion seccion-todos">
-        <h2 class="titulo-seccion">Todos los artículos en Alimentos</h2>
+        <h2 class="titulo-seccion">Todos los artículos en Legumbres</h2>
 
         {grupos.length > 1 && (
           <p class="paginacion-info" id="paginacion-info" aria-live="polite">

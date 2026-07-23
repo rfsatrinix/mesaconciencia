@@ -54,7 +54,14 @@ const definicion: NavItem[] = [
       { label: 'Fibra alimenticia', href: '/nutricion/fibra-alimenticia' },
     ],
   },
-  { label: 'Alimentos', href: '/alimentos', coleccion: 'alimentos' },
+  {
+    label: 'Alimentos',
+    href:  '/alimentos',
+    coleccion: 'alimentos',
+    submenu: [
+      { label: 'Legumbres', href: '/alimentos/legumbres' },
+    ],
+  },
   { label: 'Recetas',   href: '/recetas',   coleccion: 'recetas' },
   { label: 'Dietas',    href: '/dietas',    coleccion: 'dietas' },
   { label: 'Salud',     href: '/salud',     coleccion: 'salud' },

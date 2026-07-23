@@ -1,0 +1,82 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entradas = await getCollection('alimentos', ({ data }) => !data.draft);
+  return entradas.map((e) => ({
+    params: { slug: e.id },
+    props: { entrada: e },
+  }));
+}
+
+const { entrada } = Astro.props;
+const { Content, headings } = await render(entrada);
+
+const segmentos = entrada.id.split('/').slice(0, -1);
+
+const etiquetas: Record<string, string> = {
+  legumbres:            'Legumbres',
+  'frutos-secos':       'Frutos secos',
+  cereales:             'Cereales y pseudocereales',
+  pescados:             'Pescados',
+  'verduras-hortalizas': 'Verduras y hortalizas',
+  frutas:               'Frutas',
+};
+
+const migas = [
+  { href: '/alimentos', label: 'Alimentos' },
+  ...segmentos.map((seg, i) => ({
+    href: '/alimentos/' + segmentos.slice(0, i + 1).join('/'),
+    label: etiquetas[seg] ?? seg,
+  })),
+];
+
+const parentPath = segmentos.length > 0 ? segmentos.join('/') + '/' : '';
+const todos = await getCollection('alimentos', ({ data }) => !data.draft);
+
+const hermanos = parentPath
+  ? todos
+      .filter(e => e.id !== entrada.id)
+      .filter(e => e.id.startsWith(parentPath) && !e.id.slice(parentPath.length).includes('/'))
+      .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'))
+      .map(e => ({ id: e.id, coleccion: 'alimentos', data: { title: e.data.title, description: e.data.description } }))
+  : [];
+
+const categoriaLabel = segmentos.length > 0
+  ? (etiquetas[segmentos[segmentos.length - 1]] ?? segmentos[segmentos.length - 1])
+  : 'Alimentos';
+
+const entradaCategoria = (entrada.data as Record<string, unknown>).categoria as string | undefined;
+const relacionados = todos
+  .filter(e => e.id !== entrada.id)
+  .filter(e => entradaCategoria
+    ? (e.data as Record<string, unknown>).categoria !== entradaCategoria
+    : !hermanos.some(h => h.id === e.id))
+  .sort((a, b) => {
+    const da = ((a.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+    const db = ((b.data as Record<string, unknown>).date as Date | undefined)?.getTime() ?? 0;
+    return db - da;
+  })
+  .slice(0, 3)
+  .map(e => ({ id: e.id, coleccion: 'alimentos', data: { title: e.data.title, description: e.data.description } }));
+---
+
+<Layout title={entrada.data.title} description={entrada.data.description}>
+  <div class="container seccion">
+    <ArticleLayout
+      title={entrada.data.title}
+      description={entrada.data.description}
+      image={entrada.data.image}
+      imageAlt={entrada.data.imageAlt}
+      breadcrumbs={migas}
+      headings={headings}
+      relacionados={relacionados}
+      hermanos={hermanos}
+      categoriaLabel={categoriaLabel}
+    >
+      <Content />
+    </ArticleLayout>
+  </div>
+</Layout>

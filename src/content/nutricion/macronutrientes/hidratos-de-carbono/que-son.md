@@ -24,13 +24,13 @@ Se encuentran de forma natural en frutas, leche y miel, pero también se añaden
 
 Son cadenas muy largas de moléculas de glucosa encadenadas —a veces miles de ellas—. Se digieren más lentamente que los azúcares simples y tienen un impacto menor sobre tu glucemia.
 
-**Almidón:** es la forma en que las plantas almacenan energía. Está presente en cereales, legumbres y tubérculos, y es el hidrato complejo más abundante en tu dieta habitual.
+**Almidón:** es la forma en que las plantas almacenan energía. Está presente en cereales, [legumbres](/alimentos/legumbres) y tubérculos, y es el hidrato complejo más abundante en tu dieta habitual.
 
 **Glucógeno:** es la forma en que tu propio cuerpo guarda hidratos de carbono, principalmente en el músculo y en el hígado. Cuando haces ejercicio intenso, tus músculos lo movilizan para obtener glucosa con rapidez.
 
 ### Fibra alimenticia
 
-Son polisacáridos que las herramientas biológicas con que tu cuerpo descompone los alimentos —las **enzimas**— no pueden romper. No te aportan energía significativa, pero regulan tu tránsito intestinal, ralentizan la absorción de glucosa y reducen la reabsorción de colesterol en el intestino. La EFSA recomienda 25 g al día para adultos. Más detalle en el artículo sobre [fibra alimenticia](/nutricion/fibra-alimenticia).
+Son polisacáridos que las herramientas biológicas con que tu cuerpo procesa la comida —las **enzimas**— no pueden romper. No te aportan energía significativa, pero regulan tu tránsito intestinal, ralentizan la absorción de glucosa y reducen la reabsorción de colesterol en el intestino. La EFSA recomienda 25 g al día para adultos. Más detalle en el artículo sobre [fibra alimenticia](/nutricion/fibra-alimenticia).
 
 ## ¿Cuántos hidratos de carbono necesitas?
 
@@ -50,13 +50,13 @@ El **índice glucémico (IG)** mide con qué rapidez un alimento eleva tu glucem
 | Avena (copos) | 55 |
 | Boniato | 44 |
 | Garbanzo cocido | 28 |
-| Lenteja cocida | 25 |
+| [Lenteja cocida](/alimentos/legumbres/lentejas) | 25 |
 
 Un IG bajo no garantiza automáticamente que un alimento sea mejor: también importa cuánto comes. Por eso también se usa el resultado de multiplicar el IG de un alimento por la cantidad de hidratos que comes en esa ración —la **carga glucémica**—, que da una imagen más ajustada de cómo afecta a tu glucemia lo que tienes en el plato.
 
 El mismo alimento puede tener un IG muy diferente según cómo lo prepares: el boniato cocido entero ronda 44, pero en puré puede superar 60 porque el procesado rompe la estructura del almidón y acelera su digestión.
 
-El IG no es una propiedad fija del alimento. Depende también de cómo lo cocinas.
+> El IG no es una propiedad fija del alimento. Depende también de cómo lo cocinas.
 
 ## Fuentes de hidratos de carbono de calidad
 
@@ -64,7 +64,7 @@ Las diferencias entre fuentes integrales y refinadas van más allá del IG. Los 
 
 **Cereales integrales** (avena, arroz integral, centeno, espelta): conservan el salvado y el germen, donde se concentran la [fibra](/nutricion/fibra-alimenticia), las [vitaminas del grupo B](/nutricion/micronutrientes/vitaminas) y los [minerales](/nutricion/micronutrientes/minerales).
 
-**Legumbres** (lentejas, [garbanzos](/alimentos/garbanzos), alubias): tienen los índices glucémicos más bajos de todos los hidratos complejos habituales y aportan también proteína vegetal.
+**Legumbres** (lentejas, [garbanzos](/alimentos/legumbres/garbanzos), alubias): tienen los índices glucémicos más bajos de todos los hidratos complejos habituales y aportan también proteína vegetal.
 
 **Tubérculos** (patata, boniato): son nutritivos y versátiles; su IG varía mucho según la preparación —hervidos o asados enteros tienen menor impacto que en puré o fritos—.
 
@@ -72,7 +72,7 @@ Las diferencias entre fuentes integrales y refinadas van más allá del IG. Los 
 
 Elegir bien las fuentes importa más que contar gramos: un plato de lentejas y una barrita de cereales refinados pueden contener cantidades similares de hidratos, pero su efecto en tu glucemia y en la sensación de quedar satisfecho —la **saciedad**— es completamente diferente.
 
-No hay hidrato malo por naturaleza. Lo que importa es de dónde viene cada uno.
+> No hay hidrato malo por naturaleza. Lo que importa es de dónde viene cada uno.
 
 ---
 

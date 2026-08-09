@@ -18,7 +18,7 @@ La **vitamina E** es una [vitamina liposoluble](/nutricion/micronutrientes/vitam
 
 **Función inmunitaria.** La vitamina E modula la actividad y la proliferación de los coordinadores de la respuesta inmunitaria adaptativa —los **linfocitos T**—. Este efecto es más relevante en personas mayores, donde la función inmunitaria declina progresivamente y los niveles de vitamina E influyen de forma más visible en la respuesta.
 
-El alfa-tocoferol actúa dentro de la membrana; la vitamina C, desde el compartimento acuoso adyacente: un sistema de dos piezas sin huecos de protección.
+> El alfa-tocoferol actúa dentro de la membrana; la vitamina C, desde el compartimento acuoso adyacente: un sistema de dos piezas sin huecos de protección.
 
 ## ¿Cuánta vitamina E necesitas?
 
@@ -40,7 +40,7 @@ Todas las cifras se refieren al alfa-tocoferol. Una dieta con un puñado de alme
 
 ## Fuentes alimentarias de vitamina E
 
-Los aceites vegetales y los frutos secos concentran las mayores cantidades de vitamina E:
+Los aceites vegetales y los [frutos secos](/alimentos/frutos-secos) concentran las mayores cantidades de vitamina E:
 
 | Alimento | mg α-tocoferol/100 g |
 |---|---|
@@ -62,11 +62,11 @@ El aceite de germen de trigo tiene una concentración extraordinaria, pero se co
 
 La absorción de la vitamina E requiere la presencia de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en la misma comida y una función biliar y pancreática normal —el mismo mecanismo que el de la [vitamina A](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-a) y la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d)—. La eficiencia oscila entre el 20 y el 40 % —bastante más baja que la del retinol— y varía con la cantidad de grasa consumida en la misma comida.
 
-Después de la absorción, el hígado da un trato preferencial al alfa-tocoferol: lo incorpora selectivamente a las lipoproteínas de muy baja densidad (VLDL) que el hígado fabrica para transportar triglicéridos y colesterol a los tejidos, gracias a la proteína transportadora alfa-TTP (tocoferol transfer protein), específica para el alfa-tocoferol. Las otras formas —gamma-tocoferol, delta-tocoferol, tocotrienoles— son metabolizadas y eliminadas con mucha más rapidez. Por eso el alfa-tocoferol es el único que se acumula en los tejidos, aunque no sea el más abundante en muchos alimentos.
+Después de la absorción, el hígado da un trato preferencial al alfa-tocoferol: lo incorpora selectivamente a las lipoproteínas de muy baja densidad (VLDL) que el hígado fabrica para transportar triglicéridos y colesterol a los tejidos, gracias a la proteína transportadora alfa-TTP (tocoferol transfer protein), específica para el alfa-tocoferol. Las otras formas —gamma-tocoferol, delta-tocoferol, tocotrienoles— son metabolizadas y eliminadas con mucha más rapidez. Por eso el alfa-tocoferol es el único que se acumula en los tejidos, aunque no sea el más abundante en la mayoría de fuentes dietéticas.
 
 ## ¿Qué ocurre si falta vitamina E?
 
-La deficiencia clínica de vitamina E es poco frecuente en adultos sanos. Los alimentos que la contienen son habituales en cualquier dieta que incluya aceites, frutos secos o semillas, y el tejido adiposo sirve de reserva a largo plazo. Cuando aparece, casi siempre está ligada a una condición que impide absorber lípidos: enfermedad de Crohn con afectación ileal extensa, fibrosis quística, una enfermedad genética rara que impide al organismo fabricar las lipoproteínas necesarias para absorber los compuestos liposolubles de la dieta —la **abetalipoproteinemia**— o síndrome de malabsorción posquirúrgico.
+La deficiencia clínica de vitamina E es poco frecuente en adultos sanos. Las fuentes que la contienen son habituales en cualquier dieta que incluya aceites, frutos secos o semillas, y el tejido adiposo sirve de reserva a largo plazo. Cuando aparece, casi siempre está ligada a una condición que impide absorber lípidos: enfermedad de Crohn con afectación ileal extensa, fibrosis quística, una enfermedad genética rara que impide al organismo fabricar las lipoproteínas necesarias para absorber los compuestos liposolubles de la dieta —la **abetalipoproteinemia**— o síndrome de malabsorción posquirúrgico.
 
 Existe también una causa genética específica: la ataxia con deficiencia de vitamina E (AVED), producida por mutaciones en el gen que codifica la alfa-TTP hepática. Las personas con AVED no retienen alfa-tocoferol aunque su ingesta sea normal y desarrollan la pérdida progresiva de coordinación y equilibrio por deterioro del cerebelo —la **ataxia cerebelosa progresiva**—.
 
@@ -86,14 +86,20 @@ Durante los años noventa, la hipótesis antioxidante era convincente: si la oxi
 
 El estudio HOPE (Heart Outcomes Prevention Evaluation, 2000) asignó 400 UI/día de vitamina E a 9 541 personas con alto riesgo cardiovascular: no hubo reducción en infartos, ictus ni mortalidad cardiovascular. En HOPE-TOO (2005), la prolongación del mismo ensayo, el grupo suplementado tuvo un mayor riesgo de insuficiencia cardiaca. El metaanálisis de Miller et al. (2005), con 135 967 participantes en 19 ensayos, encontró un incremento estadísticamente significativo de la mortalidad por todas las causas con dosis iguales o superiores a 400 UI/día.
 
-La explicación más plausible es que el alfa-tocoferol a dosis altas desplaza al gamma-tocoferol de los tejidos. El gamma-tocoferol tiene propiedades —especialmente antiinflamatorias— que el alfa-tocoferol no replica, y los alimentos aportan toda la gama de tocoferoles y tocotrienoles en proporciones que los suplementos de alfa-tocoferol no reproducen.
+La explicación más plausible es que el alfa-tocoferol a dosis altas desplaza al gamma-tocoferol de los tejidos. El gamma-tocoferol tiene propiedades —especialmente antiinflamatorias— que el alfa-tocoferol no replica, y la dieta aporta toda la gama de tocoferoles y tocotrienoles en proporciones que los suplementos de alfa-tocoferol no reproducen.
 
-La suplementación con vitamina E no está justificada en personas sanas como prevención cardiovascular o de enfermedades crónicas: los datos no lo respaldan y los indicios de daño a dosis altas son reales. La EFSA establece un nivel máximo tolerable de 300 mg/día procedente de suplementos. Por encima de esa dosis, el alfa-tocoferol puede potenciar el efecto anticoagulante de fármacos como la warfarina y aumentar el riesgo de sangrado.
+Si soy sincera, el caso de la vitamina E es el argumento más elocuente que conozco para desconfiar de los suplementos diseñados a partir de un solo mecanismo: el mecanismo puede ser impecable en el laboratorio y el resultado, contraproducente en el cuerpo.
+
+Si no tienes ninguna condición que dificulte la absorción de lípidos, no suplementes vitamina E como prevención cardiovascular o de enfermedades crónicas: los datos no lo respaldan, y los indicios de daño a dosis altas son reales. La EFSA establece un nivel máximo tolerable de 300 mg/día procedente de suplementos. Por encima de esa dosis, el alfa-tocoferol puede potenciar el efecto anticoagulante de fármacos como la warfarina y aumentar el riesgo de sangrado.
 
 La vitamina E es el caso donde la hipótesis mecanicista —«si protege las LDL en el laboratorio, debería proteger el corazón en las personas»— fue sometida a prueba a escala masiva, respondida con claridad, y sin embargo tardó décadas en dejar de impulsar ventas de suplementos.
 
-El mecanismo no estaba equivocado. La extrapolación, sí.
+> El mecanismo no estaba equivocado. La extrapolación, sí.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4149" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin E as α-tocopherol. EFSA Journal. 2015.</a> · <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa012578" target="_blank" rel="noopener noreferrer">Yusuf S et al. Vitamin E supplementation and cardiovascular events in high-risk patients. NEJM. 2000.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/15537682/" target="_blank" rel="noopener noreferrer">Miller ER et al. Meta-analysis: high-dosage vitamin E supplementation may increase all-cause mortality. Ann Intern Med. 2005.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4149" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin E as α-tocopherol. EFSA Journal. 2015.</a>
+- <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa012578" target="_blank" rel="noopener noreferrer">Yusuf S et al. Vitamin E supplementation and cardiovascular events in high-risk patients. NEJM. 2000.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/15537682/" target="_blank" rel="noopener noreferrer">Miller ER et al. Meta-analysis: high-dosage vitamin E supplementation may increase all-cause mortality. Ann Intern Med. 2005.</a>

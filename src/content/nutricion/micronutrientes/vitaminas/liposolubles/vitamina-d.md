@@ -8,7 +8,7 @@ date: 2026-07-04
 
 La **vitamina D** es, en términos estrictos, más una hormona que una vitamina: tu piel la sintetiza a partir de la exposición solar, y una vez activada actúa sobre receptores en casi todos los tejidos del cuerpo para regular la expresión de cientos de genes. Es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que se almacena en el hígado y el tejido graso, lo que permite sostener las funciones básicas durante semanas sin exposición solar ni ingesta dietética.
 
-Existen dos formas naturales: la que la piel sintetiza con el sol y que también está en los alimentos de origen animal —la **vitamina D3** o **colecalciferol**—; y la que sintetizan los hongos y las levaduras cuando reciben luz ultravioleta —la **vitamina D2** o **ergocalciferol**—. La D3 eleva los niveles sanguíneos con mayor eficacia y durante más tiempo; en contextos clínicos y de suplementación, la D3 es la forma preferente.
+Existen dos formas naturales: la que la piel sintetiza con el sol y que también se encuentra en fuentes de origen animal —la **vitamina D3** o **colecalciferol**—; y la que sintetizan los hongos y las levaduras cuando reciben luz ultravioleta —la **vitamina D2** o **ergocalciferol**—. La D3 eleva los niveles sanguíneos con mayor eficacia y durante más tiempo; en contextos clínicos y de suplementación, la D3 es la forma preferente.
 
 ## ¿Para qué sirve la vitamina D?
 
@@ -22,7 +22,7 @@ Existen dos formas naturales: la que la piel sintetiza con el sol y que también
 
 **Regulación celular.** La vitamina D frena la multiplicación celular excesiva en varios tejidos —efecto **antiproliferativo**— y regula la muerte programada de las células dañadas —la **apoptosis**—. Se estudia su papel en la reducción del riesgo de ciertos tumores, aunque la evidencia de ensayos clínicos controlados es mixta y no justifica la suplementación con ese objetivo específico.
 
-Cinco rutas distintas —absorción mineral, hueso, inmunidad, músculo y célula—, la misma vitamina actuando como regulador en todas.
+> Cinco rutas distintas —absorción mineral, hueso, inmunidad, músculo y célula—, la misma vitamina actuando como regulador en todas.
 
 ## ¿Cuánta vitamina D necesitas?
 
@@ -42,7 +42,7 @@ Las personas mayores de 70 años necesitan más porque la piel envejece y sintet
 
 Aproximadamente el 80–90 % de la vitamina D que tu organismo necesita proviene de la síntesis cutánea, no de la dieta. El proceso se activa en la capa exterior de tu piel: la fracción del espectro solar con longitud de onda entre 290 y 315 nm —la radiación **UVB**—, distinta de la UVA que llega durante todo el día, convierte un compuesto derivado del colesterol presente en la epidermis —el **7-dehidrocolesterol**— en una forma intermedia inestable —la **previtamina D3**—. El calor corporal completa la conversión a vitamina D3. Esta pasa al hígado, que la transforma en la forma de almacenamiento que mide el análisis de sangre —el **calcidiol (25-OH vitamina D)**—, y de ahí al riñón, que produce la forma hormonal activa —el **calcitriol (1,25-dihidroxivitamina D)**—.
 
-Lo que entra por la piel como colesterol modificado sale del riñón como hormona activa: dos órganos, tres pasos, el mismo sol al principio de todo.
+> Lo que entra por la piel como colesterol modificado sale del riñón como hormona activa: dos órganos, tres pasos, el mismo sol al principio de todo.
 
 Varios factores reducen esta síntesis en tu caso:
 
@@ -58,7 +58,7 @@ Varios factores reducen esta síntesis en tu caso:
 
 ## Fuentes alimentarias de vitamina D
 
-Los alimentos naturales que contienen vitamina D son escasos y aportan cantidades modestas comparadas con lo que produce la síntesis solar:
+Las fuentes dietéticas que contienen vitamina D son escasas y aportan cantidades modestas comparadas con lo que produce la síntesis solar:
 
 | Alimento | µg por 100 g |
 |---|---|
@@ -118,8 +118,12 @@ Los suplementos están justificados en situaciones concretas:
 
 Para la mayoría de adultos sin análisis disponible, una dosis de mantenimiento de **1000–2000 UI/día (25–50 µg/día)** durante los meses de octubre a marzo es segura y suficiente para prevenir la caída invernal de los niveles. No suplementes con dosis superiores a 4000 UI/día sin seguimiento analítico: el exceso se acumula y puede producir niveles anormalmente elevados de calcio en sangre —la **hipercalcemia**—, con síntomas que incluyen náuseas, confusión, daño renal y arritmias.
 
+Mi lectura de los datos es que el análisis de calcidiol debería ser parte de cualquier analítica de rutina, no solo en grupos de riesgo: es la única manera de saber si necesitas suplementar, cuánto y durante cuánto tiempo.
+
 La vitamina D es la única de las [vitaminas](/nutricion/micronutrientes/vitaminas) que tu cuerpo puede fabricar a partir de la luz. Durante cientos de miles de años, esa fue la fuente principal. En las últimas décadas, los hábitos de vida —trabajo en espacios cerrados, ropa que cubre la mayor parte del cuerpo, cremas de alta protección— han desconectado a buena parte de la población de esa fuente. No es el sol lo que escasea en España. Es el tiempo que se pasa bajo él.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4547" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin D. EFSA Journal. 2016.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4547" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin D. EFSA Journal. 2016.</a>

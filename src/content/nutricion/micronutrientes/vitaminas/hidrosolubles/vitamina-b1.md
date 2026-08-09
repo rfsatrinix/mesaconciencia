@@ -24,7 +24,7 @@ El PPT actúa como cofactor de cuatro complejos enzimáticos con funciones concr
 
 La tiamina tiene además un papel en las membranas de las prolongaciones de las neuronas que conducen el impulso nervioso —los **axones**—, independiente de su función como cofactor. Este papel explica por qué la deficiencia afecta al sistema nervioso incluso antes de que los marcadores metabólicos se alteren de forma significativa.
 
-Cuatro complejos enzimáticos críticos, todos dependientes del mismo cofactor. No existe ninguna ruta alternativa si el PPT falla.
+> Cuatro complejos enzimáticos críticos, todos dependientes del mismo cofactor. No existe ninguna ruta alternativa si el PPT falla.
 
 ## ¿Cuánta vitamina B1 necesitas?
 
@@ -45,9 +45,9 @@ No existe un nivel máximo tolerable establecido para la tiamina: es hidrosolubl
 
 ## Fuentes alimentarias de tiamina
 
-La tiamina se concentra en el salvado y el germen de los cereales, en las legumbres y en la carne de cerdo:
+La tiamina se concentra en el salvado y el germen de los cereales, en las [legumbres](/alimentos/legumbres) y en la carne de cerdo:
 
-| Alimento | Tiamina por 100 g |
+| Alimento | Tiamina por cada 100 g |
 |---|---|
 | Germen de trigo | ~1,9 mg |
 | Semillas de girasol (crudas) | ~1,5 mg |
@@ -57,7 +57,7 @@ La tiamina se concentra en el salvado y el germen de los cereales, en las legumb
 | Arroz integral cocido | ~0,2 mg |
 | Guisantes cocidos | ~0,2 mg |
 | Lentejas cocidas | ~0,2 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~0,1 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,1 mg |
 | Arroz blanco cocido | ~0,02 mg |
 
 *Fuente: USDA FoodData Central.*
@@ -68,9 +68,9 @@ El arroz blanco que llega a la mesa conserva menos del 10 % de la tiamina origin
 
 ## Qué destruye la tiamina en la dieta
 
-Tus reservas corporales de tiamina son pequeñas —alrededor de 30 mg, distribuidos en corazón, hígado, riñones y cerebro— y su vida media es corta: una dieta deficiente puede producir síntomas en pocas semanas. Varios factores reducen la tiamina disponible en los alimentos o bloquean su absorción:
+Tus reservas corporales de tiamina son pequeñas —alrededor de 30 mg, distribuidos en corazón, hígado, riñones y cerebro— y su vida media es corta: una dieta deficiente puede producir síntomas en pocas semanas. Varios factores degradan la tiamina o bloquean su absorción intestinal:
 
-**Calor.** Es la vitamina más sensible a las altas temperaturas entre las del grupo B; cocer a fuego alto durante mucho tiempo puede destruir hasta el 50 % del contenido en alimentos.
+**Calor.** Es la vitamina más sensible a las altas temperaturas entre las del grupo B; cocer a fuego alto durante mucho tiempo puede destruir hasta el 50 % del contenido original.
 
 **Tiaminasas.** Son enzimas presentes en los peces de río crudos, en algunos mariscos crudos y en ciertas plantas que degradan activamente la tiamina al entrar en contacto con ella; la cocción las inactiva.
 
@@ -103,6 +103,8 @@ Es una emergencia médica: el tratamiento es tiamina intravenosa inmediata, y de
 **Psicosis de Korsakoff.** Es la fase crónica. Si la encefalopatía de Wernicke no se trata a tiempo, el 80 % de los casos progresa a psicosis de Korsakoff: la incapacidad para formar nuevos recuerdos —la **amnesia anterógrada grave**— junto con la tendencia a construir recuerdos ficticios para cubrir los huecos de memoria sin ser consciente de hacerlo —la **confabulación**—.
 
 El daño es, en su mayor parte, irreversible.
+
+Para mí, que el síndrome de Wernicke-Korsakoff siga siendo uno de los más subdiagnosticados en urgencias no se debe a que sea difícil de tratar, sino a que pocas personas piensan en una vitamina cuando ven a alguien confuso.
 
 ## Deficiencia y grupos de riesgo
 

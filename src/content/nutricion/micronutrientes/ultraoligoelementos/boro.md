@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El boro es uno de esos elementos que los alimentos y los tejidos humanos contienen en cantidades mínimas sin que los organismos reguladores reconozcan su necesidad para la salud —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Un adulto contiene entre 3 y 20 miligramos de boro en total, concentrado principalmente en el esqueleto, los dientes, las uñas y el cabello. De los cuatro ultraoligoelementos estudiados en humanos, el boro es el que acumula una base de evidencia más sólida: los estudios controlados en personas con ingestas bajas muestran efectos reproducibles sobre el metabolismo del calcio, la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y los niveles de hormonas esteroideas. La ausencia de esencialidad reconocida no refleja que el boro sea inerte, sino que la evidencia disponible no satisface aún los criterios formales que la EFSA exige para establecer una dosis de referencia.
+El boro es uno de esos elementos que la dieta y los tejidos humanos contienen en cantidades mínimas sin que los organismos reguladores reconozcan su necesidad para la salud —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Un adulto contiene entre 3 y 20 miligramos de boro en total, concentrado principalmente en el esqueleto, los dientes, las uñas y el cabello. De los cuatro ultraoligoelementos estudiados en humanos, el boro es el que acumula una base de evidencia más sólida: los estudios controlados en personas con ingestas bajas muestran efectos reproducibles sobre el metabolismo del calcio, la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y los niveles de hormonas esteroideas. La ausencia de esencialidad reconocida no refleja que el boro sea inerte, sino que la evidencia disponible no satisface aún los criterios formales que la EFSA exige para establecer una dosis de referencia.
 
 ## ¿Para qué se estudia el boro?
 
@@ -18,13 +18,13 @@ El boro es uno de esos elementos que los alimentos y los tejidos humanos contien
 
 **Efectos antiinflamatorios.** El boro inhibe en el laboratorio varias enzimas que amplifican la señal inflamatoria —las **serina proteasas**—, entre ellas la elastasa y la catepsina G. En modelos animales de artritis experimental, el boro redujo los marcadores inflamatorios. Los datos en humanos son escasos y no permiten extraer conclusiones clínicas.
 
-Cuatro vías de investigación, ningún nivel de referencia establecido: el boro es el elemento que los estudios describen con detalle pero que ningún organismo ha sabido todavía cómo dosificar.
+> Cuatro vías de investigación, ningún nivel de referencia establecido: el boro es el elemento que los estudios describen con detalle pero que ningún organismo ha sabido todavía cómo dosificar.
 
 ## Ingestas estudiadas y referencia de seguridad
 
 La EFSA no ha establecido ninguna dosis de referencia para el boro. El Instituto de Medicina de Estados Unidos (IOM) —hoy Academia Nacional de Medicina— tampoco ha fijado un requerimiento estimado ni una ingesta recomendada, pero sí ha establecido el umbral por encima del cual el riesgo de efectos adversos aumenta de forma significativa —el **nivel máximo tolerable**— en 20 mg/día para adultos, basado en la toxicidad reproductiva observada en animales a dosis muy altas.
 
-Las ingestas habituales en dietas occidentales con frutas, frutos secos y legumbres se sitúan entre **1 y 3 mg/día**. Las dietas muy bajas en frutas y verduras pueden caer por debajo de 0,5 mg/día —el rango en el que los estudios controlados han observado los efectos descritos—. Las dietas vegetarianas o muy ricas en frutas pueden alcanzar 4–7 mg/día sin ningún signo de toxicidad.
+Las ingestas habituales en dietas occidentales con frutas, [frutos secos](/alimentos/frutos-secos) y [legumbres](/alimentos/legumbres) se sitúan entre **1 y 3 mg/día**. Las dietas muy bajas en frutas y verduras pueden caer por debajo de 0,5 mg/día —el rango en el que los estudios controlados han observado los efectos descritos—. Las dietas vegetarianas o muy ricas en frutas pueden alcanzar 4–7 mg/día sin ningún signo de toxicidad.
 
 ## Fuentes alimentarias de boro
 
@@ -48,7 +48,7 @@ Las frutas deshidratadas concentran el boro porque pierden líquido durante el s
 
 ## La absorción del boro
 
-Tu intestino absorbe entre el 85 y el 95 % del boro ingerido, principalmente en la forma soluble en que el boro existe en los alimentos —el **ácido bórico (B(OH)₃)**—. La absorción es eficiente y no está regulada activamente: si ingieres más boro, absorbes más. El riñón compensa: el 85–90 % del boro absorbido se excreta por la orina en las primeras 24 horas, limitando la acumulación en los tejidos blandos. La excepción es el esqueleto, que retiene boro de forma proporcional a la ingesta acumulada.
+Tu intestino absorbe entre el 85 y el 95 % del boro ingerido, principalmente en la forma soluble en que el boro existe en la dieta —el **ácido bórico (B(OH)₃)**—. La absorción es eficiente y no está regulada activamente: si ingieres más boro, absorbes más. El riñón compensa: el 85–90 % del boro absorbido se excreta por la orina en las primeras 24 horas, limitando la acumulación en los tejidos blandos. La excepción es el esqueleto, que retiene boro de forma proporcional a la ingesta acumulada.
 
 Los fitatos y los oxalatos no interfieren significativamente con la absorción del boro, lo que lo distingue del comportamiento de otros [oligoelementos](/nutricion/micronutrientes/oligoelementos).
 

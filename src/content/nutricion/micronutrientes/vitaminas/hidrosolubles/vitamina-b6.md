@@ -1,6 +1,6 @@
 ---
 title: "Vitamina B6"
-description: "Vitamina B6: es el cofactor de más de 160 reacciones enzimáticas, central en la síntesis de neurotransmisores, con toxicidad neurológica documentada a dosis altas."
+description: "Vitamina B6: es el cofactor de más de 160 reacciones enzimáticas; esencial para los neurotransmisores y con toxicidad neurológica documentada a dosis altas."
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
@@ -23,7 +23,7 @@ La EFSA fija los valores de referencia para la vitamina B6 tomando como marcador
 | Niños 4–6 | 0,7 mg/día |
 | Niños 1–3 | 0,6 mg/día |
 
-La EFSA establece un **nivel máximo tolerable de 25 mg/día** para la vitamina B6 procedente de suplementos y alimentos enriquecidos. Es uno de los pocos B vitamínicos con un límite toxicológico establecido. Las dosis crónicas altas producen, paradójicamente, el mismo síntoma que el déficit: daño en los nervios sensoriales de las extremidades —la **neuropatía sensorial periférica**—, un fenómeno suficientemente documentado como para que la cifra de 25 mg/día sea una advertencia real, no una cautela teórica.
+La EFSA establece un **nivel máximo tolerable de 25 mg/día** para la vitamina B6 procedente de suplementos y productos enriquecidos. Es uno de los pocos B vitamínicos con un límite toxicológico establecido. Las dosis crónicas altas producen, paradójicamente, el mismo síntoma que el déficit: daño en los nervios sensoriales de las extremidades —la **neuropatía sensorial periférica**—, un fenómeno suficientemente documentado como para que la cifra de 25 mg/día sea una advertencia real, no una cautela teórica.
 
 ## ¿Para qué sirve la vitamina B6?
 
@@ -43,16 +43,16 @@ El PLP no falla en una reacción a la vez: cuando su concentración baja, todas 
 
 ## Fuentes alimentarias de piridoxina
 
-La vitamina B6 está presente en una amplia variedad de alimentos, tanto de origen animal —principalmente en forma de piridoxal y piridoxamina, más biodisponibles— como vegetal —principalmente piridoxina—:
+La vitamina B6 está presente en una amplia variedad de fuentes, tanto de origen animal —principalmente en forma de piridoxal y piridoxamina, más biodisponibles— como vegetal —principalmente piridoxina—:
 
-| Alimento | Vitamina B6 por 100 g |
+| Alimento | Vitamina B6 por cada 100 g |
 |---|---|
 | Semillas de girasol (crudas) | ~1,3 mg |
 | Hígado de ternera (cocido) | ~1,0 mg |
 | Pechuga de pollo (cocida) | ~0,9 mg |
 | Atún fresco (cocido) | ~0,9 mg |
 | Salmón del Atlántico (cocido) | ~0,8 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~0,5 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,5 mg |
 | Patata cocida | ~0,3 mg |
 | Plátano | ~0,3 mg |
 | Pan integral | ~0,2 mg |
@@ -93,6 +93,8 @@ Las dosis que producen daño en los estudios son típicamente superiores a 200 m
 El escenario clínico más frecuente no es la sobredosis accidental: son personas que toman suplementos en dosis altas durante meses para el síndrome premenstrual, el síndrome del túnel carpiano o las náuseas del embarazo, sin supervisión médica, y desarrollan síntomas neurológicos que a veces se atribuyen erróneamente a neuropatía diabética o a déficit de B12.
 
 La recuperación es lenta. En algunos casos, incompleta.
+
+Para mí, este es el riesgo más subestimado de los suplementos de vitaminas B: parecen tan inocuos que nadie piensa que la dosis pueda importar.
 
 ## ¿Qué ocurre si falta vitamina B6?
 

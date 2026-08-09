@@ -14,36 +14,38 @@ La OMS establece una necesidad media de **30 mg/kg de peso corporal al día** en
 
 ## Funciones principales de la lisina
 
-**Síntesis de colágeno** — Es la más conocida. El colágeno es la proteína más abundante de tu cuerpo: forma tendones, ligamentos, piel, huesos y vasos sanguíneos. Para que sea estable, la lisina tiene que ser modificada por la proteína especializada que cataliza ese cambio —la **lisil oxidasa**—, que la convierte en una variante química de la propia lisina —la **hidroxilisina**—. Esta actúa como punto de anclaje para crear las cadenas cruzadas que dan resistencia al colágeno. Sin lisina suficiente, el colágeno pierde integridad.
+**Síntesis de colágeno.** Es la más conocida. El colágeno es la proteína más abundante de tu cuerpo: forma tendones, ligamentos, piel, huesos y vasos sanguíneos. Para que sea estable, la lisina tiene que ser modificada por la proteína especializada que cataliza ese cambio —la **lisil oxidasa**—, que la convierte en una variante química de la propia lisina —la **hidroxilisina**—. Esta actúa como punto de anclaje para crear las cadenas cruzadas que dan resistencia al colágeno. Sin lisina suficiente, el colágeno pierde integridad.
 
-**Síntesis de carnitina** — La carnitina es la molécula que transporta las grasas descompuestas por la digestión —los **ácidos grasos**— al interior de las centrales energéticas de tus células —las **mitocondrias**— para convertirlos en energía. Tu organismo la fabrica a partir de lisina y [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), la [vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3) y la [vitamina B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6). Si tu ingesta de lisina es insuficiente, puedes tener niveles bajos de carnitina, lo que afecta a tu metabolismo de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos).
+**Síntesis de carnitina.** La carnitina es la molécula que transporta las grasas descompuestas por la digestión —los **ácidos grasos**— al interior de las centrales energéticas de tus células —las **mitocondrias**— para convertirlos en energía. Tu organismo la fabrica a partir de lisina y [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), con la ayuda de la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), la [vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3) y la [vitamina B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6). Si tu ingesta de lisina es insuficiente, puedes tener niveles bajos de carnitina, lo que afecta a tu metabolismo de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos).
 
-**Absorción del calcio** — La lisina favorece la absorción intestinal de [calcio](/nutricion/micronutrientes/minerales/calcio) y reduce su excreción urinaria. Este doble efecto la convierte en un factor relevante para el proceso por el que el calcio se deposita en tus huesos —la **mineralización ósea**—, aunque el mecanismo exacto no se conoce completamente.
+**Absorción del calcio.** La lisina favorece la absorción intestinal de [calcio](/nutricion/micronutrientes/minerales/calcio) y reduce su excreción urinaria. Este doble efecto la convierte en un factor relevante para el proceso por el que el calcio se deposita en tus huesos —la **mineralización ósea**—, aunque el mecanismo exacto no se conoce completamente.
 
-**Sistema inmunitario** — Tu sistema inmunitario necesita lisina para fabricar los anticuerpos —las proteínas defensivas que reconocen y neutralizan virus y bacterias—; sin suficiente lisina, tu respuesta inmune ante infecciones y vacunas pierde eficacia.
+**Sistema inmunitario.** Tu sistema inmunitario necesita lisina para fabricar los anticuerpos —las proteínas defensivas que reconocen y neutralizan virus y bacterias—; sin suficiente lisina, tu respuesta inmune ante infecciones y vacunas pierde eficacia.
 
 ## Fuentes alimentarias de lisina
 
-La lisina abunda en las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) y en las legumbres, y escasea en los cereales.
+La lisina abunda en las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) y en las [legumbres](/alimentos/legumbres), y escasea en los cereales.
 
-| Alimento | Lisina por 100 g |
+| Alimento | Lisina por cada 100 g |
 |---|---|
-| Queso parmesano | ~3.300 mg |
-| Atún (fresco, cocido) | ~2.600 mg |
-| Pechuga de pollo (cocida) | ~2.400 mg |
-| Salmón del Atlántico (cocido) | ~2.300 mg |
-| Lentejas cocidas | ~650 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~530 mg |
-| Arroz blanco cocido | ~110 mg |
-| Pan de trigo | ~90 mg |
+| Queso parmesano | 3.300 mg |
+| Atún (fresco, cocido) | 2.600 mg |
+| Pechuga de pollo (cocida) | 2.400 mg |
+| Salmón del Atlántico (cocido) | 2.300 mg |
+| Lentejas cocidas | 650 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 530 mg |
+| Arroz blanco cocido | 110 mg |
+| Pan de trigo | 90 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 La diferencia entre legumbres y cereales es muy marcada. Por eso la combinación tradicional legumbre + cereal (lentejas con arroz, hummus con pan de pita) complementa los perfiles de aminoácidos: las legumbres aportan la lisina que los cereales no tienen; los cereales aportan la metionina que escasea en las legumbres.
 
 ## La lisina como aminoácido limitante en cereales
 
-El aminoácido que está presente en menor cantidad en relación a las necesidades humanas dentro de un alimento concreto se llama **limitante**. En el trigo, el arroz y el maíz, ese aminoácido es la lisina.
+El aminoácido que está presente en menor cantidad en relación a las necesidades humanas dentro de un alimento concreto se llama **limitante**.
+
+> En el trigo, el arroz y el maíz, ese aminoácido es la lisina.
 
 Esto tiene consecuencias prácticas para quienes basan su dieta mayoritariamente en cereales con poca proteína animal o legumbre: aunque consumas suficientes gramos de proteína en total, la lisina puede convertirse en el cuello de botella que limita el aprovechamiento del resto. Es uno de los argumentos principales para promover la diversidad de fuentes proteicas en las dietas basadas en plantas.
 
@@ -53,19 +55,19 @@ Existe evidencia clínica —modesta pero consistente— de que la suplementaci�
 
 El mecanismo propuesto es la competencia: la lisina y la arginina —otro aminoácido que el virus del herpes necesita para replicarse— comparten la misma proteína que los transporta a través de la pared intestinal y de las membranas celulares. Cuando abunda la lisina, menos arginina llega a las células y el virus tiene menos material para reproducirse.
 
-La lisina no ataca el virus: le corta el suministro.
+> La lisina no ataca el virus: le corta el suministro.
 
 Varios ensayos clínicos han mostrado que dosis de **1.000–3.000 mg/día** reducen la frecuencia de brotes en personas propensas. Los resultados no son uniformes: algunos estudios no encuentran diferencia significativa frente a placebo. Creo que la evidencia es suficiente para considerarla una opción razonable en personas con brotes frecuentes, pero no para etiquetarla como tratamiento definitivo.
 
-La misma lógica lleva a reducir los alimentos ricos en arginina durante un brote activo (chocolate negro, frutos secos, semillas de girasol), aunque la evidencia sobre este punto es menos sólida.
+La misma lógica lleva a reducir las fuentes ricas en arginina durante un brote activo (chocolate negro, [frutos secos](/alimentos/frutos-secos), semillas de girasol), aunque la evidencia sobre este punto es menos sólida.
 
 ## Suplementación con lisina
 
 La suplementación con L-lisina tiene dos usos clínicos con evidencia:
 
-**Prevención de herpes labial:** la dosis estudiada es de 1.000–3.000 mg/día en personas propensas a brotes. El protocolo y los matices de la evidencia se describen en la sección anterior.
+**Prevención de herpes labial.** La dosis estudiada es de 1.000–3.000 mg/día en personas propensas a brotes. El protocolo y los matices de la evidencia se describen en la sección anterior.
 
-**Soporte del colágeno:** se suele combinar en dosis bajas (500–1.000 mg/día) con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), con la que comparte la vía de síntesis de colágeno. La evidencia específica de este protocolo combinado es limitada, aunque la bioquímica subyacente es sólida.
+**Soporte del colágeno.** Se suele combinar en dosis bajas (500–1.000 mg/día) con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c), con la que comparte la vía de síntesis de colágeno. La evidencia específica de este protocolo combinado es limitada, aunque la bioquímica subyacente es sólida.
 
 Es bien tolerada en el rango habitual. Dosis superiores a 10 g/día pueden provocar diarrea y dolor abdominal. No hay interacciones relevantes documentadas con medicamentos comunes, salvo las ya mencionadas por competencia con la arginina.
 
@@ -79,4 +81,8 @@ La lisina es el aminoácido esencial con mayor impacto práctico en dietas centr
 
 ---
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/3115841/" target="_blank" rel="noopener noreferrer">Griffith RS et al. A multicentered study of lysine therapy in herpes simplex infection. Dermatologica. 1978.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/6435961/" target="_blank" rel="noopener noreferrer">McCune MA et al. Treatment of recurrent herpes simplex infections with L-lysine monohydrochloride. Cutis. 1984.</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/3115841/" target="_blank" rel="noopener noreferrer">Griffith RS et al. A multicentered study of lysine therapy in herpes simplex infection. Dermatologica. 1978.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/6435961/" target="_blank" rel="noopener noreferrer">McCune MA et al. Treatment of recurrent herpes simplex infections with L-lysine monohydrochloride. Cutis. 1984.</a>

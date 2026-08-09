@@ -38,11 +38,11 @@ Estas cifras son orientativas. Tus necesidades reales varían según tu edad, tu
 
 Eliminar cualquiera de los tres —algo frecuente en dietas de moda— tiene consecuencias concretas: reducir drásticamente los hidratos limita la capacidad de tu cerebro para pensar —tu **rendimiento cognitivo**— y tu capacidad de esfuerzo físico; restringir demasiado las grasas compromete la producción de tus hormonas; una ingesta de proteínas insuficiente acelera la pérdida de tu masa muscular con los años.
 
-Las dietas de moda cambian. Tu biología, no.
+> Las dietas de moda cambian. Tu biología, no.
 
 La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son las fuentes que lo aportan. Eso implica elegir cereales integrales antes que azúcares añadidos, grasas saludables —las **insaturadas**— antes que las artificiales que elevan el colesterol malo (LDL) —las **grasas trans**—, y proteínas que tu intestino pueda absorber con facilidad —las de **alta biodisponibilidad**—, como las de origen animal o las combinaciones vegetales bien planificadas.
 
-La fuente importa más que el porcentaje.
+> La fuente importa más que el porcentaje.
 
 ---
 

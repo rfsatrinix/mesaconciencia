@@ -45,9 +45,9 @@ Cuatro enzimas, cuatro rutas metabólicas distintas, el mismo cofactor en todas.
 
 ## Fuentes alimentarias de biotina
 
-La biotina está presente en muchos alimentos, aunque en concentraciones modestas. El hígado es con diferencia la fuente más concentrada:
+La biotina está presente en muchas fuentes dietéticas, aunque en concentraciones modestas. El hígado es con diferencia la fuente más concentrada:
 
-| Alimento | Biotina por 100 g |
+| Alimento | Biotina por cada 100 g |
 |---|---|
 | Hígado de ternera (cocido) | ~100 µg |
 | Semillas de girasol (crudas) | ~28 µg |
@@ -58,7 +58,7 @@ La biotina está presente en muchos alimentos, aunque en concentraciones modesta
 | Almendras | ~16 µg |
 | Avena cocida | ~7 µg |
 | Salmón del Atlántico (cocido) | ~5 µg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~4 µg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~4 µg |
 
 *Fuente: USDA FoodData Central.*
 
@@ -66,7 +66,7 @@ Las bacterias intestinales también sintetizan biotina en el colon. La contribuc
 
 ## La avidina: la trampa del huevo crudo
 
-La causa más característica de deficiencia de biotina no es la falta de alimentos que la contengan. Es comer demasiado huevo crudo.
+La causa más característica de deficiencia de biotina no es la escasez de fuentes dietéticas. Es comer demasiado huevo crudo.
 
 La clara de huevo cruda contiene una proteína de estructura globular con cadenas de azúcar unidas a su superficie —la **avidina**—, con una de las afinidades de unión más extraordinarias de la bioquímica: se une a la biotina con una constante de disociación de alrededor de 10⁻¹⁵ mol/L —una medida de la fuerza del enlace; cuanto menor el número, más difícil es separar el complejo—, lo que la convierte en uno de los enlaces no covalentes más fuertes que se conocen en la naturaleza. La biotina dietética que llega al intestino unida a la avidina no puede absorberse; el complejo atraviesa el tracto digestivo intacto y la biotina se pierde.
 
@@ -95,6 +95,8 @@ El cuadro clínico del déficit de biotina tiene un patrón reconocible. Los pri
 Las causas más frecuentes del déficit son la ingesta crónica de claras de huevo crudas, la alimentación parenteral prolongada sin suplementación de biotina, el uso crónico de anticonvulsivos —el valproato y la carbamazepina interfieren con la absorción y el reciclaje de biotina— y el alcoholismo.
 
 La causa genética más importante es la **deficiencia de biotinidasa**. La biotinidasa libera la biotina de las enzimas degradadas para que tu organismo pueda reutilizarla. Sin ella, la biotina se agota aunque la ingesta dietética sea normal. La deficiencia de biotinidasa se hereda siguiendo el patrón en que la enfermedad solo aparece cuando el individuo recibe la versión defectuosa del gen de ambos progenitores —la herencia **autosómica recesiva**—, con una incidencia de aproximadamente 1 por cada 60 000 nacidos vivos. Forma parte del análisis de sangre que se realiza a los recién nacidos en las primeras horas de vida para detectar enfermedades metabólicas tratables antes de que produzcan daño —el **cribado neonatal ampliado**, conocido coloquialmente como «el análisis del talón»— en muchos países. El tratamiento es la suplementación oral con biotina de por vida (5–20 mg/día), que normaliza completamente el cuadro clínico si se inicia antes de que aparezcan síntomas.
+
+Para mí, la deficiencia de biotinidasa es el argumento más poderoso a favor del cribado neonatal ampliado: hay pocas situaciones en medicina donde intervenir antes de que aparezca el primer síntoma marque la diferencia entre un deterioro irreversible y una vida completamente normal.
 
 Que una mutación en ese único paso —la enzima que recupera la biotina de los desechos para reutilizarla— produzca convulsiones, ceguera y deterioro neurológico progresivo en la infancia, y que cinco miligramos diarios de una vitamina por vía oral lo detengan por completo, sigue siendo uno de los contrastes más extraordinarios entre la gravedad de un error genético y la sencillez de su solución.
 

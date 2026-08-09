@@ -14,40 +14,40 @@ La OMS establece el requerimiento de leucina en **39 mg por kg de peso corporal 
 
 ## Funciones de la leucina
 
-**Activación directa de mTORC1** — El interruptor principal que controla la síntesis de proteínas en la célula es la **vía mTOR** (*mechanistic Target Of Rapamycin*). La leucina activa específicamente el complejo molecular que da la señal de arranque a esa síntesis —el **mTORC1**—: al entrar en la célula, se une a la proteína que actúa como sensor de aminoácidos —la **Sestrin2**—, lo que desencadena una cascada de señales que activa mTORC1. Sin leucina, mTORC1 permanece inhibido y la síntesis proteica se detiene, independientemente del aporte de energía o de otros aminoácidos. Es la única molécula nutricional con este papel de sensor directo en esta vía.
+**Activación directa de mTORC1** — La leucina activa directamente el interruptor molecular que controla la síntesis de proteínas en tus células —la **vía mTOR** (*mechanistic Target Of Rapamycin*)—. Lo hace a través del complejo que da la señal de arranque a esa síntesis —el **mTORC1**—: al entrar en la célula, se une a la proteína que actúa como sensor de aminoácidos —la **Sestrin2**—, lo que desencadena una cascada de señales que activa mTORC1. Sin leucina, mTORC1 permanece inhibido y la síntesis proteica se detiene, independientemente del aporte de energía o de otros aminoácidos. Es la única molécula nutricional con este papel de sensor directo en esta vía.
 
 **Síntesis proteica muscular** — La leucina es el BCAA que más activa la síntesis de nueva proteína muscular. La cantidad mínima por ingesta para desencadenar esa respuesta de forma eficaz —el **umbral de leucina**— es de aproximadamente 2,5–3 g por comida en adultos jóvenes, algo más en personas mayores. Por debajo de ese umbral, la respuesta anabólica es subóptima aunque el resto del perfil de aminoácidos sea adecuado. Esto explica en parte por qué las proteínas vegetales, que tienen menos leucina por gramo que las animales, producen una respuesta de síntesis proteica muscular menor dosis a dosis.
 
-**Metabolismo puramente cetogénico** — La leucina es uno de los dos aminoácidos que al degradarse producen únicamente cuerpos cetónicos en lugar de glucosa —los **aminoácidos estrictamente cetogénicos**—, junto con la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina). Su degradación produce exclusivamente la molécula que la célula usa como combustible o como bloque para fabricar [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —el **acetil-CoA**— y un cuerpo cetónico que el músculo y el cerebro pueden usar como fuente de energía —el **acetoacetato**—, sin ningún precursor que tu organismo pueda convertir en glucosa. Esto la diferencia de la [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), que también produce el compuesto que sí puede convertirse en glucosa —el **propionil-CoA**—, y de la [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina), que produce únicamente compuestos que el organismo puede convertir en glucosa —los **precursores glucogénicos**—.
+**Metabolismo puramente cetogénico** — La leucina es uno de los dos aminoácidos que al degradarse producen únicamente cuerpos cetónicos en lugar de glucosa —los **aminoácidos estrictamente cetogénicos**—, junto con la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina). Su degradación produce exclusivamente la molécula que la célula usa como combustible o como bloque para fabricar [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —el **acetil-CoA**— y un cuerpo cetónico que el músculo y el cerebro pueden usar como fuente de energía —el **acetoacetato**—, sin ningún precursor que tu organismo pueda convertir en glucosa. Esto la diferencia de la [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), que también produce el compuesto que sí puede convertirse en glucosa —el **propionil-CoA**—, y de la [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina), que produce únicamente compuestos que tu organismo puede convertir en glucosa —los **precursores glucogénicos**—.
 
-La leucina no puede generar ni un gramo de glucosa.
+> La leucina no puede generar ni un gramo de glucosa.
 
 **HMB: el metabolito activo** — Aproximadamente el 5 % de la leucina se convierte en un metabolito que inhibe la descomposición de las proteínas del músculo —la **proteólisis muscular**—: el **beta-hidroxi-beta-metilbutirato** (HMB). El HMB se comercializa como suplemento independiente. Los ensayos en personas mayores con la pérdida progresiva de masa muscular asociada al envejecimiento —la **sarcopenia**— muestran efectos modestos pero consistentes sobre la masa muscular; en adultos jóvenes sanos los resultados son menos convincentes.
 
 ## Fuentes alimentarias de leucina
 
-La leucina es el BCAA más abundante en casi todos los alimentos proteicos:
+La leucina es el BCAA más abundante en casi todas las fuentes proteicas:
 
-| Alimento | Leucina por 100 g |
+| Alimento | Leucina por cada 100 g |
 |---|---|
-| Soja texturizada (seca) | ~2000 mg |
-| Pechuga de pollo (cocida) | ~1900 mg |
-| Queso parmesano | ~1750 mg |
-| Atún fresco (cocido) | ~1700 mg |
-| Salmón del Atlántico (cocido) | ~1600 mg |
-| Almendras | ~1490 mg |
-| Semillas de calabaza (crudas) | ~1400 mg |
-| Huevo entero (cocido) | ~1086 mg |
-| Lentejas cocidas | ~670 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~630 mg |
+| [Soja](/alimentos/legumbres/soja) texturizada (seca) | 2000 mg |
+| Pechuga de pollo (cocida) | 1900 mg |
+| Queso parmesano | 1750 mg |
+| Atún fresco (cocido) | 1700 mg |
+| Salmón del Atlántico (cocido) | 1600 mg |
+| Almendras | 1490 mg |
+| Semillas de calabaza (crudas) | 1400 mg |
+| Huevo entero (cocido) | 1086 mg |
+| Lentejas cocidas | 670 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 630 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 La soja texturizada seca tiene la concentración más alta de leucina entre las [proteínas de origen vegetal](/nutricion/macronutrientes/proteinas/origen-vegetal), lo que la acerca a la eficacia de la proteína animal en la activación de la síntesis proteica. Es la excepción, no la regla, entre las fuentes vegetales.
 
 ## El umbral de leucina: por qué importa cómo distribuyes la proteína
 
-El umbral de leucina tiene una implicación práctica concreta. Imagina que consumes 90 g de proteína al día —suficientes para tus necesidades totales— pero en una sola comida. Esa comida aportará leucina en abundancia, pero el músculo solo puede usar una parte en ese momento; el exceso se oxida. El resto del día, sin aminoácidos disponibles, el músculo entra en balance neto negativo —pierde más proteína de la que fabrica—.
+El umbral de leucina tiene una implicación práctica concreta. Imagina que consumes 90 g de proteína al día —suficientes para tus necesidades totales— pero en una sola comida. Esa comida aportará leucina en abundancia, pero tu músculo solo puede usar una parte en ese momento; el exceso se oxida. El resto del día, sin aminoácidos disponibles, tu músculo entra en balance neto negativo —pierde más proteína de la que fabrica—.
 
 Si distribuyes esa misma proteína en tres comidas de 30 g cada una, cada comida supera el umbral de leucina y activa la síntesis proteica muscular de forma independiente. El balance neto diario es más favorable, aunque la cantidad total sea idéntica.
 
@@ -63,4 +63,7 @@ De todos los aminoácidos esenciales, la leucina es el que más ha redefinido la
 
 ---
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/22301929/" target="_blank" rel="noopener noreferrer">Norton LE, Layman DK. Leucine regulates translation initiation of protein synthesis in skeletal muscle after exercise. J Nutr. 2006.</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/22301929/" target="_blank" rel="noopener noreferrer">Norton LE, Layman DK. Leucine regulates translation initiation of protein synthesis in skeletal muscle after exercise. J Nutr. 2006.</a>

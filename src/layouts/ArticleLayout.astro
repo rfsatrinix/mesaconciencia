@@ -1,16 +1,18 @@
 ---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro:assets';
 import BotonesCompartir from '../components/BotonesCompartir.astro';
 
 type Relacionado = {
   id: string;
   coleccion: string;
-  data: { title: string; description?: string };
+  data: { title: string; description?: string; image?: ImageMetadata; imageAlt?: string };
 };
 
 interface Props {
   title: string;
   description?: string;
-  image?: string;
+  image?: ImageMetadata;
   imageAlt?: string;
   backHref?: string;
   backLabel?: string;
@@ -45,7 +47,7 @@ const urlRelativa = Astro.url.pathname;
 
     {image && (
       <figure class="art-imagen">
-        <img src={image} alt={imageAlt ?? title} loading="lazy" />
+        <Image src={image} alt={imageAlt ?? title} />
       </figure>
     )}
 
@@ -123,6 +125,9 @@ const urlRelativa = Astro.url.pathname;
     <div class="grid-articulos">
       {relacionados.map(r => (
         <a href={`/${r.coleccion}/${r.id}`} class="tarjeta tarjeta-articulo">
+          {r.data.image && (
+            <Image src={r.data.image} alt={r.data.imageAlt ?? r.data.title} class="tarjeta-imagen" />
+          )}
           <div class="tarjeta-articulo-inner">
             <h2>{r.data.title}</h2>
             {r.data.description && <p>{r.data.description}</p>}

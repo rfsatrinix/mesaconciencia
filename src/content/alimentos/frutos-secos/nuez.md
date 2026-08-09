@@ -1,28 +1,28 @@
----
+﻿---
 title: "Nuez"
 description: "Nuez: es el fruto seco con más omega-3 vegetal, la evidencia cardiovascular más amplia del grupo y compuestos bioactivos que se pierden si la tuestas."
 date: 2026-07-23
 categoria: "Frutos secos"
 draft: false
-image: "/images/alimentos/nuez.svg"
-imageAlt: "Imagen de portada del artículo sobre nuez"
+image: "./fotos/nuez_portada.jpg"
+imageAlt: "Fotografía de nueces sin cáscara"
 ---
 
 Coge unas pocas, que engordan. La frase se escucha cada Navidad alrededor del cuenco de nueces, con el cascanueces de madera pasando de mano en mano. Se coge una, se parte despacio, y la mitad que queda se deja en el plato con la sensación de haber sido razonable.
 
 La nuez tiene fama de calórica, de grasa, de alimento que hay que racionar. Un placer puntual, no un hábito.
 
-Ningún otro fruto seco ha acumulado tanta evidencia contradiciéndola.
+Ningún otro [fruto seco](/alimentos/frutos-secos) ha acumulado tanta evidencia contradiciéndola.
 
-## Qué es la nuez
+## ¿Qué es la nuez?
 
-La nuez (*Juglans regia*) es el fruto del nogal, árbol originario de Persia y Asia central que hoy se cultiva en todo el hemisferio norte. Es la variedad más consumida en España y en el mundo; las variedades americanas —la nuez pecán y la nuez negra— tienen perfiles distintos y son mucho menos habituales en la despensa española.
+La nuez (*Juglans regia*) es el fruto del nogal, árbol originario de Persia y Asia central que hoy se cultiva en todo el hemisferio norte. Es la variedad más consumida en España y en el mundo; las variedades americanas —la [nuez pecán](/alimentos/frutos-secos/nuez-pecan) y la nuez negra— tienen perfiles distintos y son mucho menos habituales en la despensa española.
 
 Lo que comes no es el fruto completo sino la semilla. La cáscara dura exterior es el hueso del fruto, y la nuez que conoces es el interior. Esa semilla tiene, a su vez, una piel fina y marrón —la **película** o pellejo— que la mayoría descarta por su amargor. Esa decisión tiene consecuencias nutricionales, como se explica en el apartado sobre el tostado.
 
 ## Composición nutricional
 
-Datos por 100 g de nuez cruda sin cáscara:
+Datos por cada 100 g de nuez cruda sin cáscara:
 
 | Nutriente | Cantidad |
 |---|---|
@@ -32,7 +32,7 @@ Datos por 100 g de nuez cruda sin cáscara:
 | [Fibra alimentaria](/nutricion/fibra-alimenticia) | 6,7 g |
 | [Grasas totales](/nutricion/macronutrientes/grasas-o-lipidos) | 65,2 g |
 | [Omega-3 (ALA)](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) | 9,1 g |
-| Omega-6 (ácido linoleico) | 38,1 g |
+| [Omega-6 (ácido linoleico)](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) | 38,1 g |
 | [Magnesio](/nutricion/micronutrientes/minerales/magnesio) | 158 mg |
 | [Potasio](/nutricion/micronutrientes/minerales/potasio) | 441 mg |
 | [Zinc](/nutricion/micronutrientes/oligoelementos/zinc) | 3,1 mg |
@@ -53,7 +53,7 @@ Aquí entra el matiz que importa. Tu cuerpo convierte el ALA en EPA con una efic
 
 Dicho eso, el ALA tiene efectos biológicos propios, no solo como precursor. Y la proporción entre omega-6 y omega-3 en las nueces —aproximadamente 4:1— es mucho más favorable que la de la mayoría de aceites vegetales y que la de la dieta occidental típica, donde esa proporción suele rondar 15:1 o 20:1. Eso tiene consecuencias sobre la respuesta inflamatoria que van más allá de la conversión.
 
-Las nueces no son el salmón. Pero son la mejor fuente vegetal de omega-3 que puedes poner en la mesa sin pensar demasiado.
+> Las nueces no son el salmón. Pero son la mejor fuente vegetal de omega-3 que puedes poner en la mesa sin pensar demasiado.
 
 ## La evidencia cardiovascular más sólida del grupo
 
@@ -65,13 +65,13 @@ Lo que hace útil entender estos resultados es que los mecanismos que los explic
 
 **Los ácidos grasos omega-3** reducen los triglicéridos y tienen efecto antiinflamatorio directo sobre la pared arterial, independientemente de su conversión a EPA y DHA.
 
-**La arginina** —el aminoácido más abundante en las nueces después de la glutamina— es la materia prima del compuesto gaseoso que regula el diámetro de tus vasos sanguíneos —el **óxido nítrico**—. Más arginina disponible significa más vasodilatación y menor tensión arterial.
+El aminoácido más abundante en las nueces —la **arginina**— es la materia prima del compuesto gaseoso que regula el diámetro de tus vasos sanguíneos —el **óxido nítrico**—. Más arginina disponible significa más vasodilatación y menor tensión arterial.
 
-**Los fitosteroles** —compuestos con una estructura similar al colesterol pero de origen vegetal— compiten con el colesterol por los mismos transportadores en tu intestino. Menos colesterol absorbido significa menos LDL circulante.
+Compuestos con estructura similar al colesterol pero de origen vegetal —los **fitosteroles**— compiten con el colesterol por los mismos transportadores en tu intestino. Menos colesterol absorbido significa menos LDL circulante.
 
 **Los polifenoles** del pellejo tienen efecto antioxidante sobre las propias partículas de LDL. El LDL oxidado es mucho más dañino para la pared arterial que el LDL sin oxidar: cuando una partícula de LDL se oxida, activa una cascada inflamatoria que acelera la formación de placa. Reducir esa oxidación tiene consecuencias clínicas reales.
 
-No hay un compuesto responsable. Es la combinación.
+> No hay un compuesto responsable. Es la combinación.
 
 ## Lo que pierdes si las tuestas o les quitas el pellejo
 
@@ -81,11 +81,11 @@ Ese amargor no es un defecto: es la señal química de los compuestos que hacen 
 
 El tostado introduce un segundo problema. El ALA tiene tres dobles enlaces en su cadena —a diferencia del ácido oleico del aceite de oliva, que tiene uno—, lo que lo hace muy susceptible a la oxidación por calor. A temperaturas superiores a 150 °C, el ALA se degrada y pierde gran parte de su actividad biológica. El tostado también reduce los polifenoles de forma significativa.
 
-Una nuez tostada a alta temperatura tiene menos omega-3 funcional y menos polifenoles que una cruda. La diferencia no es menor.
+> Una nuez tostada a alta temperatura tiene menos omega-3 funcional y menos polifenoles que una cruda. La diferencia no es menor.
 
-La parte amarga es exactamente la que más importa.
+> La parte amarga es exactamente la que más importa.
 
-## Cuántas nueces y cómo
+## ¿Cuántas nueces consumir y cómo?
 
 La ración que aparece en la mayoría de ensayos clínicos es de 28 a 30 g: aproximadamente siete mitades. A esa cantidad aportas unos 2,7 g de ALA, 196 kcal, 4,6 g de [proteína](/nutricion/macronutrientes/proteinas), 2 g de [fibra](/nutricion/fibra-alimenticia) y una dosis significativa de polifenoles y fitosteroles.
 
@@ -95,9 +95,7 @@ La ración que aparece en la mayoría de ensayos clínicos es de 28 a 30 g: apro
 
 **Sin sustituir al pescado azul.** Si tu dieta no incluye pescado azul con regularidad, las nueces son la mejor fuente vegetal de omega-3 disponible, pero la conversión ALA → EPA/DHA sigue siendo limitada. Son complementarias, no equivalentes.
 
----
-
-Creo que el miedo a la caloría de las nueces es el malentendido nutricional más persistente de la dieta española. 654 kcal por 100 g es una cifra real. También lo es que una ración diaria de siete mitades, con décadas de evidencia a sus espaldas, se asocia a menos LDL, menos LDL oxidado y menor riesgo de infarto.
+Creo que el miedo a la caloría de las nueces es el malentendido nutricional más persistente de la dieta española. 654 kcal por cada 100 g es una cifra real. También lo es que una ración diaria de siete mitades, con décadas de evidencia a sus espaldas, se asocia a menos LDL, menos LDL oxidado y menor riesgo de infarto.
 
 La nuez que cogías de una en una en Navidad para no pasarte debería ser siete mitades al día. Sin culpa.
 

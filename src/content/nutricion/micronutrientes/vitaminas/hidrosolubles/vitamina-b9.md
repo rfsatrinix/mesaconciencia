@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-La **vitamina B9** —llamada **folato** en los alimentos y **ácido fólico** en los suplementos— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que el organismo necesita para copiar el ADN y para regular qué genes están activos en cada célula. Para esas dos funciones trabaja en su forma activa en sangre —la forma en que circula tras ser procesado en el intestino y el hígado, conocida como **5-metiltetrahidrofolato (5-MTHF)**—, transportando pequeños fragmentos de carbono de una molécula a otra.
+La **vitamina B9** —llamada **folato** en su forma natural y **ácido fólico** en los suplementos— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu cuerpo necesita para copiar el ADN y para regular qué genes están activos en cada célula. Para esas dos funciones trabaja en su forma activa en sangre —la forma en que circula tras ser procesado en el intestino y el hígado, conocida como **5-metiltetrahidrofolato (5-MTHF)**—, transportando pequeños fragmentos de carbono de una molécula a otra.
 
 Sin ese flujo de fragmentos, la división celular se interrumpe. Los tejidos que se renuevan rápido —la médula ósea, el epitelio intestinal, el embrión en formación— son los primeros en sufrir. Eso convierte las semanas previas a la concepción y el primer trimestre —el **período periconcepcional**— en la ventana crítica: el precursor del cerebro y la médula espinal se cierra entre los días 21 y 28, cuando la mayoría de las mujeres todavía no saben que están embarazadas.
 
@@ -14,7 +14,7 @@ La suplementación periconcepcional con ácido fólico es la recomendación nutr
 
 ## ¿Cuánta vitamina B9 necesitas?
 
-Las necesidades de vitamina B9 se expresan en **equivalentes de folato dietético (EFD)**, una unidad que compensa la diferencia de biodisponibilidad entre el folato alimentario y el ácido fólico sintético. 1 µg de folato alimentario equivale a 0,5 µg de ácido fólico tomado en ayunas o a 0,6 µg de ácido fólico con alimentos.
+Las necesidades de vitamina B9 se expresan en una unidad que compensa la diferencia de biodisponibilidad entre el folato alimentario y el ácido fólico sintético —los **equivalentes de folato dietético (EFD)**—. 1 µg de folato alimentario equivale a 0,5 µg de ácido fólico tomado en ayunas o a 0,6 µg de ácido fólico tomado durante las comidas.
 
 | Grupo | Ingesta de referencia (EFSA) |
 |---|---|
@@ -27,42 +27,44 @@ Las necesidades de vitamina B9 se expresan en **equivalentes de folato dietétic
 | Niños 4–6 | 200 µg EFD/día |
 | Niños 1–3 | 120 µg EFD/día |
 
-La EFSA fija un nivel máximo tolerable de **1 000 µg/día** para el ácido fólico sintético procedente de suplementos y alimentos enriquecidos. El límite no se establece porque el ácido fólico sea tóxico: se establece para evitar que dosis altas enmascaren una deficiencia de vitamina B12 con consecuencias neurológicas graves.
+La EFSA fija un nivel máximo tolerable de **1 000 µg/día** para el ácido fólico sintético procedente de suplementos y productos enriquecidos. El límite no se establece porque el ácido fólico sea tóxico: se establece para evitar que dosis altas enmascaren una deficiencia de vitamina B12 con consecuencias neurológicas graves.
 
 Durante el período periconcepcional la recomendación va más allá de la ingesta adecuada: **400 µg adicionales de ácido fólico sintético al día**, empezando al menos cuatro semanas antes de la concepción y durante el primer trimestre, independientemente de la ingesta dietética de folato.
 
 ## ¿Para qué sirve la vitamina B9?
 
-La vitamina B9 opera en el conjunto de reacciones que transfieren fragmentos de un único átomo de carbono entre moléculas para fabricar ADN, ARN y [aminoácidos](/nutricion/macronutrientes/proteinas) —el **metabolismo de una sola unidad de carbono**—. El 5-MTHF cede su fragmento de carbono al aminoácido que en concentraciones altas daña los vasos sanguíneos —la **homocisteína**— para regenerar la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), en una reacción que requiere [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La metionina se convierte a continuación en el donante universal de grupos metilo del organismo —la **S-adenosilmetionina (SAM)**—, que metila el ADN, las histonas, el ARN, los neurotransmisores y los fosfolípidos. La metilación del ADN regula la expresión génica sin alterar la secuencia del código.
+La vitamina B9 opera en el conjunto de reacciones que transfieren fragmentos de un único átomo de carbono entre moléculas para fabricar ADN, ARN y [aminoácidos](/nutricion/macronutrientes/proteinas) —el **metabolismo de una sola unidad de carbono**—. El 5-MTHF cede su fragmento de carbono al aminoácido que en concentraciones altas daña los vasos sanguíneos —la **homocisteína**— para regenerar la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), en una reacción que requiere [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La metionina se convierte a continuación en el donante universal de grupos metilo de tu cuerpo —la **S-adenosilmetionina (SAM)**—, que metila el ADN, las histonas, el ARN, los neurotransmisores y los fosfolípidos. La metilación del ADN regula la expresión génica sin alterar la secuencia del código.
 
-**Síntesis de ADN.** La enzima que fabrica la timina —uno de los cuatro componentes del ADN— a partir de su precursor inmediato —la **timidilato sintasa**— necesita un derivado activo del folato para hacerlo —el **5,10-metilentetrahidrofolato**—. Es la única ruta de síntesis de ese componente que existe en la célula. Sin timina, el ADN no puede replicarse. Las células que más se dividen son las primeras en fallar: en la médula ósea, la escasez de timina produce glóbulos rojos que no pueden completar su división nuclear y salen al torrente sanguíneo anormalmente grandes y poco funcionales —la **anemia megaloblástica**—.
+**Síntesis de ADN.** La enzima que fabrica la timina —uno de los cuatro componentes del ADN— a partir de su precursor inmediato —la **timidilato sintasa**— necesita un derivado activo del folato para hacerlo —el **5,10-metilentetrahidrofolato**—. Es la única ruta de síntesis de ese componente que existe en la célula. Sin timina, el ADN no puede replicarse.
+
+Las células que más se dividen son las primeras en fallar: en la médula ósea, la escasez de timina produce glóbulos rojos que no pueden completar su división nuclear y salen al torrente sanguíneo anormalmente grandes y poco funcionales —la **anemia megaloblástica**—.
 
 **Síntesis de purinas.** Dos de los cuatro componentes del ADN y el ARN —la adenina y la guanina, agrupadas en la familia química de las **purinas**— se fabrican en una ruta que necesita otra forma activa del folato —el **formil-tetrahidrofolato**— en dos pasos distintos. Sin purinas, la síntesis de ácidos nucleicos se detiene independientemente de la timina disponible.
 
 **Metabolismo de aminoácidos.** La interconversión de serina y glicina, la degradación de la [histidina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/histidina) y el metabolismo de la metionina dependen de formas derivadas del tetrahidrofolato.
 
-Tres rutas críticas —fabricar ADN, regular el genoma y eliminar homocisteína—, el mismo donante de fragmentos de carbono en todas.
+> Tres rutas críticas —fabricar ADN, regular el genoma y eliminar homocisteína—, el mismo donante de fragmentos de carbono en todas.
 
 ## Fuentes alimentarias de ácido fólico
 
-El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verde son su fuente más característica. Las legumbres y el hígado son igualmente destacables:
+El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verde son su fuente más característica. Las [legumbres](/alimentos/legumbres) y el hígado son igualmente destacables:
 
-| Alimento | Folato por 100 g |
+| Alimento | Folato por cada 100 g |
 |---|---|
-| Hígado de ternera (cocido) | ~220 µg |
-| Lentejas cocidas | ~180 µg |
-| Espinacas cocidas | ~150 µg |
-| Espárragos cocidos | ~150 µg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~140 µg |
-| Brócoli cocido | ~108 µg |
-| Rúcula (cruda) | ~97 µg |
-| Aguacate | ~80 µg |
-| Naranja | ~30 µg |
-| Arroz integral cocido | ~9 µg |
+| Hígado de ternera (cocido) | 220 µg |
+| Lentejas cocidas | 180 µg |
+| Espinacas cocidas | 150 µg |
+| Espárragos cocidos | 150 µg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 140 µg |
+| Brócoli cocido | 108 µg |
+| Rúcula (cruda) | 97 µg |
+| Aguacate | 80 µg |
+| Naranja | 30 µg |
+| Arroz integral cocido | 9 µg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
-El folato es termolábil: la cocción prolongada destruye entre el 40 y el 70 % del contenido en verduras hervidas mucho tiempo. El vapor y la cocción corta conservan mejor el folato. Es también fotosensible; los alimentos expuestos a la luz durante horas lo pierden.
+El folato es termolábil: la cocción prolongada destruye entre el 40 y el 70 % del contenido en verduras hervidas mucho tiempo. El vapor y la cocción corta conservan mejor el folato. Es también fotosensible; los productos expuestos a la luz durante horas lo pierden.
 
 La biodisponibilidad del folato alimentario es inferior a la del ácido fólico sintético: en promedio, solo el 50 % del folato dietético se absorbe, frente al 85 % del ácido fólico en suplemento tomado en ayunas. De ahí el sistema de equivalentes y la necesidad de suplementar durante el embarazo, cuando cubrir las necesidades solo con la dieta es muy difícil.
 
@@ -78,17 +80,19 @@ La consecuencia fue el rediseño de las recomendaciones nutricionales en todo el
 
 ## La trampa del metilo: folato y vitamina B12
 
-El folato y la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) están vinculados por una reacción con consecuencias clínicas de primera importancia. Para que el 5-MTHF pueda seguir cediendo fragmentos de carbono en la síntesis de ADN, necesita primero deshacerse del grupo metilo que lleva —dárselo a la homocisteína para regenerar metionina—. Esa reacción la cataliza la enzima que transfiere ese grupo metilo y que necesita vitamina B12 como cofactor —la **metionina sintasa**—. Si la B12 escasea, la metionina sintasa no puede actuar, el 5-MTHF se acumula y no puede regenerar la forma de folato que la célula necesita para fabricar ADN —el **tetrahidrofolato (THF)**—. A esa situación se le llama la **trampa del metilo**.
+El folato y la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) están vinculados por una reacción con consecuencias clínicas de primera importancia. Para que el 5-MTHF pueda seguir cediendo fragmentos de carbono en la síntesis de ADN, necesita primero deshacerse del grupo metilo que lleva —dárselo a la homocisteína para regenerar metionina—. Esa reacción la cataliza la enzima que transfiere ese grupo metilo y que necesita vitamina B12 como cofactor —la **metionina sintasa**—.
+
+Si la B12 escasea, la metionina sintasa no puede actuar, el 5-MTHF se acumula y no puede regenerar la forma de folato que la célula necesita para fabricar ADN —el **tetrahidrofolato (THF)**—. A esa situación se le llama la **trampa del metilo**.
 
 El resultado es una deficiencia funcional de folato aunque los niveles séricos de ácido fólico sean normales o elevados. La médula ósea falla igual: anemia megaloblástica. El problema es que una dosis alta de ácido fólico puede corregir esa anemia sin corregir la causa subyacente. La anemia desaparece. Los síntomas neurológicos del déficit de B12 —daño en los nervios de las extremidades, deterioro cognitivo, daño en la médula espinal— progresan sin que el análisis de sangre que recuenta y clasifica las células sanguíneas —el **hemograma**— los delate.
 
 Esa es la razón del nivel máximo tolerable de 1 000 µg/día para el ácido fólico sintético: evitar que dosis altas enmascaren un déficit de B12, especialmente en personas mayores, donde ambas deficiencias son frecuentes.
 
-El polimorfismo **MTHFR C677T** añade otra capa. La enzima que convierte una forma del folato en 5-MTHF y que necesita la forma activa de la [vitamina B2](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b2) como cofactor —la **metilenotetrahidrofolato reductasa (MTHFR)**— tiene una variante genética frecuente que reduce su eficiencia. Las personas que heredaron una copia del alelo T y conservan otra copia normal del gen —los **heterocigotos CT**— tienen un 30–40 % menos de actividad de esa enzima; las que heredaron el alelo T de ambos progenitores —los **homocigotos TT**— la pierden entre un 60 y un 70 %. El genotipo TT está presente en aproximadamente el 10–15 % de la población española, con mayor prevalencia en mediterráneos.
+Esta vía tiene además una complicación de origen genético. La enzima que convierte una forma del folato en 5-MTHF y que necesita la forma activa de la [vitamina B2](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b2) como cofactor —la **metilenotetrahidrofolato reductasa (MTHFR)**— existe en una variante menos eficiente que se hereda con frecuencia —el **polimorfismo MTHFR C677T**—. Las personas que heredaron una copia del alelo T y conservan otra copia normal del gen —los **heterocigotos CT**— tienen un 30–40 % menos de actividad de esa enzima; las que heredaron el alelo T de ambos progenitores —los **homocigotos TT**— la pierden entre un 60 y un 70 %. El genotipo TT está presente en aproximadamente el 10–15 % de la población española, con mayor prevalencia en mediterráneos.
 
-Una persona de cada siete o diez tiene una capacidad reducida de activar el folato dietético.
+> Una persona de cada siete o diez tiene una capacidad reducida de activar el folato dietético.
 
-Creo que para esas personas, suplementar directamente con 5-MTHF —en lugar de con ácido fólico, que también requiere MTHFR para activarse— puede ser más eficaz; y optimizar el estado de vitamina B2 para que la MTHFR disponga de su cofactor tampoco es irrelevante.
+Creo que para esas personas, suplementar directamente con 5-MTHF —en lugar de con ácido fólico, que también requiere MTHFR para activarse— puede ser más eficaz; y prestar atención al estado de vitamina B2, para que la MTHFR disponga de su cofactor, no me parece un detalle menor.
 
 ## ¿Qué ocurre si falta vitamina B9?
 

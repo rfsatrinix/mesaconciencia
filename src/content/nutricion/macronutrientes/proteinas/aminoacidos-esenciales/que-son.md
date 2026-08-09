@@ -36,15 +36,15 @@ La leucina es el más estudiado de los tres: activa la señal que le indica al m
 
 Los suplementos de BCAAs aislados tienen utilidad limitada cuando ya consumes proteína completa en cantidad suficiente. Si ya tienes leucina disponible de la dieta, añadir BCAAs extra no aumenta la fabricación de proteína muscular. Su papel es más relevante en ayunos prolongados o en protocolos de entrenamiento en ayunas.
 
-Con proteína completa en cantidad suficiente, los BCAAs adicionales no añaden nada.
+> Con proteína completa en cantidad suficiente, los BCAAs adicionales no añaden nada.
 
 ## ¿Qué ocurre cuando falta un aminoácido esencial?
 
 La fabricación de cada proteína requiere que todos sus aminoácidos estén disponibles simultáneamente. Si falta uno, la fabricación se detiene: el aminoácido que falta —el **limitante**— condiciona el aprovechamiento de todos los demás.
 
-Las deficiencias graves son raras en dietas variadas, pero aparecen cuando la dieta es muy monótona o cuando la fuente proteica principal es baja en algún aminoácido concreto: el maíz en triptófano y lisina, el arroz en lisina, las legumbres en metionina. La enfermedad por déficit de niacina —la **pelagra**— se asoció durante siglos al maíz como alimento casi exclusivo, precisamente porque el maíz es bajo en triptófano, el único aminoácido que tu cuerpo puede convertir en [niacina (vitamina B3)](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3).
+Las deficiencias graves son raras en dietas variadas, pero aparecen cuando la dieta es muy monótona o cuando la fuente proteica principal es baja en algún aminoácido concreto: el maíz en triptófano y lisina, el arroz en lisina, las [legumbres](/alimentos/legumbres) en metionina. La enfermedad por déficit de niacina —la **pelagra**— se asoció durante siglos al maíz como alimento casi exclusivo, precisamente porque el maíz es bajo en triptófano, el único aminoácido que tu cuerpo puede convertir en [niacina (vitamina B3)](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3).
 
-La pelagra no era una enfermedad de niacina. Era una enfermedad de triptófano.
+> La pelagra no era una enfermedad de niacina. Era una enfermedad de triptófano.
 
 ## Aminoácidos condicionalmente esenciales
 
@@ -56,7 +56,7 @@ Los más relevantes son la **arginina** —que permite fabricar el gas que dilat
 
 Basta con incluir variedad de fuentes proteicas a lo largo del día.
 
-**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), soja y quinoa.
+**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y quinoa.
 
 **Proteínas complementarias.** Las [fuentes vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) son deficitarias en uno o dos aminoácidos, pero legumbres y cereales se complementan mutuamente. No hace falta combinarlas en la misma comida; tu organismo mantiene una reserva (*pool*) de aminoácidos libres en sangre que equilibra el aporte a lo largo del día.
 
@@ -65,5 +65,7 @@ Una dieta con proteínas en cada comida —dos o tres fuentes distintas al día 
 Tu cuerpo puede fabricar once de los veinte aminoácidos que necesita. Los nueve que no puede fabricar son los que deciden la calidad de la proteína que comes.
 
 ---
+
+## Referencias
 
 *Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>*

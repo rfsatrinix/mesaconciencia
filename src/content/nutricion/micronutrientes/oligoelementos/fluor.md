@@ -43,7 +43,7 @@ Ca₁₀(PO₄)₆(OH)₂ + 2 F⁻ → Ca₁₀(PO₄)₆F₂ + 2 OH⁻
 
 El producto —el mineral resultante de incorporar fluoruro al cristal— es la **fluorapatita**. El cambio de OH⁻ por F⁻ no es cosmético: altera el pH al que el cristal empieza a disolverse en medio ácido. La hidroxiapatita comienza a desmineralizarse a pH 5,5; la fluorapatita resiste hasta pH 4,5. Una unidad de pH en escala logarítmica equivale a diez veces más concentración de iones H⁺. La placa bacteriana que se adhiere al esmalte —el **biofilm dental**— contiene principalmente *Streptococcus mutans*, bacterias que producen ácido láctico al fermentar los azúcares y, al acidificar el medio, causan caries —las **bacterias cariogénicas**—. Con esmalte de fluorapatita, esas bacterias necesitan generar diez veces más ácido para causar el mismo daño que sobre la hidroxiapatita.
 
-El fluoruro también actúa por un segundo mecanismo, independiente del esmalte: inhibe la enzima central de la vía por la que las bacterias cariogénicas descomponen los azúcares para obtener energía y producir ácido —la **enolasa**—. Al reducir esa glucólisis, reduce la producción de ácido láctico en el propio biofilm. El fluoruro ataca tanto el diente como la bacteria.
+El fluoruro también actúa por un segundo mecanismo, independiente del esmalte: inhibe la enzima central de la vía por la que las bacterias cariogénicas descomponen los azúcares para obtener energía y producir ácido —la **enolasa**—. Al reducir esa glucólisis, reduce la producción de ácido láctico en el propio biofilm. > El fluoruro ataca tanto el diente como la bacteria.
 
 El tercer mecanismo actúa directamente sobre la superficie del diente: cuando el esmalte pierde [calcio](/nutricion/micronutrientes/minerales/calcio) y fosfato por un ataque ácido, la saliva puede regenerar mineral en las zonas dañadas —este proceso se llama **remineralización tópica**—. Si el fluoruro está presente en ese momento, incorpora fluorapatita en lugar de hidroxiapatita, haciendo que las zonas remineralizadas sean más resistentes que el esmalte original.
 
@@ -80,7 +80,7 @@ Hoy, los Centros para el Control y la Prevención de Enfermedades de Estados Uni
 
 El debate científico moderno sobre la fluoración no cuestiona la eficacia para reducir caries —ese dato es robusto— sino su relevancia relativa en la era del dentífrico fluorado universal. Un metaanálisis Cochrane de 2015 concluyó que la mayoría de los estudios que demostraron la eficacia de la fluoración del suministro se realizaron antes de que el uso del dentífrico fluorado se generalizara, y que la evidencia sobre el beneficio adicional de la fluoración sobre el fondo de uso masivo de pasta fluorada es más limitada de lo que los defensores históricos de la fluoración reconocen. No hay evidencia de daño a las concentraciones recomendadas (≤1 mg/L), pero el margen de beneficio incremental respecto al dentífrico se ha vuelto más difícil de medir.
 
-Eficacia cuando no había dentífrico fluorado: demostrada. Beneficio adicional sobre el dentífrico hoy: pendiente de evidencia de calidad.
+> Eficacia cuando no había dentífrico fluorado: demostrada. Beneficio adicional sobre el dentífrico hoy: pendiente de evidencia de calidad.
 
 ## Fluorosis dental y esquelética: cuando el flúor se excede
 
@@ -99,6 +99,8 @@ La fluorosis esquelética endémica afecta a decenas de millones de personas en 
 La consecuencia de una ingesta baja de flúor no es un síndrome bioquímico con marcadores en sangre ni una enfermedad con nombre clínico propio. Es una mayor susceptibilidad a la caries dental. Antes de la fluoración del suministro y de los dentífricos fluorados, la caries era casi universal en las poblaciones de ingresos medios y bajos de los países industrializados. Los estudios epidemiológicos en los que se sigue a grupos de personas durante años para observar cómo evoluciona su salud —los estudios de **cohortes**— sobre nacidos antes y después de la introducción del suministro fluorizado en distintas ciudades mostraron reducciones de caries del 40–70 % en los niños que habían crecido con él.
 
 El flúor no elimina la caries —la dieta, la higiene, la susceptibilidad individual y la flora bacteriana también determinan el riesgo—, pero reduce de forma medible y consistente el daño que el ácido bacteriano hace sobre el esmalte. Las personas que viven en zonas sin fluoración y no usan dentífrico fluorado tienen, en conjunto, mayor incidencia de caries. Ese es el «síndrome carencial» del flúor: no una emergencia hospitalaria, sino un mayor número de visitas al dentista y, en los sistemas sanitarios sin cobertura dental universal, un impacto económico y en calidad de vida que recae desproporcionadamente en las poblaciones con menos acceso.
+
+Para mí, el dato más elocuente de toda la historia de la fluoración no está en las cifras de caries: está en que Muskegon, la ciudad control, decidió fluorar su agua antes de que el estudio terminara porque los resultados en Grand Rapids eran demasiado buenos para ignorarlos.
 
 El flúor es el único oligoelemento cuya ausencia se cuenta en caries, cuyo exceso se lee en el esmalte, y cuya intervención más eficaz no fue un suplemento sino un cambio en el grifo.
 

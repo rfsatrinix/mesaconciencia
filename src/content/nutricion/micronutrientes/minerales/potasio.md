@@ -8,7 +8,7 @@ date: 2026-07-04
 
 El potasio es el [mineral](/nutricion/micronutrientes/minerales) más abundante dentro de las células: un adulto contiene entre 100 y 150 gramos, y el **98 % se encuentra en el interior celular**. Su concentración dentro de la célula —140 mmol/L— es 35 veces mayor que fuera —4 mmol/L—, y esa diferencia no es accidental: tu cuerpo la mantiene activamente mediante la proteína de membrana que bombea 3 iones de [sodio](/nutricion/micronutrientes/minerales/sodio) hacia fuera y mete 2 de potasio hacia dentro en cada ciclo, consumiendo ATP en cada vuelta —la **bomba sodio-potasio** (Na⁺/K⁺-ATPasa)—.
 
-Sin esa diferencia de concentración, ningún nervio podría disparar un impulso ni ningún músculo podría contraerse.
+> Sin esa diferencia de concentración, ningún nervio podría disparar un impulso ni ningún músculo podría contraerse.
 
 ## ¿Para qué sirve el potasio?
 
@@ -40,7 +40,7 @@ La ingesta media en España y en la mayoría de los países europeos se sitúa e
 
 ## Fuentes alimentarias de potasio
 
-El potasio está presente de forma natural en casi todos los alimentos de origen vegetal, en concentraciones muy superiores a las del sodio. Las frutas, verduras, legumbres y frutos secos son las fuentes más ricas:
+El potasio está presente de forma natural en prácticamente todo lo que comes de origen vegetal, en concentraciones muy superiores a las del sodio. Las frutas, verduras, [legumbres](/alimentos/legumbres) y [frutos secos](/alimentos/frutos-secos) son las fuentes más ricas:
 
 | Alimento | Potasio por 100 g |
 |---|---|
@@ -58,7 +58,7 @@ El potasio está presente de forma natural en casi todos los alimentos de origen
 
 El método de cocción importa. La patata hervida en abundante líquido y sin piel pierde hasta el 50 % de su potasio, que se disuelve en el líquido de cocción. Cocinarla al horno o al vapor, con piel, conserva entre el 85 y el 95 % del potasio original. Lo mismo ocurre con las espinacas, el brócoli y otras verduras de hoja: el vapor o el salteado breve preservan más que el hervido prolongado.
 
-Los alimentos ultraprocesados concentran el efecto contrario: pierden gran parte del potasio natural durante el procesado y reciben sodio en la formulación. Un producto procesado típico puede invertir la proporción potasio:sodio respecto al alimento fresco del que procede.
+Los ultraprocesados concentran el efecto contrario: pierden gran parte del potasio natural durante el procesado y reciben sodio en la formulación. Un producto procesado típico puede invertir la proporción potasio:sodio respecto al producto fresco del que procede.
 
 ## La absorción del potasio
 
@@ -74,11 +74,11 @@ La hormona que el páncreas secreta en respuesta a la glucosa —la **insulina**
 
 Un detalle clínico relevante: la hipopotasemia es con frecuencia secundaria a una deficiencia de [magnesio](/nutricion/micronutrientes/minerales/magnesio). Los riñones no pueden retener potasio adecuadamente cuando el magnesio es insuficiente, porque el magnesio activa la bomba Na⁺/K⁺-ATPasa en las células de los túbulos renales.
 
-Reponer potasio sin corregir el magnesio da resultados incompletos.
+> Reponer potasio sin corregir el magnesio da resultados incompletos.
 
 **Si sobra:** El exceso de potasio en sangre por encima de 5,5 mmol/L —la **hiperpotasemia**— es excepcional en personas con función renal normal, porque el riñón excreta el exceso con eficiencia. El riesgo aparece en la situación en que el riñón pierde progresivamente su capacidad de filtrar —la **enfermedad renal crónica**—, con el uso de fármacos que reducen la excreción renal de potasio —los inhibidores de la ECA, los antagonistas de la aldosterona o los antiinflamatorios no esteroideos— o en situaciones de destrucción masiva de tejido muscular. Los síntomas más peligrosos son las alteraciones del ritmo eléctrico del corazón en sus cámaras de bombeo —las **arritmias ventriculares**—, que pueden ser fatales.
 
-La proporción potasio:sodio en la dieta de los humanos durante la mayor parte de la evolución era aproximadamente 10:1; en la alimentación industrial actual, está invertida. El riñón que heredamos gestiona eficientemente el exceso de potasio, pero no tiene mecanismos eficaces para excretar el sodio sobrante sin retener líquido y elevar la presión. Lo que llamamos hipertensión esencial, en una parte significativa de los casos, es el resultado de alimentar un organismo paleolítico con el perfil electrolítico del siglo XXI.
+La proporción potasio:sodio en la dieta de los humanos durante la mayor parte de la evolución era aproximadamente 10:1; en la alimentación industrial actual, está invertida. El riñón que heredamos gestiona eficientemente el exceso de potasio, pero no tiene mecanismos eficaces para excretar el sodio sobrante sin retener líquido y elevar la presión. Creo que lo que llamamos hipertensión esencial, en una parte significativa de los casos, es el resultado de alimentar un organismo paleolítico con el perfil electrolítico del siglo XXI.
 
 ---
 

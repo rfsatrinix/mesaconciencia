@@ -8,7 +8,7 @@ date: 2026-06-29
 
 El cromo debe su nombre al griego *chroma* (color). En 1798, el químico Louis-Nicolas Vauquelin extrajo el elemento de la crocoíta —un mineral rojo anaranjado hallado en los Urales— y quedó tan impresionado por la variedad de colores de sus compuestos que no dudó en el nombre: el rojo de la crocoíta, el amarillo del cromato de plomo, el verde oscuro del óxido de cromo, el naranja de sus dicromatos. El verde de las esmeraldas procede de impurezas de Cr³⁺ en el berilo; el brillo del acero inoxidable y de los objetos cromados, también del cromo.
 
-En la [nutrición](/nutricion) humana, la historia del cromo es más complicada que su química. Es un [oligoelemento](/nutricion/micronutrientes/oligoelementos) que durante décadas se comercializó como esencial para el metabolismo de la glucosa y la regulación de la insulina, y que en 2014 fue objeto de una revisión exhaustiva por parte de la Autoridad Europea de Seguridad Alimentaria (EFSA). La conclusión fue inusual: los datos disponibles eran insuficientes para determinar si el cromo trivalente —Cr(III), la forma que se encuentra en los alimentos— es o no es esencial para los humanos. Décadas de investigación y millones de cápsulas vendidas, y la respuesta definitiva no había llegado.
+En la [nutrición](/nutricion) humana, la historia del cromo es más complicada que su química. Es un [oligoelemento](/nutricion/micronutrientes/oligoelementos) que durante décadas se comercializó como esencial para el metabolismo de la glucosa y la regulación de la insulina, y que en 2014 fue objeto de una revisión exhaustiva por parte de la Autoridad Europea de Seguridad Alimentaria (EFSA). La conclusión fue inusual: los datos disponibles eran insuficientes para determinar si el cromo trivalente —Cr(III), la forma presente en la dieta— es o no es esencial para los humanos. Décadas de investigación y millones de cápsulas vendidas, y la respuesta definitiva no había llegado.
 
 ## ¿Cuánto cromo necesitas?
 
@@ -39,11 +39,11 @@ La transferrina también transporta el Cr(III): los dos minerales compiten por l
 
 La cromodulina ha sido caracterizada parcialmente, pero su relevancia fisiológica a concentraciones de cromo reales en tejido humano sigue siendo discutida. Los estudios que respaldaron el mecanismo usaban concentraciones de cromo muy superiores a las que se detectan en células humanas en condiciones dietéticas normales. La EFSA, al revisar la evidencia en 2014, consideró la hipótesis biológicamente plausible pero no suficientemente respaldada como para afirmar que el cromo cumple una función esencial demostrada.
 
-Hipótesis plausible. Evidencia demostrada: ninguna.
+> Hipótesis plausible. Evidencia demostrada: ninguna.
 
 ## Fuentes de cromo en la dieta
 
-El cromo está distribuido de forma irregular en los alimentos. Los valores analíticos varían considerablemente entre estudios por dos razones técnicas: la contaminación de las muestras con cromo procedente del acero inoxidable de los equipos de laboratorio, y la variabilidad del contenido en cromo de los suelos donde se cultivan los alimentos, que hace que el mismo vegetal pueda tener concentraciones muy distintas según su origen.
+El cromo está distribuido de forma irregular en la dieta. Los valores analíticos varían considerablemente entre estudios por dos razones técnicas: la contaminación de las muestras con cromo procedente del acero inoxidable de los equipos de laboratorio, y la variabilidad del contenido en cromo de los suelos donde se cultivan esas plantas, que hace que el mismo vegetal pueda tener concentraciones muy distintas según su origen.
 
 | Alimento | Cromo por 100 g (aproximado) |
 |---|---|
@@ -55,14 +55,14 @@ El cromo está distribuido de forma irregular en los alimentos. Los valores anal
 | Champiñones | ~10 µg |
 | Nueces | ~5–8 µg |
 | Pan integral | ~2–5 µg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~3 µg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~3 µg |
 | Patata (con piel, cocida) | ~2–3 µg |
 
 *Fuente: USDA FoodData Central y fuentes diversas. Los valores de cromo presentan mayor variabilidad analítica que los de otros [minerales](/nutricion/micronutrientes/minerales).*
 
-Una fuente que pocas guías nutricionales mencionan son los **utensilios de acero inoxidable**: cocinar alimentos ácidos —salsa de tomate, guisos con vino, salsas con zumo de limón— en ollas o sartenes de acero inoxidable libera cantidades medibles de Cr(III) al alimento. No representa riesgo a esas concentraciones, pero sí una aportación real que varía con el tipo de cocinado sin que quien cocina lo sepa.
+Una fuente que pocas guías nutricionales mencionan son los **utensilios de acero inoxidable**: cocinar con ingredientes ácidos —salsa de tomate, guisos con vino, salsas con zumo de limón— en ollas o sartenes de acero inoxidable libera cantidades medibles de Cr(III) al alimento. No representa riesgo a esas concentraciones, pero sí una aportación real que varía con el tipo de cocinado sin que quien cocina lo sepa.
 
-Tu cuerpo absorbe muy poco Cr(III) de la dieta: entre el 0,5 y el 2 % de la ingesta, y esa absorción disminuye aún más en presencia de los compuestos presentes en cereales y legumbres que se unen a los minerales en el intestino impidiendo su paso a la sangre —los **fitatos**—, el [calcio](/nutricion/micronutrientes/minerales/calcio) y el [zinc](/nutricion/micronutrientes/oligoelementos/zinc). La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) puede mejorar la absorción al mantener el cromo en una forma más soluble. Un subproducto del metabolismo del [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) —el **ácido picolínico**— también la facilita, lo que explica la elección del picolinato como sal para los suplementos de cromo.
+Tu cuerpo absorbe muy poco Cr(III) de la dieta: entre el 0,5 y el 2 % de la ingesta, y esa absorción disminuye aún más en presencia de los compuestos presentes en cereales y [legumbres](/alimentos/legumbres) que se unen a los minerales en el intestino impidiendo su paso a la sangre —los **fitatos**—, el [calcio](/nutricion/micronutrientes/minerales/calcio) y el [zinc](/nutricion/micronutrientes/oligoelementos/zinc). La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) puede mejorar la absorción al mantener el cromo en una forma más soluble. Un subproducto del metabolismo del [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) —el **ácido picolínico**— también la facilita, lo que explica la elección del picolinato como sal para los suplementos de cromo.
 
 ## El cromo y la insulina: lo que los suplementos prometían y la evidencia encontró
 
@@ -78,7 +78,7 @@ En 2014, la EFSA añadió la capa final: no solo los suplementos carecían de ba
 
 El cromo existe en varios estados de oxidación, pero dos dominan la discusión sanitaria: Cr(III) y Cr(VI).
 
-El **Cr(III)** —trivalente— es la forma que se encuentra en los alimentos y en los suplementos. Es poco reactivo, pobremente absorbido y relativamente no tóxico a las concentraciones que se ingieren con la dieta. Tu organismo lo excreta eficientemente por vía urinaria, y no se ha establecido ningún nivel máximo tolerable para su ingesta porque la toxicidad por Cr(III) dietético no ha podido documentarse en condiciones normales.
+El **Cr(III)** —trivalente— es la forma que se encuentra en la dieta y en los suplementos. Es poco reactivo, pobremente absorbido y relativamente no tóxico a las concentraciones que se ingieren con la dieta. Tu organismo lo excreta eficientemente por vía urinaria, y no se ha establecido ningún nivel máximo tolerable para su ingesta porque la toxicidad por Cr(III) dietético no ha podido documentarse en condiciones normales.
 
 El **Cr(VI)** —hexavalente— es un oxidante potente que se genera en procesos industriales: el cromado electrolítico, el curtido del cuero con sales de cromo, la fabricación de pigmentos de cromato, el tratamiento de maderas con preservantes y, hasta mediados del siglo XX, el uso de dicromato como inhibidor de corrosión en circuitos de refrigeración industrial. El Cr(VI) puede penetrar en las células con facilidad —usa los canales de transporte del sulfato— y una vez dentro es reducido a Cr(III) generando intermediarios reactivos que dañan el ADN. La IARC lo clasifica en la categoría de mayor certeza sobre el riesgo cancerígeno en humanos —el **Grupo 1**— por exposición ocupacional por inhalación: el cáncer de pulmón y de las cavidades nasales en trabajadores de la industria del cromo lleva décadas documentado.
 
@@ -90,11 +90,13 @@ El cromo del brócoli y el del agua de Hinkley no son la misma amenaza. El eleme
 
 Los primeros casos documentados de deficiencia de cromo en humanos se produjeron en los años setenta y ochenta en pacientes que recibían nutrición parenteral total (NPT) sin aporte de cromo durante periodos prolongados. Desarrollaban dificultad para metabolizar correctamente la glucosa —a veces grave, con necesidad de insulina—, pérdida de peso y daño en los nervios fuera del cerebro y la médula espinal que causa entumecimiento y debilidad en las extremidades —la **neuropatía periférica**—, síntomas que revertían al añadir cromo a la solución parenteral.
 
-Esos casos se convirtieron en la prueba más citada de la esencialidad del cromo. Décadas después, la lectura es más cautelosa. Las soluciones de NPT de aquella época tenían niveles de cromo difíciles de controlar: la contaminación procedente de los materiales y la variabilidad en las formulaciones hacen que los niveles reales de cromo que recibían esos pacientes sean inciertos. Interpretar la respuesta al suplemento como evidencia de esencialidad en una situación de nutrición artificial extrema no equivale a demostrar que una persona que come alimentos variados necesita un aporte dietético específico de cromo.
+Esos casos se convirtieron en la prueba más citada de la esencialidad del cromo. Décadas después, la lectura es más cautelosa. Las soluciones de NPT de aquella época tenían niveles de cromo difíciles de controlar: la contaminación procedente de los materiales y la variabilidad en las formulaciones hacen que los niveles reales de cromo que recibían esos pacientes sean inciertos. Interpretar la respuesta al suplemento como evidencia de esencialidad en una situación de nutrición artificial extrema no equivale a demostrar que una persona con alimentación variada necesita un aporte dietético específico de cromo.
 
-Ningún caso clínico bien documentado de deficiencia de cromo por restricción dietética en una persona con alimentación variada ha sido publicado en la literatura científica. El cromo está presente en trazas en una cantidad enorme de alimentos —incluidos los cocinados en utensilios de acero inoxidable— y las necesidades propuestas son tan pequeñas que su cobertura involuntaria parece ser la norma.
+Ningún caso clínico bien documentado de deficiencia de cromo por restricción dietética en una persona con alimentación variada ha sido publicado en la literatura científica. El cromo está presente en trazas en una gran variedad de productos —incluidos los cocinados en utensilios de acero inoxidable— y las necesidades propuestas son tan pequeñas que su cobertura involuntaria parece ser la norma.
 
-La deficiencia dietética de cromo no tiene casos documentados. El exceso industrial de Cr(VI), en cambio, tiene un acuerdo judicial de 333 millones de dólares y una película de Julia Roberts.
+Para mí, el cromo es el caso más instructivo de lo que ocurre cuando el mercado se adelanta décadas a la ciencia: un negocio multimillonario construido antes de que alguien pudiera confirmar siquiera que el elemento era esencial para los humanos.
+
+> La deficiencia dietética de cromo no tiene casos documentados. El exceso industrial de Cr(VI), en cambio, tiene un acuerdo judicial de 333 millones de dólares y una película de Julia Roberts.
 
 ---
 

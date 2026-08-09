@@ -20,11 +20,11 @@ Existe también un pigmento vegetal que el intestino y el hígado convierten en 
 
 **Sistema inmunitario.** La vitamina A regula la producción y maduración de los dos tipos principales de células del sistema inmunitario adaptativo: los que coordinan la respuesta inmune —los **linfocitos T**— y los que producen anticuerpos —los **linfocitos B**—. Regula también la función de barrera de las mucosas como primera línea de defensa. La deficiencia de vitamina A aumenta la mortalidad por infecciones respiratorias e intestinales, especialmente en niños pequeños.
 
-Cuatro funciones sin sustituto: ninguna otra vitamina hace a la vez lo que la vitamina A hace en la retina, en el núcleo celular, en las mucosas y en el sistema inmunitario.
+> Cuatro funciones sin sustituto: ninguna otra vitamina hace a la vez lo que la vitamina A hace en la retina, en el núcleo celular, en las mucosas y en el sistema inmunitario.
 
 ## ¿Cuánta vitamina A necesitas?
 
-La vitamina A se mide en microgramos de equivalentes de actividad retinol (μg RAE), una unidad que integra el retinol preformado y los carotenoides provitamínicos en una escala común: 1 μg RAE equivale a 1 μg de retinol, o a 12 μg de beta-caroteno de alimentos, o a 24 μg de otros carotenoides provitamínicos.
+La vitamina A se mide en microgramos de equivalentes de actividad retinol (μg RAE), una unidad que integra el retinol preformado y los carotenoides provitamínicos en una escala común: 1 μg RAE equivale a 1 μg de retinol, o a 12 μg de beta-caroteno de origen vegetal, o a 24 μg de otros carotenoides provitamínicos.
 
 | Grupo | Ingesta de referencia (EFSA) |
 |---|---|
@@ -41,7 +41,7 @@ Las necesidades durante la lactancia son significativamente más altas porque la
 
 ## Fuentes alimentarias de vitamina A
 
-El retinol se encuentra en alimentos de origen animal; el beta-caroteno, en vegetales de color naranja, amarillo y verde oscuro:
+El retinol se encuentra en fuentes de origen animal; el beta-caroteno, en vegetales de color naranja, amarillo y verde oscuro:
 
 | Alimento | μg RAE por 100 g | Forma |
 |---|---|---|
@@ -64,13 +64,13 @@ El retinol se encuentra en alimentos de origen animal; el beta-caroteno, en vege
 
 El retinol se absorbe con una eficiencia alta y relativamente estable: entre el 70 y el 90 %. La del beta-caroteno es muy variable —oscila entre el 5 y el 65 %— en función de tres factores:
 
-**Procesado de los alimentos.** Cocinar y triturar las verduras rompe las paredes celulares vegetales y libera el beta-caroteno atrapado en las estructuras de almacenamiento, aumentando la cantidad disponible para la absorción. La zanahoria cocida y triturada aporta más beta-caroteno aprovechable que la cruda entera.
+**Cocción y triturado.** Cocinar y triturar las verduras rompe las paredes celulares vegetales y libera el beta-caroteno atrapado en las estructuras de almacenamiento, aumentando la cantidad disponible para la absorción. La zanahoria cocida y triturada aporta más beta-caroteno aprovechable que la cruda entera.
 
 **Presencia de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en la misma comida.** Tanto el retinol como el beta-caroteno se disuelven en grasa pero no en medios acuosos —son **liposolubles**— y se incorporan a las partículas esféricas formadas por ácidos biliares que atrapan las moléculas lipídicas y las transportan hacia las células intestinales —las **micelas**—. Si comes una ensalada de zanahoria sin aceite, aprovechas muy poco del beta-caroteno que contiene.
 
 **Eficiencia de conversión individual.** La enzima que convierte el beta-caroteno en retinol varía en actividad según la genética de cada persona. Algunas personas convierten el beta-caroteno con mucha eficiencia; otras, con muy poca. En estas últimas, depender exclusivamente de fuentes vegetales para cubrir tu vitamina A puede resultar insuficiente incluso con una dieta variada.
 
-La conversión de beta-caroteno es tan variable de una persona a otra que dos dietas idénticas pueden producir estados de vitamina A muy distintos.
+> La conversión de beta-caroteno es tan variable de una persona a otra que dos dietas idénticas pueden producir estados de vitamina A muy distintos.
 
 ## ¿Qué ocurre si falta vitamina A?
 
@@ -80,11 +80,11 @@ La OMS estima que la deficiencia de vitamina A causa entre 250 000 y 500 000 cas
 
 En Europa occidental, la deficiencia grave es poco frecuente. El déficit moderado puede aparecer en situaciones concretas:
 
-**Personas con dietas muy restrictivas** sin alimentos de origen animal ni vegetales de colores. La ingesta de vitamina A puede caer por debajo de los mínimos durante meses sin síntomas evidentes.
+**Personas con dietas muy restrictivas** que excluyen fuentes de origen animal y vegetales de colores: la ingesta de vitamina A puede caer por debajo de los mínimos durante meses sin síntomas evidentes.
 
-**Personas con enfermedades que deterioran la absorción de lípidos** —enfermedad de Crohn, pancreatitis crónica, enfermedad celíaca no tratada—. Como la vitamina A es liposoluble, cualquier condición que reduzca la absorción de grasas arrastra con ella la absorción de vitamina A.
+**Personas con malabsorción de lípidos** —Crohn, pancreatitis crónica, celíaca no tratada—: la vitamina A es liposoluble, así que cualquier malabsorción de grasas arrastra consigo la absorción de vitamina A.
 
-**Niños con desnutrición severa** en países de renta baja. El déficit de vitamina A agrava la mortalidad por sarampión, diarrea y neumonía.
+**Niños con desnutrición severa** en países de renta baja: el déficit de vitamina A agrava la mortalidad por sarampión, diarrea y neumonía.
 
 ## La vitamina A en exceso: el riesgo del retinol
 
@@ -100,8 +100,12 @@ El riesgo más grave es durante el embarazo. El ácido retinoico controla direct
 
 La EFSA establece el nivel máximo tolerable en 3000 μg de retinol/día para adultos. La recomendación durante el embarazo es más conservadora: evitar los suplementos con retinol preformado salvo indicación médica explícita, porque la ventana crítica del desarrollo neurológico y cardíaco del embrión se abre antes de que la mayoría de las mujeres sepa que está embarazada.
 
+Para mí, el riesgo teratogénico del retinol es el más infraseñalizado del mercado de suplementos: la ventana de daño se abre antes de que la mayoría de las mujeres sepan que están embarazadas, y los envases rara vez lo advierten con la claridad que merecen.
+
 El beta-caroteno no puede intoxicarte aunque comas zanahorias hasta volverte amarilla: tu organismo convierte solo lo que necesita. El retinol preformado puede dañar irreversiblemente a un embrión en semanas en que la mayoría de las mujeres aún no saben que están embarazadas. La misma vitamina, dos formas, perfiles de riesgo opuestos.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4028" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin A. EFSA Journal. 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4028" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin A. EFSA Journal. 2015.</a>

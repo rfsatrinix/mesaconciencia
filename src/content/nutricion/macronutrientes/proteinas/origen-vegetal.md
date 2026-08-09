@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-03
 ---
 
-Las [proteínas](/nutricion/macronutrientes/proteinas) de origen vegetal son las que proceden de legumbres, cereales, frutos secos, semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales). Esa etiqueta describe una característica bioquímica real, pero **no significa que sean insuficientes** para cubrir tus necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
+Las [proteínas](/nutricion/macronutrientes/proteinas) de origen vegetal son las que proceden de [legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos), semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales). Esa etiqueta describe una característica bioquímica real, pero **no significa que sean insuficientes** para cubrir tus necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
 
 ## El concepto de aminoácido limitante
 
@@ -23,7 +23,7 @@ Lentejas y arroz se complementan porque las lentejas son ricas en lisina (lo que
 
 Tres fuentes vegetales son excepciones con perfil completo:
 
-**Soja.** Es la única legumbre con una calidad proteica comparable a la de las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal): cubre todos los aminoácidos esenciales en proporciones adecuadas.
+**[Soja](/alimentos/legumbres/soja).** Es la única legumbre con una calidad proteica comparable a la de las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal): cubre todos los aminoácidos esenciales en proporciones adecuadas.
 
 **Quinoa.** A diferencia del trigo o el arroz, esta semilla no procede de un pasto sino de una planta botánicamente distinta —un **pseudocereal**—, pero su perfil de aminoácidos esenciales es igualmente completo.
 
@@ -63,7 +63,7 @@ Lo que sí importa:
 
 **Cantidad total.** Las proteínas vegetales suelen tener menor concentración por 100 g (salvo la soja). Si no consumes proteína animal, necesitas prestar atención a las cantidades totales.
 
-**Digestibilidad.** Algunos alimentos vegetales tienen una fracción del nutriente que tu organismo llega a absorber y utilizar —la **biodisponibilidad**— más baja que la de la proteína animal. El remojo y la cocción de legumbres, la fermentación (tempeh, miso) y la germinación la mejoran notablemente.
+**Digestibilidad.** Algunas fuentes de proteína vegetal tienen una fracción del nutriente que tu organismo llega a absorber y utilizar —la **biodisponibilidad**— más baja que la de la proteína animal. El remojo y la cocción de legumbres, la fermentación (tempeh, miso) y la germinación la mejoran notablemente.
 
 Si sigues una dieta estrictamente vegetal, no necesitas calcular aminoácidos: basta con incluir legumbres a diario, combinarlas con cereales integrales y no basar tu dieta en un solo alimento vegetal.
 
@@ -108,7 +108,9 @@ Para un adulto sano con necesidades de ~0,83 g/kg/día (EFSA), una dieta vegana 
 
 Los suplementos de proteína vegetal (proteína de guisante, arroz, soja, cáñamo) tienen una biodisponibilidad inferior a la de las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal), especialmente comparada con la del suero de leche (whey), pero son una herramienta válida para deportistas o personas con necesidades elevadas que siguen una dieta basada en plantas. La combinación de proteína de guisante y arroz ofrece un perfil de aminoácidos más completo que cada una por separado, porque sus aminoácidos limitantes se compensan mutuamente.
 
-La etiqueta "incompleta" describe una propiedad de las fuentes individuales, no de la dieta en su conjunto: tu organismo no evalúa cada comida por separado, sino lo que acumula a lo largo del día.
+Creo que el debate sobre si la proteína vegetal «es suficiente» está mal planteado desde el principio: la pregunta real es si la dieta en su conjunto cubre los aminoácidos esenciales en la cantidad adecuada. Y la respuesta, con legumbres, cereales integrales y soja presentes a lo largo del día, es sí.
+
+> La etiqueta "incompleta" describe una propiedad de las fuentes individuales, no de la dieta en su conjunto: tu organismo no evalúa cada comida por separado, sino lo que acumula a lo largo del día.
 
 ---
 

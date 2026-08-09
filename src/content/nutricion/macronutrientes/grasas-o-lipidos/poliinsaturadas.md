@@ -30,7 +30,7 @@ Los ácidos grasos omega-6 forman parte de la estructura de las paredes que deli
 |---|---|
 | Aceite de girasol | 66 g |
 | Aceite de maíz | 54 g |
-| Aceite de soja | 51 g |
+| [Aceite de soja](/alimentos/legumbres/soja) | 51 g |
 | Nueces | 38 g |
 | Semillas de girasol | 23 g |
 | Almendras | 12 g |
@@ -70,6 +70,8 @@ Confiar solo en el ALA vegetal para obtener DHA es apostar por una conversión d
 - Es crítico para el desarrollo del cerebro del feto y durante los primeros años de vida.
 - Influye en la fluidez de las membranas de tus neuronas, lo que afecta el paso de señales de una neurona a otra —la **sinapsis**—.
 - La leche materna es rica en DHA para cubrir las necesidades del lactante.
+
+> El DHA no es un suplemento para deportistas: es el lípido que forma la mayor parte de la grasa de tu cerebro y la práctica totalidad de la membrana de tus fotorreceptores.
 
 ### Fuentes de omega-3
 
@@ -124,7 +126,9 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 - Reduce el uso de **aceites de girasol y maíz** en favor del aceite de oliva.
 - Si sigues una dieta vegetariana o vegana, valora tomar un suplemento de **EPA+DHA de microalgas**.
 
-En la mayoría de dietas occidentales, el cambio con mayor impacto es aumentar el pescado azul semanal y sustituir los aceites industriales de semillas por aceite de oliva. Con esos dos cambios vas de 15:1 a algo que tu metabolismo reconoce.
+Para mí, el cambio con mayor impacto y menor esfuerzo es añadir sardinas o caballa dos veces por semana: cuestan poco, tienen los mejores ratios de EPA+DHA de los pescados comunes, y el efecto en el ratio omega-6:omega-3 es inmediato.
+
+En la mayoría de dietas occidentales, el otro cambio decisivo es sustituir los aceites industriales de semillas por aceite de oliva. Con esos dos ajustes vas de 15:1 a algo que tu metabolismo reconoce.
 
 ---
 

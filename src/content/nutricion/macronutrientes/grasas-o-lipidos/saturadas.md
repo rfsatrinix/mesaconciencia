@@ -50,7 +50,7 @@ Sustituir grasas saturadas no siempre mejora tu resultado cardiovascular. Los en
 | AGS → grasas monoinsaturadas (AOVE) | Beneficio moderado |
 | AGS → [grasas poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) (omega-3/6) | Beneficio más consistente |
 
-Lo que reduces importa menos que con qué lo reemplazas.
+> Lo que reduces importa menos que con qué lo reemplazas.
 
 ## ¿Cuántas grasas saturadas puedes consumir?
 
@@ -85,13 +85,13 @@ En uso ocasional o en contextos concretos (repostería, cocina asiática), no es
 
 ## Cómo enfocar las grasas saturadas en tu dieta
 
-No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en alimentos nutritivos como los lácteos enteros, los huevos y las carnes no procesadas.
+No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en lácteos enteros, huevos y carnes no procesadas. Siendo honesta, creo que el queso y los huevos recibieron mala prensa durante décadas sin merecerla: el problema real nunca estuvo en ellos, sino en los ultraprocesados con aceite de palma que nadie cuestionaba.
 
-El problema surge cuando desplazan a las grasas insaturadas en tu dieta, o cuando van de la mano de carnes procesadas —embutidos, bacon— que añaden [sodio](/nutricion/micronutrientes/minerales/sodio), nitratos y otros compuestos de riesgo.
+El problema surge cuando las saturadas desplazan a las grasas insaturadas en tu dieta, o cuando van de la mano de carnes procesadas —embutidos, bacon— que añaden [sodio](/nutricion/micronutrientes/minerales/sodio), nitratos y otros compuestos de riesgo.
 
 Tu prioridad es sustituir las fuentes de saturadas de peor calidad —ultraprocesados, aceite de palma, embutidos— por grasas mono y [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), no obsesionarte con eliminar el queso o el huevo.
 
-El problema de las grasas saturadas no es el queso ni el huevo: es el patrón de tu dieta en que las saturadas desplazan sistemáticamente a las insaturadas.
+> El problema de las grasas saturadas no es el queso ni el huevo: es el patrón de tu dieta en que las saturadas desplazan sistemáticamente a las insaturadas.
 
 ---
 

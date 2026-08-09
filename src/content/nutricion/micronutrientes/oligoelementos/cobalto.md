@@ -28,11 +28,11 @@ Dos formas de B12 que actúan como moléculas auxiliares que las enzimas necesit
 
 En ambas reacciones, el cobalto actúa como andamiaje y actor: forma el enlace cobalto-carbono que es uno de los enlaces organometálicos más inusuales de la bioquímica, y cuya rotura dejando un electrón libre en cada fragmento —la **ruptura homolítica**— genera el radical que permite la catálisis.
 
-Dos reacciones, cero sustitutos.
+> Dos reacciones, cero sustitutos.
 
 ## Fuentes de cobalto en la dieta
 
-El cobalto dietético en una forma utilizable para los humanos es, en la práctica, el cobalto de la vitamina B12. No existe cobalto libre biodisponible en los alimentos de consumo habitual que el organismo pueda incorporar a sus enzimas. La tabla de fuentes de cobalto es, por tanto, la tabla de fuentes de B12:
+El cobalto dietético en una forma utilizable para los humanos es, en la práctica, el cobalto de la vitamina B12. No hay ninguna fuente dietética de cobalto libre que tu organismo pueda incorporar a sus enzimas. La tabla de fuentes de cobalto es, por tanto, la tabla de fuentes de B12:
 
 | Alimento | Vitamina B12 por 100 g |
 |---|---|
@@ -48,7 +48,7 @@ El cobalto dietético en una forma utilizable para los humanos es, en la prácti
 
 *Fuente: USDA FoodData Central. Valores expresados como vitamina B12 por ser la forma de cobalto biodisponible para humanos.*
 
-Los alimentos de origen vegetal no contienen B12 ni, por tanto, cobalto en forma aprovechable. Algunas algas y alimentos fermentados contienen análogos de B12 que no son biológicamente activos en humanos —o que incluso compiten con la B12 real—, por lo que no se consideran fuentes válidas.
+Los productos de origen vegetal no contienen B12 ni, por tanto, cobalto en forma aprovechable. Algunas algas y productos fermentados contienen análogos de B12 que no son biológicamente activos en humanos —o que incluso compiten con la B12 real—, por lo que no se consideran fuentes válidas.
 
 ## Por qué los humanos no sintetizamos vitamina B12
 
@@ -66,11 +66,11 @@ El cobalto inorgánico en concentraciones elevadas es tóxico. Los mecanismos de
 
 **La cardiomiopatía de los bebedores de cerveza** — A mediados de los años sesenta, varias cervecerías de Quebec (Canadá) y Bélgica empezaron a añadir sulfato de cobalto al proceso de elaboración como estabilizador de la espuma. En pocos meses aparecieron casos de insuficiencia cardíaca grave con acumulación de líquido en el saco que envuelve el corazón —el **derrame pericárdico**— y una mortalidad del 40–50 % entre los afectados, todos ellos grandes consumidores de esa cerveza en particular. La epidemia se resolvió al rastrear la causa y prohibir el uso de cobalto en la elaboración.
 
-Lo que fijaba la espuma mataba el corazón.
+> Lo que fijaba la espuma mataba el corazón.
 
 **El mecanismo de la policitemia y el HIF** — Una de las manifestaciones de la toxicidad por cobalto es la proliferación excesiva de glóbulos rojos —la **policitemia**—. El mecanismo explica por qué: el cobalto inhibe las enzimas que en condiciones normales marcan para degradación al principal activador genético de la respuesta a la falta de oxígeno —las **prolil hidroxilasas de dominio** (PHD)—. Ese activador —la proteína **HIF-1α**— se estabiliza cuando las PHD están bloqueadas y dispara la producción de eritropoyetina (EPO), la hormona que ordena a la médula ósea fabricar más glóbulos rojos. Es el mismo mecanismo que explotan los inhibidores de PHD de nueva generación —roxadustat, vadadustat— aprobados para la anemia de la enfermedad renal crónica.
 
-La toxicidad crónica del cobalto tiene así el mismo mecanismo molecular que un grupo de fármacos innovadores.
+> La toxicidad crónica del cobalto tiene así el mismo mecanismo molecular que un grupo de fármacos innovadores.
 
 **Exposición ocupacional** — Los trabajadores expuestos al polvo de metal duro (mezcla de carburo de tungsteno y cobalto) pueden desarrollar una enfermedad pulmonar causada por la inhalación crónica de ese polvo —una **neumoconiosis**— específica llamada **enfermedad del metal duro**, caracterizada por una cicatrización progresiva del tejido pulmonar que reduce permanentemente su capacidad —la **fibrosis pulmonar**— y, en fases avanzadas, la aparición de células gigantes al microscopio características de esta enfermedad. Es una enfermedad profesional reconocida en mineros, fresadores y trabajadores de la industria aeroespacial.
 
@@ -81,6 +81,8 @@ La deficiencia de cobalto en humanos es, en la práctica, déficit de vitamina B
 Los grupos con mayor riesgo de déficit son los mismos que en el déficit de B12: personas que siguen dietas veganas estrictas sin suplementación, personas mayores con una inflamación crónica que deteriora la mucosa del estómago y reduce la producción del factor intrínseco —la **gastritis atrófica**—, pacientes con cirugía bariátrica o resección del íleon terminal, y pacientes con una enfermedad autoinmune que destruye las células parietales gástricas productoras del factor intrínseco —la **anemia perniciosa**—.
 
 La deficiencia de cobalto como mineral aislado —sin relación con la B12— se produce en la naturaleza en rumiantes que pastorean en suelos deficientes en cobalto. En esas condiciones, los animales desarrollan un cuadro llamado «enfermedad del marchitamiento» o *pine disease* en la literatura veterinaria: pérdida de peso, anemia, deterioro del pelaje y muerte si no se corrige. En humanos, ese escenario no ocurre porque no podemos usar el cobalto inorgánico para sintetizar B12 propios.
+
+Creo que ningún otro oligoelemento ilustra tan bien como el cobalto que el cuerpo humano no trabaja con elementos, sino con las moléculas que los contienen.
 
 El cobalto que necesitas viene siempre empaquetado como B12: no existe una dosis de referencia para el elemento, sino para la molécula que lo contiene, y esa diferencia lo dice todo sobre cómo el metabolismo humano hace suya la química de los metales de transición.
 

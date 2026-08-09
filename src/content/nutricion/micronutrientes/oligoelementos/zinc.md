@@ -8,7 +8,7 @@ date: 2026-07-03
 
 El zinc es el segundo [oligoelemento](/nutricion/micronutrientes/oligoelementos) más abundante en el cuerpo humano, después del [hierro](/nutricion/micronutrientes/oligoelementos/hierro): aproximadamente dos gramos repartidos en cada tejido y cada célula. Pero la característica que lo hace bioquímicamente singular no es la cantidad. Es que el zinc existe en tu organismo en una única forma química estable —con carga doble positiva, Zn²⁺— que no cede ni recibe electrones de otras moléculas.
 
-El zinc no hace redox.
+> El zinc no hace redox.
 
 El [cobre](/nutricion/micronutrientes/oligoelementos/cobre), el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y el [manganeso](/nutricion/micronutrientes/oligoelementos/manganeso) son indispensables precisamente porque cambian de estado de oxidación, pero ese mismo dinamismo genera radicales libres como subproducto inevitable. El zinc no. Puede integrarse en centros activos enzimáticos y en estructuras proteicas sin los riesgos oxidativos que acompañan a los metales redox. El resultado es que el zinc se ha convertido en el catalizador universal, en el andamiaje estructural y en el regulador intracelular de una fracción enorme del conjunto completo de [proteínas](/nutricion/macronutrientes/proteinas) que tu genoma es capaz de producir —el **proteoma** humano—: está presente en más de 700 proteínas distintas, de las cuales casi 300 son enzimas de todas las clases principales.
 
@@ -42,7 +42,7 @@ Ningún otro oligoelemento afecta al sistema inmunitario en tantos puntos simult
 
 El efecto más documentado y más específico es sobre la maduración de los linfocitos T. Un péptido de nueve aminoácidos secretado por las células epiteliales del timo —la **timulina**— es inactivo sin zinc: el metal es el cofactor que le da forma funcional. Sin timulina activa, la diferenciación de los precursores de linfocitos T en el timo se deteriora. El encogimiento del timo —la glándula donde maduran los linfocitos T— es uno de los hallazgos más constantes en la deficiencia de zinc experimental, tanto en animales como en humanos. Quienes tienen déficit de zinc presentan una reducción del número de linfocitos circulantes en sangre —la **linfopenia**—, disminución de las reacciones inmunes que tardan 24–72 horas en desarrollarse y son características de la inmunidad celular —la **hipersensibilidad retardada**— e inmunidad celular comprometida con escasa o nula afectación de la inmunidad que depende de anticuerpos producidos por los linfocitos B —la **inmunidad humoral**—.
 
-La deficiencia de zinc no produce una infección específica. Compromete todas las defensas al mismo tiempo.
+> La deficiencia de zinc no produce una infección específica. Compromete todas las defensas al mismo tiempo.
 
 La deficiencia de zinc también altera la función de los neutrófilos, las células NK y los macrófagos, comprometiendo la primera línea de defensa contra patógenos bacterianos y víricos.
 
@@ -68,13 +68,13 @@ Las ostras son, con diferencia, el alimento más rico en zinc de la naturaleza:
 | Copos de avena | ~3,6 mg |
 | Cangrejos (cocidos) | ~3,5 mg |
 | Queso cheddar | ~3,1 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~1,5 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~1,5 mg |
 | Lentejas cocidas | ~1,3 mg |
 | Pechuga de pollo (cocinada) | ~1,0 mg |
 
 *Fuente: USDA FoodData Central.*
 
-Una sola ostra grande puede aportar más de 10 mg de zinc —la ingesta de referencia diaria completa—. Las carnes rojas, el marisco y los lácteos son fuentes fiables con alta biodisponibilidad (30–40 % de absorción). El zinc de las legumbres, los cereales integrales, los frutos secos y las semillas está sujeto a una restricción crítica: el **fitato** (ácido fítico, inositol hexafosfato).
+Una sola ostra grande puede aportar más de 10 mg de zinc —la ingesta de referencia diaria completa—. Las carnes rojas, el marisco y los lácteos son fuentes fiables con alta biodisponibilidad (30–40 % de absorción). El zinc de las [legumbres](/alimentos/legumbres), los cereales integrales, los [frutos secos](/alimentos/frutos-secos) y las semillas está sujeto a una restricción crítica: el **fitato** (ácido fítico, inositol hexafosfato).
 
 El ácido fítico está almacenado en los granos, las semillas y las legumbres como forma de reserva de [fósforo](/nutricion/micronutrientes/minerales/fosforo). En el intestino, forma con el zinc complejos en los que el fitato atrapa físicamente el ión metálico e impide que las células de la pared intestinal lo absorban —los **quelatos insolubles**—, y hace lo mismo con el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y el [calcio](/nutricion/micronutrientes/minerales/calcio). La fracción de zinc que el intestino puede absorber realmente —la **biodisponibilidad**— cae al 15–20 % en una dieta vegetariana estricta con alta ingesta de fitatos, frente al 30–40 % de una dieta con carne, pescado o lácteos. Las personas que siguen dietas predominantemente vegetales necesitan consumir aproximadamente un 50 % más de zinc que los omnívoros para cubrir sus necesidades reales.
 
@@ -106,7 +106,9 @@ El zinc no es tóxico a las dosis dietéticas habituales. El problema clínico r
 
 El mecanismo de daño es indirecto: el exceso de zinc en las células de la pared intestinal induce la síntesis de una proteína que atrapa metales y tiene mayor afinidad por el cobre que por el propio zinc —la **metalotioneína**—. El cobre queda retenido en el interior de esas células y, cuando se renuevan y se descaman hacia la luz intestinal, el cobre atrapado se pierde por las heces. El resultado es un déficit progresivo de cobre que puede tardar meses en volverse clínicamente evidente: anemia que no responde al hierro, neutropenia y, en casos avanzados, un daño de la médula espinal que afecta la sensibilidad y la coordinación —la **mielopatía**—, con degeneración de las vías que transmiten la sensibilidad táctil fina y el sentido de la posición articular al cerebro —las **columnas posteriores**—, un cuadro idéntico al del déficit de [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12), con el que se ha confundido en repetidas ocasiones.
 
-Este mecanismo, descrito con detalle en el artículo del [cobre](/nutricion/micronutrientes/oligoelementos/cobre), convierte la suplementación de zinc sin seguimiento del cobre plasmático en la causa adquirida más frecuente de neutropenia por déficit de cobre en adultos sin enfermedad digestiva. El mismo mineral que, en dosis de pastilla para el resfriado, puede acortar un catarro en un día, en dosis de suplemento crónico sin control puede agotar el metal que la médula ósea necesita para madurar los glóbulos blancos que ese zinc pretendía proteger.
+Este mecanismo, descrito con detalle en el artículo del [cobre](/nutricion/micronutrientes/oligoelementos/cobre), convierte la suplementación de zinc sin seguimiento del cobre plasmático en la causa adquirida más frecuente de neutropenia por déficit de cobre en adultos sin enfermedad digestiva. Para mí, la historia de Prasad y los pacientes de Shiraz es uno de los descubrimientos más llamativos de la medicina clínica: hombres de 21 años con cuerpo de niño de 10, en una zona concreta, porque su pan no tenía levadura. Una diferencia de proceso culinario que marcaba la diferencia entre crecer y no crecer.
+
+El mismo mineral que, en dosis de pastilla para el resfriado, puede acortar un catarro en un día, en dosis de suplemento crónico sin control puede agotar el metal que la médula ósea necesita para madurar los glóbulos blancos que ese zinc pretendía proteger.
 
 ---
 

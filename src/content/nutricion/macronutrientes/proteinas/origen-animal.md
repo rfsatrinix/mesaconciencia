@@ -36,7 +36,7 @@ El huevo entero es históricamente el patrón de referencia para medir la calida
 | Clara de huevo cocida | 11 g |
 | Huevo entero cocido | 13 g |
 
-Si consumes solo claras, la ganancia en proteína respecto al huevo entero es mínima, pero pierdes casi todos esos micronutrientes.
+> Si consumes solo claras, la ganancia en proteína respecto al huevo entero es mínima, pero pierdes casi todos esos micronutrientes.
 
 ## Carnes
 
@@ -89,7 +89,7 @@ La fracción mayoritaria —cerca del 80 % de la proteína de la leche— se dig
 
 El 20 % restante se digiere rápidamente y contiene una alta concentración del aminoácido que activa directamente la señal de síntesis de proteína muscular —la **[leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina)**—. Es la fracción más estudiada para la recuperación postentrenamiento: la **proteína de suero** (whey).
 
-Dos fracciones, dos velocidades, dos momentos de uso: la caseína y el suero no son intercambiables.
+> Dos fracciones, dos velocidades, dos momentos de uso: la caseína y el suero no son intercambiables.
 
 Principales fuentes lácteas y su contenido proteico:
 
@@ -105,9 +105,9 @@ Principales fuentes lácteas y su contenido proteico:
 
 Las guías de salud no fijan un límite absoluto para la proteína animal no procesada. Lo que sí muestra la evidencia es que **una dieta que combine fuentes animales y vegetales** se asocia con mejores resultados de salud a largo plazo que una dieta basada exclusivamente en proteína animal, en particular cuando esta proviene mayoritariamente de carnes rojas y procesadas.
 
-La EFSA no distingue entre proteína de origen animal y vegetal en sus recomendaciones (0,83 g/kg/día para adultos sanos): la cantidad importa independientemente del origen. Lo que sí diferencia la investigación es el tipo de fuente animal —las carnes no procesadas tienen un perfil de riesgo muy distinto al de los embutidos, aunque ambas proporcionen proteína de alta calidad.
+La EFSA no distingue entre proteína de origen animal y vegetal en sus recomendaciones (0,83 g/kg/día para adultos sanos): la cantidad importa independientemente del origen. Lo que sí diferencia la investigación es el tipo de fuente animal —las carnes no procesadas tienen un perfil de riesgo muy distinto al de los embutidos, aunque ambas proporcionen proteína de alta calidad. Para mí, esa distinción importa más que cualquier debate sobre proteína animal frente a vegetal: no es lo mismo un filete de caballa que una loncha de fuet, aunque ambos entren en la misma categoría de la pirámide.
 
-La fuente importa tanto como la cantidad: un filete de salmón y una loncha de mortadela aportan proteína, pero no aportan lo mismo.
+> La fuente importa tanto como la cantidad: un filete de salmón y una loncha de mortadela aportan proteína, pero no aportan lo mismo.
 
 ---
 

@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El germanio es un metaloide semiconductor que los alimentos y los tejidos humanos contienen en cantidades de trazas —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Ocupa una posición singular entre los cuatro estudiados en esta sección: es el único con una señal de toxicidad documentada de forma inequívoca en personas que tomaron suplementos concentrados, y el único cuya inclusión en esta sección no responde a ninguna evidencia de beneficio sino a que los riesgos reales merecen una exposición honesta. El ajo, algunas setas, el ginseng y los cereales contienen germanio en cantidades de microgramos, y esa exposición dietética no ha generado nunca ningún caso de toxicidad. El problema histórico del germanio no fue la dieta: fueron los suplementos concentrados, que entregaron en cápsulas lo que los alimentos suministran en trazas.
+El germanio es un metaloide semiconductor presente en trazas en la dieta y en los tejidos humanos —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Ocupa una posición singular entre los cuatro estudiados en esta sección: es el único con una señal de toxicidad documentada de forma inequívoca en personas que tomaron suplementos concentrados, y el único cuya inclusión en esta sección no responde a ninguna evidencia de beneficio sino a que los riesgos reales merecen una exposición honesta. El ajo, algunas setas, el ginseng y los cereales contienen germanio en cantidades de microgramos, y esa exposición dietética no ha generado nunca ningún caso de toxicidad. El problema histórico del germanio no fue la dieta: fueron los suplementos concentrados, que entregaron en cápsulas lo que la dieta suministra en trazas.
 
 ## ¿Por qué generó interés el germanio?
 
@@ -22,7 +22,7 @@ El mecanismo de la toxicidad está bien caracterizado: el GeO₂ se absorbe casi
 
 Japón prohibió la comercialización de suplementos de GeO₂ en 1988, antes de que se publicara la serie completa de casos. La FDA estadounidense emitió advertencias sobre el consumo de suplementos de germanio ese mismo año. A pesar de estas medidas, los productos siguieron circulando en otros mercados durante años.
 
-Treinta y un pacientes con insuficiencia renal grave en una sola serie: la señal no podría haber sido más clara.
+> Treinta y un pacientes con insuficiencia renal grave en una sola serie: la señal no podría haber sido más clara.
 
 ## El germanio orgánico: sin eficacia y sin garantía de seguridad
 
@@ -32,7 +32,7 @@ Publicaciones posteriores documentaron también casos de daño renal atribuibles
 
 ## Fuentes alimentarias de germanio
 
-El germanio está presente en pequeñas cantidades en alimentos de origen vegetal, especialmente en los que han atraído interés en la medicina tradicional:
+El germanio se encuentra en pequeñas cantidades en plantas, setas y cereales, especialmente en los que han atraído interés en la medicina tradicional:
 
 | Alimento | Germanio aproximado |
 |---|---|
@@ -44,7 +44,7 @@ El germanio está presente en pequeñas cantidades en alimentos de origen vegeta
 
 *Fuente: Schroeder & Balassa, 1967; Tao & Bolger, 1997. Los valores varían ampliamente según origen geográfico y procesado.*
 
-La ingesta dietética habitual se estima entre **0,4 y 3,4 mg/día** en adultos con dieta variada. Ningún caso de toxicidad se ha atribuido jamás a la exposición al germanio procedente de los alimentos. La diferencia entre la dosis dietética y la dosis que produjo toxicidad en los casos documentados es de dos a tres órdenes de magnitud: los pacientes afectados tomaban entre 100 y 1000 mg/día durante meses.
+La ingesta dietética habitual se estima entre **0,4 y 3,4 mg/día** en adultos con dieta variada. Ningún caso de toxicidad se ha atribuido jamás a la exposición al germanio procedente de la dieta. La diferencia entre la dosis dietética y la dosis que produjo toxicidad en los casos documentados es de dos a tres órdenes de magnitud: los pacientes afectados tomaban entre 100 y 1000 mg/día durante meses.
 
 ## La absorción del germanio
 
@@ -54,7 +54,9 @@ El germanio no dispone de ningún transportador específico ni de ningún mecani
 
 El germanio es el único elemento de esta sección para el que la pregunta relevante no es «¿cuánto necesitas?» sino «¿a partir de cuánto hace daño?». La respuesta a la segunda pregunta la dieron, involuntariamente, los pacientes que tomaron suplementos de GeO₂ en la década de los ochenta: con dietas que aportan menos de 4 mg al día durante toda la vida, el germanio es inocuo. Con suplementos que lo entregan a dosis de cientos de miligramos al día, el mismo elemento se convierte en un tóxico renal acumulativo que produce un daño irreversible. El germanio no cambió; lo que cambió fue la dosis.
 
-Y en ese intervalo entre la traza natural y la cápsula concentrada hay, literalmente, la diferencia entre inofensivo y mortal.
+Si soy sincera, es difícil encontrar un argumento para suplementar germanio: sin función conocida, sin beneficio demostrado, y con una señal de toxicidad documentada que salió a la luz de la peor manera posible.
+
+> Y en ese intervalo entre la traza natural y la cápsula concentrada hay, literalmente, la diferencia entre inofensivo y mortal.
 
 ---
 

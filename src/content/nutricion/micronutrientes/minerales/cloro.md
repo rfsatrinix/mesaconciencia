@@ -18,7 +18,7 @@ El cloro —que en el cuerpo existe casi exclusivamente como el ion **cloruro (C
 
 **Neurotransmisión inhibitoria.** El principal neurotransmisor inhibidor del sistema nervioso central —el **GABA**— actúa abriendo canales de cloruro en la membrana neuronal. Cuando el GABA se une a su receptor, el Cl⁻ fluye hacia el interior de la neurona y la hace más difícil de activar. Este mecanismo es la base de la acción de los ansiolíticos, los barbitúricos y el alcohol: todos potencian la corriente de cloruro mediada por GABA.
 
-La sensación de relajación que produce el alcohol tiene un mecanismo concreto: más cloruro entrando en las neuronas.
+> La sensación de relajación que produce el alcohol tiene un mecanismo concreto: más cloruro entrando en las neuronas.
 
 **Defensa inmune.** Los glóbulos blancos de primera línea contra las infecciones bacterianas —los **neutrófilos**— utilizan la enzima que convierte el cloruro en una molécula altamente reactiva capaz de destruir la membrana y el ADN de las bacterias fagocitadas —la **mieloperoxidasa**—, produciendo el **ácido hipocloroso** (HOCl). El cloro es parte del arsenal químico con el que tu sistema inmunitario elimina patógenos.
 
@@ -40,7 +40,7 @@ Una cucharadita de sal (6 g de NaCl) aporta unos 3.600 mg de cloruro —por enci
 
 ## Fuentes de cloro en la dieta
 
-A diferencia de la mayoría de los [minerales](/nutricion/micronutrientes/minerales), el cloro no tiene fuentes alimentarias propias significativas: su origen es casi exclusivamente la sal añadida durante el procesado o la cocción, o la que ya contienen los alimentos procesados. Las mismas fuentes que concentran sodio —conservas, embutidos, quesos curados, pan industrial— concentran cloruro en la misma proporción, porque ambos llegan como NaCl.
+A diferencia de la mayoría de los [minerales](/nutricion/micronutrientes/minerales), el cloro no tiene fuentes alimentarias propias significativas: su origen es casi exclusivamente la sal añadida durante el procesado o la cocción, o la que ya llevan incorporada los ultraprocesados. Las mismas fuentes que concentran sodio —conservas, embutidos, quesos curados, pan industrial— concentran cloruro en la misma proporción, porque ambos llegan como NaCl.
 
 En cantidades menores, algunas verduras —apio, remolacha, tomate, espinacas— y las algas marinas contienen cloruro de forma natural, pero su contribución es marginal frente al aporte de la sal.
 
@@ -57,6 +57,8 @@ Un caso histórico ilustra cuándo sí puede producirse una deficiencia real: en
 **Si sobra:** El cloruro por encima de 108 mmol/L en sangre —la **hipercloremia**— acompaña generalmente al exceso de sodio. En el ámbito clínico, el exceso de cloruro más relevante no viene de la dieta sino de la reanimación con suero salino fisiológico (NaCl 0,9 %) en unidades de cuidados intensivos (UCI): el suero fisiológico contiene más cloruro que el plasma, y su administración en grandes volúmenes hace que la sangre se vuelva más ácida de lo normal por exceso de cloruro que desplaza al bicarbonato del plasma —la **acidosis metabólica hiperclorémica**—. Este hallazgo ha impulsado el uso de soluciones con proporciones de sales más similares a las del plasma —las **soluciones balanceadas**— en lugar del suero salino convencional en medicina intensiva.
 
 La enfermedad que mejor ilustra la importancia del cloro no es ningún déficit ni exceso dietético: es una condición genética en que las células epiteliales no pueden transportar el cloruro a través de sus membranas —la **fibrosis quística**—, causada por mutaciones en el gen que fabrica esos canales de cloruro —el **CFTR**—. Cuando esos canales no funcionan, el cloruro queda atrapado dentro de las células, el moco que recubre los bronquios se vuelve espeso y pegajoso, y las infecciones pulmonares de repetición definen el curso de la enfermedad. La prueba diagnóstica de referencia mide el cloruro en el sudor —por encima de 60 mmol/L es diagnóstico— porque el CFTR defectuoso también impide que las glándulas sudoríparas reabsorban el cloruro normalmente.
+
+Lo que yo veo en la fibrosis quística —y que me parece el argumento más potente del artículo— es que ilustra algo que va más allá del cloro: en biología, no siempre importa cuánto ingieres, sino si tus células pueden hacer algo con ello.
 
 El cloro no falta nunca en la dieta: lo garantiza la sal. Lo que puede fallar no es la ingesta, sino la capacidad de las células para moverlo.
 

@@ -1,5 +1,6 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../../../layouts/Layout.astro';
 import ArticleLayout from '../../../layouts/ArticleLayout.astro';
 
@@ -28,6 +29,8 @@ const migas = [{ href: '/alimentos', label: 'Alimentos' }];
     <ArticleLayout
       title="Legumbres"
       description={intro!.data.description}
+      image={intro!.data.image}
+      imageAlt={intro!.data.imageAlt}
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
@@ -54,6 +57,9 @@ const migas = [{ href: '/alimentos', label: 'Alimentos' }];
             <div class="grid-articulos">
               {grupo.map(e => (
                 <a href={`/alimentos/${e.id}`} class="tarjeta tarjeta-articulo">
+                  {e.data.image && (
+                    <Image src={e.data.image} alt={e.data.imageAlt ?? e.data.title} class="tarjeta-imagen" />
+                  )}
                   <div class="tarjeta-articulo-inner">
                     <h2>{e.data.title}</h2>
                     {e.data.description && <p>{e.data.description}</p>}

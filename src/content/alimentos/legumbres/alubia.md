@@ -2,10 +2,10 @@
 title: "Alubia"
 description: "Alubia: es la legumbre con el mayor efecto prebiótico de la despensa y la que tiene evidencia más sólida para reducir el colesterol y la presión arterial."
 categoria: "Legumbres"
-image: "/images/alimentos/alubia.svg"
-imageAlt: "Imagen de portada del artículo sobre alubia"
 draft: false
 date: 2026-07-21
+image: "./fotos/alubia_portada.jpg"
+imageAlt: "Fotografía de alubias"
 ---
 
 Las alubias de Tolosa tienen su propio festival. Se celebra cada octubre en el País Vasco, reúne a cientos de cocineros y productores, y lleva décadas reivindicando una variedad negra pequeña que en esa tierra tiene el mismo estatus simbólico que el cocido en Madrid. No es solo un plato: es una institución.
@@ -14,7 +14,7 @@ Pero fuera del norte, las dudas persisten. Que son pesadas. Que producen gases. 
 
 Lo de los gases es cierto. Todo lo demás merece revisarse.
 
-## Qué es la alubia
+## ¿Qué es la alubia?
 
 La alubia (*Phaseolus vulgaris*) es una [legumbre](/alimentos/legumbres) de la familia Fabaceae originaria de América Central y del Sur. Los pueblos mesoamericanos la cultivaban miles de años antes del contacto europeo; llegó a España en el siglo XVI y en menos de dos siglos se convirtió en un alimento básico de la dieta española, especialmente en el norte.
 
@@ -22,7 +22,7 @@ Es el grupo de legumbres más diverso en variedades: blanca, pinta, negra, roja,
 
 ## Composición nutricional
 
-Datos por 100 g de alubia blanca cocida, sin sal:
+Datos por cada 100 g de alubia blanca cocida, sin sal:
 
 | Nutriente | Cantidad |
 |---|---|
@@ -50,11 +50,11 @@ El primero es la fracción que, en contacto con los líquidos del intestino, for
 
 El segundo es más interesante. Una fracción del almidón de las alubias escapa completamente a la digestión del intestino delgado y llega intacta al colon —el **almidón resistente**—. Ahí las bacterias lo fermentan y producen compuestos que sirven de combustible principal para las células que recubren la pared del colon —los **ácidos grasos de cadena corta**, entre los que destaca el **butirato**—.
 
-El butirato no es solo energía. Refuerza la barrera intestinal, reduce la inflamación local y se asocia en estudios prospectivos a un menor riesgo de cáncer colorrectal. Las alubias son, junto a los guisantes secos y las [lentejas](/alimentos/legumbres/lentejas), las fuentes más ricas en almidón resistente de la despensa habitual.
+El butirato no es solo energía. Refuerza la barrera intestinal, reduce la inflamación local y se asocia en estudios prospectivos a un menor riesgo de cáncer colorrectal. Las alubias son, junto a los [guisantes secos](/alimentos/legumbres/guisante-seco) y las [lentejas](/alimentos/legumbres/lentejas), las fuentes más ricas en almidón resistente de la despensa habitual.
 
 La conclusión práctica: las alubias actúan como sustrato para las bacterias beneficiosas de tu intestino —son los compuestos que las alimentan, los **prebióticos**—. No son el único alimento con ese efecto, pero sí el más concentrado y accesible de los que se comen cocidos.
 
-## El alimento que protege tu corazón sin que lo notes
+## El alimento que cuida tu corazón sin que lo notes
 
 La fibra soluble y el almidón resistente no solo benefician el intestino: también explican buena parte del efecto cardiovascular de las alubias.
 
@@ -64,13 +64,25 @@ El segundo efecto es sobre la presión arterial. Un metaanálisis de 2014 en *Am
 
 El tercer efecto es sobre la glucemia: el valor que mide con qué rapidez sube tu glucosa en sangre después de comer —el **índice glucémico (IG)**— de las alubias blancas ronda 24, uno de los más bajos de los que habitualmente se sirven como plato principal.
 
-Los tres efectos tienen el mismo origen: la fibra.
+> Los tres efectos tienen el mismo origen: la fibra.
 
 ## Los gases: lo que sí es cierto y lo que ayuda
 
 Los gases son la queja más frecuente sobre las alubias, y la única con base real. Las alubias contienen azúcares complejos que tu intestino delgado no puede digerir —los **oligosacáridos**, principalmente rafinosa y estaquiosa—. Llegan al colon, las bacterias los fermentan y el resultado es gas.
 
-Hay cosas que reducen este efecto: remojar bien las alubias antes de cocinarlas y tirar el líquido del remojo, cocinarlas a fondo, añadir hierbas carminativas en la preparación —anís, comino, hinojo, menta— e introducirlas de forma gradual en la dieta si no se consumen con regularidad. La microbiota se adapta con el tiempo.
+Remojar bien las alubias y cambiar el líquido antes de cocer reduce estos compuestos antes de que entren en cocción. Cocinarlas a fondo, añadir hierbas carminativas —anís, comino, hinojo, menta— e introducirlas de forma gradual en la dieta si no las consumes con regularidad también ayuda.
+
+> La microbiota se adapta en dos o tres semanas. El problema disminuye solo.
+
+## ¿Cuántas alubias consumir y cómo?
+
+La ración de referencia es de 80-100 g en seco, que se convierte en unos 200 g cocidas. Con esa cantidad obtienes 254 kcal, 17,4 g de proteína, 14,8 g de [fibra](/nutricion/fibra-alimenticia) —más del 50 % de la referencia diaria de la EFSA— y 310 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9).
+
+**Remojo obligatorio, 8-12 horas.** A diferencia de las lentejas o el guisante partido, las alubias no admiten cocción directa: sin remojo la piel no se ablanda bien y los oligosacáridos no tienen tiempo de disolverse. Cambia el líquido antes de cocer y empieza con líquido fresco.
+
+**Cocción a fondo.** Las alubias necesitan entre 90 minutos y dos horas a fuego lento. Con olla a presión, 25-30 minutos son suficientes. La alubia bien cocida se aplasta sin resistencia entre los dedos; si opone resistencia al tenedor, necesita más tiempo. El almidón resistente —el que alimenta la microbiota— se forma en mayor cantidad cuando las alubias se enfrían tras la cocción: el potaje del día siguiente tiene más efecto prebiótico que el recién hecho.
+
+**Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de las alubias es del tipo que tu cuerpo absorbe con menor eficiencia que el de la carne —el **hierro no hemo**—. Un chorro de limón o pimiento fresco en la misma comida puede multiplicar esa absorción por dos o por tres.
 
 La alubia es, creo, la legumbre más subestimada de la dieta española fuera del norte. Tiene la fibra con mayor efecto prebiótico, el impacto cardiovascular más documentado y una preparación que no requiere más que remojo y tiempo.
 

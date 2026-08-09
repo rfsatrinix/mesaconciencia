@@ -1,11 +1,11 @@
----
+﻿---
 title: "Nuez del Brasil"
 description: "Nuez del Brasil: es el alimento con más selenio por ración, solo crece en Amazonia silvestre y es el único fruto seco donde comer de más tiene consecuencias."
 date: 2026-07-24
 categoria: "Frutos secos"
 draft: false
-image: "/images/alimentos/nuez-del-brasil.svg"
-imageAlt: "Imagen de portada del artículo sobre nuez del Brasil"
+image: "./fotos/nuezdelbrasil_portada.jpg"
+imageAlt: "Fotografía de nueces del Brasil sin cáscara"
 ---
 
 La bolsa de nueces del Brasil tiene una indicación que no tiene ninguna otra bolsa de [frutos secos](/alimentos/frutos-secos): «consumo recomendado, 1-2 unidades al día». No el puñado habitual. No «tomar como parte de una dieta variada». Una o dos unidades, y punto.
@@ -14,17 +14,17 @@ Por lo demás, el fruto seco parece normal: grande, cremoso, algo más caro que 
 
 La indicación está ahí por una razón concreta. La explicación es el selenio: una sola unidad cubre la dosis diaria.
 
-## El árbol, el ouriço y la semilla
+## ¿Qué es la nuez del Brasil?
 
 *Bertholletia excelsa* es la semilla de uno de los árboles más grandes del bosque amazónico, perteneciente a la familia Lecythidaceae, sin relación botánica con el nogal ni con ningún otro fruto seco habitual de la despensa española. El árbol puede alcanzar los 50 metros de altura y vivir más de 500 años; produce frutos durante décadas una vez que alcanza la madurez, que tarda entre 10 y 15 años.
 
-Lo que conoces como [nuez del Brasil](/alimentos/frutos-secos/nuez-del-brasil) no es el fruto sino la semilla. El fruto es una vaina leñosa esférica, del tamaño de un coco mediano —el **ouriço**—, que puede pesar entre 500 g y 2,5 kg. Dentro, entre 8 y 24 semillas con forma triangular se disponen como los gajos de una naranja. Cuando el ouriço madura y cae —los ouriços caen desde 50 metros, con fuerza suficiente para matar a alguien que esté debajo—, los recolectores recogen del suelo del bosque los frutos intactos y los abren para extraer las semillas.
+Lo que conoces como [nuez del Brasil](/alimentos/frutos-secos/nuez-del-brasil) no es el fruto sino la semilla. El fruto es una vaina leñosa esférica, del tamaño de un [coco](/alimentos/frutos-secos/coco) mediano —el **ouriço**—, que puede pesar entre 500 g y 2,5 kg. Dentro, entre 8 y 24 semillas con forma triangular se disponen como los gajos de una naranja. Cuando el ouriço madura y cae —los ouriços caen desde 50 metros, con fuerza suficiente para matar a alguien que esté debajo—, los recolectores recogen del suelo del bosque los frutos intactos y los abren para extraer las semillas.
 
 Bolivia es hoy el mayor exportador mundial, por delante de Brasil. Toda la producción comercial es de recolección silvestre: no existe una plantación de nueces del Brasil productiva en ningún lugar fuera de su ecosistema natural.
 
 ## Composición nutricional
 
-Datos por 100 g de nuez del Brasil cruda:
+Datos por cada 100 g de nuez del Brasil cruda:
 
 | Nutriente | Cantidad |
 |---|---|
@@ -33,8 +33,8 @@ Datos por 100 g de nuez del Brasil cruda:
 | [Hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) | 12,3 g |
 | [Fibra alimentaria](/nutricion/fibra-alimenticia) | 7,5 g |
 | [Grasas totales](/nutricion/macronutrientes/grasas-o-lipidos) | 67,1 g |
-| — Monoinsaturadas (oleico) | 24,5 g |
-| — Poliinsaturadas | 20,6 g |
+| — [Monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) (oleico) | 24,5 g |
+| — [Poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) | 20,6 g |
 | — [Saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) | 15,1 g |
 | [Vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) | 5,7 mg |
 | [Folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) | 22 µg |
@@ -51,13 +51,13 @@ Datos por 100 g de nuez del Brasil cruda:
 
 ## Una sola nuez cubre la dosis diaria de selenio
 
-El mineral traza que activa la hormona tiroidea, sostiene el sistema inmunitario y forma parte de las enzimas antioxidantes que neutralizan los peróxidos en tus células —el [**selenio**](/nutricion/micronutrientes/oligoelementos/selenio)— tiene una ingesta de referencia de 70 µg diarios para adultos según la EFSA. Una nuez del Brasil de tamaño habitual pesa alrededor de 5 g. Con los 1.917 µg de selenio por 100 g que registra el USDA, una sola nuez aporta unos 96 µg: el 137 % de esa referencia diaria.
+El mineral traza que activa la hormona tiroidea, sostiene el sistema inmunitario y forma parte de las enzimas antioxidantes que neutralizan los peróxidos en tus células —el [**selenio**](/nutricion/micronutrientes/oligoelementos/selenio)— tiene una ingesta de referencia de 70 µg diarios para adultos según la EFSA. Una nuez del Brasil de tamaño habitual pesa alrededor de 5 g. Con los 1.917 µg de selenio por cada 100 g que registra el USDA, una sola nuez aporta unos 96 µg: el 137 % de esa referencia diaria.
 
-Ningún otro alimento habitual de la despensa española se acerca a esa concentración en una ración tan pequeña. El atún en lata tiene unos 80 µg por 100 g; el hígado de cerdo, unos 50 µg; los huevos, unos 15 µg. En el mundo vegetal, no hay nada comparable: las semillas de girasol tienen unos 79 µg por 100 g, pero una ración de 30 g aporta solo 24 µg. La nuez del Brasil es una anomalía.
+Ningún otro alimento habitual de la despensa española se acerca a esa concentración en una ración tan pequeña. El atún en lata tiene unos 80 µg por cada 100 g; el hígado de cerdo, unos 50 µg; los huevos, unos 15 µg. En el mundo vegetal, no hay nada comparable: las semillas de girasol tienen unos 79 µg por cada 100 g, pero una ración de 30 g aporta solo 24 µg. La nuez del Brasil es una anomalía.
 
-Las consecuencias prácticas son claras para quienes siguen dietas sin pescado ni carne. El selenio es uno de los [minerales](/nutricion/micronutrientes/minerales) más difíciles de cubrir en dietas vegetales, en parte porque los suelos agrícolas europeos —incluidos los españoles— son más pobres en selenio que los de América del Norte o Asia oriental, y los cereales y verduras cultivados aquí reflejan esa escasez. Un ensayo clínico de Thomson et al. demostró que comer dos nueces del Brasil al día durante doce semanas elevaba los marcadores de selenio en sangre de forma comparable a la suplementación farmacológica.
+Las consecuencias prácticas son claras si tu dieta no incluye pescado ni carne. El selenio es uno de los [minerales](/nutricion/micronutrientes/minerales) más difíciles de cubrir en dietas vegetales, en parte porque los suelos agrícolas europeos —incluidos los españoles— son más pobres en selenio que los de América del Norte o Asia oriental, y los cereales y verduras cultivados aquí reflejan esa escasez. Un ensayo clínico de Thomson et al. demostró que comer dos nueces del Brasil al día durante doce semanas elevaba los marcadores de selenio en sangre de forma comparable a la suplementación farmacológica.
 
-Dos nueces del Brasil al día. Es probablemente la intervención dietética más sencilla para corregir un déficit de selenio.
+> Dos nueces del Brasil al día. Es probablemente la intervención dietética más sencilla para corregir un déficit de selenio.
 
 ## El árbol que no puede vivir fuera de la Amazonia intacta
 
@@ -77,13 +77,13 @@ El nivel máximo de ingesta tolerable de selenio que la EFSA establece para adul
 
 Con una nuez del Brasil de concentración media (96 µg), cuatro unidades aportan unos 384 µg: por encima del límite tolerable. Con una nuez de lote alto —los estudios que han analizado la variabilidad individual describen un rango de 8 a más de 150 µg por nuez, según el suelo en que creció el árbol—, dos nueces ya pueden acercarse al límite.
 
-Esa variabilidad no es trivial. La misma bolsa puede contener nueces de árboles que crecieron en suelos con concentraciones de selenio muy distintas, porque los suelos del Amazonas son geológicamente heterogéneos. La etiqueta no puede decirte cuánto selenio exactamente tiene cada nuez. El valor medio de los datos USDA (1.917 µg/100 g) es una medida estadística, no una constante.
+Esa variabilidad no es trivial. La misma bolsa puede contener nueces de árboles que crecieron en suelos con concentraciones de selenio muy distintas, porque los suelos del Amazonas son geológicamente heterogéneos. La etiqueta no puede decirte cuánto selenio exactamente tiene cada nuez. El valor medio de los datos USDA (1.917 µg por cada 100 g) es una medida estadística, no una constante.
 
 El resultado práctico es que la nuez del Brasil es el único fruto seco habitual donde comer el doble de lo recomendado no es simplemente comer más calorías: es potencialmente superar el límite de seguridad de un mineral. Con la [almendra](/alimentos/frutos-secos/almendra), comer veinte en vez de diez no tiene consecuencias más allá de las calorías. Con la nuez del Brasil, la aritmética es diferente.
 
-Una o dos. La bolsa lo dice bien.
+> Una o dos. La bolsa lo dice bien.
 
-## Cuántas nueces del Brasil y cómo
+## ¿Cuántas nueces del Brasil consumir y cómo?
 
 La recomendación de consumo basada en la evidencia disponible es de una a dos nueces al día, o de dos a cuatro cada dos o tres días para no superar el umbral tolerable en los días de consumo.
 
@@ -95,9 +95,7 @@ La recomendación de consumo basada en la evidencia disponible es de una a dos n
 
 **Como fuente de selenio, no hace falta que sea diaria.** Dos nueces tres veces por semana cubre la referencia de selenio de esos días y deja margen de seguridad. No hay ningún otro fruto seco del que pueda decirse lo mismo: que comerlo tres veces por semana sea suficiente para cubrir un mineral esencial.
 
----
-
-Creo que la nuez del Brasil es el ejemplo más claro de por qué la dosis importa: el mismo fruto seco que corrige un déficit con una unidad al día lo convierte en toxicidad crónica con cuatro. Eso no ocurre con ningún otro fruto seco de la despensa.
+A mí me parece que la nuez del Brasil es el ejemplo más claro de por qué la dosis importa: el mismo fruto seco que corrige un déficit con una unidad al día lo convierte en toxicidad crónica con cuatro. Eso no ocurre con ningún otro fruto seco de la despensa.
 
 La bolsa te lo dice: 1-2 al día. Es el único fruto seco del supermercado donde esa indicación no es marketing. Es toxicología.
 

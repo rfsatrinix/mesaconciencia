@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El nombre del ácido pantoténico —vitamina B5— proviene del griego *pantothen*: «de todas partes». La elección no fue retórica: es la vitamina con distribución alimentaria más universal de la naturaleza. Cereales integrales, carnes, pescados, lácteos, legumbres, verduras, frutos secos, hongos —todos contienen ácido pantoténico en cantidades apreciables, y en concentraciones mucho más homogéneas que el resto de las vitaminas del grupo B. Eso explica que su deficiencia clínica sea excepcional en personas con una dieta razonablemente variada. Es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que no se almacena en cantidades significativas, pero que tampoco escasea.
+El nombre del ácido pantoténico —vitamina B5— proviene del griego *pantothen*: «de todas partes». La elección no fue retórica: es la vitamina con distribución alimentaria más universal de la naturaleza. Cereales integrales, carnes, pescados, lácteos, [legumbres](/alimentos/legumbres), verduras, [frutos secos](/alimentos/frutos-secos), hongos —todos contienen ácido pantoténico en cantidades apreciables, y en concentraciones mucho más homogéneas que el resto de las vitaminas del grupo B. Eso explica que su deficiencia clínica sea excepcional en personas con una dieta razonablemente variada. Es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que no se almacena en cantidades significativas, pero que tampoco escasea.
 
 En tu organismo actúa exclusivamente en forma de **coenzima A (CoA)**, una de las moléculas más versátiles de la bioquímica celular. La CoA participa en el metabolismo del azúcar, de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) y de las [proteínas](/nutricion/macronutrientes/proteinas); interviene en la síntesis de las hormonas que el cuerpo fabrica a partir del colesterol —las **hormonas esteroideas**— y de la estructura que porta el hierro en la molécula que transporta oxígeno en la sangre —el **grupo hemo**—. Produce el mensajero que activa cada contracción muscular voluntaria y regula muchas funciones automáticas del organismo —la **acetilcolina**—, y modifica las proteínas sobre las que se enrolla el ADN —las **histonas**— para regular qué genes se expresan y cuáles permanecen silenciosos.
 
@@ -45,9 +45,9 @@ Lo que quizá no esperas de una vitamina es que influya en qué genes tienes act
 
 ## Fuentes alimentarias de ácido pantoténico
 
-La distribución excepcionalmente amplia del ácido pantoténico queda reflejada en el rango relativamente estrecho de valores entre alimentos tan distintos:
+La distribución excepcionalmente amplia del ácido pantoténico queda reflejada en el rango relativamente estrecho de valores entre fuentes tan distintas:
 
-| Alimento | Ácido pantoténico por 100 g |
+| Alimento | Ácido pantoténico por cada 100 g |
 |---|---|
 | Semillas de girasol (crudas) | ~7,1 mg |
 | Hígado de ternera (cocido) | ~7,0 mg |
@@ -56,7 +56,7 @@ La distribución excepcionalmente amplia del ácido pantoténico queda reflejada
 | Champiñones (crudos) | ~1,5 mg |
 | Pechuga de pollo (cocida) | ~1,0 mg |
 | Lentejas cocidas | ~0,6 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~0,5 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,5 mg |
 | Brócoli cocido | ~0,5 mg |
 | Leche entera | ~0,4 mg |
 
@@ -94,7 +94,7 @@ Una manifestación distinta, y de origen genético, es la enfermedad hereditaria
 
 No tiene tratamiento modificador de la enfermedad.
 
-La pelagra del maíz, el beriberi del arroz blanco, el escorbuto de las largas travesías marítimas —las grandes enfermedades nutricionales de la historia tienen siempre un alimento base monótono detrás. La deficiencia de ácido pantoténico no ha dejado ese tipo de huella. La vitamina estaba en todos los alimentos, y ninguna cultura sobrevivió a base de un único alimento durante el tiempo suficiente para agotarla.
+La pelagra del maíz, el beriberi del arroz blanco, el escorbuto de las largas travesías marítimas —las grandes enfermedades nutricionales de la historia tienen siempre una dieta monótona y sin variedad detrás. La deficiencia de ácido pantoténico no ha dejado ese tipo de huella, y creo que la razón es exactamente esa: la vitamina estaba distribuida en toda la cadena alimentaria, y ninguna cultura sobrevivió a base de un único producto durante el tiempo suficiente para agotarla.
 
 ---
 

@@ -26,7 +26,7 @@ Las proteínas desempeñan funciones radicalmente distintas porque cada secuenci
 
 **Energía:** en ausencia de [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) o [grasas](/nutricion/macronutrientes/grasas-o-lipidos), tu cuerpo puede usar las proteínas como combustible y obtener 4 kilocalorías por gramo.
 
-Ningún otro macronutriente trabaja en tantos frentes a la vez.
+> Ningún otro macronutriente trabaja en tantos frentes a la vez.
 
 ## ¿Cuántas proteínas necesitas?
 
@@ -55,27 +55,27 @@ El contenido proteico por 100 g varía según el alimento y el modo de preparaci
 | Tofu firme | 17 g |
 | Huevo entero | 13 g |
 | Lentejas cocidas | 9 g |
-| [Garbanzos](/alimentos/garbanzos) cocidos | 9 g |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 9 g |
 
 *Fuente: BEDCA.*
 
 ## Proteína animal vs. proteína vegetal
 
-Las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) (huevo, carne, pescado, lácteos) tienen un perfil completo de [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) y tu intestino puede absorber y aprovechar la mayor parte de lo que consumes —una **digestibilidad** alta—. Las [de origen vegetal](/nutricion/macronutrientes/proteinas/origen-vegetal) (legumbres, cereales, frutos secos) suelen ser deficitarias en uno o más aminoácidos esenciales —el garbanzo en [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), el arroz en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, pero combinando distintas fuentes a lo largo del día se cubre perfectamente el perfil que tu cuerpo necesita.
+Las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) (huevo, carne, pescado, lácteos) tienen un perfil completo de [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) y tu intestino puede absorber y aprovechar la mayor parte de lo que consumes —una **digestibilidad** alta—. Las [de origen vegetal](/nutricion/macronutrientes/proteinas/origen-vegetal) ([legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos)) suelen ser deficitarias en uno o más aminoácidos esenciales —el garbanzo en [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), el arroz en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, pero combinando distintas fuentes a lo largo del día se cubre perfectamente el perfil que tu cuerpo necesita.
 
 La puntuación de aminoácidos esenciales digestibles (DIAAS) mide la calidad proteica considerando tanto el perfil de aminoácidos esenciales como la digestibilidad real. El huevo y el derivado líquido del proceso de fabricación del queso —la **proteína de suero**— obtienen un DIAAS ≥ 1, lo que significa que cubren completamente las necesidades de referencia. Las legumbres se sitúan en torno a 0,6–0,8. Combinar legumbres con cereales en el mismo día eleva el DIAAS conjunto por encima de lo que daría cada fuente por separado.
 
-No hace falta que combines fuentes proteicas en la misma comida: lo que cuenta es el conjunto del día.
+> No hace falta que combines fuentes proteicas en la misma comida: lo que cuenta es el conjunto del día.
 
 ## ¿Necesitas suplementos de proteína?
 
-Una dieta variada con fuentes proteicas en cada comida cubre tus necesidades sin suplementación. Los suplementos más usados son la proteína de suero, la proteína principal de la leche —la **caseína**— y los suplementos de proteína vegetal. Son convenientes, no imprescindibles, para deportistas con requerimientos elevados o personas con dificultad para alcanzar sus objetivos solo con alimentos.
+Una dieta variada con fuentes proteicas en cada comida cubre tus necesidades sin suplementación. Los suplementos más usados son la proteína de suero, la proteína principal de la leche —la **caseína**— y los suplementos de proteína vegetal. Son convenientes, no imprescindibles, para deportistas con requerimientos elevados o personas con dificultad para alcanzar sus objetivos solo con la dieta.
 
-Tienen sentido en contextos concretos: un volumen de entrenamiento alto que eleve tu requerimiento por encima de 1,8 g/kg/día, fases de restricción calórica donde te cuesta mantener tu ingesta proteica, o dietas vegetarianas estrictas donde el perfil de aminoácidos esenciales es más difícil de cubrir solo con alimentos.
+Tienen sentido en contextos concretos: un volumen de entrenamiento alto que eleve tu requerimiento por encima de 1,8 g/kg/día, fases de restricción calórica donde te cuesta mantener tu ingesta proteica, o dietas vegetarianas estrictas donde el perfil de aminoácidos esenciales es más difícil de cubrir sin recurrir a suplementos.
 
-La suplementación proteica es una herramienta práctica, no una necesidad universal.
+> La suplementación proteica es una herramienta práctica, no una necesidad universal.
 
-La proteína no es solo músculo. Es la materia prima de tus enzimas, tus hormonas y tus defensas.
+> La proteína no es solo músculo. Es la materia prima de tus enzimas, tus hormonas y tus defensas.
 
 ---
 

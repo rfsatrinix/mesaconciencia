@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu organismo no puede sintetizar. La razón es una mutación en el gen que codifica la enzima responsable del último paso de la síntesis de vitamina C —el **gen GULO**—, que inutilizó esta capacidad en el linaje de los primates hace aproximadamente 63 millones de años. La mayoría de los mamíferos la fabrican en el hígado sin esfuerzo: un perro adulto produce entre 40 y 80 mg por kilogramo de peso al día; una cabra bajo estrés puede llegar a 200 mg/kg. Tu organismo no puede hacer nada de eso. La vitamina C que no obtienes de los alimentos, sencillamente no la tienes.
+La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu organismo no puede sintetizar. La razón es una mutación en el gen que codifica la enzima responsable del último paso de la síntesis de vitamina C —el **gen GULO**—, que inutilizó esta capacidad en el linaje de los primates hace aproximadamente 63 millones de años. La mayoría de los mamíferos la fabrican en el hígado sin esfuerzo: un perro adulto produce entre 40 y 80 mg por kilogramo de peso al día; una cabra bajo estrés puede llegar a 200 mg/kg. Tu organismo no puede hacer nada de eso. La vitamina C que no obtienes de tu dieta, sencillamente no la tienes.
 
 ## ¿Para qué sirve la vitamina C?
 
@@ -14,7 +14,7 @@ La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina
 
 **Antioxidante y regenerador.** La vitamina C es el antioxidante más importante de los que circulan disueltos en el plasma y en el líquido intracelular. Neutraliza las moléculas inestables con un electrón desapareado que dañan las membranas celulares, el ADN y otros componentes de la célula —los **radicales libres**— antes de que alcancen estructuras críticas. También regenera la [vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) oxidada —el principal antioxidante de las membranas lipídicas— devolviéndole su capacidad de protección: la vitamina E detiene la oxidación en las membranas; la vitamina C la restaura desde el compartimento acuoso.
 
-**Absorción del hierro vegetal.** El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de los alimentos vegetales se presenta en estado oxidado (Fe³⁺), que el intestino delgado absorbe mal porque no puede unirse a la proteína de membrana que introduce el hierro en las células del intestino delgado —el **DMT-1**—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que el DMT-1 sí transporta. Ingerida en la misma comida que legumbres, espinacas o cereales integrales, puede multiplicar la absorción del hierro vegetal entre dos y cuatro veces.
+**Absorción del hierro vegetal.** El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de origen vegetal se presenta en estado oxidado (Fe³⁺), que el intestino delgado absorbe mal porque no puede unirse a la proteína de membrana que introduce el hierro en las células del intestino delgado —el **DMT-1**—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que el DMT-1 sí transporta. Ingerida en la misma comida que [legumbres](/alimentos/legumbres), espinacas o cereales integrales, puede multiplicar la absorción del hierro vegetal entre dos y cuatro veces.
 
 **Sistema inmunitario.** Las células del sistema inmunitario —neutrófilos, linfocitos y macrófagos, agrupados bajo el nombre de **leucocitos**— concentran vitamina C en su interior a niveles entre 50 y 100 veces superiores a los del plasma. Esa acumulación activa la capacidad de los neutrófilos de desplazarse hasta el foco de infección —la **quimiotaxis**—, la fagocitosis y la producción de las moléculas de señalización que alertan a las células vecinas para que activen sus defensas —el **interferón**—. Durante una infección aguda, los niveles plasmáticos de vitamina C caen rápidamente porque los leucocitos la movilizan hacia los tejidos afectados.
 
@@ -39,7 +39,7 @@ La absorción de vitamina C no es lineal. Por debajo de 200 mg al día, el intes
 
 Los pimientos crudos y algunas frutas tropicales son las fuentes más concentradas. La naranja es la referencia popular de la vitamina C, pero un pimiento rojo crudo aporta casi cuatro veces más:
 
-| Alimento | Vitamina C por 100 g |
+| Alimento | Vitamina C por cada 100 g |
 |---|---|
 | Acerola (cruda) | ~1 677 mg |
 | Escaramujo (fresco) | ~426 mg |
@@ -59,7 +59,7 @@ Dos porciones diarias de fruta fresca y una de verdura cubren tu ingesta de refe
 
 ## La vitamina C y el hierro: una sinergia práctica
 
-Añadir vitamina C a una comida con hierro vegetal es una de las estrategias dietéticas con mayor evidencia y menor coste. El hierro no hemo —el que contienen las lentejas, los [garbanzos](/alimentos/garbanzos), las espinacas, el tofu— tiene una absorción habitual de entre el 2 y el 8 % sin ninguna ayuda. La vitamina C en la misma comida puede elevar esa absorción al 10–15 % o más.
+Añadir vitamina C a una comida con hierro vegetal es una de las estrategias dietéticas con mayor evidencia y menor coste. El hierro no hemo —el que contienen las lentejas, los [garbanzos](/alimentos/legumbres/garbanzos), las espinacas, el tofu— tiene una absorción habitual de entre el 2 y el 8 % sin ninguna ayuda. La vitamina C en la misma comida puede elevar esa absorción al 10–15 % o más.
 
 El efecto requiere simultaneidad: la reducción de Fe³⁺ a Fe²⁺ ocurre en el duodeno y necesita que la vitamina C esté presente en ese momento. Tomarla horas antes o después de las legumbres prácticamente elimina el beneficio.
 
@@ -83,7 +83,7 @@ Hoy la deficiencia grave es excepcional, pero la deficiencia subclínica —nive
 
 **Personas con alcoholismo crónico.** El alcohol deteriora la absorción intestinal y el transporte celular de vitamina C.
 
-**Personas con dietas basadas en alimentos ultraprocesados** sin fruta ni verdura. La vitamina C prácticamente desaparece de la dieta industrial elaborada.
+**Personas con dietas basadas en productos ultraprocesados** sin fruta ni verdura. La vitamina C prácticamente desaparece de ese tipo de dieta.
 
 ## La vitamina C y el resfriado: lo que dice la evidencia
 
@@ -107,7 +107,9 @@ Los suplementos están justificados en situaciones concretas:
 
 Las dosis de 200–500 mg/día son suficientes para saturar el plasma. Dosis superiores a 1 000 mg no aumentan los niveles plasmáticos de forma apreciable —la absorción intestinal cae y el riñón elimina el exceso—. En personas con antecedentes de cálculos renales de oxalato cálcico, las dosis altas elevan la excreción urinaria de oxalato y pueden aumentar el riesgo de recidiva.
 
-Que el ser humano sea uno de los poquísimos mamíferos que no puede sintetizar su propia vitamina C —consecuencia de una sola mutación en el gen GULO hace 63 millones de años— convierte en obligatorio algo que para un perro o una cabra es automático: obtenerla cada día de los alimentos, porque las reservas duran semanas, no años.
+Para mí, la vitamina C en megadosis es el ejemplo más claro de marketing que derrotó a la fisiología: el intestino no absorbe lo que el riñón va a excretar de todas formas.
+
+Que el ser humano sea uno de los poquísimos mamíferos que no puede sintetizar su propia vitamina C —consecuencia de una sola mutación en el gen GULO hace 63 millones de años— convierte en obligatorio algo que para un perro o una cabra es automático: obtenerla cada día con la comida, porque las reservas duran semanas, no años.
 
 ---
 

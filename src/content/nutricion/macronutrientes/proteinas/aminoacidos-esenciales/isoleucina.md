@@ -16,33 +16,33 @@ La OMS establece el requerimiento de isoleucina en **20 mg por kg de peso corpor
 
 **Metabolismo energético dual** — La isoleucina puede tanto convertirse en glucosa —es **glucogénica**— como producir los combustibles alternativos que el hígado genera cuando escasea la glucosa —los **cuerpos cetónicos**, lo que la hace también **cetogénica**—. Al degradarse genera dos productos metabólicos. Uno es el intermediario que puede convertirse en glucosa —el **propionil-CoA**—, que entra en el proceso central de obtención de energía de la célula —el **ciclo de Krebs**—. El otro es la molécula que la célula usa directamente como combustible o para fabricar [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —el **acetil-CoA**—. Esta doble vía la distingue de la [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), que es puramente cetogénica, y de la [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina), que es puramente glucogénica.
 
-De los tres BCAA, solo la isoleucina puede aportar tanto glucosa como cuerpos cetónicos.
+> De los tres BCAA, solo la isoleucina puede aportar tanto glucosa como cuerpos cetónicos.
 
 **Captación de glucosa independiente de la insulina** — La isoleucina desplaza hacia la membrana de las células del músculo —los **miocitos**— la proteína que abre la puerta de entrada de la glucosa en esas células —el **transportador GLUT4**—, a través de una vía que no depende de la insulina. En la práctica, si tu ingesta de isoleucina es adecuada, tu músculo capta glucosa de forma más eficiente incluso cuando las células responden peor de lo normal a esta hormona —la **resistencia a la insulina**—. Este efecto es específico de la isoleucina: la leucina y la valina no lo reproducen con la misma intensidad.
 
 **Síntesis de hemoglobina** — La isoleucina forma parte de la proteína que, junto al componente con [hierro](/nutricion/micronutrientes/oligoelementos/hierro) que transporta el oxígeno —el **grupo hemo**—, compone la hemoglobina —la **globina**—, en posiciones que contribuyen a crear la cavidad interna donde se aloja ese grupo hemo. Una variante en la que la isoleucina reemplaza a la valina en la posición β28 produce la enfermedad genética de la hemoglobina más frecuente en el Sudeste Asiático —la **hemoglobinopatía E** (HbE)—; altera la estructura de la proteína sin comprometer el transporte de oxígeno, pero sí su estabilidad.
 
-Una sola sustitución de aminoácido en esa posición crea la enfermedad de hemoglobina más extendida en el mundo.
+> Una sola sustitución de aminoácido en esa posición crea la enfermedad de hemoglobina más extendida en el mundo.
 
 **Función inmunitaria en la mucosa intestinal** — En las células de la pared intestinal, la isoleucina induce la producción de las proteínas pequeñas que atacan directamente las membranas de bacterias y hongos antes de que puedan penetrar —las **beta-defensinas**—, parte de la primera línea de defensa de tu cuerpo que actúa sin necesidad de haber visto antes al invasor —la **inmunidad innata**—. Esta función vincula el aporte de isoleucina —y en general de las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal)— con la integridad de la barrera inmunitaria intestinal.
 
 ## Fuentes alimentarias de isoleucina
 
-La isoleucina está bien distribuida en los alimentos proteicos, con mayor concentración en fuentes animales:
+La isoleucina está bien distribuida entre las fuentes proteicas, con mayor concentración en las de origen animal:
 
-| Alimento | Isoleucina por 100 g |
+| Alimento | Isoleucina por cada 100 g |
 |---|---|
-| Pechuga de pollo (cocida) | ~1100 mg |
-| Atún fresco (cocido) | ~1050 mg |
-| Salmón del Atlántico (cocido) | ~1000 mg |
-| Queso parmesano | ~1000 mg |
-| Semillas de calabaza (crudas) | ~910 mg |
-| Almendras | ~700 mg |
-| Huevo entero (cocido) | ~600 mg |
-| Lentejas cocidas | ~500 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~420 mg |
+| Pechuga de pollo (cocida) | 1100 mg |
+| Atún fresco (cocido) | 1050 mg |
+| Salmón del Atlántico (cocido) | 1000 mg |
+| Queso parmesano | 1000 mg |
+| Semillas de calabaza (crudas) | 910 mg |
+| Almendras | 700 mg |
+| Huevo entero (cocido) | 600 mg |
+| Lentejas cocidas | 500 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 420 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 ## Los tres aminoácidos de cadena ramificada
 
@@ -60,4 +60,7 @@ La isoleucina es la más silenciosa de los tres BCAA, pero la única capaz de ac
 
 ---
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/23234514/" target="_blank" rel="noopener noreferrer">Zhang S et al. Isoleucine prevents the loss of intestinal integrity in a pig model of endotoxin challenge. Amino Acids. 2013.</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/23234514/" target="_blank" rel="noopener noreferrer">Zhang S et al. Isoleucine prevents the loss of intestinal integrity in a pig model of endotoxin challenge. Amino Acids. 2013.</a>

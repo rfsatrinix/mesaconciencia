@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El sodio es el [mineral](/nutricion/micronutrientes/minerales) más abundante fuera de tus células: un adulto contiene unos 100 gramos, de los cuales el **55 % está en el plasma y el líquido intersticial**, el 35 % en los huesos y apenas el 10 % en el interior celular. Su concentración extracelular —alrededor de 140 mmol/L— no es un accidente de composición: el sodio arrastra consigo los fluidos que lo rodean, de modo que determina el volumen y la presión de todos los líquidos de tu cuerpo. Lo que distingue al sodio del resto de los minerales es que su déficit real por dieta es prácticamente imposible con cualquier alimentación mínimamente variada, mientras que su exceso crónico es uno de los factores dietéticos con mayor impacto documentado sobre la presión arterial y el riesgo cardiovascular.
+El sodio es el [mineral](/nutricion/micronutrientes/minerales) más abundante fuera de tus células: un adulto contiene unos 100 gramos, de los cuales el **55 % está en el plasma y el líquido intersticial**, el 35 % en los huesos y apenas el 10 % en el interior celular. Su concentración extracelular —alrededor de 140 mmol/L— no es un accidente de composición: el sodio arrastra consigo los fluidos que lo rodean, de modo que determina el volumen y la presión de todos los líquidos de tu cuerpo. Lo que distingue al sodio del resto de los minerales es que es prácticamente imposible que te falte con cualquier alimentación mínimamente variada, mientras que su exceso crónico es uno de los factores dietéticos con mayor impacto documentado sobre la presión arterial y el riesgo cardiovascular.
 
 ## ¿Para qué sirve el sodio?
 
@@ -36,7 +36,7 @@ La ingesta media en España y en la mayoría de los países europeos se sitúa e
 
 ## Fuentes de sodio en la dieta
 
-Los alimentos en su estado natural contienen muy poco sodio. La práctica totalidad del exceso en la dieta moderna proviene de la sal añadida durante el procesado industrial o la cocción:
+Los productos sin procesar contienen muy poco sodio. La práctica totalidad del exceso en la dieta moderna proviene de la sal añadida durante el procesado industrial o la cocción:
 
 | Alimento | Sodio por 100 g |
 |---|---|
@@ -52,7 +52,7 @@ Los alimentos en su estado natural contienen muy poco sodio. La práctica totali
 
 *Fuente: USDA FoodData Central; BEDCA.*
 
-En España, el **pan** es la principal fuente de sodio en la dieta —no por su concentración, que es moderada, sino por el volumen diario que se consume—. Los embutidos, los quesos curados y las salsas comerciales ocupan los siguientes puestos. Esto tiene una consecuencia práctica: la sal que añades en la cocina y en la mesa aporta en torno al 10–15 % del sodio total. El 75–80 % restante ya viene incorporado en los alimentos antes de que lleguen a tu cocina, lo que limita el impacto de reducir el salero sin cambiar el patrón de consumo de ultraprocesados.
+En España, el **pan** es la principal fuente de sodio en la dieta —no por su concentración, que es moderada, sino por el volumen diario que se consume—. Los embutidos, los quesos curados y las salsas comerciales ocupan los siguientes puestos. Esto tiene una consecuencia práctica: la sal que añades en la cocina y en la mesa aporta en torno al 10–15 % del sodio total. El 75–80 % restante ya viene incorporado en lo que compras antes de que llegue a tu cocina, lo que limita el impacto de reducir el salero sin cambiar el patrón de consumo de ultraprocesados.
 
 ## La absorción del sodio
 
@@ -62,21 +62,23 @@ El SRAA se activa cuando la presión arterial cae o el volumen sanguíneo dismin
 
 El ANP actúa en sentido contrario: cuando el volumen sanguíneo es demasiado alto, las células del corazón secretan ANP, que indica al riñón que excrete más sodio y relaja las paredes de los vasos sanguíneos.
 
-El sistema funciona, pero exige mantener la presión arterial ligeramente más alta para conseguir la excreción necesaria.
+> El sistema funciona, pero exige mantener la presión arterial ligeramente más alta para conseguir la excreción necesaria.
 
-Con el tiempo, esa presión sostenida deteriora los vasos sanguíneos, el músculo cardíaco y el riñón.
+> Con el tiempo, esa presión sostenida deteriora los vasos sanguíneos, el músculo cardíaco y el riñón.
 
 ## ¿Qué ocurre si falta o sobra sodio?
 
 **Si falta:** El descenso del sodio en sangre por debajo de 135 mmol/L —la **hiponatremia**— raramente resulta de una ingesta insuficiente, porque el riñón conserva el sodio con gran eficiencia. Las causas más frecuentes son el exceso de líquido —que diluye el sodio plasmático— o la pérdida de sodio sin reposición adecuada. Los atletas de resistencia son un grupo de riesgo específico: beber grandes cantidades de líquido sin sodio durante una carrera prolongada diluye el plasma hasta producir la emergencia neurológica con confusión, convulsiones y, en los casos más graves, coma —la **hiponatremia por dilución**—.
 
-Esta forma de hiponatremia es más peligrosa que la deshidratación leve, y se produce por beber demasiado, no por beber poco.
+> Esta forma de hiponatremia es más peligrosa que la deshidratación leve, y se produce por beber demasiado, no por beber poco.
 
 **Si sobra:** La asociación entre la ingesta crónica elevada de sodio y la hipertensión arterial está sólidamente respaldada por la evidencia. No todas las personas responden igual: la tendencia de la presión arterial a subir cuando aumenta la ingesta de sodio —la **sensibilidad a la sal**— afecta a entre el 30 y el 50 % de las personas con presión arterial normal y a entre el 50 y el 75 % de quienes ya tienen hipertensión. En los individuos sensibles, reducir la ingesta de sodio de 4.000 a 2.000 mg/día puede reducir la presión sistólica entre 5 y 10 mmHg, una reducción comparable a la de algunos fármacos antihipertensivos en dosis bajas.
 
-La hipertensión sostenida incrementa el riesgo de ictus, infarto de miocardio, insuficiencia cardíaca y enfermedad renal crónica. A nivel poblacional, reducir el sodio en los alimentos procesados es una de las intervenciones de salud pública con mejor relación coste-beneficio documentada.
+La hipertensión sostenida incrementa el riesgo de ictus, infarto de miocardio, insuficiencia cardíaca y enfermedad renal crónica. A nivel poblacional, reducir el sodio en los ultraprocesados es una de las intervenciones de salud pública con mejor relación coste-beneficio documentada.
 
-El sodio es el único nutriente cuya referencia no indica una ingesta mínima a alcanzar sino un techo a no superar: las necesidades reales son de unos 500 mg/día y cualquier dieta con alimentos mínimamente variados las cubre sin esfuerzo. El exceso —el único problema real en los países desarrollados— es invisible porque el 75–80 % del sodio que consumes ya viene incorporado en los alimentos antes de que lleguen a tu mesa.
+Mi lectura es que el dato más útil de este artículo no es la cifra de 2.000 mg/día: es que el 75–80 % del sodio que consumes llega incorporado en el alimento antes de que entres a la cocina, lo que hace que cualquier estrategia centrada solo en no añadir sal esté mirando el problema desde el extremo equivocado.
+
+El sodio es el único nutriente cuya referencia no indica una ingesta mínima a alcanzar sino un techo a no superar: las necesidades reales son de unos 500 mg/día y cualquier dieta mínimamente variada las cubre sin esfuerzo. El exceso —el único problema real en los países desarrollados— es invisible porque el 75–80 % del sodio que consumes ya viene incorporado en lo que compras antes de que llegue a tu mesa.
 
 ---
 

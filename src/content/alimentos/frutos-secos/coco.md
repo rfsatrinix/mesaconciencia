@@ -1,11 +1,11 @@
----
+﻿---
 title: "Coco"
 description: "Coco: es el fruto seco con más grasa saturada del grupo y el de mayor contenido en fibra, con una paradoja cardiovascular que los estudios polinésicos explican."
 date: 2026-07-24
 categoria: "Frutos secos"
 draft: false
-image: "/images/alimentos/coco.svg"
-imageAlt: "Imagen de portada del artículo sobre coco"
+image: "./fotos/coco_portada.jpg"
+imageAlt: "Fotografía de coco deshidratado"
 ---
 
 Entras en la pastelería a por otra cosa y las ves en el mostrador: redondas, cubiertas de escamas blancas, con ese olor dulce que reconoces de siempre. Las bolitas de coco. Las pides sin pensártelo.
@@ -16,7 +16,7 @@ El 88 % de su grasa es saturada. Más que la mantequilla —51 g de saturados po
 
 Pero las poblaciones que construyeron su dieta sobre el coco durante generaciones tenían las tasas de enfermedad cardiovascular más bajas registradas en ningún estudio.
 
-## Qué es el coco
+## ¿Qué es el coco?
 
 El coco (*Cocos nucifera*) es el fruto de la palmera cocotero, de la familia Arecaceae —sin parentesco botánico con el nogal, la avellana ni ningún otro fruto seco habitual—, originaria de las costas tropicales del Pacífico e Índico y hoy cultivada en toda la franja tropical mundial. Su cultivo está documentado desde hace entre 3.000 y 4.500 años en las costas del Pacífico e Índico.
 
@@ -37,8 +37,8 @@ Datos por cada 100 g de coco deshidratado sin azúcar:
 | — [Saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) | 57,2 g |
 | — &nbsp;&nbsp; Ácido láurico (C12) | 26,7 g |
 | — &nbsp;&nbsp; Ácido mirístico (C14) | 11,2 g |
-| — Monoinsaturadas | 2,7 g |
-| — Poliinsaturadas | 0,7 g |
+| — [Monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) | 2,7 g |
+| — [Poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) | 0,7 g |
 | [Vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) | 0,24 mg |
 | [Folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) | 26 µg |
 | [Potasio](/nutricion/micronutrientes/minerales/potasio) | 543 mg |
@@ -64,7 +64,7 @@ Un metaanálisis de Mensink et al. que revisó 60 ensayos clínicos lo confirmó
 
 La posición del ácido láurico es debatida, que conste. Algunos investigadores señalan que sus 12 carbonos lo sitúan en el límite entre cadena media y cadena larga, y que su metabolismo en el hígado no es tan distinto del de las grasas de 16 carbonos como sugiere el modelo TCM. Tienen su parte de razón, pero los datos de las poblaciones que lo han consumido históricamente en grandes cantidades son los que son.
 
-El coco no se comporta como la mantequilla. Pero tampoco se comporta como el aceite de oliva.
+> El coco no se comporta como la mantequilla. Pero tampoco se comporta como el aceite de oliva.
 
 ## La fibra que nadie busca en el coco
 
@@ -76,7 +76,7 @@ El valor más alto de todos los frutos secos habituales. Y casi nunca aparece en
 
 La fibra del coco es principalmente insoluble —celulosa de la pulpa del fruto—, lo que significa que actúa sobre todo añadiendo volumen al intestino y acelerando el tránsito. También tiene una fracción fermentable que las bacterias del colon convierten en ácidos grasos de cadena corta, compuestos que alimentan las células del epitelio intestinal. No es la fibra más potente para la microbiota —menos que la pectina o el betaglucano de la avena—, pero no es despreciable.
 
-Es el fruto seco con más fibra del grupo, y casi nadie lo sabe.
+> Es el fruto seco con más fibra del grupo, y casi nadie lo sabe.
 
 ## Lo que las islas de coco explican sobre el contexto nutricional
 
@@ -88,9 +88,9 @@ Lindeberg et al. encontraron algo parecido en Kitava, Papúa Nueva Guinea: gente
 
 Ninguno de estos estudios prueba que el coco proteja el corazón —eso requeriría ensayos de intervención a una escala que nadie ha financiado, y las diferencias entre esas dietas y la occidental son demasiado grandes para aislar el efecto del coco solo—. Lo que sí demuestran es que el modelo «grasa saturada → LDL alto → infarto» no predice bien los resultados cuando el contexto dietético completo es radicalmente distinto: sin azúcar refinado, con mucha fibra, con actividad física intensa, sin exceso calórico crónico.
 
-El coco no protege el corazón. Pero tampoco lo daña en el contexto en que siempre se ha comido.
+> El coco no protege el corazón. Pero tampoco lo daña en el contexto en que siempre se ha comido.
 
-## Cuánto coco consumir y cómo
+## ¿Cuánto coco consumir y cómo?
 
 La ración de referencia es de 20-30 g —un par de cucharadas, no la bandeja de los muffins de la cafetería—. Con 30 g de coco deshidratado sin azúcar obtienes 198 kcal, 17,2 g de grasa saturada —de los cuales 8 g son ácido láurico—, 4,9 g de [fibra](/nutricion/fibra-alimenticia), 0,81 mg de [manganeso](/nutricion/micronutrientes/oligoelementos/manganeso) y 163 mg de [potasio](/nutricion/micronutrientes/minerales/potasio).
 

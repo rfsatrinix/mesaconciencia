@@ -36,13 +36,13 @@ El FMN y el FAD —llamados colectivamente flavocoenzimas— son cofactores de m
 
 **Detoxificación hepática.** El FAD es componente esencial de la enzima que activa los complejos enzimáticos del hígado encargados de convertir fármacos, hormonas y compuestos tóxicos en formas más fáciles de excretar —la **NADPH-citocromo P450 reductasa**—. Los citocromos P450 catalizan el proceso por el que el hígado neutraliza sustancias potencialmente dañinas —la **biotransformación hepática**—.
 
-Sin riboflavina, estos cuatro procesos se comprometen al mismo tiempo.
+> Sin riboflavina, estos cuatro procesos se comprometen al mismo tiempo.
 
 ## Fuentes alimentarias de riboflavina
 
-Las fuentes más concentradas son los órganos animales, los lácteos, los frutos secos y las setas:
+Las fuentes más concentradas son los órganos animales, los lácteos, los [frutos secos](/alimentos/frutos-secos) y las setas:
 
-| Alimento | Riboflavina por 100 g |
+| Alimento | Riboflavina por cada 100 g |
 |---|---|
 | Hígado de ternera (cocido) | ~3,0 mg |
 | Almendras | ~1,1 mg |
@@ -93,13 +93,15 @@ El déficit clínico de riboflavina se denomina **ariboflavinosis**. Sus signos 
 
 Los grupos con mayor riesgo son:
 
-**Personas que no consumen lácteos ni productos animales sin planificación dietética.** La riboflavina se concentra en alimentos de origen animal, y cubrir los 1,6 mg diarios sin ellos requiere combinar fuentes vegetales específicas.
+**Personas que no consumen lácteos ni productos animales sin planificación dietética.** La riboflavina se concentra en el hígado, los lácteos, el pescado y los huevos, y cubrir los 1,6 mg diarios sin ninguno de ellos requiere combinar fuentes vegetales específicas.
 
 **Personas con alcoholismo crónico.** El alcohol reduce la absorción intestinal de riboflavina y aumenta su excreción renal.
 
 **Pacientes con anorexia nerviosa.** La restricción dietética severa reduce la ingesta total de vitaminas del grupo B, riboflavina incluida.
 
 **Personas que toman ciertos fármacos de forma crónica.** Los antidepresivos tricíclicos, los antipsicóticos y algunos antiepilépticos aceleran el metabolismo de la riboflavina y aumentan las necesidades.
+
+Para mí, el déficit de riboflavina es uno de los más difíciles de sospechar clínicamente: cuando la B6, el folato y la niacina parecen escasos pero la dieta los aporta en cantidad suficiente, lo que falta es el eslabón que los activa.
 
 La riboflavina es la única vitamina B cuyo déficit puede imitar simultáneamente los síntomas de otras tres —B6, folato y niacina—, no porque estas falten, sino porque sin ella no pueden activarse: es el caso más claro en que el problema dietético visible no es el problema real.
 

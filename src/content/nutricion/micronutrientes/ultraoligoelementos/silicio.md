@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El silicio es el cuarto elemento más abundante de la corteza terrestre y, entre los cuatro estudiados en esta sección, el más presente en los alimentos de origen vegetal —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Tu cuerpo contiene entre 1 y 2 gramos de silicio en total, concentrado principalmente en el tejido conectivo: huesos, cartílagos, tendones y dermis. La EFSA y la OMS no han establecido ninguna dosis de referencia dietética para el silicio porque la evidencia disponible no ha permitido identificar ningún proceso fisiológico que lo requiera de forma específica e irremplazable. Los estudios epidemiológicos y algunos ensayos clínicos pequeños muestran asociaciones sugestivas con la salud ósea y la síntesis de colágeno, pero la base de datos en humanos no alcanza el rigor que la EFSA exige para establecer una declaración de esencialidad.
+El silicio es el cuarto elemento más abundante de la corteza terrestre y, entre los cuatro estudiados en esta sección, el más abundante en la dieta vegetal —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)—. Tu cuerpo contiene entre 1 y 2 gramos de silicio en total, concentrado principalmente en el tejido conectivo: huesos, cartílagos, tendones y dermis. La EFSA y la OMS no han establecido ninguna dosis de referencia dietética para el silicio porque la evidencia disponible no ha permitido identificar ningún proceso fisiológico que lo requiera de forma específica e irremplazable. Los estudios epidemiológicos y algunos ensayos clínicos pequeños muestran asociaciones sugestivas con la salud ósea y la síntesis de colágeno, pero la base de datos en humanos no alcanza el rigor que la EFSA exige para establecer una declaración de esencialidad.
 
 ## ¿Para qué se estudia el silicio?
 
@@ -26,7 +26,7 @@ Las dosis empleadas en estudios de intervención —habitualmente con ch-OSA— 
 
 ## Fuentes alimentarias de silicio
 
-La distribución del silicio entre los alimentos esconde un dato contraintuitivo: aunque los cereales integrales tienen el mayor contenido total por peso, la forma en que está presente, como sílice polimérica incrustada en las paredes celulares vegetales —los **fitolitos**—, se absorbe muy mal. Los alimentos con menor contenido total pero en forma de ácido ortosilícico —la forma soluble— son las fuentes más eficaces en la práctica.
+La distribución del silicio en la dieta esconde un dato contraintuitivo: aunque los cereales integrales tienen el mayor contenido total por peso, la forma en que está presente, como sílice polimérica incrustada en las paredes celulares vegetales —los **fitolitos**—, se absorbe muy mal. Las frutas y verduras, con menor contenido total pero en forma de ácido ortosilícico —la forma soluble—, son las fuentes más eficaces en la práctica.
 
 | Alimento | Silicio por 100 g | Forma predominante |
 |---|---|---|
@@ -44,7 +44,7 @@ La cerveza de cebada ocupa un lugar singular en este cuadro: durante la fermenta
 
 ## La absorción del silicio
 
-Tu intestino absorbe el silicio con una eficiencia que depende casi exclusivamente de la forma química en que se presenta. El ácido ortosilícico —la forma soluble presente en frutas, verduras y cerveza— se absorbe en el intestino delgado con una eficiencia del 40–65 %. Los fitolitos —la sílice polimérica de la cubierta de los cereales— se absorben en menos del 5 %, porque el intestino no dispone de las enzimas necesarias para romper la estructura rígida de esas cadenas de silicio.
+Tu intestino absorbe el silicio con una eficiencia que depende casi exclusivamente de la forma química en que se presenta. El ácido ortosilícico —la forma soluble presente en frutas, verduras y cerveza— se absorbe en el intestino delgado con una eficiencia del 40–65 %. Los fitolitos —la sílice polimérica de la cubierta de los cereales— se absorben en menos del 5 %, porque tu intestino no dispone de las enzimas necesarias para romper la estructura rígida de esas cadenas de silicio.
 
 El silicio que más abunda en la dieta —el de los cereales— es el que menos aprovecha el intestino. El que entra de verdad viene en cantidades mucho menores, del plátano y la judía verde.
 
@@ -56,9 +56,11 @@ Una vez absorbido, el silicio circula en sangre como ácido ortosilícico y se e
 
 **Con ingestas altas.** La toxicidad dietética no está documentada. Ni las personas con ingestas muy elevadas procedentes de cereales integrales ni los participantes en estudios de suplementación con ch-OSA han mostrado efectos adversos en los ensayos clínicos publicados. El único antecedente de toxicidad renal relacionada con el silicio en humanos proviene del uso prolongado de antiácidos con silicato en dosis muy elevadas, situación sin equivalente en el consumo dietético normal.
 
-El silicio define una paradoja que no tiene equivalente en los demás [ultraoligoelementos](/nutricion/micronutrientes/ultraoligoelementos): es el elemento traza más difícil de evitar en cualquier dieta que incluya alimentos vegetales, y al mismo tiempo el que menos síntomas produce cuando falta. Que su ausencia sea clínicamente invisible en humanos podría significar que no es esencial, o podría significar que la dieta lo suministra en cantidades tan constantes que la deficiencia real nunca se produce de forma espontánea.
+El silicio define una paradoja que no tiene equivalente en los demás [ultraoligoelementos](/nutricion/micronutrientes/ultraoligoelementos): es el elemento traza más difícil de evitar en cualquier dieta que incluya verduras y cereales, y al mismo tiempo el que menos síntomas produce cuando falta. Que su ausencia sea clínicamente invisible en humanos podría significar que no es esencial, o podría significar que la dieta lo suministra en cantidades tan constantes que la deficiencia real nunca se produce de forma espontánea.
 
-El elemento más difícil de eliminar de la dieta es también el que nadie ha sabido declarar esencial.
+A mí me parece que la segunda explicación es la más probable: no que el silicio no importe, sino que no falta nunca porque los vegetales lo aportan sin que nadie tenga que calcularlo.
+
+> El elemento más difícil de eliminar de la dieta es también el que nadie ha sabido declarar esencial.
 
 ---
 

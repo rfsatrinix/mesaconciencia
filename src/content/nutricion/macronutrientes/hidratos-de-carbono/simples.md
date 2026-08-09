@@ -40,7 +40,7 @@ La diferencia entre los azúcares naturales y los libres es lo que explica por q
 
 **Azúcares naturales** (intrínsecos): son los que forman parte de la estructura celular del alimento —como ocurre en la fruta entera o en la leche—. Vienen acompañados de [fibra](/nutricion/fibra-alimenticia), [agua](/nutricion/agua), [vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales) que moderan su absorción y enriquecen el conjunto.
 
-**Azúcares libres**: son los que han sido extraídos de su matriz original o añadidos a los alimentos: el azúcar blanco, moreno y la panela que se añaden a recetas y productos; la miel, los siropes y los zumos de frutas —donde el proceso de extracción separa el azúcar de la fibra—; y los azúcares de los ultraprocesados, como refrescos, bollería o salsas.
+**Azúcares libres**: son los que han sido extraídos de su matriz original o añadidos durante el procesado: el azúcar blanco, moreno y la panela que se añaden a recetas y productos; la miel, los siropes y los zumos de frutas —donde el proceso de extracción separa el azúcar de la fibra—; y los azúcares de los ultraprocesados, como refrescos, bollería o salsas.
 
 La OMS y la EFSA basan sus recomendaciones restrictivas en los **azúcares libres**, no en los azúcares naturales de la fruta o la leche.
 
@@ -60,11 +60,11 @@ La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la 
 
 **Producción de grasa en el hígado.** Cuando la ingesta de fructosa es elevada, el hígado la convierte en la forma de grasa que circula por tu sangre —los **triglicéridos**— en lugar de en glucosa disponible. El consumo habitual de bebidas azucaradas con jarabe de maíz de alta fructosa se asocia con la acumulación de grasa en las células del hígado —la **esteatosis hepática**—, con la pérdida gradual de la capacidad de tus células de responder a la insulina —la **resistencia a la insulina**— y con elevación de triglicéridos en sangre.
 
-La fructosa de la fruta entera no tiene estos efectos. La fibra y la cantidad lo cambian todo.
+> La fructosa de la fruta entera no tiene estos efectos. La fibra y la cantidad lo cambian todo.
 
 ## Fuentes naturales de azúcares simples
 
-Estos alimentos contienen azúcares simples pero con un perfil nutricional completo:
+Estas fuentes contienen azúcares simples pero con un perfil nutricional completo:
 
 | Alimento | Azúcares por 100 g | Contexto nutricional |
 |---|---|---|
@@ -82,7 +82,7 @@ El consumo elevado de azúcares libres tiene efectos documentados sobre varios s
 
 **Caries dental.** Las bacterias de tu boca fermentan los azúcares y producen ácidos que desmineralizan el esmalte.
 
-**Exceso de peso.** Las bebidas azucaradas no generan la misma saciedad que los alimentos sólidos con las mismas calorías. Consumes energía sin que tu cuerpo registre que has comido.
+**Exceso de peso.** Las bebidas azucaradas no generan la misma saciedad que la comida sólida con las mismas calorías. Consumes energía sin que tu cuerpo registre que has comido.
 
 **Hígado graso.** El exceso de fructosa puede hacer que tu hígado fabrique grasa en lugar de procesarla correctamente —un proceso que se llama **lipogénesis hepática**—.
 
@@ -90,7 +90,7 @@ El consumo elevado de azúcares libres tiene efectos documentados sobre varios s
 
 **Elevación de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre.** El exceso de fructosa altera los niveles de grasas en tu sangre —una condición que se conoce como **dislipemia**—, un factor de riesgo cardiovascular independiente del colesterol.
 
-Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
+Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Si soy sincera, el problema con los azúcares libres no es el que añades al café: es el que viene oculto en el pan de molde, el aliño de ensalada y la salsa de tomate envasada, sin que nadie lo cuente ni lo vea. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
 
 ---
 

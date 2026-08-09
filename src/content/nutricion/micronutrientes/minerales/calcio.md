@@ -24,7 +24,7 @@ El **calcio** es el [mineral](/nutricion/micronutrientes/minerales) más abundan
 
 Tu sangre mantiene el calcio en un rango muy estrecho: entre 8,5 y 10,5 mg/dL. Cuando el nivel cae, las cuatro pequeñas glándulas situadas detrás del tiroides —las **glándulas paratiroides**— secretan la hormona que pone en marcha la respuesta —la **hormona paratiroidea** (PTH)—. La PTH actúa en tres frentes a la vez: estimula a las células que disuelven tejido óseo —los **osteoclastos**— para que liberen calcio al torrente sanguíneo; hace que el riñón recupere el calcio antes de que salga en la orina; y activa en el riñón la conversión de [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) a su forma activa —el **calcitriol**—, que a su vez potencia la absorción de calcio en el intestino.
 
-El hueso es la reserva de emergencia del calcio en sangre. Y se usa como tal.
+> El hueso es la reserva de emergencia del calcio en sangre. Y se usa como tal.
 
 El resultado contraintuitivo es que si tu ingesta de calcio es crónicamente baja, tu análisis de sangre mostrará un calcio sérico completamente normal —la PTH se encarga de mantenerlo así— mientras el hueso se vacía lentamente. La deficiencia de calcio no suele aparecer en las analíticas de rutina hasta que la pérdida ósea ya es significativa.
 
@@ -53,7 +53,7 @@ La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la 
 | Queso manchego curado | 756 mg |
 | Sardinas en conserva (con espinas) | 382 mg |
 | Almendras | 269 mg |
-| Bebida de soja enriquecida | 120 mg |
+| Bebida de [soja](/alimentos/legumbres/soja) enriquecida | 120 mg |
 | Leche entera | 119 mg |
 | Yogur natural | 110 mg |
 | Tofu (precipitado con calcio) | 105–200 mg |
@@ -78,9 +78,9 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 **Oxalatos.** Están presentes en espinacas, acelgas y remolacha, y forman complejos insolubles con el calcio que bloquean su absorción intestinal.
 
-**Fitatos.** Los cereales integrales y las legumbres sin remojar ni fermentar contienen unos compuestos que almacenan fósforo en la capa exterior del grano —los **fitatos**— que también se unen al calcio y reducen su absorción. El remojo prolongado y la fermentación activan las enzimas que descomponen los fitatos —las **fitasas**— y recuperan parte de esa biodisponibilidad.
+**Fitatos.** Los cereales integrales y las [legumbres](/alimentos/legumbres) sin remojar ni fermentar contienen unos compuestos que almacenan fósforo en la capa exterior del grano —los **fitatos**— que también se unen al calcio y reducen su absorción. El remojo prolongado y la fermentación activan las enzimas que descomponen los fitatos —las **fitasas**— y recuperan parte de esa biodisponibilidad.
 
-**Exceso de [sodio](/nutricion/micronutrientes/minerales/sodio).** Por cada 2.300 mg de sodio que ingieres, tu riñón excreta aproximadamente 40 mg adicionales de calcio en la orina. Una dieta con alta carga de alimentos procesados puede aumentar las pérdidas urinarias de calcio de forma significativa.
+**Exceso de [sodio](/nutricion/micronutrientes/minerales/sodio).** Por cada 2.300 mg de sodio que ingieres, tu riñón excreta aproximadamente 40 mg adicionales de calcio en la orina. Una dieta con alta carga de sal y ultraprocesados puede aumentar las pérdidas urinarias de calcio de forma significativa.
 
 **Cafeína en dosis elevadas.** Puede aumentar ligeramente la excreción urinaria de calcio, aunque el efecto es pequeño con el consumo habitual de café o té.
 
@@ -88,7 +88,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 Si sigues una dieta vegana, puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
 
-**Bebidas vegetales enriquecidas.** Las de soja, avena y almendra aportan entre 120 y 150 mg de calcio por 100 mL cuando llevan sales cálcicas añadidas; sin enriquecimiento, su contenido es marginal.
+**Bebidas vegetales enriquecidas.** Las de soja, avena y [almendra](/alimentos/frutos-secos/almendra) aportan entre 120 y 150 mg de calcio por 100 mL cuando llevan sales cálcicas añadidas; sin enriquecimiento, su contenido es marginal.
 
 **Tofu precipitado con sulfato cálcico o cloruro cálcico.** Aporta entre 100 y 200 mg por 100 g dependiendo de la firmeza —el tofu más firme concentra más calcio—.
 
@@ -105,6 +105,8 @@ La deficiencia crónica de calcio conduce primero a una pérdida de densidad ós
 El descenso brusco del calcio en sangre —la **hipocalcemia aguda**— produce síntomas neuromusculares rápidos: calambres, los hormigueos y adormecimientos de la sensibilidad —las **parestesias**— y, en casos graves, las contracciones musculares involuntarias y mantenidas que pueden afectar la respiración —la **tetania**—. Es una emergencia médica.
 
 El exceso de calcio en sangre causado por la suplementación excesiva —la **hipercalcemia**— puede causar cálculos renales, estreñimiento y, en casos severos, calcificación de tejidos blandos. La EFSA fija el límite superior tolerable en **2.500 mg/día**; ese umbral incluye la suma de calcio dietético y suplementario, no solo los suplementos.
+
+Para mí, ese umbral importa más de lo que parece: los suplementos de calcio se recetan con frecuencia sin medir los niveles previos, y es más fácil excederse —con consecuencias reales— de lo que la gente suele pensar.
 
 El calcio es el único macromineral cuya deficiencia deja una huella que no se puede deshacer: el hueso que no se mineraliza durante la adolescencia no se recupera en la edad adulta, por mucho calcio que se aporte después. Lo que el esqueleto acumula antes de los 30 es el capital que gasta durante el resto de la vida.
 

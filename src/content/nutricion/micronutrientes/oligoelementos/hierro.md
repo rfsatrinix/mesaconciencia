@@ -4,13 +4,15 @@ description: "Hierro: es el oligoelemento esencial para transportar oxígeno, co
 categoria: "Oligoelementos"
 draft: false
 date: 2026-07-03
+image: "./fotos/hierro_portada.jpg"
+imageAlt: "Fotografía de hierro"
 ---
 
 En el siglo XVII, los médicos europeos describían en mujeres jóvenes un síndrome de fatiga extrema, palidez y un tinte verdoso en la piel que llamaron *clorosis* —o «mal de la virgen»— sin entender su causa. El tratamiento empírico más extendido era el «vino de acero»: vino en el que se habían sumergido clavos o limaduras de hierro durante días. Funcionaba. No por el vino, sino porque el ácido tartárico de la uva disolvía el hierro y producía una solución que, tomada en ayunas, aportaba hierro absorbible al organismo. El mecanismo que lo explicaba —la conexión entre el hierro, la hemoglobina y el transporte de oxígeno— tardaría dos siglos más en aclararse.
 
 Hoy sabemos que la clorosis era anemia ferropénica. La deficiencia de hierro es la carencia nutricional más extendida del mundo: la OMS estima que más de 1.600 millones de personas tienen anemia ferropénica, y muchas más presentan depósitos de hierro reducidos sin llegar a la anemia.
 
-El hierro es un [oligoelemento](/nutricion/micronutrientes/oligoelementos) cuya función más conocida es el transporte de oxígeno, pero cuyo papel en el metabolismo va bastante más allá. Tu organismo gestiona su stock de hierro con una eficiencia notable: cuando un glóbulo rojo completa sus ~120 días de vida y es degradado en el bazo y el hígado, los macrófagos recuperan el hierro del grupo hemo y lo devuelven a la circulación para fabricar nuevos glóbulos. Las pérdidas diarias son mínimas —1 a 2 mg, por la descamación del epitelio intestinal, la piel y el sudor—. El problema no es la cantidad perdida: es que el hierro dietético no se absorbe con facilidad.
+El hierro es un [oligoelemento](/nutricion/micronutrientes/oligoelementos) cuya función más conocida es el transporte de oxígeno, pero cuyo papel en el metabolismo va bastante más allá. Tu organismo gestiona su stock de hierro con una eficiencia notable: cuando un glóbulo rojo completa sus aproximadamente 120 días de vida y es degradado en el bazo y el hígado, los macrófagos recuperan el hierro del grupo hemo y lo devuelven a la circulación para fabricar nuevos glóbulos. Las pérdidas diarias son mínimas —1 a 2 mg, por la descamación del epitelio intestinal, la piel y el sudor—. El problema no es la cantidad perdida: es que el hierro dietético no se absorbe con facilidad.
 
 ## ¿Para qué sirve el hierro?
 
@@ -18,13 +20,13 @@ El hierro es el cofactor metálico de cuatro grupos funcionales clave en tu orga
 
 **Transporte y almacenamiento de oxígeno** — La proteína que llena los glóbulos rojos y lleva el oxígeno desde los pulmones hasta cada tejido —la **hemoglobina**— y la que almacena el oxígeno en las células musculares para usarlo durante el esfuerzo —la **mioglobina**— concentran juntas alrededor del 70 % del hierro corporal total. El hierro oscila entre dos estados de oxidación (Fe²⁺ y Fe³⁺) para captar el oxígeno en el pulmón y liberarlo en los capilares tisulares. Cuando el hierro escasea, tu organismo prioriza mantener la hemoglobina a costa de casi todo lo demás; la fatiga muscular y la menor tolerancia al ejercicio —por el déficit en la mioglobina— aparecen antes que la anemia.
 
-**Producción de ATP** — Las [proteínas](/nutricion/macronutrientes/proteinas) que contienen un grupo hemo en su centro activo —los **citocromos**— forman parte del sistema de reacciones que, dentro de la mitocondria, genera la mayor parte de la moneda energética de la célula —el **ATP**—. Sin hierro suficiente en los citocromos, la eficiencia de esa producción de energía disminuye de forma mensurable.
+**Producción de ATP** — Dentro de tus mitocondrias, una cadena de proteínas que contienen hierro en su centro activo —los **citocromos**— transforma el oxígeno y los nutrientes en la energía que tus células necesitan para funcionar —el **ATP**—. Sin hierro suficiente, esa cadena rinde peor y produces menos energía.
 
-**Sistema inmunitario** — El hierro es necesario para que los linfocitos T y los macrófagos proliferen y maduren. Estas células son el núcleo de la rama del sistema inmunitario que aprende a reconocer patógenos específicos y genera memoria —la **inmunidad adaptativa**—. El organismo usa también la restricción de hierro como defensa activa: en respuesta a una infección bacteriana, una hormona producida en el hígado —la **hepcidina**— bloquea la exportación de hierro a la sangre para privar a los patógenos del mineral que necesitan para multiplicarse.
+**Sistema inmunitario** — El hierro es necesario para que los linfocitos T y los macrófagos proliferen y maduren. Estas células son el núcleo de la rama del sistema inmunitario que aprende a reconocer patógenos específicos y genera memoria —la **inmunidad adaptativa**—. Tu organismo usa también la restricción de hierro como defensa activa: en respuesta a una infección bacteriana, una hormona producida en el hígado —la **hepcidina**— bloquea la exportación de hierro a la sangre para privar a los patógenos del mineral que necesitan para multiplicarse.
 
 **Síntesis de neurotransmisores** — El hierro es cofactor de la enzima que cataliza el primer paso de la síntesis de dopamina, noradrenalina y adrenalina —la **tirosina hidroxilasa**— y de la que inicia la síntesis de serotonina —la **[triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) hidroxilasa**—. El déficit de hierro en la infancia puede alterar el desarrollo de los circuitos de señalización de la dopamina y producir déficits de atención, irritabilidad y deterioro cognitivo que raras veces se asocian clínicamente al estado del hierro.
 
-El hierro no es solo el mineral de los glóbulos rojos.
+> El hierro no es solo el mineral de los glóbulos rojos.
 
 ## Hierro hemo y hierro no hemo: por qué no todo el hierro es igual
 
@@ -33,17 +35,17 @@ La diferencia entre hierro hemo y no hemo es la más importante en la práctica 
 | Tipo | Fuentes | Absorción |
 |---|---|---|
 | **Hierro hemo** | Carnes rojas, aves, pescado, marisco | 15–35 % |
-| **Hierro no hemo** | Legumbres, verduras de hoja, huevos, cereales, frutos secos | 2–20 % |
+| **Hierro no hemo** | [Legumbres](/alimentos/legumbres), verduras de hoja, huevos, cereales, [frutos secos](/alimentos/frutos-secos) | 2–20 % |
 
 El **hierro hemo** es el que está incorporado en la hemoglobina y la mioglobina de los animales. Las células intestinales lo absorben como molécula intacta, sin que los factores dietéticos que inhiben el otro tipo —fitatos, taninos, calcio— lo afecten significativamente. Tu intestino lo capta con una eficiencia del 15 al 35 %, independientemente del resto de la comida.
 
-El **hierro no hemo** viaja como ión libre (Fe³⁺) y necesita ser reducido a Fe²⁺ antes de entrar en las células de la pared intestinal que absorben y exportan nutrientes al torrente sanguíneo —el **enterocito**—. Esa reducción depende del pH del medio intestinal y de la presencia de compuestos reductores como la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). Su absorción puede llegar al 20 % en condiciones favorables o caer al 2 % en presencia de fitatos y taninos y sin vitamina C. La misma ración de lentejas puede aportar entre 0,07 mg y 0,7 mg de hierro realmente absorbido según el contexto de la comida.
+El **hierro no hemo** viaja como ión libre (Fe³⁺) y necesita ser reducido a Fe²⁺ antes de entrar en las células de la pared intestinal que absorben y exportan nutrientes al torrente sanguíneo —el **enterocito**—. Esa reducción depende del pH del medio intestinal y de la presencia de compuestos reductores como la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). Su absorción puede llegar al 20 % en condiciones favorables o caer al 2 % en presencia de fitatos y taninos y sin vitamina C. La misma ración de [lentejas](/alimentos/legumbres/lentejas) puede aportar entre 0,07 mg y 0,7 mg de hierro realmente absorbido según el contexto de la comida.
 
 La movilización del hierro desde los depósitos celulares hacia la circulación también depende del [cobre](/nutricion/micronutrientes/oligoelementos/cobre): la principal proteína plasmática que contiene cobre —la **ceruloplasmina**— actúa como la enzima que oxida el Fe²⁺ a Fe³⁺ —la **ferroxidasa**—, permitiendo que el hierro se una a la principal proteína que lo transporta en sangre —la **transferrina**— y llegue hasta la médula ósea. Sin cobre suficiente, el hierro puede quedarse atrapado en los depósitos aunque la ingesta dietética sea correcta.
 
 ## ¿Cuánto hierro necesitas?
 
-Las necesidades de hierro varían con las pérdidas. Las mujeres en edad fértil tienen requerimientos casi un 50 % superiores a los de los hombres adultos por las pérdidas menstruales, que en el ciclo medio suponen entre 15 y 30 mg de hierro al mes:
+Las necesidades de hierro varían con las pérdidas. Las mujeres en edad fértil tienen requerimientos casi un 50 % superiores a los de los hombres adultos por las pérdidas menstruales, que suponen entre 0,5 y 1 mg de hierro adicional al día:
 
 | Grupo | Ingesta de referencia (EFSA) |
 |---|---|
@@ -58,7 +60,7 @@ Estas cifras asumen una dieta mixta con hierro hemo e hierro no hemo. Si sigues 
 
 ## Fuentes de hierro en la dieta
 
-| Alimento | Hierro por 100 g | Tipo |
+| Alimento | Hierro por cada 100 g | Tipo |
 |---|---|---|
 | Berberecho cocido | 24 mg | Hemo |
 | Semillas de chía | 7,7 mg | No hemo |
@@ -67,11 +69,13 @@ Estas cifras asumen una dieta mixta con hierro hemo e hierro no hemo. Si sigues 
 | Espinacas crudas | 2,7 mg | No hemo |
 | Tofu | 2,4 mg | No hemo |
 | Carne de ternera (magra, cocida) | 2,2 mg | Hemo |
-| [Garbanzos](/alimentos/garbanzos) cocidos | 2,1 mg | No hemo |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 2,1 mg | No hemo |
 
 *Fuente: BEDCA; USDA FoodData Central.*
 
-Las espinacas ilustran bien la diferencia entre contenido bruto y hierro realmente absorbido: con 2,7 mg por 100 g, parecen una buena fuente, pero contienen compuestos que se unen al hierro y al [calcio](/nutricion/micronutrientes/minerales/calcio) en el intestino formando complejos insolubles que el organismo no puede absorber —los **oxalatos**—. La absorción real de hierro de las espinacas es muy inferior a la que su cifra bruta sugiere; las lentejas, con 3,3 mg/100 g y sin esa carga de oxalatos, son en la práctica una fuente más eficaz si las combinas con vitamina C.
+Las espinacas ilustran bien la diferencia entre contenido bruto y hierro realmente absorbido: con 2,7 mg por cada 100 g, parecen una buena fuente, pero contienen compuestos que se unen al hierro y al [calcio](/nutricion/micronutrientes/minerales/calcio) en el intestino formando complejos insolubles que tu organismo no puede absorber —los **oxalatos**—. La absorción real de hierro de las espinacas es muy inferior a la que su cifra bruta sugiere; las [lentejas](/alimentos/legumbres/lentejas), con 3,3 mg por cada 100 g y sin esa carga de oxalatos, son en la práctica una fuente más eficaz si las combinas con vitamina C.
+
+> La misma ración de lentejas puede aportar entre 0,07 mg y 0,7 mg de hierro absorbido. La diferencia no está en las lentejas: está en la vitamina C que las acompaña.
 
 ## Cómo mejorar la absorción del hierro no hemo
 
@@ -91,13 +95,15 @@ La absorción del hierro no hemo puede multiplicarse por tres o caer a casi nada
 
 **Fitatos.** Se encuentran en cereales integrales y legumbres sin procesar; se unen al hierro no hemo en el intestino impidiendo su absorción. El remojo previo, la germinación y la fermentación los neutralizan parcialmente.
 
-**Taninos.** Presentes en el café, el té negro y el vino tinto; forman con el hierro no hemo complejos insolubles que el intestino no puede absorber. Separar el café o el té al menos una hora de las comidas ricas en hierro vegetal es la medida con mayor impacto práctico para quien no consume alimentos de origen animal.
+**Taninos.** Presentes en el café, el té negro y el vino tinto; forman con el hierro no hemo complejos insolubles que el intestino no puede absorber. Separar el café o el té al menos una hora de las comidas ricas en hierro vegetal es la medida con mayor impacto práctico para quien no consume carne ni pescado.
 
 **[Calcio](/nutricion/micronutrientes/minerales/calcio) en dosis altas.** Compite con el hierro en el transportador intestinal —el mismo canal que ambos usan para entrar en el enterocito—. Los suplementos de calcio tomados en las comidas principales reducen la absorción tanto de hierro hemo como no hemo.
 
 **Oxalatos.** Presentes en espinacas, remolacha y acelgas; forman complejos insolubles con el hierro. El contenido bruto de hierro en las espinacas no refleja lo que tu organismo absorbe en realidad.
 
-La combinación con mayor impacto en la práctica: legumbres remojadas y cocinadas, con pimiento crudo, perejil o zumo de limón en la misma comida, y el café o el té separados al menos una hora.
+En la práctica, la combinación con mayor impacto es legumbres remojadas y cocinadas, con pimiento crudo, perejil o zumo de limón en la misma comida, y el café o el té separados al menos una hora.
+
+> Un chorrito de zumo de limón en las lentejas no se añade solo por el sabor: puede triplicar el hierro que absorbes de ellas.
 
 ## ¿Qué ocurre si te falta hierro?
 
@@ -111,10 +117,15 @@ La anemia ferropénica se desarrolla en tres fases antes de que la hemoglobina c
 
 El diagnóstico correcto requiere el recuento de las distintas células de la sangre —el **hemograma completo**— junto con ferritina y saturación de transferrina. La hemoglobina sola puede parecer normal durante las dos primeras fases, que son las más frecuentes en la población.
 
+Para mí, la ferritina es el análisis más revelador del estado real del hierro —y el que con más frecuencia se omite en los controles de rutina.
+
 El hierro no debe suplementarse sin diagnóstico previo. El exceso se acumula en el hígado, el corazón y el páncreas y puede producir daño orgánico irreversible —una condición llamada **hemocromatosis**—. El exceso de hierro libre también es prooxidante: reacciona con el peróxido de hidrógeno y genera el radical hidroxilo, uno de los oxidantes más destructivos a nivel celular —la **reacción de Fenton**—. El organismo regula la absorción de hierro con precisión justamente para evitar este riesgo; los suplementos innecesarios saltan esa regulación.
 
-La anemia ferropénica es la carencia nutricional más extendida del mundo, pero la anemia es el último síntoma en aparecer: para cuando la hemoglobina cae, los depósitos llevan meses vacíos, la transferrina lleva semanas sin hierro que transportar, y el problema no está en la sangre sino en la historia de lo que comiste.
+La anemia ferropénica es la carencia nutricional más extendida del mundo, pero la anemia es el último síntoma en aparecer: para cuando la hemoglobina cae, los depósitos llevan meses vacíos, la transferrina lleva semanas sin hierro que transportar, y el problema no está en la sangre sino en lo que estuvo —o no estuvo— en tu plato.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4254" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for iron. EFSA Journal. 2015.</a> · <a href="https://www.who.int/publications/i/item/9789241564960" target="_blank" rel="noopener noreferrer">WHO. The global prevalence of anaemia in 2011. World Health Organization, 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4254" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for iron. EFSA Journal. 2015.</a>
+- <a href="https://www.who.int/publications/i/item/9789241564960" target="_blank" rel="noopener noreferrer">WHO. The global prevalence of anaemia in 2011. World Health Organization, 2015.</a>

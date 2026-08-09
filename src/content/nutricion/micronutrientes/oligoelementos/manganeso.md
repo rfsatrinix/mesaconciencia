@@ -12,7 +12,7 @@ En la bioquímica contemporánea, el manganeso ocupa una posición singular entr
 
 ## ¿Cuánto manganeso necesitas?
 
-La EFSA estableció ingestas adecuadas para el manganeso en 2013. A diferencia de otros oligoelementos, no ha establecido ningún nivel máximo tolerable a partir de la ingesta dietética, por insuficiencia de datos sobre efectos adversos procedentes de los alimentos. El nivel máximo tolerable del Instituto de Medicina de EEUU (11 mg/día para adultos) se aplica principalmente al contexto de suplementos y exposición ambiental, no a la ingesta alimentaria habitual.
+La EFSA estableció ingestas adecuadas para el manganeso en 2013. A diferencia de otros oligoelementos, no ha establecido ningún nivel máximo tolerable a partir de la ingesta dietética, por insuficiencia de datos sobre efectos adversos procedentes de la dieta. El nivel máximo tolerable del Instituto de Medicina de EEUU (11 mg/día para adultos) se aplica principalmente al contexto de suplementos y exposición ambiental, no a la ingesta alimentaria habitual.
 
 | Grupo | Ingesta adecuada (EFSA 2013) |
 |---|---|
@@ -26,7 +26,7 @@ La EFSA estableció ingestas adecuadas para el manganeso en 2013. A diferencia d
 | Niños 4–6 | 1,0 mg/día |
 | Niños 1–3 | 0,5 mg/día |
 
-La absorción de manganeso es baja —entre el 1 y el 5 % de la ingesta dietética— y varía en función de tu estado de [hierro](/nutricion/micronutrientes/oligoelementos/hierro): ambos oligoelementos compiten para absorberse por el mismo canal intestinal, el transportador de metales divalentes (DMT1). Una ingesta elevada de hierro reduce la absorción de manganeso; la deficiencia de hierro la aumenta. Esta interdependencia tiene consecuencias prácticas: las poblaciones con déficit de hierro pueden acumular más manganeso procedente del suministro hídrico o los alimentos de lo esperado.
+La absorción de manganeso es baja —entre el 1 y el 5 % de la ingesta dietética— y varía en función de tu estado de [hierro](/nutricion/micronutrientes/oligoelementos/hierro): ambos oligoelementos compiten para absorberse por el mismo canal intestinal, el transportador de metales divalentes (DMT1). Una ingesta elevada de hierro reduce la absorción de manganeso; la deficiencia de hierro la aumenta. Esta interdependencia tiene consecuencias prácticas: las poblaciones con déficit de hierro pueden acumular más manganeso procedente del suministro hídrico o de la dieta de lo esperado.
 
 ## ¿Para qué sirve el manganeso?
 
@@ -42,7 +42,7 @@ El manganeso es cofactor de un grupo de enzimas que actúan en puntos muy distin
 
 ## Fuentes de manganeso en la dieta
 
-El manganeso está presente de forma abundante en los alimentos vegetales, especialmente en los que acumulan grandes cantidades desde el suelo:
+El manganeso está presente de forma abundante en los vegetales, especialmente en los que acumulan grandes cantidades desde el suelo:
 
 | Alimento | Manganeso por 100 g |
 |---|---|
@@ -50,7 +50,7 @@ El manganeso está presente de forma abundante en los alimentos vegetales, espec
 | Pan integral de trigo | ~2,0 mg |
 | Almendras | ~2,2 mg |
 | Arroz integral (cocido) | ~1,1 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~1,1 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~1,1 mg |
 | Espinacas cocidas | ~0,9 mg |
 | Piña | ~0,9 mg |
 | Arándanos | ~0,3 mg |
@@ -61,7 +61,7 @@ El manganeso está presente de forma abundante en los alimentos vegetales, espec
 
 El **té negro** merece mención aparte. La planta del té acumula manganeso activamente del suelo, igual que acumula [flúor](/nutricion/micronutrientes/oligoelementos/fluor). Varias tazas de té al día pueden aportar una parte significativa de la ingesta adecuada; los bebedores habituales de té en países de alto consumo (Reino Unido, India, China) obtienen del té más manganeso que de cualquier otro alimento.
 
-Si tu dieta se basa principalmente en cereales integrales y legumbres, la biodisponibilidad del manganeso es menor de lo que los valores de la tabla sugieren: los fitatos de esos alimentos se unen al manganeso en el intestino y reducen su absorción. El [calcio](/nutricion/micronutrientes/minerales/calcio) en dosis altas también puede interferir con la absorción intestinal de manganeso.
+Si tu dieta se basa principalmente en cereales integrales y [legumbres](/alimentos/legumbres), la biodisponibilidad del manganeso es menor de lo que los valores de la tabla sugieren: los fitatos presentes en ellos se unen al manganeso en el intestino y reducen su absorción. El [calcio](/nutricion/micronutrientes/minerales/calcio) en dosis altas también puede interferir con la absorción intestinal de manganeso.
 
 ## El manganeso y la mitocondria: la defensa antioxidante que el cobre no puede hacer
 
@@ -76,7 +76,7 @@ O₂•⁻ + Mn²⁺ + 2H⁺ → H₂O₂ + Mn³⁺ (segundo paso)
 
 El peróxido de hidrógeno resultante es procesado por las peroxidasas mitocondriales. La secuencia completa convierte dos radicales superóxido en una molécula de oxígeno y una de peróxido de hidrógeno (H₂O₂) —mucho menos reactivo que el superóxido—.
 
-La relevancia de SOD2 no se aprecia del todo hasta que se elimina genéticamente en ratones: los ratones sin SOD2 mueren en los primeros días de vida por fallo multiorgánico derivado de daño oxidativo mitocondrial masivo, con afectación cardíaca, neurológica y hepática simultánea. Ningún otro antioxidante puede compensar la ausencia de SOD2 en la mitocondria. El manganeso es, literalmente, insustituible en ese compartimento.
+La relevancia de SOD2 no se aprecia del todo hasta que se elimina genéticamente en ratones: los ratones sin SOD2 mueren en los primeros días de vida por fallo multiorgánico derivado de daño oxidativo mitocondrial masivo, con afectación cardíaca, neurológica y hepática simultánea. Ningún otro antioxidante puede compensar la ausencia de SOD2 en la mitocondria. > El manganeso es, literalmente, insustituible en ese compartimento.
 
 ## El manganismo: cuando el manganeso daña el cerebro
 
@@ -84,7 +84,7 @@ En 1837, el médico escocés James Couper describió los primeros casos document
 
 El cuadro neurológico resultante del exceso de manganeso en el cerebro —el **manganismo**— se parece al Parkinson pero no es el Parkinson, y la diferencia tiene consecuencias terapéuticas directas. En el Parkinson, degeneran las neuronas que producen dopamina en una región cerebral que coordina los movimientos —la **sustancia negra**— y el circuito que las conecta con el estriado pierde dopamina —la **vía nigroestriada**—; el precursor directo de la dopamina y tratamiento de primera línea —la **levodopa**— repone esa dopamina y mejora los síntomas. En el manganismo, esas neuronas están intactas: el manganeso no destruye el origen de la dopamina sino que se acumula en estructuras situadas más adelante en el circuito —las áreas que reciben la señal dopaminérgica, el **globo pálido** y el **estriado**—. La levodopa no revierte el manganismo porque la dopamina ya llega correctamente a una estructura dañada que no puede responder a ella con normalidad.
 
-Mismo cuadro motor. Mecanismo distinto. El tratamiento del uno no sirve para el otro.
+> Mismo cuadro motor. Mecanismo distinto. El tratamiento del uno no sirve para el otro.
 
 La acumulación preferencial en el globo pálido coincide con los tejidos de mayor concentración de glutamina sintasa —los astrocitos— y refleja la afinidad del manganeso por esas células. En la resonancia magnética, el manganismo produce una zona brillante característica en el globo pálido —lo que los radiólogos llaman una señal hiperintensa en secuencias T1—.
 
@@ -98,7 +98,11 @@ La deficiencia dietética de manganeso en humanos con acceso a una alimentación
 
 En humanos, los estudios de depleción experimental producen cambios sutiles en los marcadores de metabolismo óseo y en los tiempos de coagulación, pero no generan un síndrome clínico definido en el corto plazo. La proteína que inicia la cascada de coagulación de la sangre —la **protrombina**— requiere Mn²⁺ como cofactor, lo que explica esa alteración sutil pero no produce sangrado espontáneo en las condiciones de esos estudios.
 
-Los [garbanzos](/alimentos/garbanzos), la avena, el arroz integral y el pan de trigo integral aportan en conjunto más manganeso del que marcan las ingestas adecuadas establecidas. La deficiencia dietética de manganeso no tiene nombre clínico propio porque prácticamente no existe en quien come cereales integrales y legumbres con regularidad. La enfermedad con nombre propio —el manganismo— la produce el entorno laboral o la hospitalización prolongada, no la dieta.
+Los [garbanzos](/alimentos/legumbres/garbanzos), la avena, el arroz integral y el pan de trigo integral aportan en conjunto más manganeso del que marcan las ingestas adecuadas establecidas. La deficiencia dietética de manganeso no tiene nombre clínico propio porque prácticamente no existe en quien come cereales integrales y legumbres con regularidad.
+
+Creo que el manganismo sigue siendo un diagnóstico subregistrado: parece Parkinson, se trata como Parkinson y no responde, y solo entonces alguien revisa la exposición ocupacional o la función hepática.
+
+La enfermedad con nombre propio —el manganismo— la produce el entorno laboral o la hospitalización prolongada, no la dieta.
 
 ---
 

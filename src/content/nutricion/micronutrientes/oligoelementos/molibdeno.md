@@ -37,14 +37,14 @@ La lactancia requiere un aporte algo mayor para compensar las pérdidas en la le
 
 ## Fuentes alimentarias de molibdeno
 
-Las legumbres son con diferencia las fuentes más ricas en molibdeno. Una ración de 200 g de lentejas cocidas puede cubrir por sí sola varias veces lo que necesitas en un día:
+Las [legumbres](/alimentos/legumbres) son con diferencia las fuentes más ricas en molibdeno. Una ración de 200 g de lentejas cocidas puede cubrir por sí sola varias veces lo que necesitas en un día:
 
 | Alimento | Molibdeno por 100 g |
 |---|---|
 | Hígado de ternera | ~100 µg |
 | Lentejas cocidas | ~74 µg |
 | Alubias negras cocidas | ~60 µg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~50 µg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~50 µg |
 | Guisantes cocidos | ~22 µg |
 | Avena | ~15 µg |
 | Trigo integral | ~12 µg |
@@ -53,7 +53,7 @@ Las legumbres son con diferencia las fuentes más ricas en molibdeno. Una ració
 
 *Fuente: USDA FoodData Central. Los valores varían considerablemente según el contenido de molibdeno en el suelo de cultivo.*
 
-El dato que condiciona todas estas cifras es el suelo: el molibdeno en los alimentos vegetales refleja directamente la concentración del mineral en la tierra donde crecen. En regiones con suelos pobres en molibdeno —algunas zonas de China, Nueva Zelanda y el sureste asiático— las legumbres y los cereales contienen concentraciones sensiblemente menores. Es uno de los pocos nutrientes en que la geología del lugar de cultivo puede afectar de forma real al aporte dietético.
+El dato que condiciona todas estas cifras es el suelo: el molibdeno en los vegetales refleja directamente la concentración del mineral en la tierra donde crecen. En regiones con suelos pobres en molibdeno —algunas zonas de China, Nueva Zelanda y el sureste asiático— las legumbres y los cereales contienen concentraciones sensiblemente menores. Es uno de los pocos nutrientes en que la geología del lugar de cultivo puede afectar de forma real al aporte dietético.
 
 ## La absorción del molibdeno
 
@@ -67,9 +67,11 @@ Tu cuerpo no almacena molibdeno en depósitos apreciables: el exceso lo excretas
 
 **Si falta por genética:** La enfermedad causada por mutaciones en los genes que sintetizan el Moco —la **deficiencia de cofactor de molibdeno** (DCMo)— es devastadora: sin cofactor funcional, las cuatro enzimas dependientes de molibdeno fallan simultáneamente. Los recién nacidos afectados presentan una disfunción cerebral grave —la **encefalopatía**—, convulsiones intratables y daño cerebral progresivo en las primeras semanas de vida. La causa directa es la acumulación de sulfitos que, sin sulfito oxidasa funcional, no pueden convertirse en sulfatos y destruyen el tejido cerebral. Desde 2019, la forma más frecuente de DCMo (tipo A) dispone de un tratamiento aprobado: la administración intravenosa del precursor del cofactor que el cuerpo no puede sintetizar, de por vida.
 
-El déficit dietético es casi imposible. El déficit genético, en cambio, es incompatible con la vida normal.
+> El déficit dietético es casi imposible. El déficit genético, en cambio, es incompatible con la vida normal.
 
 **Si sobra:** La ingesta crónica muy elevada —por encima de 10 mg/día, posible en zonas con contaminación industrial de acuíferos— produce un síndrome similar a la gota: la sobreactividad de la xantina oxidasa eleva la producción de ácido úrico, que se deposita en las articulaciones. El exceso de molibdeno también reduce la absorción de [cobre](/nutricion/micronutrientes/oligoelementos/cobre): ambos compiten por los mismos canales de absorción intestinal, y una ingesta muy alta de molibdeno puede inducir déficit de cobre.
+
+Para mí, la deficiencia de cofactor de molibdeno es uno de los casos más brutales que conozco en genética nutricional: cuatro enzimas que fallan simultáneamente al nacer, un cuadro neurológico devastador, y el punto de fallo es un cofactor del que nadie habla en ninguna campaña de salud.
 
 Las lentejas de tu plato aportan más molibdeno del que tu cuerpo necesita en un día porque la planta lo extrajo del suelo donde creció. Ese mismo suelo permite a las bacterias de los nódulos radiculares fijar el nitrógeno del aire gracias a la enzima que cataliza esa reacción —la **nitrogenasa**—, que también depende del molibdeno. El mineral que hace posible la fertilidad del suelo y la fijación del nitrógeno en la agricultura es el mismo que tus células usan para neutralizar los sulfitos que dañarían tu cerebro.
 

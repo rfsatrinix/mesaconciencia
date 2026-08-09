@@ -28,7 +28,7 @@ La distribución de colesterol y triglicéridos en tu sangre —el **perfil lip�
 
 Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón más favorable para tu salud cardiovascular. Es uno de los mecanismos que explica los resultados de un estudio clínico español que siguió a más de 7.000 personas de alto riesgo cardiovascular y se publicó en The New England Journal of Medicine en 2013 —el ensayo **PREDIMED**—: la dieta mediterránea enriquecida con AOVE redujo el riesgo de eventos cardiovasculares mayores en aproximadamente un 30 % respecto al grupo control.
 
-Pocos alimentos tienen un ensayo de 7.000 participantes que los respalde. El aceite de oliva virgen extra tiene uno.
+> Pocos ingredientes de la dieta tienen un ensayo de 7.000 participantes que los respalde. El aceite de oliva virgen extra tiene uno.
 
 ## Por qué las grasas monoinsaturadas son estables al calor
 
@@ -38,7 +38,7 @@ La temperatura a partir de la cual el aceite empieza a humear y generar compuest
 
 ## Fuentes alimentarias de grasas monoinsaturadas
 
-La mayor concentración está en aceites, frutos secos y algunos vegetales grasos:
+La mayor concentración está en aceites, [frutos secos](/alimentos/frutos-secos) y algunos vegetales grasos:
 
 | Alimento | Grasa monoinsaturada (por 100 g) |
 |---|---|
@@ -62,7 +62,9 @@ En la práctica:
 - Incluye **frutos secos** (almendras, avellanas, pistachos) como fuente habitual de snack o acompañamiento.
 - Añade **aguacate** con frecuencia en ensaladas, tostadas y platos.
 
-Que la EFSA no fije un límite superior para las AGMI no es casual. Es el único tipo de grasa sobre el que los datos dicen: dentro del rango recomendado, cuanto más, mejor.
+Si soy sincera, hay pocas decisiones culinarias con mejor relación coste-beneficio que sustituir el aceite de semillas de girasol por aceite de oliva virgen extra: el desembolso lo parece, pero las consecuencias en tu perfil lipídico a largo plazo no son comparables.
+
+> Que la EFSA no fije un límite superior para las AGMI no es casual. Es el único tipo de grasa sobre el que los datos dicen: dentro del rango recomendado, cuanto más, mejor.
 
 ---
 

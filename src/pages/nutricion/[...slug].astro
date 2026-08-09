@@ -71,7 +71,7 @@ const relacionados = todos
     return db - da;
   })
   .slice(0, 3)
-  .map(e => ({ id: e.id, coleccion: 'nutricion', data: { title: e.data.title, description: e.data.description } }));
+  .map(e => ({ id: e.id, coleccion: 'nutricion', data: { title: e.data.title, description: e.data.description, image: e.data.image, imageAlt: e.data.imageAlt } }));
 ---
 
 <Layout title={entrada.data.title} description={entrada.data.description}>

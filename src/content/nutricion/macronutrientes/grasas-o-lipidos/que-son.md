@@ -14,19 +14,19 @@ Son también imprescindibles para que tu cuerpo absorba las [vitaminas](/nutrici
 
 ### Saturadas
 
-Son las grasas que se encuentran principalmente en alimentos de origen animal (carnes grasas, mantequilla, queso, nata) y en algunos aceites vegetales tropicales (coco, palma). A temperatura ambiente son sólidas.
+Son las grasas que se encuentran principalmente en productos de origen animal (carnes grasas, mantequilla, queso, nata) y en algunos aceites vegetales tropicales (coco, palma). A temperatura ambiente son sólidas.
 
 Su consumo elevado se asocia con un aumento del tipo de colesterol que eleva el riesgo cardiovascular —el **colesterol LDL**—. La EFSA recomienda no superar el 10 % de tu energía total en forma de [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas).
 
 ### Monoinsaturadas
 
-La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el aguacate y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en frutos secos como almendras y avellanas. Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
+La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el aguacate y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en [frutos secos](/alimentos/frutos-secos) como almendras y avellanas. Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
 
 ### Poliinsaturadas
 
 Son las grasas más importantes por las funciones que cumplen en tu cuerpo. Incluyen dos familias esenciales que tu organismo no puede producir por sí solo:
 
-**Omega-6:** la más abundante en la dieta occidental. Su representante principal es el que abunda en aceites de girasol, maíz y soja, y en la mayoría de frutos secos —el **ácido linoleico (LA)**—.
+**Omega-6:** la más abundante en la dieta occidental. Su representante principal es el que abunda en aceites de girasol, maíz y [soja](/alimentos/legumbres/soja), y en la mayoría de frutos secos —el **ácido linoleico (LA)**—.
 
 **Omega-3:** su representante vegetal principal es el que se encuentra en lino, chía y nueces —el **ácido alfa-linolénico (ALA)**—. Sus derivados de cadena larga, los que tu cuerpo puede usar directamente para reducir la inflamación y proteger el corazón, son el **EPA** y el **DHA**; se encuentran principalmente en pescado azul y algas.
 
@@ -59,7 +59,7 @@ Tu organismo puede fabricar la mayoría de las grasas que necesita. Solo hay dos
 
 **Ácido alfa-linolénico (ALA):** es el ácido graso esencial del grupo omega-3. A partir de él se sintetizan EPA y DHA, pero la conversión es muy limitada: tu cuerpo transforma solo una fracción pequeña de lo que consumes, insuficiente para cubrir tus necesidades. Para asegurar niveles adecuados, lo más directo es consumir pescado azul o algas.
 
-El ALA vegetal no basta. Necesitas EPA y DHA directamente.
+> El ALA vegetal no basta. Necesitas EPA y DHA directamente.
 
 ## Fuentes alimentarias de grasas o lípidos
 
@@ -88,7 +88,7 @@ El ALA vegetal no basta. Necesitas EPA y DHA directamente.
 
 Cambiar la mantequilla por aceite de oliva, los snacks ultraprocesados por frutos secos y añadir pescado azul dos veces por semana son los tres ajustes con mayor impacto en tu perfil lipídico.
 
-El problema con las grasas nunca fue la cantidad. Fue el tipo.
+> El problema con las grasas nunca fue la cantidad. Fue el tipo.
 
 ---
 

@@ -16,35 +16,35 @@ La OMS establece el requerimiento medio estimado de treonina en **15 mg por kg d
 
 ## Funciones de la treonina
 
-**Mucinas e integridad intestinal** — La treonina es el aminoácido más abundante en las proteínas con cadenas de azúcares que forman la capa de moco que recubre y protege el intestino —las **mucinas**—. El 30 % de sus aminoácidos son treonina, porque la extensión química con oxígeno de su molécula —el **grupo hidroxilo** (–OH)— es el punto exacto donde se unen las cadenas de azúcares que dan al moco su viscosidad y su capacidad protectora —la **O-glicosilación**—. El papel de la treonina en la barrera intestinal merece una sección propia y se detalla más abajo.
+**Mucinas e integridad intestinal.** La treonina es el aminoácido más abundante en las proteínas con cadenas de azúcares que forman la capa de moco que recubre y protege el intestino —las **mucinas**—. El 30 % de sus aminoácidos son treonina, porque la extensión química con oxígeno de su molécula —el **grupo hidroxilo** (–OH)— es el punto exacto donde se unen las cadenas de azúcares que dan al moco su viscosidad y su capacidad protectora —la **O-glicosilación**—. El papel de la treonina en la barrera intestinal merece una sección propia y se detalla más abajo.
 
-**Colágeno y elastina** — La treonina es un componente estructural de ambas proteínas. El colágeno da firmeza a tu piel, tus tendones y tus huesos; la proteína que les permite recuperar su forma al estirarse o comprimirse —y la que hace que tu piel rebote al pellizcarla— es la **elastina**. La treonina también sirve como punto de O-glicosilación en el colágeno, contribuyendo a la estabilidad de su estructura. La síntesis óptima de colágeno requiere, junto a la treonina, un aporte suficiente de [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina) y [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c).
+**Colágeno y elastina.** La treonina es un componente estructural de ambas proteínas. El colágeno da firmeza a tu piel, tus tendones y tus huesos; la proteína que les permite recuperar su forma al estirarse o comprimirse —y la que hace que tu piel rebote al pellizcarla— es la **elastina**. La treonina también sirve como punto de O-glicosilación en el colágeno, contribuyendo a la estabilidad de su estructura. La síntesis óptima de colágeno requiere, junto a la treonina, un aporte suficiente de [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina) y [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c).
 
-**Sistema inmunitario** — Las proteínas que tu sistema inmunitario fabrica para identificar y neutralizar agentes extraños —las **inmunoglobulinas**, también llamadas anticuerpos— son especialmente ricas en treonina. Las regiones constantes de los anticuerpos IgA, IgG e IgM presentan una proporción de treonina por encima de la media proteica general. El anticuerpo más abundante en tus secreciones corporales y el que protege las mucosas del intestino y las vías respiratorias —la **IgA secretora**— es especialmente dependiente de ella.
+**Sistema inmunitario.** Las proteínas que tu sistema inmunitario fabrica para identificar y neutralizar agentes extraños —las **inmunoglobulinas**, también llamadas anticuerpos— son especialmente ricas en treonina. Las regiones constantes de los anticuerpos IgA, IgG e IgM presentan una proporción de treonina por encima de la media proteica general. El anticuerpo más abundante en tus secreciones corporales y el que protege las mucosas del intestino y las vías respiratorias —la **IgA secretora**— es especialmente dependiente de ella.
 
-**Señalización celular por fosforilación** — Las enzimas cuya función es transferir grupos fosfato a serina o treonina para activar o desactivar otras proteínas —las **serina/treonina quinasas**— constituyen la familia de enzimas más numerosa en la regulación de señales dentro de la célula. La vía de señalización que controla la síntesis de proteínas en respuesta a nutrientes y al ejercicio —la **vía mTOR**— actúa principalmente añadiendo grupos fosfato a la treonina de las proteínas que regula. Más del 30 % de todas las fosforilaciones en tus células ocurren sobre treonina.
+**Señalización celular por fosforilación.** Las enzimas cuya función es transferir grupos fosfato a serina o treonina para activar o desactivar otras proteínas —las **serina/treonina quinasas**— constituyen la familia de enzimas más numerosa en la regulación de señales dentro de la célula. La vía de señalización que controla la síntesis de proteínas en respuesta a nutrientes y al ejercicio —la **vía mTOR**— actúa principalmente añadiendo grupos fosfato a la treonina de las proteínas que regula. Más del 30 % de todas las fosforilaciones en tus células ocurren sobre treonina.
 
-Tres de cada diez interruptores moleculares de tu célula son de treonina.
+> Tres de cada diez interruptores moleculares de tu célula son de treonina.
 
-**Síntesis de glicina** — En el hígado, la treonina puede convertirse en glicina gracias a la enzima especializada en esa conversión —la **treonina aldolasa**—. La glicina es el aminoácido más abundante en el colágeno y precursor del líquido que tu hígado produce para digerir las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —la **bilis**—, del compuesto que tu músculo usa como fuente rápida de energía durante el ejercicio intenso —la **creatina**—, y del grupo que da color rojo a tu sangre y permite que la hemoglobina transporte el oxígeno —el **hemo**—. Esta vía permite que la treonina contribuya indirectamente a varias rutas metabólicas adicionales.
+**Síntesis de glicina.** En el hígado, la treonina puede convertirse en glicina gracias a la enzima especializada en esa conversión —la **treonina aldolasa**—. La glicina es el aminoácido más abundante en el colágeno y precursor del líquido que tu hígado produce para digerir las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —la **bilis**—, del compuesto que tu músculo usa como fuente rápida de energía durante el ejercicio intenso —la **creatina**—, y del grupo que da color rojo a tu sangre y permite que la hemoglobina transporte el oxígeno —el **hemo**—. Esta vía permite que la treonina contribuya indirectamente a varias rutas metabólicas adicionales.
 
 ## Fuentes alimentarias de treonina
 
-La treonina está bien representada en las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) y en menor medida en las legumbres y frutos secos:
+La treonina está bien representada en las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) y en menor medida en las [legumbres](/alimentos/legumbres) y [frutos secos](/alimentos/frutos-secos):
 
-| Alimento | Treonina por 100 g |
+| Alimento | Treonina por cada 100 g |
 |---|---|
-| Pechuga de pollo (cocida) | ~1100 mg |
-| Atún (fresco, cocido) | ~1060 mg |
-| Queso parmesano | ~1000 mg |
-| Semillas de calabaza (crudas) | ~970 mg |
-| Salmón del Atlántico (cocido) | ~950 mg |
-| Huevo entero (cocido) | ~610 mg |
-| Almendras | ~580 mg |
-| Lentejas cocidas | ~430 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~400 mg |
+| Pechuga de pollo (cocida) | 1100 mg |
+| Atún (fresco, cocido) | 1060 mg |
+| Queso parmesano | 1000 mg |
+| Semillas de calabaza (crudas) | 970 mg |
+| Salmón del Atlántico (cocido) | 950 mg |
+| Huevo entero (cocido) | 610 mg |
+| Almendras | 580 mg |
+| Lentejas cocidas | 430 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 400 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 En el gluten de trigo, la treonina es el aminoácido limitante: las harinas refinadas de trigo tienen una concentración relativamente baja, lo que hace que, si tu dieta se centra principalmente en pan y pasta sin otras fuentes proteicas, tu ingesta de treonina pueda quedarse corta. Combinar cereales con huevo, lácteos o legumbres resuelve el desequilibrio sin ningún cálculo adicional.
 
@@ -54,13 +54,13 @@ La capa de moco que tapiza el intestino delgado y el colon no es una barrera est
 
 Los estudios con animales muestran que la restricción selectiva de treonina en la dieta reduce el grosor de la capa de moco en pocos días y aumenta la permeabilidad de la barrera intestinal. Una barrera comprometida facilita el paso de bacterias intestinales a través de la pared hacia la sangre —la **translocación bacteriana**—, incrementa la carga inflamatoria local y puede contribuir a la cronificación de las dos principales enfermedades inflamatorias intestinales crónicas —la enfermedad de Crohn y la colitis ulcerosa—, aunque la relación causal directa en humanos no está completamente establecida.
 
-La capa de moco puede adelgazarse en días cuando la treonina escasea.
+> La capa de moco puede adelgazarse en días cuando la treonina escasea.
 
 En neonatos prematuros la situación es especialmente crítica: el intestino inmaduro consume treonina a un ritmo desproporcionado para fabricar mucinas y completar la maduración de la barrera intestinal. Por eso la treonina es el aminoácido que más rápidamente se vuelve limitante en prematuros, y las fórmulas específicas para este grupo incluyen concentraciones de treonina superiores a las calculadas para adultos o lactantes a término.
 
 ## ¿Qué ocurre si falta treonina?
 
-La deficiencia aislada de treonina es rara en dietas con proteína de calidad variada. Puede aparecer en desnutrición proteica grave o en dietas extremadamente monótonas basadas casi exclusivamente en cereales refinados sin legumbres ni alimentos de origen animal.
+La deficiencia aislada de treonina es rara en dietas con proteína de calidad variada. Puede aparecer en desnutrición proteica grave o en dietas extremadamente monótonas basadas casi exclusivamente en cereales refinados sin legumbres ni proteína de origen animal.
 
 Sus manifestaciones más características, observadas sobre todo en modelos animales con restricción selectiva, son: reducción del crecimiento, descenso de los niveles de inmunoglobulinas, pérdida de masa muscular y —de forma distintiva respecto a otros aminoácidos— adelgazamiento marcado de la capa de moco intestinal con aumento de la permeabilidad de la barrera. Este último efecto es el que distingue clínicamente el déficit de treonina del déficit de otros aminoácidos esenciales. En humanos, la deficiencia se solapa habitualmente con la desnutrición proteica general, lo que dificulta aislar sus efectos específicos.
 
@@ -68,4 +68,7 @@ La treonina pasa desapercibida precisamente porque sus funciones más críticas 
 
 ---
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/10564345/" target="_blank" rel="noopener noreferrer">Faure M et al. Threonine utilization for synthesis of mucins, proteins, and oxidized compounds in piglets. J Nutr. 2002.</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/10564345/" target="_blank" rel="noopener noreferrer">Faure M et al. Threonine utilization for synthesis of mucins, proteins, and oxidized compounds in piglets. J Nutr. 2002.</a>

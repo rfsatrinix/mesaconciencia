@@ -27,7 +27,7 @@ Las necesidades de niacina se expresan en una unidad que integra tanto la niacin
 | Niños 7–14 | 9,0–13,0 mg EN/día |
 | Niños 1–6 | 5,0–7,5 mg EN/día |
 
-La EFSA establece un nivel máximo tolerable de **10 mg/día** para la forma de niacina que causa vasodilatación —el **ácido nicotínico**— procedente de suplementos o alimentos enriquecidos. Para la forma que no produce ese efecto vasodilatador —la **nicotinamida**—, el umbral tolerable sube hasta los **900 mg/día**. La diferencia refleja perfiles de seguridad completamente distintos entre las dos formas.
+La EFSA establece un nivel máximo tolerable de **10 mg/día** para la forma de niacina que causa vasodilatación —el **ácido nicotínico**— procedente de suplementos o productos enriquecidos. Para la forma que no produce ese efecto vasodilatador —la **nicotinamida**—, el umbral tolerable sube hasta los **900 mg/día**. La diferencia refleja perfiles de seguridad completamente distintos entre las dos formas.
 
 ## ¿Para qué sirve la vitamina B3?
 
@@ -37,13 +37,13 @@ La EFSA establece un nivel máximo tolerable de **10 mg/día** para la forma de 
 
 **Reparación del ADN y envejecimiento.** El NAD⁺ no es solo un coenzima: es también un sustrato que se consume en reacciones sin producción de energía. La enzima que detecta y repara roturas en el ADN —la **poli-ADP-ribosa polimerasa** (PARP)— lo usa en cada reparación. Unas enzimas reguladoras del metabolismo celular y la longevidad —los **sirtuinos** (SIRT1–7)— lo consumen en cada ciclo catalítico. Los niveles de NAD⁺ caen aproximadamente un 50 % entre los 20 y los 50 años, y esa caída se ha relacionado con el deterioro metabólico asociado al envejecimiento. Las sustancias que el cuerpo puede convertir en NAD⁺ —el **mononucleótido de nicotinamida** (NMN) y el **ribósido de nicotinamida** (NR)— son objeto de investigación activa, aunque la evidencia en humanos es todavía preliminar.
 
-A los 50 años, las células tienen la mitad del NAD⁺ que tenían a los 20.
+> A los 50 años, las células tienen la mitad del NAD⁺ que tenían a los 20.
 
 ## Fuentes alimentarias de niacina
 
-La niacina se concentra en carnes, pescados, frutos secos y cereales integrales. Los valores son de niacina preformada; la contribución del triptófano añade un margen adicional en alimentos ricos en ese aminoácido:
+La niacina se concentra en carnes, pescados, [frutos secos](/alimentos/frutos-secos) y cereales integrales. Los valores son de niacina preformada; la contribución del triptófano añade un margen adicional en dietas ricas en ese aminoácido:
 
-| Alimento | Niacina preformada por 100 g |
+| Alimento | Niacina preformada por cada 100 g |
 |---|---|
 | Atún fresco (cocido) | ~16 mg |
 | Pechuga de pollo (cocida) | ~14 mg |
@@ -54,7 +54,7 @@ La niacina se concentra en carnes, pescados, frutos secos y cereales integrales.
 | Champiñones (crudos) | ~4 mg |
 | Pan integral | ~4 mg |
 | Lentejas cocidas | ~1 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~0,5 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,5 mg |
 
 *Fuente: USDA FoodData Central.*
 
@@ -66,7 +66,7 @@ A principios del siglo XX, el sur de Estados Unidos vivió una de las crisis de 
 
 La enfermedad era incomprendida. Las autoridades médicas sostenían que era infecciosa, y los estados del sur rechazaban la hipótesis dietética porque admitirla significaba reconocer la pobreza extrema de su población. En 1914, Joseph Goldberger, médico del Servicio de Salud Pública de Estados Unidos, llegó a una conclusión diferente observando un patrón que a nadie más le había llamado la atención: el personal sanitario de los hospitales donde había pelagra nunca enfermaba, pero los pacientes internos sí. Si fuera infecciosa, los médicos y enfermeras también estarían afectados.
 
-Goldberger demostró la causa dietética con una serie de experimentos que hoy serían imposibles de replicar éticamente. Alimentó a presos voluntarios con la dieta del sur y reprodujo la pelagra. Después la curó añadiendo carne y legumbres. Para demostrar que no era contagiosa, él y sus colaboradores se inyectaron sangre de pacientes con pelagra, ingirieron sus secreciones y frotaron costras de sus lesiones sobre su propia piel. Nadie enfermó.
+Goldberger demostró la causa dietética con una serie de experimentos que hoy serían imposibles de replicar éticamente. Alimentó a presos voluntarios con la dieta del sur y reprodujo la pelagra. Después la curó añadiendo carne y [legumbres](/alimentos/legumbres). Para demostrar que no era contagiosa, él y sus colaboradores se inyectaron sangre de pacientes con pelagra, ingirieron sus secreciones y frotaron costras de sus lesiones sobre su propia piel. Nadie enfermó.
 
 Los signos clínicos son inconfundibles. La dermatitis de la pelagra aparece en la piel expuesta al sol con un patrón simétrico —una lesión que rodea el cuello como un pañuelo, el **collar de Casal**— y deja una pigmentación oscura y descamación. La lengua se vuelve roja, brillante y dolorosa —la **glositis**—. La afectación neuropsiquiátrica incluye depresión, desorientación, alucinaciones y, en fases avanzadas, un cuadro que puede confundirse con esquizofrenia. Sin tratamiento, es mortal.
 
@@ -80,7 +80,7 @@ El efecto secundario más conocido es el enrojecimiento y sensación de calor en
 
 Cuando llegaron los ensayos clínicos a gran escala, los resultados sorprendieron a la cardiología. El estudio AIM-HIGH (2011) y el HPS2-THRIVE (2013), con más de 25.000 pacientes entre ambos, no encontraron reducción de eventos cardiovasculares al añadir niacina a la terapia con los fármacos que reducen la síntesis de colesterol en el hígado —las **estatinas**—, pese a que el perfil lipídico mejoraba en el papel. Los dos ensayos se interrumpieron antes de tiempo. La FDA retiró en 2016 algunas combinaciones de niacina con estatinas del mercado estadounidense.
 
-La lección que dejaron estos estudios va más allá de la niacina: mejorar los números del laboratorio no equivale automáticamente a reducir el riesgo real. El HDL que sube con niacina no se comporta igual que el HDL que sube con ejercicio o que el que tienen de forma natural ciertas personas con variantes genéticas protectoras.
+Para mí, la lección más importante que dejaron esos estudios va más allá de la niacina: mejorar los números del laboratorio no equivale automáticamente a reducir el riesgo real. El HDL que sube con niacina no se comporta igual que el HDL que sube con ejercicio o que el que tienen de forma natural ciertas personas con variantes genéticas protectoras.
 
 ## ¿Qué ocurre si falta vitamina B3?
 

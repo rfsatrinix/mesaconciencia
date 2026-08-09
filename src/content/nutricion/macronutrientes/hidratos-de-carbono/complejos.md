@@ -48,7 +48,7 @@ El mismo alimento, cocinado de distinta manera, puede tener un índice glucémic
 
 ## Fuentes de hidratos de carbono complejos
 
-La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grupos: cereales integrales, legumbres y tubérculos.
+La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grupos: cereales integrales, [legumbres](/alimentos/legumbres) y tubérculos.
 
 ### Cereales integrales
 
@@ -65,7 +65,7 @@ La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grup
 | Alimento | Hidratos por 100 g (cocido) | IG aproximado |
 |---|---|---|
 | Lentejas | 20 g | 25 |
-| [Garbanzos](/alimentos/garbanzos) | 27 g | 28 |
+| [Garbanzos](/alimentos/legumbres/garbanzos) | 27 g | 28 |
 | Alubias negras | 24 g | 30 |
 | Guisantes secos | 22 g | 22 |
 
@@ -87,11 +87,15 @@ La EFSA y la OMS recomiendan que los hidratos procedan mayoritariamente de fuent
 
 **Control glucémico.** La absorción gradual de los hidratos complejos evita los picos bruscos de la hormona que tu páncreas libera para retirar glucosa de la sangre —la **insulina**— que siguen al consumo de azúcares simples. Niveles de insulina más estables se asocian con menor riesgo del estado en que tu cuerpo necesita producir cada vez más insulina para lograr el mismo efecto —la **resistencia a la insulina**— y de diabetes tipo 2.
 
+> Elegir avena en lugar de pan blanco por las mañanas no es un sacrificio dietético: es elegir que la glucosa llegue a la sangre en horas, no en minutos.
+
 **Saciedad.** La digestión más lenta prolonga tu sensación de plenitud. Tardarás más en volver a tener hambre que con un desayuno basado en azúcares simples.
 
 **Fibra y [micronutrientes](/nutricion/micronutrientes).** Los granos integrales conservan las dos partes del grano que el refinado elimina —el **salvado** y el **germen**—. Ahí es donde están la fibra alimenticia, las [vitaminas](/nutricion/micronutrientes/vitaminas) del grupo B, el [magnesio](/nutricion/micronutrientes/minerales/magnesio) y el [zinc](/nutricion/micronutrientes/oligoelementos/zinc).
 
 **Salud del microbioma.** El almidón resistente y la fibra alimentan a las bacterias beneficiosas de tu colon. Un microbioma diverso se asocia con menor inflamación generalizada y mejor función inmune.
+
+Para mí, el aspecto más infraestimado de los hidratos complejos es precisamente ese: la mitad de sus beneficios no te los da la glucosa que llega a tu sangre, sino lo que nunca la atraviesa y llega al colon como alimento para tu microbioma.
 
 Sustituir pan blanco, arroz refinado y azúcares añadidos por legumbres, cereales integrales y tubérculos es uno de los cambios dietéticos con mayor respaldo científico. No tienes que hacerlo todo a la vez: empezar por el pan ya marca la diferencia.
 

@@ -45,7 +45,7 @@ El cobre actúa como la pieza metálica que al menos ocho familias de enzimas hu
 
 **Tirosinasa** — Cataliza los primeros pasos de la síntesis del pigmento que da color a la piel y al cabello —la **melanina**— a partir de un aminoácido —la **tirosina**—, en las células especializadas en esa producción —los **melanocitos**—. El déficit de cobre reduce la producción de melanina, lo que se manifiesta como canicie prematura o pérdida de pigmentación en animales.
 
-Seis enzimas, seis procesos sin reemplazo posible.
+> Seis enzimas, seis procesos sin reemplazo posible.
 
 ## Fuentes de cobre en la dieta
 
@@ -61,12 +61,12 @@ El hígado y los mariscos, especialmente los bivalvos, son las fuentes más conc
 | Semillas de girasol | ~1,8 mg |
 | Champiñones (crudos) | ~0,5 mg |
 | Lentejas cocidas | ~0,5 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~0,35 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,35 mg |
 | Plátano | ~0,1 mg |
 
 *Fuente: USDA FoodData Central.*
 
-El hígado de ternera supera con creces el nivel máximo tolerable si consumes 100 g diarios de forma habitual; el consumo ocasional no plantea ningún problema. La mayor parte de la ingesta diaria en dietas occidentales procede de cereales integrales, legumbres, frutos secos y el [agua](/nutricion/agua) del grifo que ha circulado por tuberías de cobre.
+El hígado de ternera supera con creces el nivel máximo tolerable si consumes 100 g diarios de forma habitual; el consumo ocasional no plantea ningún problema. La mayor parte de la ingesta diaria en dietas occidentales procede de cereales integrales, [legumbres](/alimentos/legumbres), [frutos secos](/alimentos/frutos-secos) y el [agua](/nutricion/agua) del grifo que ha circulado por tuberías de cobre.
 
 ## El cobre y el hierro: una relación inesperada
 
@@ -88,7 +88,7 @@ El cobre entra al organismo por las células intestinales mediante el transporta
 
 **Enfermedad de Wilson** (deficiencia de ATP7B, una alteración en la que ambas copias del gen, una heredada de cada progenitor, deben estar dañadas para que la enfermedad se manifieste —es decir, **autosómica recesiva**—): el transportador que exporta el exceso de cobre desde el hepatocito a la bilis no funciona. El cobre se acumula progresivamente en el hígado (hepatitis → cirrosis), el cerebro (dificultad para articular palabras —la **disartria**—, temblor, contracciones musculares involuntarias que provocan posturas o movimientos anormales —la **distonía**— y psicosis) y el endotelio de la córnea. La señal que aparece únicamente en esta enfermedad y en ninguna otra —el **signo patognomónico**— son unos depósitos de color dorado-parduzco en la periferia de la córnea, visibles con lámpara de hendidura y presentes en más del 90 % de los pacientes con afectación neuropsiquiátrica: los **anillos de Kayser-Fleischer**. El tratamiento incluye compuestos que se unen al cobre para facilitar su excreción —los **quelantes del cobre**— (d-penicilamina o trientina), suplementación con zinc —que compite con el cobre en la absorción intestinal, reduciendo la carga— y trasplante hepático en los casos avanzados.
 
-Menkes y Wilson son opuestos perfectos: mismo metal, mismos transportadores como protagonistas, consecuencias en direcciones contrarias.
+> Menkes y Wilson son opuestos perfectos: mismo metal, mismos transportadores como protagonistas, consecuencias en direcciones contrarias.
 
 ## ¿Qué ocurre si te falta cobre?
 
@@ -109,6 +109,8 @@ Las causas adquiridas más frecuentes son:
 **Malabsorción intestinal** (enfermedad celíaca, enfermedad de Crohn, síndrome de intestino corto). Reduce la absorción de cobre incluso cuando la ingesta dietética es adecuada.
 
 Los grupos con mayor riesgo son los lactantes prematuros —reservas hepáticas insuficientes al nacer, dieta láctea pobre en cobre—, los pacientes postoperados de cirugía bariátrica sin seguimiento nutricional y quienes toman dosis altas de zinc sin supervisión. Dosis de zinc de 50 mg/día o más, habituales en suplementos de venta libre, son suficientes para producir neutropenia y neuropatía si se mantienen sin monitorizar el cobre plasmático.
+
+Si soy sincera, de todos los oligoelementos de este ramal, el cobre es el que me parece más subestimado en la práctica cotidiana: nadie piensa en él cuando la analítica de hierro sale normal y la anemia no responde al tratamiento.
 
 Menkes y Wilson son la prueba de que el cobre no admite margen de error: cuando el transportador que lo extrae del intestino falla, el sistema neurológico se destruye por déficit; cuando falla el del hígado, se destruye por exceso. Mismo metal, misma catástrofe, sentidos opuestos.
 

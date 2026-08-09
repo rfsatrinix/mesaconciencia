@@ -6,20 +6,20 @@ draft: false
 date: 2026-07-04
 ---
 
-La **vitamina B12** —conocida también como **cobalamina**— es la única vitamina que contiene un mineral en su núcleo: el [cobalto](/nutricion/micronutrientes/oligoelementos/cobalto). Tu organismo no puede sintetizarla, y casi la única forma de obtenerla es comer alimentos de origen animal.
+La **vitamina B12** —conocida también como **cobalamina**— es la única vitamina que contiene un mineral en su núcleo: el [cobalto](/nutricion/micronutrientes/oligoelementos/cobalto). Tu organismo no puede sintetizarla, y casi la única forma de obtenerla es consumir productos de origen animal.
 
 Es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles), pero lo que la diferencia del resto del grupo B es que sus reservas hepáticas pueden durar entre 3 y 5 años. Eso tiene una consecuencia que no es obvia: la deficiencia progresa en silencio durante mucho tiempo, y cuando los síntomas aparecen —hormigueo, pérdida de equilibrio, deterioro cognitivo— parte del daño neurológico ya no es reversible. Es el nutriente que más atención merece en dietas veganas y en personas mayores de 60 años.
 
 ## Formas de vitamina B12
 
-La vitamina B12 existe en cuatro formas distintas. Las dos que tu organismo usa directamente son la que trabaja en el citoplasma de la célula —la **metilcobalamina**— y la que trabaja dentro de las mitocondrias —la **adenosilcobalamina**—. Los alimentos aportan principalmente una forma inactiva que el organismo convierte en las dos anteriores —la **hidroxocobalamina**—. Los suplementos y alimentos enriquecidos suelen contener la forma sintética más estable y económica —la **cianocobalamina**—, que también se convierte en las dos formas activas.
+La vitamina B12 existe en cuatro formas distintas. Las dos que tu organismo usa directamente son la que trabaja en el citoplasma de la célula —la **metilcobalamina**— y la que trabaja dentro de las mitocondrias —la **adenosilcobalamina**—. La dieta aporta principalmente una forma inactiva que tu organismo convierte en las dos anteriores —la **hidroxocobalamina**—. Los suplementos y productos enriquecidos suelen contener la forma sintética más estable y económica —la **cianocobalamina**—, que tu organismo también convierte en las dos formas activas.
 
 | Forma | Uso principal |
 |---|---|
 | **Metilcobalamina** | Forma activa en el citoplasma; participa en el metabolismo del [folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) y la homocisteína |
 | **Adenosilcobalamina** | Forma activa en las mitocondrias; participa en el metabolismo de los [ácidos grasos](/nutricion/macronutrientes/grasas-o-lipidos) |
-| **Hidroxocobalamina** | Forma natural en alimentos; se convierte en las dos formas activas en tu organismo |
-| **Cianocobalamina** | Forma sintética estable usada en suplementos y alimentos enriquecidos; se convierte en metilcobalamina y adenosilcobalamina |
+| **Hidroxocobalamina** | Forma natural en la dieta; se convierte en las dos formas activas en tu organismo |
+| **Cianocobalamina** | Forma sintética estable usada en suplementos y productos enriquecidos; se convierte en metilcobalamina y adenosilcobalamina |
 
 La cianocobalamina es la más utilizada en suplementos por su estabilidad y coste. La metilcobalamina se prefiere en algunos contextos clínicos por ser directamente activa, pero para la población general no hay diferencias relevantes en resultados de salud entre ambas.
 
@@ -31,7 +31,7 @@ La cianocobalamina es la más utilizada en suplementos por su estabilidad y cost
 
 **Eliminación de un compuesto tóxico para los vasos.** La B12 convierte el aminoácido que en concentraciones elevadas daña las paredes de los vasos sanguíneos y se asocia a mayor riesgo cardiovascular —la **homocisteína**— en [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina). Cuando falta B12, la homocisteína se acumula en sangre antes que cualquier síntoma clínico visible, lo que la convierte en un marcador temprano de deficiencia.
 
-Tres funciones críticas —nervios, sangre y vasos—, la misma vitamina ausente en todas.
+> Tres funciones críticas —nervios, sangre y vasos—, la misma vitamina ausente en todas.
 
 ## ¿Cuánta vitamina B12 necesitas?
 
@@ -52,9 +52,9 @@ Un lactante de madre vegana sin suplementación puede desarrollar deficiencia gr
 
 ## Fuentes alimentarias de vitamina B12
 
-La vitamina B12 se encuentra de forma natural casi exclusivamente en alimentos de origen animal:
+La vitamina B12 se encuentra de forma natural casi exclusivamente en productos de origen animal:
 
-| Alimento | B12 por 100 g |
+| Alimento | B12 por cada 100 g |
 |---|---|
 | Hígado de ternera (cocido) | 83 µg |
 | Almejas y berberechos (cocidos) | 49–99 µg |
@@ -69,11 +69,11 @@ La vitamina B12 se encuentra de forma natural casi exclusivamente en alimentos d
 | Yogur natural | 0,5 µg |
 | Leche entera | 0,4 µg |
 
-*Fuente: BEDCA; USDA FoodData Central.*
+*Fuente: BEDCA; USDA FoodData Central. Valores aproximados.*
 
-Los alimentos vegetales no contienen B12 activa salvo que estén enriquecidos. Algunas algas —nori, espirulina— contienen moléculas de estructura similar a la B12 pero que el organismo no puede usar y que además pueden bloquear la absorción de la forma real —los **análogos de B12**—. No son fuentes fiables de B12, y presentarlas como tal es uno de los errores más frecuentes en la literatura vegana popular.
+Los productos vegetales no contienen B12 activa salvo que estén enriquecidos. Algunas algas —nori, espirulina— contienen moléculas de estructura similar a la B12 pero que tu organismo no puede usar y que además pueden bloquear la absorción de la forma real —los **análogos de B12**—. No son fuentes fiables de B12, y presentarlas como tal es uno de los errores más frecuentes en la literatura vegana popular.
 
-Los alimentos enriquecidos (bebidas vegetales, cereales de desayuno, levadura nutricional enriquecida) sí pueden ser fuentes válidas para quienes no consumen productos animales, siempre que el etiquetado especifique cianocobalamina o metilcobalamina.
+Los productos enriquecidos (bebidas vegetales, cereales de desayuno, levadura nutricional enriquecida) sí pueden ser fuentes válidas para quienes no consumen productos animales, siempre que el etiquetado especifique cianocobalamina o metilcobalamina.
 
 ## Absorción: el papel del factor intrínseco
 
@@ -86,7 +86,7 @@ El proceso sigue tres pasos:
 
 Este sistema tiene un límite de aproximadamente **1,5–2 µg por comida**. Por encima de esa cantidad, solo entra el 1 % por difusión pasiva. De ahí viene la lógica de los suplementos de 1000 µg: una dosis que parece desproporcionada pero que, precisamente porque satura el sistema activo, aprovecha la vía pasiva para garantizar que algo pase siempre.
 
-Una dosis que parece un error tipográfico tiene una lógica bioquímica precisa.
+> Una dosis que parece un error tipográfico tiene una lógica bioquímica precisa.
 
 Las causas más frecuentes de que ese sistema falle:
 
@@ -98,7 +98,7 @@ Las causas más frecuentes de que ese sistema falle:
 
 **Metformina.** Es el fármaco más prescrito para la diabetes tipo 2 y reduce la absorción de B12 en un 10–30 % de los pacientes. Las guías recomiendan monitorización periódica de los niveles de B12 en quienes lo toman a largo plazo.
 
-**Inhibidores de la bomba de protones** (omeprazol, pantoprazol) a largo plazo. Reducen el ácido gástrico necesario para liberar la B12 de los alimentos antes de que el factor intrínseco pueda captarla.
+**Inhibidores de la bomba de protones** (omeprazol, pantoprazol) a largo plazo. Reducen el ácido gástrico necesario para liberar la B12 de la dieta antes de que el factor intrínseco pueda captarla.
 
 ## ¿Qué ocurre si falta vitamina B12?
 
@@ -128,7 +128,7 @@ El diagnóstico se confirma con analítica: vitamina B12 sérica, homocisteína 
 
 **Veganos y vegetarianos estrictos: sí, de forma obligatoria.** No existe ninguna fuente vegetal no enriquecida que aporte B12 activa de forma fiable. La suplementación no es opcional: es una necesidad bioquímica.
 
-**Personas mayores de 60 años.** La gastritis atrófica afecta al 10–30 % de los mayores de 60 años. Muchas guías clínicas consideran la suplementación o el consumo de alimentos enriquecidos justificada de forma preventiva.
+**Personas mayores de 60 años.** La gastritis atrófica afecta al 10–30 % de los mayores de 60 años. Muchas guías clínicas consideran la suplementación o el consumo de productos enriquecidos justificada de forma preventiva.
 
 **Pacientes con metformina.** Monitorización de B12 en analítica cada 1–2 años; suplementar si los niveles son bajos o están en el límite inferior.
 

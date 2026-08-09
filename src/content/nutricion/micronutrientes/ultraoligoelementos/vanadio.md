@@ -6,13 +6,13 @@ draft: false
 date: 2026-07-04
 ---
 
-El vanadio es un metal de transición presente en trazas en los alimentos y en los tejidos humanos —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)— con una posición peculiar entre los cuatro estudiados en esta sección: es el único para el que los estudios clínicos en humanos han documentado efectos biológicos medibles y reproducibles. Esos efectos, sin embargo, solo aparecen a dosis entre 500 y 2500 veces superiores a las que aporta la dieta, y a esas dosis el vanadio actúa como un fármaco con efectos secundarios conocidos, no como un nutriente. Tu cuerpo contiene entre 100 y 200 microgramos de vanadio en total —distribuidos principalmente en huesos, hígado, riñones y tejido adiposo—, y ninguna autoridad sanitaria ha establecido ninguna dosis de referencia dietética ni un nivel máximo tolerable formalmente definido.
+El vanadio es un metal de transición presente en trazas en la dieta y en los tejidos humanos —se clasifica como [**ultraoligoelemento**](/nutricion/micronutrientes/ultraoligoelementos)— con una posición peculiar entre los cuatro estudiados en esta sección: es el único para el que los estudios clínicos en humanos han documentado efectos biológicos medibles y reproducibles. Esos efectos, sin embargo, solo aparecen a dosis entre 500 y 2500 veces superiores a las que aporta la dieta, y a esas dosis el vanadio actúa como un fármaco con efectos secundarios conocidos, no como un nutriente. Tu cuerpo contiene entre 100 y 200 microgramos de vanadio en total —distribuidos principalmente en huesos, hígado, riñones y tejido adiposo—, y ninguna autoridad sanitaria ha establecido ninguna dosis de referencia dietética ni un nivel máximo tolerable formalmente definido.
 
 ## ¿Para qué se estudia el vanadio?
 
 **Actividad insulinomimética.** La línea de investigación más sólida documenta la capacidad del vanadio de imitar parcialmente la acción de la insulina a nivel celular. El mecanismo central es la inhibición de las enzimas que desactivan el receptor de insulina al eliminar los grupos fosfato que lo mantienen activo —las **fosfotirosina fosfatasas**—. Al inhibirlas, los compuestos de vanadio prolongan la activación del receptor y potencian la entrada de glucosa en las células musculares y el tejido adiposo. Varios ensayos clínicos pequeños en personas con diabetes tipo 2 mostraron reducciones del nivel de azúcar en sangre en ayunas —la **glucemia**— de entre el 10 y el 20 % con dosis de 100 mg/día de la forma de vanadio más estudiada en ensayos —el **sulfato de vanadilo**—, equivalente a unos 25 mg de vanadio elemental, durante 3 a 6 semanas.
 
-Esa dosis eficaz supera en unas 500 veces la ingesta dietética diaria habitual.
+> Esa dosis eficaz supera en unas 500 veces la ingesta dietética diaria habitual.
 
 **Metabolismo óseo.** El vanadio estimula en modelos celulares la proliferación y actividad de las células que fabrican hueso nuevo —los **osteoblastos**—, posiblemente a través de los mismos mecanismos que usa la insulina para comunicarse con las células óseas. Los estudios en animales con osteoporosis experimental mostraron mejoras en la densidad mineral ósea. En humanos no existen ensayos de intervención con suficientes participantes para extraer conclusiones fiables.
 
@@ -28,11 +28,11 @@ En estudios en animales, la exposición crónica a dosis moderadamente altas de 
 
 El Instituto de Medicina de Estados Unidos (IOM) no estableció ningún nivel máximo tolerable para el vanadio en su revisión de 2001, por insuficiencia de datos en humanos —lo que no significa que no haya un límite, sino que no se ha podido cuantificar con el rigor necesario—. La EFSA tampoco ha emitido ninguna opinión que establezca un límite de ingesta seguro para el vanadio en suplementos.
 
-Efectos documentados, límite de seguridad desconocido: no es una combinación de datos que invite a suplementar.
+> Efectos documentados, límite de seguridad desconocido: no es una combinación de datos que invite a suplementar.
 
 ## Fuentes alimentarias de vanadio
 
-El vanadio está presente en pequeñas cantidades en una amplia variedad de alimentos, con concentraciones más altas en los de origen marino y en algunos condimentos:
+El vanadio está presente en pequeñas cantidades en una amplia variedad de productos, con concentraciones más altas en los de origen marino y en algunos condimentos:
 
 | Alimento | Vanadio aproximado |
 |---|---|
@@ -49,7 +49,7 @@ Con una dieta variada que incluya marisco, setas y cereales, la ingesta diaria d
 
 ## La absorción del vanadio
 
-Tu intestino absorbe el vanadio con muy baja eficiencia: los estudios en humanos con la forma en que el vanadio existe de forma natural en los alimentos —el **vanadato inorgánico**— estiman una absorción del **1 al 5 %** de la dosis ingerida. La mayor parte del vanadio que ingieres se excreta directamente en las heces sin ser absorbido.
+Tu intestino absorbe el vanadio con muy baja eficiencia: los estudios en humanos con la forma en que el vanadio existe de forma natural en la dieta —el **vanadato inorgánico**— estiman una absorción del **1 al 5 %** de la dosis ingerida. La mayor parte del vanadio que ingieres se excreta directamente en las heces sin ser absorbido.
 
 Los compuestos de vanadio empleados en investigación clínica —como el sulfato de vanadilo (VOSO₄) y la versión ligada a una molécula portadora para mejorar su absorción, el **bis-maltolato-oxovanadio (BMOV)**— se absorben con mayor eficiencia, en torno al 10–20 %, lo que explica en parte que las dosis eficaces en los ensayos sean menores de lo que cabría esperar dado el efecto buscado.
 
@@ -61,7 +61,9 @@ Los ensayos clínicos con vanadio en personas con diabetes tipo 2 —las fuentes
 
 Los datos de toxicidad crónica en humanos son prácticamente inexistentes. Lo que sí existe es el precedente de los estudios en animales, que muestran daño renal, anemia y alteraciones del desarrollo con exposición crónica a dosis no muy superiores a las empleadas en los ensayos humanos.
 
-El vanadio ocupa en esta sección el lugar más incómodo: a diferencia del [germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio), tiene mecanismo de acción documentado y efectos reproducibles en humanos. A diferencia del [boro](/nutricion/micronutrientes/ultraoligoelementos/boro) y el [silicio](/nutricion/micronutrientes/ultraoligoelementos/silicio), la dosis que produce esos efectos no tiene ningún equivalente dietético —ningún alimento ni combinación de alimentos puede suministrar 25 mg de vanadio al día—. Eso convierte cualquier suplementación de vanadio en un acto farmacológico sin la base de seguridad que se exige a un fármaco: sin ensayos de fase III, sin datos de toxicidad crónica en humanos, sin límite de seguridad establecido.
+El vanadio ocupa en esta sección el lugar más incómodo: a diferencia del [germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio), tiene mecanismo de acción documentado y efectos reproducibles en humanos. A diferencia del [boro](/nutricion/micronutrientes/ultraoligoelementos/boro) y el [silicio](/nutricion/micronutrientes/ultraoligoelementos/silicio), la dosis que produce esos efectos no tiene ningún equivalente dietético —la dieta, por muy variada que sea, no puede suministrar 25 mg de vanadio al día—. Eso convierte cualquier suplementación de vanadio en un acto farmacológico sin la base de seguridad que se exige a un fármaco: sin ensayos de fase III, sin datos de toxicidad crónica en humanos, sin límite de seguridad establecido.
+
+Para mí, el vanadio es el elemento más frustrante de esta sección: el mecanismo es real, los efectos en humanos son medibles, y aun así no hay manera de traducirlos en una recomendación que no implique riesgos que nadie ha cuantificado todavía.
 
 La actividad insulinomimética del vanadio es real; lo que no existe todavía es la forma de aprovecharla sin asumir riesgos desconocidos.
 

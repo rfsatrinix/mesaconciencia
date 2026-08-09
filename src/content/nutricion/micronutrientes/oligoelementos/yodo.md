@@ -44,7 +44,7 @@ Las hormonas tiroideas regulan el metabolismo basal, la frecuencia cardíaca, la
 
 ## Fuentes de yodo en la dieta
 
-El yodo es escaso en los suelos continentales —fue lavado hacia el océano por la lluvia y los ríos a lo largo de millones de años— y abundante en los ecosistemas marinos. Esa distribución determina cuáles son los alimentos ricos en yodo:
+El yodo es escaso en los suelos continentales —fue lavado hacia el océano por la lluvia y los ríos a lo largo de millones de años— y abundante en los ecosistemas marinos. Esa distribución determina qué fuentes dietéticas son ricas en yodo:
 
 | Alimento | Yodo por 100 g o 100 mL |
 |---|---|
@@ -71,11 +71,11 @@ La **sal yodada** es la intervención de referencia y la fuente principal en pob
 
 Cuando falta yodo, el tiroides no puede sintetizar hormonas. La caída de T3 y T4 en sangre activa el sistema de señalización que conecta el hipotálamo y la hipófisis para regular la producción de hormonas tiroideas —el **eje hipotálamo-hipofisario**—: el hipotálamo secreta la **hormona liberadora de tirotropina** (TRH) y la hipófisis responde secretando TSH en cantidades crecientes. La TSH estimula la captación de yoduro (aumentando la expresión del NIS), la síntesis de tiroglobulina y la proliferación celular. La glándula crece intentando capturar más yodo de una sangre que no lo tiene —ese crecimiento visible tiene nombre propio y se llama **bocio**—.
 
-El bocio es el esfuerzo visible de un órgano contra la escasez.
+> El bocio es el esfuerzo visible de un órgano contra la escasez.
 
 La consecuencia más devastadora de la deficiencia grave de yodo es el daño neurológico irreversible en los recién nacidos de madres con déficit severo —lo que los clínicos llaman hoy **hipotiroidismo congénito por deficiencia de yodo** y antes se conocía como **cretinismo**—: déficit intelectual profundo, sordera, mudez, espasticidad y retraso del crecimiento. La causa directa es la privación de hormonas tiroideas durante el desarrollo cerebral fetal. El cerebro en formación depende de la T3 para tres procesos que no admiten demora ni recuperación posterior: la formación de la vaina que aísla y acelera la conducción nerviosa —la **mielinización**—, el desplazamiento de las neuronas en desarrollo hasta sus posiciones definitivas en el córtex —la **migración neuronal**— y la formación de las conexiones entre neuronas —la **sinaptogénesis**—.
 
-El cerebro que no recibió suficiente T3 en el útero no puede recuperar lo perdido después del nacimiento.
+> El cerebro que no recibió suficiente T3 en el útero no puede recuperar lo perdido después del nacimiento.
 
 Jean-François Coindet, médico suizo, estableció en 1820 la conexión terapéutica moderna: leyendo sobre el uso antiguo de algas marinas y esponjas quemadas para el bocio, se preguntó si el factor activo podría ser el yodo recién descubierto y trató a sus pacientes con tintura de yodo. Los resultados fueron espectaculares —y también los efectos adversos de la sobredosis, que aprendió a gestionar pronto—. Un siglo después, el fisiólogo americano David Marine condujo el primer ensayo controlado: en 1917–1922, distribuyó yoduro potásico a escolares de Akron, Ohio, y redujo la prevalencia de bocio del 56 % al 0,2 % en las niñas tratadas. El control no tratado mantuvo su prevalencia inicial.
 
@@ -99,7 +99,7 @@ El primero es la inhibición aguda de la síntesis de hormonas tiroideas ante un
 
 El segundo fenómeno es el opuesto: el exceso de yodo puede inducir hipertiroidismo —el **fenómeno Jod-Basedow**—. Ocurre en personas que tienen nódulos tiroideos que han ganado autonomía funcional y producen hormona sin necesidad de estimulación por TSH —el **bocio nodular autónomo**— y que han vivido con deficiencia crónica de yodo. Cuando tu ingesta de yodo aumenta bruscamente (por programas de yodación de sal, contrastes o medicación), esos nódulos tienen sustrato para producir grandes cantidades de T3 y T4 sin control externo. La paradoja: la intervención que elimina el bocio puede, en una fracción de la población afectada, precipitar un hipertiroidismo grave.
 
-Mismo elemento. Distinto estado previo de la glándula. Efecto opuesto.
+> Mismo elemento. Distinto estado previo de la glándula. Efecto opuesto.
 
 El antiarrítmico de primera línea para taquiarritmias graves —la **amiodarona**— ilustra el extremo farmacológico. Su estructura química contiene dos átomos de yodo por molécula, lo que la convierte en un 37 % yodo por peso: un comprimido estándar de 200 mg contiene aproximadamente 75 mg de yodo —quinientas veces la ingesta diaria recomendada—. Con tratamientos crónicos, el tiroides recibe diariamente una cantidad de yodo imposible de gestionar con normalidad. Entre el 15 y el 20 % de los pacientes bajo amiodarona desarrollan disfunción tiroidea: hipotiroidismo (por efecto Wolff-Chaikoff sostenido), hipertiroidismo (por efecto Jod-Basedow) o una inflamación del tiroides que destruye tejido glandular y libera a la sangre las hormonas almacenadas —la **tiroiditis destructiva**—. La amiodarona persiste en los tejidos durante meses tras su retirada —el tiempo que tarda en reducirse a la mitad en el organismo, su **semivida**, es de 40–55 días— y la disfunción tiroidea puede seguir evolucionando mucho después de que el fármaco haya sido suspendido.
 
@@ -112,6 +112,8 @@ El isótopo radiactivo del yodo con una semivida de 8 días —el **yodo-131** (
 El riesgo de ese mismo mecanismo quedó expuesto en Chernobyl (abril de 1986). La explosión del reactor liberó grandes cantidades de ¹³¹I a la atmósfera. Los niños del norte de Ucrania y Bielorrusia que consumieron leche de vacas que habían pastado en praderas contaminadas recibieron dosis tiroideas de radiactividad muy superiores a las que un adulto habría tolerado —la glándula infantil capta yodo con mayor avidez y es más radiosensible—. La incidencia de cáncer de tiroides en niños de esas regiones aumentó de forma dramática en los años siguientes: miles de casos en una población en la que el cáncer de tiroides infantil era prácticamente inexistente antes del accidente.
 
 La medida de protección en un accidente nuclear con liberación de ¹³¹I es farmacológicamente directa: comprimidos de **yoduro potásico** (KI), una sal de yodo estable, tomados dentro de las pocas horas previas o posteriores a la exposición saturan el NIS con yodo estable y bloquean la captación del yodo radiactivo. Tu glándula, con su trampa ya llena, no puede incorporar más yodo —ni el estable ni el radiactivo—. Los organismos de protección civil de los países con plantas nucleares almacenan KI para distribución de emergencia. La eficacia es alta si la administración es oportuna; casi nula si se retrasa 24 horas o más.
+
+Si soy sincera, el dato del estudio de Rayman me parece uno de los más importantes del embarazo y la crianza: déficit subclínico en la madre, sin bocio ni síntomas, y puntuaciones significativamente más bajas en su hijo a los ocho años. Es el tipo de daño que no tiene cara visible, y precisamente por eso nadie lo prioriza.
 
 La yodación de la sal cuesta céntimos por kilo y es la intervención nutricional con mayor impacto demostrado sobre la inteligencia poblacional. La tableta de KI en emergencias nucleares cuesta décimas de céntimo por dosis y protege el órgano más concentrador de yodo del cuerpo. Un mismo elemento, en su ausencia y en su exceso, en sus formas estable y radiactiva, ha moldeado más vidas humanas que casi cualquier otro oligoelemento.
 

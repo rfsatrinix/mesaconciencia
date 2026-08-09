@@ -1,6 +1,6 @@
 ---
 title: "Nutrición"
-description: "Nutrición: es el proceso que convierte lo que comes en energía y tejidos, y explica cómo tu dieta afecta la salud y al desarrollo de enfermedades crónicas."
+description: "Nutrición: es el proceso que convierte lo que comes en energía y tejidos, y explica cómo tu dieta afecta a la salud y al desarrollo de enfermedades crónicas."
 categoria: "Nutrición"
 draft: true
 date: 2026-06-15
@@ -28,7 +28,7 @@ Los [micronutrientes](/nutricion/micronutrientes) se necesitan en cantidades peq
 
 **[Vitaminas](/nutricion/micronutrientes/vitaminas):** son sustancias que tu cuerpo no puede fabricar en cantidad suficiente y que regulan procesos esenciales. Las liposolubles —A, D, E y K— se almacenan en la grasa corporal; las hidrosolubles —el grupo B y la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c)— no se acumulan y necesitas aportarlas con regularidad.
 
-**[Minerales](/nutricion/micronutrientes/minerales):** son elementos que tu cuerpo no puede fabricar y tiene que obtener de los alimentos, como el [hierro](/nutricion/micronutrientes/oligoelementos/hierro), el [calcio](/nutricion/micronutrientes/minerales/calcio), el [magnesio](/nutricion/micronutrientes/minerales/magnesio) o el [zinc](/nutricion/micronutrientes/oligoelementos/zinc).
+**[Minerales](/nutricion/micronutrientes/minerales):** son elementos que tu cuerpo no puede fabricar y tiene que obtener de la dieta, como el [hierro](/nutricion/micronutrientes/oligoelementos/hierro), el [calcio](/nutricion/micronutrientes/minerales/calcio), el [magnesio](/nutricion/micronutrientes/minerales/magnesio) o el [zinc](/nutricion/micronutrientes/oligoelementos/zinc).
 
 ### Agua y fibra
 
@@ -40,7 +40,7 @@ La calidad de tu dieta influye directamente en tu energía diaria, en la distrib
 
 Entender cómo funcionan los nutrientes te permite tomar decisiones alimentarias con criterio propio, sin depender de modas ni de consejos contradictorios.
 
-Comer es inevitable. Nutrirse es una decisión.
+> Comer es inevitable. Nutrirse es una decisión.
 
 ---
 

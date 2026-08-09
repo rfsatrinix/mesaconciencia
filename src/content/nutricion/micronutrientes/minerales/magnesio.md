@@ -10,9 +10,9 @@ El magnesio es el cuarto [mineral](/nutricion/micronutrientes/minerales) más ab
 
 ## ¿Para qué sirve el magnesio?
 
-El magnesio participa de forma directa en más de 300 reacciones enzimáticas —en todas ellas actúa como **cofactor**: el componente sin el cual la enzima no puede completar su función—. Eso incluye cada reacción que sintetiza o consume ATP. Lo que esto implica en la práctica es que el ATP no lo utilizan las enzimas en su forma libre, sino unido al magnesio; ese complejo activo formado por ambas moléculas se llama **Mg-ATP**, y es la forma funcional del ATP en la célula.
+El magnesio participa de forma directa en más de 300 reacciones enzimáticas. En todas ellas actúa como el componente sin el cual la enzima no puede completar su función —el **cofactor**—. Eso incluye cada reacción que sintetiza o consume ATP. Lo que esto implica en la práctica es que el ATP no lo utilizan las enzimas en su forma libre, sino unido al magnesio; ese complejo activo formado por ambas moléculas se llama **Mg-ATP**, y es la forma funcional del ATP en la célula.
 
-Sin magnesio, la energía celular está disponible sobre el papel pero es inaccesible.
+> Sin magnesio, la energía celular está disponible sobre el papel pero es inaccesible.
 
 **Metabolismo energético.** El magnesio es cofactor obligatorio en la vía que descompone la glucosa para obtener energía —la **glucólisis**—, en el ciclo de reacciones que extraen energía de los combustibles metabólicos dentro de la mitocondria —el **ciclo de Krebs**— y en la síntesis de ATP por los complejos de la membrana mitocondrial interna. Cualquier proceso que genere o consuma energía requiere magnesio.
 
@@ -24,7 +24,7 @@ Sin magnesio, la energía celular está disponible sobre el papel pero es inacce
 
 **Regulación de la glucosa y la insulina.** El magnesio es cofactor de las enzimas que procesan la glucosa y de los receptores de insulina en las células. Un estado de magnesio insuficiente hace que tus células respondan cada vez peor a la señal de la insulina —esa pérdida de capacidad de captar glucosa cuando la hormona se lo indica se llama **resistencia a la insulina**— e incrementa el riesgo de desarrollar diabetes tipo 2. La relación es bidireccional: la diabetes deteriora la retención renal de magnesio, y el déficit de magnesio agrava la resistencia a la insulina.
 
-La diabetes agota el magnesio. El magnesio deficiente facilita la diabetes.
+> La diabetes agota el magnesio. El magnesio deficiente facilita la diabetes.
 
 ## ¿Cuánto magnesio necesitas?
 
@@ -45,13 +45,13 @@ La EFSA ha establecido ingestas adecuadas (IA) —no requerimientos medios, porq
 
 La ingesta media en la mayoría de los países europeos se sitúa entre 260 y 320 mg/día —por debajo de la referencia para los hombres y en el límite para las mujeres—. El magnesio es uno de los minerales con mayor prevalencia de insuficiencia crónica subclínica en dietas occidentales.
 
-La EFSA no ha establecido un nivel máximo tolerable para el magnesio procedente de los alimentos, porque la absorción intestinal se autorregula y el riñón excreta el exceso con eficiencia. Los suplementos son una excepción: dosis superiores a **250 mg/día de magnesio suplementario** retienen líquido en el colon —un efecto osmótico— y causan diarrea y malestar digestivo.
+La EFSA no ha establecido un nivel máximo tolerable para el magnesio que viene de la dieta, porque la absorción intestinal se autorregula y el riñón excreta el exceso con eficiencia. Los suplementos son una excepción: dosis superiores a **250 mg/día de magnesio suplementario** retienen líquido en el colon —un efecto osmótico— y causan diarrea y malestar digestivo.
 
 ## Fuentes alimentarias de magnesio
 
 El magnesio ocupa el centro de cada molécula del pigmento que da color verde a las plantas —la **clorofila**—, de la misma manera que el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) ocupa el centro de la hemoglobina. Por eso las verduras de hoja verde oscura son fuentes especialmente ricas: cuanto más intensa la clorofila, mayor la concentración de magnesio.
 
-Las fuentes con mayor contenido son semillas, frutos secos, cacao y legumbres:
+Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-secos), cacao y [legumbres](/alimentos/legumbres):
 
 | Alimento | Magnesio por 100 g |
 |---|---|
@@ -102,7 +102,9 @@ Los síntomas más frecuentes son calambres y espasmos musculares, insomnio e ir
 
 Un hallazgo clínico importante: la hipomagnesemia casi siempre produce el descenso del potasio en sangre —la **hipopotasemia**—, porque los riñones no pueden retener potasio cuando el magnesio es insuficiente.
 
-Corregir el potasio sin corregir el magnesio fracasa sistemáticamente.
+> Corregir el potasio sin corregir el magnesio fracasa sistemáticamente.
+
+Para mí, el magnesio es el mineral que mejor ilustra los límites de la analítica de rutina: un resultado normal en sangre puede esconder semanas o meses de déficit en los músculos y los huesos, y el cuerpo no da señales claras hasta que el agujero ya es difícil de tapar.
 
 Cada molécula de clorofila que da color verde a las plantas lleva un átomo de magnesio en su centro, con la misma lógica que la hemoglobina lleva hierro en el suyo. Si las verduras de hoja verde son la fuente más fiable de magnesio en la dieta, es porque son, literalmente, un concentrado del mineral que la planta extrae del suelo.
 

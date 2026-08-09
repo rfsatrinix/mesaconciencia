@@ -2,8 +2,8 @@
 title: "Garbanzo"
 description: "Garbanzo: es la legumbre más infravalorada de la dieta española, con 8,9 g de proteína, índice glucémico 28 y un perfil mineral difícil de igualar."
 categoria: "Legumbres"
-image: "/images/alimentos/garbanzos.svg"
-imageAlt: "Imagen de portada del artículo sobre garbanzos"
+image: "./fotos/garbanzo_portada.jpg"
+imageAlt: "Fotografía de garbanzos"
 draft: false
 date: 2026-06-01
 ---
@@ -14,15 +14,15 @@ El garbanzo (*Cicer arietinum*) no tiene el prestigio que merece. Es el alimento
 
 Ninguna de esas cosas es cierta.
 
-## Qué es un garbanzo
+## ¿Qué es el garbanzo?
 
-Es una legumbre de la familia Fabaceae, originaria del Mediterráneo y Oriente Próximo. Se cultiva desde hace más de diez mil años. Es, literalmente, uno de los primeros cultivos de la humanidad.
+Es una [legumbre](/alimentos/legumbres) de la familia Fabaceae, originaria del Mediterráneo y Oriente Próximo. Se cultiva desde hace más de diez mil años. Es, literalmente, uno de los primeros cultivos de la humanidad.
 
-En España, las variedades más comunes son el pedrosillano y el castellano. En la cocina india y de Oriente Próximo se usa el garbanzo desi, más pequeño y de piel oscura.
+En España, las variedades más comunes son el pedrosillano —pequeño, de piel fina, el más habitual en el cocido castellano— y el castellano —más grande, con textura más firme—. En la cocina india y de Oriente Próximo se usa el garbanzo desi, más pequeño y de piel oscura, base del dal y del falafel de esa tradición.
 
 ## Composición nutricional
 
-Datos por 100 g de garbanzo cocido, sin sal:
+Datos por cada 100 g de garbanzo cocido, sin sal:
 
 | Nutriente | Cantidad |
 |---|---|
@@ -40,59 +40,69 @@ Datos por 100 g de garbanzo cocido, sin sal:
 
 *Fuente: BEDCA.*
 
-Una ración habitual son 150-200 g de garbanzo cocido. A esa cantidad ya cubres el 25% de la ingesta diaria recomendada de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) y casi el 20% de la de [hierro](/nutricion/micronutrientes/oligoelementos/hierro).
+Una ración de 200 g cocidos aporta 17,8 g de proteína, 15,2 g de [fibra](/nutricion/fibra-alimenticia) y 344 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 100 % de la referencia diaria de la EFSA para adultos—.
 
-## Proteína
+## La proteína que funciona mejor en compañía
 
-8,9 g de [proteína](/nutricion/macronutrientes/proteinas) por 100 g cocido es buena cifra para una legumbre.
+8,9 g de [proteína](/nutricion/macronutrientes/proteinas) por cada 100 g cocido es una cifra sólida para una legumbre.
 
 Pero hay un matiz.
 
-No es proteína completa. Le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—. Si combinas garbanzo con un cereal (arroz, pan, cuscús), las dos proteínas se complementan y obtienes el perfil de aminoácidos que necesitas. No hace falta que sea en la misma comida.
+No es proteína completa. Le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que los cereales tienen en abundancia. Si combinas garbanzo con arroz, pan o cuscús, las dos proteínas se complementan y obtienes el perfil de [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que necesitas. No hace falta que sea en la misma comida.
 
-## Fibra y glucemia
+> El potaje con pan, el hummus con pita, el falafel con arroz: la cocina mediterránea resolvió este problema siglos antes que la ciencia de los aminoácidos.
 
-7,6 g de [fibra](/nutricion/fibra-alimenticia) por 100 g es mucho. Bastante más que la mayoría de verduras.
+## La fibra que frena tu glucosa en sangre
+
+7,6 g de [fibra](/nutricion/fibra-alimenticia) por cada 100 g es una cifra alta: más que la mayoría de verduras y comparable a las legumbres con más fibra del grupo.
 
 Parte de esa fibra es del tipo que enlentece la absorción de glucosa en sangre formando una capa viscosa en el intestino —la **fibra soluble**—. El valor que indica con qué rapidez sube tu glucosa en sangre después de comer —el **índice glucémico (IG)**— del garbanzo cocido ronda 28. El del pan blanco ronda 75.
 
-Eso significa que tras comer garbanzos, la glucosa sube despacio y sin picos. Un metaanálisis publicado en *Archives of Internal Medicine* (Jenkins et al., 2012) que analizó ensayos sobre consumo de [legumbres](/alimentos/legumbres) en personas con diabetes tipo 2 encontró reducciones significativas en el marcador que refleja el nivel de glucosa en sangre de los últimos dos o tres meses —la **hemoglobina glucosilada**— con respecto a dietas de control.
+Eso significa que tras comer garbanzos, la glucosa sube despacio y sin picos. Un metaanálisis publicado en *Archives of Internal Medicine* (Jenkins et al., 2012) que analizó ensayos sobre consumo de [legumbres](/alimentos/legumbres) en personas con diabetes tipo 2 encontró reducciones significativas en el marcador que refleja el nivel medio de glucosa en sangre de los últimos dos o tres meses —la **hemoglobina glucosilada**— con respecto a dietas de control.
 
-## Hierro: sí, pero con un matiz importante
+> El cocido del miércoles tiene mejor índice glucémico que la tostada del desayuno del lunes.
 
-Los garbanzos tienen hierro. Bastante. Pero es el tipo de hierro que se encuentra en los vegetales —el **hierro no hemo**— y que tu cuerpo absorbe con menor eficiencia que el de la carne.
+## El hierro que responde al limón
 
-La solución es sencilla: añadir vitamina C a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, o un tomate. La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
+Los garbanzos tienen hierro —2,9 mg por cada 100 g cocidos—. Pero es el tipo de hierro que se encuentra en los vegetales —el **hierro no hemo**— y que tu cuerpo absorbe con menor eficiencia que el de la carne.
 
-Un chorrito de limón en el potaje no es solo costumbre. Tiene su lógica.
+La solución es sencilla: añadir [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, un tomate. La vitamina C puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
 
-## Efecto sobre el colesterol
+> Un chorrito de limón en el potaje no es solo costumbre. Tiene su lógica.
 
-Hay evidencia de que el consumo regular de legumbres reduce el tipo de colesterol que se asocia al riesgo cardiovascular —el **colesterol LDL**—. Un metaanálisis en *Canadian Medical Association Journal* (Viguiliouk et al., 2014) que analizó 26 ensayos clínicos encontró una reducción media del 5% en el LDL con una ración diaria de legumbres.
+## El efecto silencioso sobre el colesterol
 
-No es un efecto espectacular.
+Hay evidencia de que el consumo regular de legumbres reduce el tipo de colesterol que se asocia al riesgo cardiovascular —el **colesterol LDL**—. Un metaanálisis publicado en *Canadian Medical Association Journal* (Viguiliouk et al., 2014) que analizó 26 ensayos clínicos encontró una reducción media del 5 % en el LDL con una ración diaria de legumbres.
 
-Pero es real, es consistente y se repite en los estudios.
+> No es un efecto espectacular. Pero es real, es consistente y se repite en los estudios.
 
-## ¿Engordan?
+## El mito de que los garbanzos engordan
 
-164 kcal por 100 g cocido no es una cantidad elevada. Un plato de arroz blanco tiene más calorías y menos fibra. La proteína y la fibra del garbanzo te sacian, lo que dificulta comer en exceso.
+164 kcal por cada 100 g cocidos no es una cantidad elevada. Un plato de arroz blanco tiene más calorías y menos fibra. La proteína y la fibra del garbanzo te sacian, lo que dificulta comer en exceso.
 
 Dicho esto: si comes 400 g de garbanzo con chorizo, morcilla y tocino, las calorías del plato no vienen del garbanzo.
 
-## Flatulencias
+## Los gases: el único pero real
 
 El tema que nadie menciona en los estudios pero que todo el mundo conoce.
 
-Los garbanzos contienen un tipo de azúcares complejos que tu intestino delgado no puede digerir —los **oligosacáridos**, principalmente rafinosa y estaquiosa en las legumbres—. Llegan al colon, las bacterias los fermentan y el resultado es gas.
+Los garbanzos contienen un tipo de azúcares complejos que tu intestino delgado no puede digerir —los **oligosacáridos**, principalmente rafinosa y estaquiosa—. Llegan al colon, las bacterias los fermentan y el resultado es gas.
 
-Hay cosas reducen este efecto: remojar bien los garbanzos antes de cocinarlos (y tirar el líquido del remojo, aunque puedes usarlo para regar tus plantas), cocinarlos a fondo, añadir en la preparación hierbas carminativas —anís, comino, hinojo, menta— e introducirlos de forma gradual en la dieta si no se consumen con regularidad, para que tu microbiota se adapte.
+Hay cosas que reducen este efecto: remojar bien los garbanzos antes de cocinarlos (y tirar el líquido del remojo), cocinarlos a fondo, añadir hierbas carminativas —anís, comino, hinojo, menta— e introducirlos de forma gradual en la dieta si no los consumes con regularidad, para que tu microbiota se adapte.
 
-## Bote o seco: ¿importa?
+> La microbiota se adapta en dos o tres semanas. El problema disminuye solo.
 
-El garbanzo de bote es perfectamente válido. Pierde algo de folato y potasio en el líquido de conserva, pero conserva la mayor parte de sus propiedades. Si lo usas, escúrrelo y enjuágalo para reducir el [sodio](/nutricion/micronutrientes/minerales/sodio).
+## ¿Cuántos garbanzos consumir y cómo?
 
-El hummus, el falafel, el potaje. Todas son formas igual de válidas de consumirlos. El calor no destruye la proteína ni la fibra.
+La ración de referencia es de 80-100 g en seco, que se convierte en unos 200 g cocidos. Con esa cantidad obtienes 328 kcal, 17,8 g de proteína, 15,2 g de [fibra](/nutricion/fibra-alimenticia) y 344 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 100 % de la referencia diaria de la EFSA—.
+
+**Remojo obligatorio, 8-12 horas.** El garbanzo seco necesita remojo para que la piel ablande y los oligosacáridos tengan tiempo de disolverse. Cambia el líquido antes de cocer y empieza con líquido fresco.
+
+**Cocción lenta o en olla exprés.** A fuego lento, los garbanzos tardan entre dos y tres horas. Con olla exprés, 20-25 minutos son suficientes. El garbanzo bien cocido se aplasta fácilmente entre los dedos; si opone resistencia al tenedor, necesita más tiempo.
+
+**Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** Un chorro de limón o pimiento fresco en la misma comida puede multiplicar la absorción del [hierro](/nutricion/micronutrientes/oligoelementos/hierro) por dos o por tres.
+
+**El bote como alternativa válida.** El garbanzo de bote conserva la mayor parte de su perfil: pierde algo de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) y [potasio](/nutricion/micronutrientes/minerales/potasio) en el líquido de conserva, pero la proteína y la fibra no se ven afectadas. Escúrrelo y enjuágalo para reducir el [sodio](/nutricion/micronutrientes/minerales/sodio). El hummus, el falafel y la ensalada de garbanzos son perfectamente válidos con bote.
 
 El garbanzo es, creo, uno de los ingredientes con mejor relación entre precio, versatilidad y perfil nutricional de la cocina española. Barato, saciante y con siglos de historia mediterránea.
 

@@ -26,28 +26,28 @@ Para entender por qué comer más triptófano no se traduce automáticamente en 
 
 El triptófano está presente en todas las fuentes de proteína completa. Las más concentradas:
 
-| Alimento | Triptófano por 100 g |
+| Alimento | Triptófano por cada 100 g |
 |---|---|
-| Soja texturizada (seca) | ~590 mg |
-| Semillas de calabaza (secas) | ~576 mg |
-| Queso parmesano | ~330 mg |
-| Pechuga de pavo (cocida) | ~240 mg |
-| Atún (fresco, cocido) | ~230 mg |
-| Pechuga de pollo (cocida) | ~200 mg |
-| Huevo entero | ~167 mg |
-| Lentejas cocidas | ~77 mg |
+| [Soja](/alimentos/legumbres/soja) texturizada (seca) | 590 mg |
+| Semillas de calabaza (secas) | 576 mg |
+| Queso parmesano | 330 mg |
+| Pechuga de pavo (cocida) | 240 mg |
+| Atún (fresco, cocido) | 230 mg |
+| Pechuga de pollo (cocida) | 200 mg |
+| Huevo entero | 167 mg |
+| Lentejas cocidas | 77 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 ## Triptófano, serotonina y estado de ánimo
 
-La conexión bioquímica entre el triptófano y la serotonina es real, pero la relación entre comer alimentos ricos en triptófano y mejorar el ánimo o el sueño no es tan directa. El motivo es la competencia en el transporte al cerebro.
+La conexión bioquímica entre el triptófano y la serotonina es real, pero la relación entre consumir fuentes ricas en triptófano y mejorar el ánimo o el sueño no es tan directa. El motivo es la competencia en el transporte al cerebro.
 
 Para llegar al cerebro, el triptófano tiene que cruzar el filtro que separa la sangre del sistema nervioso —la **barrera hematoencefálica**—. El problema: comparte el transportador de ese filtro con los [aminoácidos de cadena ramificada](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) (BCAA: [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina)). Cuantos más BCAA circulen en sangre, menos triptófano accede al cerebro. Paradójicamente, una comida rica en [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) —que estimula la liberación de insulina y reduce los BCAA libres en sangre— puede facilitar más la entrada de triptófano al cerebro que una comida alta en proteínas.
 
 La inflamación crónica también reduce los niveles de serotonina en el cerebro. Los mensajeros del sistema inmune que activan la inflamación —las **citocinas**— activan una enzima que desvía el triptófano hacia la vía de la kinurenina y lo aleja de la producción de serotonina: la **indolamina-2,3-dioxigenasa** (IDO). Con menos triptófano disponible para esa ruta, el cerebro produce menos serotonina. Este mecanismo se estudia como uno de los vínculos entre la inflamación crónica y la depresión.
 
-La inflamación y el estado de ánimo compiten por el mismo recurso.
+> La inflamación y el estado de ánimo compiten por el mismo recurso.
 
 ## El mito del pavo, el triptófano y la somnolencia
 
@@ -65,9 +65,11 @@ El 5-HTP no debe tomarse si usas antidepresivos que también elevan la serotonin
 
 La deficiencia aislada de triptófano es rara en dietas variadas. Su manifestación histórica más conocida es una enfermedad por déficit que provoca lesiones en la piel, diarrea y deterioro cognitivo —la **pelagra**—, causada por el déficit combinado de niacina y triptófano. Fue frecuente en poblaciones que subsistían mayoritariamente de maíz no nixtamalizado: el maíz es bajo en triptófano y en la forma de niacina que tu intestino puede absorber —la niacina **biodisponible**—, y sin el proceso de cocción del maíz con cal que libera la niacina —la **nixtamalización**— ambos déficits se suman.
 
-En dietas occidentales variadas, alcanzar los 280 mg/día no exige ningún alimento especial: cualquier comida con proteína de calidad cubre la mayor parte de esa cifra.
+Si tu dieta es variada, alcanzar los 280 mg/día no exige ningún alimento especial: cualquier comida con proteína de calidad cubre la mayor parte de esa cifra.
 
-El 95 % del triptófano que ingieres no produce serotonina: termina en la vía de la kinurenina. Lo que mejor facilita que el resto llegue al cerebro no es comer más pavo ni más proteína, sino acompañar cualquier fuente proteica con hidratos de carbono que reduzcan la competencia en el transportador.
+> El 95 % del triptófano que ingieres no produce serotonina: termina en la vía de la kinurenina.
+
+Lo que mejor facilita que el resto llegue a tu cerebro no es comer más pavo ni más proteína, sino acompañar cualquier fuente proteica con hidratos de carbono que reduzcan la competencia en el transportador.
 
 ---
 

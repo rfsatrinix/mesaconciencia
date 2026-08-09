@@ -18,11 +18,11 @@ El azufre forma parte de dos aminoácidos que aparecen en casi todas las proteí
 
 **Resistencia mecánica de cabello y uñas.** La proteína estructural de tu cabello, tus uñas y la capa superficial de tu piel —la **queratina**— es extraordinariamente rica en cisteína. Los residuos de cisteína de cadenas vecinas forman enlaces covalentes entre sus dos átomos de azufre —los **puentes disulfuro**—, responsables de la resistencia mecánica del cabello y las uñas.
 
-Catorce gramos de azufre por kilogramo: más que cualquier otro tejido del cuerpo.
+> Catorce gramos de azufre por kilogramo: más que cualquier otro tejido del cuerpo.
 
 **Tiamina y biotina.** Dos [vitaminas](/nutricion/micronutrientes/vitaminas) del grupo B incorporan azufre en su estructura química: la [tiamina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b1) lo lleva en el anillo tiazol, y la [biotina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b8) en su anillo tetrahidrotiofeno. Ambas participan en el metabolismo de los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) y en la síntesis de ácidos grasos.
 
-**Compuestos bioactivos de crucíferas y aliáceas.** Los vegetales del grupo de crucíferas y aliáceas contienen compuestos con azufre en su estructura —los **compuestos organosulfurados**— con efectos biológicos propios que los alimentos ricos en metionina no replican. Las crucíferas —brócoli, col, coles de Bruselas, coliflor— almacenan unos compuestos azufrados precursores que al cortar o masticar el vegetal se transforman en moléculas activas con propiedades antiinflamatorias y de apoyo a la detoxificación hepática; esos precursores se llaman **glucosinolatos** y el producto más estudiado que generan es el **sulforafano**. El ajo y la cebolla contienen un aminoácido sulfurado inactivo que, al cortar el bulbo, la enzima alliinasa convierte en el compuesto responsable del olor característico y de parte de sus propiedades antimicrobianas —la **alicina**—.
+**Compuestos bioactivos de crucíferas y aliáceas.** Los vegetales del grupo de crucíferas y aliáceas contienen compuestos con azufre en su estructura —los **compuestos organosulfurados**— con efectos biológicos propios que las proteínas ricas en metionina no replican. Las crucíferas —brócoli, col, coles de Bruselas, coliflor— almacenan unos compuestos azufrados precursores que al cortar o masticar el vegetal se transforman en moléculas activas con propiedades antiinflamatorias y de apoyo a la detoxificación hepática; esos precursores se llaman **glucosinolatos** y el producto más estudiado que generan es el **sulforafano**. El ajo y la cebolla contienen un aminoácido sulfurado inactivo que, al cortar el bulbo, la enzima alliinasa convierte en el compuesto responsable del olor característico y de parte de sus propiedades antimicrobianas —la **alicina**—.
 
 ## ¿Cuánto azufre necesitas?
 
@@ -47,9 +47,9 @@ Las fuentes más ricas en aminoácidos azufrados son:
 
 *Fuente: USDA FoodData Central.*
 
-El huevo es la proteína de referencia para la biodisponibilidad de aminoácidos y tiene una concentración de metionina y cisteína especialmente equilibrada respecto a sus necesidades relativas. Las legumbres son comparativamente bajas en metionina, pero la combinación con cereales integrales —que contienen más metionina y son más limitados en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)— completa el perfil de aminoácidos azufrados de la comida.
+El huevo es la proteína de referencia para la biodisponibilidad de aminoácidos y tiene una concentración de metionina y cisteína especialmente equilibrada respecto a sus necesidades relativas. Las [legumbres](/alimentos/legumbres) son comparativamente bajas en metionina, pero la combinación con cereales integrales —que contienen más metionina y son más limitados en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)— completa el perfil de aminoácidos azufrados de la comida.
 
-Las principales fuentes de azufre organosulfurado son el brócoli, las coles de Bruselas, la coliflor, el ajo, la cebolla y el puerro. No son equivalentes al azufre proteico, pero tienen efectos propios sobre la detoxificación hepática y la inflamación que los alimentos ricos en metionina no replican.
+Las principales fuentes de azufre organosulfurado son el brócoli, las coles de Bruselas, la coliflor, el ajo, la cebolla y el puerro. No son equivalentes al azufre proteico, pero tienen efectos propios sobre la detoxificación hepática y la inflamación que el azufre de las proteínas animales no replica.
 
 ## La absorción del azufre
 
@@ -59,7 +59,7 @@ Las proteínas vegetales tienen una biodisponibilidad algo menor —entre el 50 
 
 Los compuestos organosulfurados de crucíferas tienen un comportamiento diferente, y la forma en que cocinas el brócoli afecta directamente a cuánto sulforafano obtienes. El sulforafano se forma cuando la enzima que cataliza esa transformación —la **mirosinasa**— entra en contacto con su precursor almacenado en las células vegetales —la **glucorafanina**—, lo que ocurre al cortar o masticar el vegetal. El calor destruye la mirosinasa si lo aplicas antes del corte; si dejas reposar el brócoli unos 10 minutos después de cortarlo, antes de cocinarlo, maximizas la conversión de glucorafanina en sulforafano.
 
-Cortar primero, esperar, cocinar después. Ese orden importa.
+> Cortar primero, esperar, cocinar después. Ese orden importa.
 
 ## ¿Qué ocurre si falta azufre?
 
@@ -74,6 +74,8 @@ Cuando el aporte de metionina y cisteína es insuficiente, los efectos más temp
 **Síntesis de queratina.** La queratina no puede sintetizarse con normalidad cuando faltan los aminoácidos azufrados, lo que se traduce en cabello frágil, uñas débiles y deterioro progresivo de la capa superficial de la piel.
 
 Los suplementos de **metilsulfonilmetano** (MSM), una forma orgánica de azufre comercializada principalmente para el dolor articular, no tienen respaldo sólido en ensayos clínicos controlados: los estudios disponibles son pequeños y con resultados inconsistentes. Si tu ingesta proteica es adecuada, tu aporte de azufre lo es también.
+
+Si soy sincera, el MSM es un caso de libro de cómo el marketing llena el vacío que deja la ciencia: estudios pequeños, resultados inconsistentes, y aun así ventas millonarias para una sustancia cuyo aporte de azufre es irrelevante si tu dieta ya cubre las proteínas.
 
 El azufre es el único macromineral cuya deficiencia no tiene nombre propio en la nomenclatura clínica, porque nunca aparece de forma aislada: cuando el aporte de metionina cae lo suficiente para comprometer la síntesis de glutatión, el diagnóstico es desnutrición proteica —y el déficit de azufre va implícito en ella.
 

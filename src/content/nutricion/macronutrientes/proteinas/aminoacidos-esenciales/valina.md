@@ -16,7 +16,7 @@ La OMS establece el requerimiento de valina en **26 mg por kg de peso corporal a
 
 **Metabolismo puramente glucogénico** — La valina se degrada hasta el intermediario que puede convertirse en glucosa —el **propionil-CoA**—, que entra en el proceso central de obtención de energía de la célula —el **ciclo de Krebs**—. A diferencia de la [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina) (puramente cetogénica) y la [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina) (que combina las dos vías), la valina contribuye exclusivamente a la fabricación de glucosa a partir de fuentes que no son [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) —la **gluconeogénesis**—. En ayuno prolongado y en el músculo activo, esta vía permite que la valina funcione como fuente de carbono para mantener el nivel de glucosa en tu sangre —la **glucemia**—.
 
-La valina no produce cetona: produce glucosa.
+> La valina no produce cetona: produce glucosa.
 
 **Síntesis proteica muscular** — Como BCAA, la valina es uno de los tres aminoácidos que el músculo voluntario que mueve tu cuerpo —el **músculo esquelético**— consume preferentemente durante el ejercicio y que limitan la síntesis proteica muscular cuando escasean. Los tres BCAA en proporciones adecuadas —con la leucina en mayor cantidad— son más eficaces juntos que cualquiera de ellos por separado, porque el músculo puede captar nitrógeno de las tres fuentes a la vez.
 
@@ -26,21 +26,21 @@ La valina no produce cetona: produce glucosa.
 
 ## Fuentes alimentarias de valina
 
-La valina se distribuye de forma similar a los otros BCAA, con mayor concentración en alimentos de alta densidad proteica:
+La valina se distribuye de forma similar a los otros BCAA, con mayor concentración en las fuentes de alta densidad proteica:
 
-| Alimento | Valina por 100 g |
+| Alimento | Valina por cada 100 g |
 |---|---|
-| Pechuga de pollo (cocida) | ~1100 mg |
-| Queso parmesano | ~1100 mg |
-| Atún fresco (cocido) | ~1050 mg |
-| Semillas de calabaza (crudas) | ~1040 mg |
-| Almendras | ~1020 mg |
-| Salmón del Atlántico (cocido) | ~1000 mg |
-| Huevo entero (cocido) | ~720 mg |
-| Lentejas cocidas | ~550 mg |
-| [Garbanzos](/alimentos/garbanzos) cocidos | ~480 mg |
+| Pechuga de pollo (cocida) | 1100 mg |
+| Queso parmesano | 1100 mg |
+| Atún fresco (cocido) | 1050 mg |
+| Semillas de calabaza (crudas) | 1040 mg |
+| Almendras | 1020 mg |
+| Salmón del Atlántico (cocido) | 1000 mg |
+| Huevo entero (cocido) | 720 mg |
+| Lentejas cocidas | 550 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 480 mg |
 
-*Fuente: USDA FoodData Central.*
+*Fuente: USDA FoodData Central. Valores aproximados.*
 
 ## Los tres BCAA y la enzima compartida
 
@@ -52,7 +52,7 @@ Sin detección precoz, la MSUD produce daño cerebral grave en los primeros día
 
 El tratamiento consiste en restringir los tres BCAA simultáneamente —ya que la enzima afectada los metaboliza a todos—, aportando una fórmula de aminoácidos sin BCAA que cubra el resto de necesidades proteicas. Las cantidades toleradas de leucina, isoleucina y valina dietéticas se ajustan con precisión en función de los niveles en sangre, porque la deficiencia de cualquiera de los tres también produce síntomas.
 
-En la MSUD, bajar demasiado el aporte es tan peligroso como subirlo.
+> En la MSUD, bajar demasiado el aporte es tan peligroso como subirlo.
 
 ## ¿Qué ocurre si falta valina?
 
@@ -64,4 +64,7 @@ La valina suma sin brillar: no activa la síntesis proteica como la leucina ni c
 
 ---
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/22592853/" target="_blank" rel="noopener noreferrer">Fernstrom JD. Branched-chain amino acids and brain function. J Nutr. 2005.</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/22592853/" target="_blank" rel="noopener noreferrer">Fernstrom JD. Branched-chain amino acids and brain function. J Nutr. 2005.</a>

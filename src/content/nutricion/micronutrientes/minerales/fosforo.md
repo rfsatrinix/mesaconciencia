@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): un adulto contiene entre 700 y 800 gramos, de los cuales el **85 % está en huesos y dientes** formando la red cristalina de calcio y fosfato que da rigidez al tejido óseo —la **hidroxiapatita**—. El 15 % restante no está inerte: se distribuye en todas las células del organismo como parte del ATP, el ADN, el ARN y las membranas celulares. Mientras el calcio puede llegar a ser insuficiente con una dieta poco variada, la deficiencia de fósforo es prácticamente imposible en personas que se alimentan con normalidad, porque está presente en prácticamente todos los alimentos que existen.
+El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): un adulto contiene entre 700 y 800 gramos, de los cuales el **85 % está en huesos y dientes** formando la red cristalina de calcio y fosfato que da rigidez al tejido óseo —la **hidroxiapatita**—. El 15 % restante no está inerte: se distribuye en todas las células del organismo como parte del ATP, el ADN, el ARN y las membranas celulares. Mientras el calcio puede llegar a ser insuficiente con una dieta poco variada, es prácticamente imposible que te falte fósforo si te alimentas con normalidad, porque está presente en prácticamente cualquier dieta mínimamente variada.
 
 ## ¿Para qué sirve el fósforo?
 
@@ -14,7 +14,7 @@ El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más a
 
 **Metabolismo energético.** La molécula que almacena y transfiere energía en todas las células del cuerpo —el **adenosín trifosfato** (ATP)— contiene tres grupos fosfato enlazados en cadena; la energía que se libera al romper el enlace entre el segundo y el tercer fosfato —formando ADP y fosfato libre— es lo que impulsa la contracción muscular, la síntesis de moléculas y el transporte activo.
 
-Tus células sintetizan y reciclan varios kilogramos de ATP al día aunque tu cuerpo solo contenga unos 250 gramos en un momento dado.
+> Tus células sintetizan y reciclan varios kilogramos de ATP al día aunque tu cuerpo solo contenga unos 250 gramos en un momento dado.
 
 **Membranas celulares.** Las moléculas formadas por una cabeza de fosfato que se mezcla con los líquidos y dos colas de [ácidos grasos](/nutricion/macronutrientes/grasas-o-lipidos) que los repelen —los **fosfolípidos**— forman la bicapa lipídica que rodea todas las células y las estructuras especializadas del interior celular, como la mitocondria o el núcleo —los **orgánulos**—. Sin esa membrana fosfolipídica, las células no pueden mantener su composición interna ni controlar qué entra y qué sale.
 
@@ -42,7 +42,7 @@ El nivel máximo tolerable establecido por la EFSA es de **3.000 mg/día**. Por 
 
 ## Fuentes alimentarias de fósforo
 
-El fósforo está presente en cantidades relevantes en casi todos los alimentos que contienen [proteínas](/nutricion/macronutrientes/proteinas) o [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono). Las fuentes con mayor concentración son:
+El fósforo está presente en cantidades relevantes en prácticamente todo lo que comes si tu dieta incluye [proteínas](/nutricion/macronutrientes/proteinas) o [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono). Las fuentes con mayor concentración son:
 
 | Alimento | Fósforo por 100 g |
 |---|---|
@@ -58,9 +58,9 @@ El fósforo está presente en cantidades relevantes en casi todos los alimentos 
 
 *Fuente: USDA FoodData Central; BEDCA.*
 
-El fósforo de los alimentos vegetales —especialmente semillas, legumbres y cereales integrales— está en gran parte unido a unos compuestos que almacenan fósforo en el grano o la semilla y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo, mejorando su disponibilidad. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
+El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que almacenan fósforo en el grano o la semilla y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo, mejorando su disponibilidad. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
 
-Las sales de fosfato añadidas en alimentos procesados, embutidos, refrescos de cola y quesos fundidos —los **aditivos de fosfato**— aportan fósforo inorgánico que se absorbe con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. Es una fuente difícil de cuantificar en el etiquetado y puede elevar la ingesta total de forma significativa sin que puedas detectarlo fácilmente.
+Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola y quesos fundidos —los **aditivos de fosfato**— aportan fósforo inorgánico que se absorbe con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. Es una fuente difícil de cuantificar en el etiquetado y puede elevar la ingesta total de forma significativa sin que puedas detectarlo fácilmente.
 
 ## La absorción del fósforo
 
@@ -76,7 +76,7 @@ El calcitriol estimula tanto la absorción intestinal de fósforo como su reabso
 
 El resultado es un sistema de retroalimentación preciso: cuando comes mucho fósforo, el FGF23 sube, el riñón excreta más fosfato y la vitamina D se activa menos; cuando el fósforo en sangre baja, el sistema lo retiene.
 
-El sistema no espera a que el fósforo cause problemas. Actúa antes de que llegue a ser uno.
+> El sistema no espera a que el fósforo cause problemas. Actúa antes de que llegue a ser uno.
 
 ## ¿Qué ocurre si falta o sobra fósforo?
 
@@ -84,7 +84,9 @@ El sistema no espera a que el fósforo cause problemas. Actúa antes de que lleg
 
 **Si sobra:** El fosfato elevado en sangre —la **hiperfosfatemia**— es el escenario más relevante en la práctica clínica actual. Los riñones sanos excretan el exceso de fosfato con eficiencia, pero en la situación en que el riñón pierde progresivamente su capacidad de filtrar —la **enfermedad renal crónica**— esa capacidad de excreción falla: el fosfato se acumula en sangre, estimula la secreción de PTH y FGF23, acelera la pérdida de masa ósea y favorece la calcificación de las arterias. En pacientes renales, controlar la ingesta de fósforo —especialmente el procedente de aditivos alimentarios— es parte esencial del tratamiento.
 
-En personas con función renal normal, las ingestas habituales en la dieta occidental no producen daño demostrado, pero la proporción creciente de fósforo procedente de aditivos en los alimentos ultraprocesados hace que la ingesta real sea sistemáticamente más alta de lo que los estudios dietéticos estiman.
+En personas con función renal normal, las ingestas habituales en la dieta occidental no producen daño demostrado, pero la proporción creciente de fósforo procedente de aditivos en los ultraprocesados hace que la ingesta real sea sistemáticamente más alta de lo que los estudios dietéticos estiman.
+
+Mi lectura es que el fósforo de los aditivos alimentarios es el punto ciego del sistema: no aparece cuantificado en el etiquetado, se absorbe al 80–100 % y puede deteriorar una función renal ya comprometida sin que el paciente lo sepa ni el médico lo detecte en la dieta.
 
 El fósforo es el único macromineral del que la mayoría de las personas en países desarrollados consume en exceso, no por defecto: la misma ubicuidad que hace imposible su deficiencia en una dieta normal convierte el exceso en el riesgo más relevante cuando la función renal empieza a fallar.
 

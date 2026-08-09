@@ -2,10 +2,10 @@
 title: "Lenteja"
 description: "Lenteja: es la única legumbre sin remojo previo, con 9 g de proteína, 181 µg de folato y un hierro cuya absorción depende de cómo las preparas."
 categoria: "Legumbres"
-image: "/images/alimentos/lentejas.svg"
-imageAlt: "Imagen de portada del artículo sobre lentejas"
 draft: false
 date: 2026-07-21
+image: "./fotos/lenteja_portada.jpg"
+imageAlt: "Fotografía de lentejas"
 ---
 
 Las lentejas del lunes. Esa era la fórmula en muchas casas españolas de la segunda mitad del siglo XX: el lunes, lentejas, porque costaban poco, saciaban mucho y no pedían remojo. Se preparaban sin ceremonia y se comían sin entusiasmo.
@@ -14,15 +14,15 @@ La comida de los pobres, la dieta de los tiempos difíciles, el plato que ha tar
 
 Pero los números siempre estuvieron ahí.
 
-## Qué es la lenteja
+## ¿Qué es la lenteja?
 
-La lenteja (*Lens culinaris*) es una legumbre de la familia Fabaceae originaria del Mediterráneo y Oriente Próximo. Lleva cultivándose más de diez mil años: es, junto al [garbanzo](/alimentos/legumbres/garbanzos), uno de los primeros cultivos de la humanidad.
+La lenteja (*Lens culinaris*) es una [legumbre](/alimentos/legumbres) de la familia Fabaceae originaria del Mediterráneo y Oriente Próximo. Lleva cultivándose más de diez mil años: es, junto al [garbanzo](/alimentos/legumbres/garbanzos), uno de los primeros cultivos de la humanidad.
 
 Existen variedades muy distintas —pardina, verde, roja, beluga— que comparten un perfil nutricional notablemente similar pero se comportan de forma diferente en la cocina. Esa diversidad, y el hecho de que ninguna necesite remojo, la hace la legumbre de entrada más sencilla.
 
 ## Composición nutricional
 
-Datos por 100 g de lenteja cocida, sin sal:
+Datos por cada 100 g de lenteja cocida, sin sal:
 
 | Nutriente | Cantidad |
 |---|---|
@@ -43,13 +43,13 @@ Una ración de 200 g cocidas aporta 6,6 mg de hierro y 362 µg de folatos. Para 
 
 ## La proteína que pide un acompañante
 
-9 g de [proteína](/nutricion/macronutrientes/proteinas) por 100 g cocidas sitúa a la lenteja entre las fuentes vegetales más densas en proteína. Con el mismo matiz que tienen todas las [legumbres](/alimentos/legumbres): le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que abunda en los cereales.
+9 g de [proteína](/nutricion/macronutrientes/proteinas) por cada 100 g cocidas sitúa a la lenteja entre las fuentes vegetales más densas en proteína. Con el mismo matiz que tienen todas las [legumbres](/alimentos/legumbres): le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que abunda en los cereales.
 
 El arroz con lentejas, las lentejas con pan, el dal con naan son combinaciones que distintas culturas han perfeccionado durante siglos sin saber de aminoácidos: simplemente funcionaban. El resultado es una proteína completa sin necesidad de que ambos coincidan en el mismo plato, solo en el mismo día.
 
 ## El hierro que depende de cómo cocinas
 
-3,3 mg de hierro por 100 g cocidas es una cifra que merece contexto.
+3,3 mg de hierro por cada 100 g cocidas es una cifra que merece contexto.
 
 Es el tipo de hierro que se encuentra en los vegetales —el **hierro no hemo**— y que tu cuerpo absorbe con menor eficiencia que el de la carne. Y la diferencia entre absorber el 5 % o el 20 % de ese hierro depende en gran medida de lo que comas con las lentejas.
 
@@ -57,29 +57,29 @@ Las lentejas contienen compuestos naturales que se unen al hierro en el intestin
 
 El contrapeso es la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). Hallberg et al. (1989) demostraron que añadir 75 mg de vitamina C a una comida con hierro no hemo puede triplicar o cuadruplicar su absorción. 75 mg es lo que contiene medio pimiento rojo crudo, un kiwi o el zumo de medio limón.
 
-El aliño ácido de las lentejas en ensalada no es solo costumbre mediterránea. La práctica llegó siglos antes que la explicación.
+> El aliño ácido de las lentejas en ensalada no es solo costumbre mediterránea. La práctica llegó siglos antes que la explicación.
 
 ## Folato: la razón más sólida para comerlas cada semana
 
-181 µg de [folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) por 100 g cocidas hace de la lenteja la fuente de vitamina B9 más densa de la despensa española habitual. Una ración de 200 g cubre más del 100 % de la ingesta de referencia para adultos.
+181 µg de [folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) por cada 100 g cocidas hace de la lenteja la fuente de vitamina B9 más densa de la despensa española habitual. Una ración de 200 g cubre más del 100 % de la ingesta de referencia para adultos.
 
 El folato es el nutriente con recomendación específica aumentada antes y durante el embarazo: la EFSA establece 330 µg al día para adultos y 600 µg durante la gestación, período en que es crítico para el desarrollo del sistema nervioso del feto. Los suplementos de ácido fólico están justificados antes y durante el primer trimestre, pero la dieta marca la diferencia durante el resto del embarazo y en la población general.
 
-La lenteja tres veces a la semana resuelve gran parte del problema sin suplemento.
+> La lenteja tres veces a la semana resuelve gran parte del problema sin suplemento.
 
-## Sin remojo, en 25 minutos: qué variedad elegir
+## ¿Cuántas lentejas consumir y cómo?
 
-No todas las lentejas se comportan igual en la cocina, y la diferencia importa más de lo que parece.
+La ración de referencia es de 80-100 g en seco, que se convierte en unos 200 g cocidas. Con esa cantidad obtienes 232 kcal, 18 g de proteína, 15,8 g de [fibra](/nutricion/fibra-alimenticia) y 362 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 100 % de la referencia diaria de la EFSA—.
 
 **Pardina (parda castellana).** Es la más consumida en España: pequeña, de piel fina, cocción directa en 25-30 minutos. Mantiene la forma y aguanta bien los guisos y los potajes.
 
-**Verde y rubia castellana.** Son más grandes y necesitan algo más de tiempo (30-40 minutos). Textura firme, buenas en ensalada y en guisos que se sirven al día siguiente.
+**Verde y rubia castellana.** Son más grandes y necesitan algo más de tiempo (30-40 minutos): de textura firme, quedan bien en ensalada y en guisos que se sirven al día siguiente.
 
-**Roja o coral.** Se produce sin la piel exterior, lo que reduce el tiempo de cocción a 15 minutos y produce una textura que se deshace completamente: ideal para sopas, purés y dals. Al perder la piel pierde también parte de la [fibra](/nutricion/fibra-alimenticia) y de los fitatos, lo que puede mejorar ligeramente la absorción del hierro.
+**Roja o coral.** Se produce sin la piel exterior, lo que reduce el tiempo de cocción a 15 minutos y produce una textura que se deshace completamente: ideal para sopas, purés y dals. Al perder la piel pierde también parte de la [fibra](/nutricion/fibra-alimenticia) y de los fitatos, lo que puede mejorar ligeramente la absorción del [hierro](/nutricion/micronutrientes/oligoelementos/hierro).
 
 **Beluga (negra).** Es la más pequeña y firme. Mantiene la forma incluso después de una cocción prolongada, y su piel concentra más antioxidantes que las variedades de color claro.
 
-La elección de variedad no transforma el perfil nutricional de forma drástica, pero sí el comportamiento en la cocina. La pardina es el punto de entrada más seguro.
+La elección de variedad no cambia el perfil nutricional de forma drástica, pero sí el comportamiento en la cocina. La pardina es el punto de entrada más seguro.
 
 La lenteja es, creo, la legumbre más injustamente devaluada de la dieta española. Tiene el folato más alto, el tiempo de cocción más corto y un hierro que responde al aliño.
 

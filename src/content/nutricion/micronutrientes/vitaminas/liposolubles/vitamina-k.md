@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-La vitamina K es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que existe en dos formas naturales con comportamientos distintos: la que se encuentra en los vegetales de hoja verde —la **filoquinona o K1**—, y las que sintetizan las bacterias y aparecen en alimentos fermentados y de origen animal —las **menaquinonas o K2**—. Su nombre deriva del alemán *Koagulationsvitamin*: fue identificada en 1929 precisamente por su papel en la coagulación sanguínea. Décadas después quedó claro que la coagulación es solo una parte de su función; la otra ocurre en tejidos que los análisis de rutina raramente vigilan.
+La vitamina K es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que existe en dos formas naturales con comportamientos distintos: la que se encuentra en los vegetales de hoja verde —la **filoquinona o K1**—, y las que sintetizan las bacterias y aparecen en fermentados y fuentes de origen animal —las **menaquinonas o K2**—. Su nombre deriva del alemán *Koagulationsvitamin*: fue identificada en 1929 precisamente por su papel en la coagulación sanguínea. Décadas después quedó claro que la coagulación es solo una parte de su función; la otra ocurre en tejidos que los análisis de rutina raramente vigilan.
 
 ## ¿Para qué sirve la vitamina K?
 
@@ -20,7 +20,7 @@ La vitamina K tiene un mecanismo de acción concreto y único: sin ella, una enz
 
 La relación entre la MGP y la calcificación vascular ha impulsado el interés por la K2, que tiene mayor afinidad por los tejidos extrahepaticos —hueso y vasos— que la K1. Los estudios observacionales apuntan a beneficios cardiovasculares y óseos con ingestas más altas de K2, pero los ensayos clínicos controlados disponibles todavía no permiten hacer afirmaciones definitivas.
 
-Tres funciones en tres tejidos distintos —la sangre, el hueso y las arterias—, activadas por el mismo proceso de carboxilación.
+> Tres funciones en tres tejidos distintos —la sangre, el hueso y las arterias—, activadas por el mismo proceso de carboxilación.
 
 ## ¿Cuánta vitamina K necesitas?
 
@@ -40,12 +40,12 @@ Una ración de espinacas cocidas aporta más de 500 μg de K1, siete veces tu in
 
 ## Fuentes alimentarias de vitamina K
 
-La K1 se concentra en vegetales de hoja verde y aceites vegetales; la K2 aparece principalmente en alimentos fermentados y en algunas fuentes animales:
+La K1 se concentra en vegetales de hoja verde y aceites vegetales; la K2 aparece principalmente en fermentados y en algunas fuentes animales:
 
 | Alimento | μg/100 g | Forma |
 |---|---|---|
 | Perejil fresco | ~1600 μg | K1 |
-| Natto (soja fermentada) | ~1000 μg | K2 (MK-7) |
+| Natto ([soja](/alimentos/legumbres/soja) fermentada) | ~1000 μg | K2 (MK-7) |
 | Acelgas cocidas | ~830 μg | K1 |
 | Col rizada cocida | ~700 μg | K1 |
 | Espinacas cocidas | ~540 μg | K1 |
@@ -86,8 +86,12 @@ La vitamina K en sus formas naturales —K1 y K2— no tiene nivel máximo toler
 
 La misma vitamina que activa la coagulación también activa la molécula que frena la calcificación arterial. Un estado marginal de K2 —suficiente para que el hígado produzca los factores de coagulación sin señal de alarma, pero insuficiente para carboxilar la MGP en los vasos— es clínicamente invisible en los análisis habituales.
 
-Es la deficiencia que no sangra, pero que puede calcificar.
+Para mí, este déficit silencioso de K2 es uno de los más difíciles de rastrear: no hay síntoma, no hay analítica rutinaria que lo detecte, y el único indicio posible llegaría demasiado tarde.
+
+> Es la deficiencia que no sangra, pero que puede calcificar.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4780" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin K. EFSA Journal. 2017.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4780" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin K. EFSA Journal. 2017.</a>

@@ -33,7 +33,7 @@ Para insertar la selenocisteína en una proteína, tu célula tiene que resolver
 
 ¿Por qué tu organismo emplea selenio en lugar de [azufre](/nutricion/micronutrientes/minerales/azufre) —su análogo químico más próximo— en posiciones catalíticas críticas? La respuesta está en la reactividad. El pKa —la medida que indica a qué nivel de acidez un átomo pasa de estar latente a estar completamente activo y disponible para reaccionar— del grupo selenol de la selenocisteína es 5,4; el del grupo tiol de la cisteína equivalente es 8,3. A pH fisiológico (7,4), el átomo de selenio está completamente activo; el átomo de azufre de la cisteína, solo en parte. Esa diferencia convierte al selenio en un catalizador entre dos y cuatro órdenes de magnitud más rápido que la cisteína en las mismas condiciones redox.
 
-Por eso no se puede simplemente intercambiar uno por el otro.
+> Por eso no se puede simplemente intercambiar uno por el otro.
 
 El genoma humano codifica **25 selenoproteínas**. Las más importantes pertenecen a tres familias: las glutatión peroxidasas (GPx), las tiorredoxina reductasas (TrxR) y las yodotironina deiodinasas (DIO). La principal proteína transportadora de selenio en plasma —la **selenoproteína P** (SELENOP)— contiene diez residuos de selenocisteína, más que cualquier otra proteína humana, y se encarga de entregar el selenio prioritariamente al cerebro y los testículos cuando la ingesta es limitada.
 
@@ -47,7 +47,7 @@ La familia GPx agrupa ocho enzimas (GPx1–GPx8) con distribuciones tisulares y 
 
 Esta función tiene implicaciones que solo se comprendieron plenamente en 2012, cuando el grupo de Brent Stockwell en la Universidad de Columbia describió una forma de muerte celular regulada impulsada por la acumulación de fosfolípidos oxidados en las membranas y dependiente de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) —la **ferroptosis**—, distinta de la muerte celular programada que la propia célula ejecuta de forma ordenada —la **apoptosis**— y de la muerte por daño o rotura celular brusca —la **necrosis**—. GPx4 es el freno principal de la ferroptosis: cuando es inhibida farmacológicamente o cuando la deficiencia de selenio la compromete, los fosfolípidos de las membranas se oxidan sin control, los iones de Fe²⁺ catalizan una cascada de peroxidación en cadena y la célula muere por colapso de su membrana. La ferroptosis se ha implicado en el daño tisular que ocurre cuando la sangre vuelve a un tejido tras un período de privación de oxígeno —la **isquemia-reperfusión**—, en la lesión renal aguda y en la muerte neuronal en enfermedades neurodegenerativas.
 
-GPx4 es el único freno de ese colapso membranoso. Y GPx4 depende del selenio.
+> GPx4 es el único freno de ese colapso membranoso. Y GPx4 depende del selenio.
 
 Una tercera isoforma de GPx4, la variante mitocondrial presente en los espermatozoides, tiene además una función estructural: forma la cápsula que rodea las mitocondrias del flagelo espermático mediante entrecruzamientos oxidativos. La deficiencia de selenio en varones produce espermatozoides con morfología flagelar anómala e infertilidad, un hallazgo reproducible en roedores y relevante clínicamente en poblaciones con ingesta marginal.
 
@@ -71,7 +71,7 @@ En la causa más frecuente de hipotiroidismo autoinmune en países sin deficienc
 
 ## Fuentes de selenio en la dieta
 
-El contenido de selenio en los alimentos depende en gran medida del contenido de selenio en el suelo donde se produjeron. Esta variabilidad geográfica hace que las tablas de composición de alimentos sean orientativas para el selenio más que para cualquier otro oligoelemento.
+El contenido de selenio en lo que comes depende en gran medida del contenido de selenio en el suelo donde se produjo. Esta variabilidad geográfica hace que las tablas de composición nutricional sean orientativas para el selenio más que para cualquier otro oligoelemento.
 
 | Alimento | Selenio por 100 g (aproximado) |
 |---|---|
@@ -86,11 +86,11 @@ El contenido de selenio en los alimentos depende en gran medida del contenido de
 | Pan integral de trigo | ~26 µg (varía con el suelo) |
 | Lentejas cocidas | ~6 µg |
 
-*Fuente: USDA FoodData Central. Los valores de cereales y legumbres son especialmente variables según el origen geográfico.*
+*Fuente: USDA FoodData Central. Los valores de cereales y [legumbres](/alimentos/legumbres) son especialmente variables según el origen geográfico.*
 
 La **nuez de Brasil** (*Bertholletia excelsa*) merece mención aparte. Sus frutos acumulan selenio del suelo de la selva amazónica, que en algunas regiones es excepcionalmente rico en el elemento. Una sola nuez puede contener entre 70 y 90 µg de selenio —la ingesta de referencia diaria completa—, pero ese valor puede ser diez veces inferior en nueces de zonas con menos selenio en el suelo y cuatro veces superior en zonas especialmente ricas. El consumo crónico de más de cuatro o cinco nueces al día entraña riesgo real de superar el nivel máximo tolerable.
 
-La dimensión geográfica del selenio tiene consecuencias en salud pública que van más allá de los alimentos individuales. Nueva Zelanda, Finlandia y amplias zonas de China tienen suelos con muy bajo contenido en selenio; el norte de América, el sur de América del Sur y algunas regiones de Europa tienen suelos más ricos. Finlandia respondió en 1984 con una solución poco habitual: añadir selenato sódico a todos los fertilizantes agrícolas del país. El resultado fue un aumento mensurable de la ingesta media de selenio en la población finlandesa en el transcurso de pocos años, sin necesidad de suplementos individuales.
+La dimensión geográfica del selenio tiene consecuencias en salud pública que van más allá de las fuentes individuales. Nueva Zelanda, Finlandia y amplias zonas de China tienen suelos con muy bajo contenido en selenio; el norte de América, el sur de América del Sur y algunas regiones de Europa tienen suelos más ricos. Finlandia respondió en 1984 con una solución poco habitual: añadir selenato sódico a todos los fertilizantes agrícolas del país. El resultado fue un aumento mensurable de la ingesta media de selenio en la población finlandesa en el transcurso de pocos años, sin necesidad de suplementos individuales.
 
 Las dietas predominantemente vegetales en zonas con suelos pobres en selenio pueden resultar insuficientes: las legumbres y los cereales contienen selenio en forma de selenometionina, que se absorbe bien, pero la cantidad disponible en la planta depende directamente del suelo. Los mariscos y las carnes tienen perfiles de selenio más estables porque los animales acumulan el elemento con independencia de la variación agrícola puntual.
 
@@ -116,7 +116,9 @@ En 2008, el comité de datos independiente recomendó su interrupción prematura
 
 ¿Cómo se reconcilian NPC y SELECT? El análisis retrospectivo de los datos del NPC reveló que el beneficio estaba concentrado en los participantes con selenio plasmático basal por debajo de 106 µg/L. Por encima de ese umbral, el selenio no producía reducción de cáncer. Los participantes de SELECT tenían un selenio plasmático basal medio de 135 µg/L —ya suficientes—. Suplementar a alguien con selenio adecuado no reduce el cáncer; puede, en cambio, desplazarlos hacia la parte alta del rango donde los efectos son, en el mejor caso, neutros.
 
-El selenio y el cáncer es hoy un ejemplo de libro de texto sobre los límites del razonamiento observacional y de los resultados secundarios de ensayos no potenciados para ese fin. La hipótesis sobrevivió al NPC, no sobrevivió a SELECT.
+El selenio y el cáncer es hoy un ejemplo de libro de texto sobre los límites del razonamiento observacional y de los resultados secundarios de ensayos no potenciados para ese fin. > La hipótesis sobrevivió al NPC, no sobrevivió a SELECT.
+
+Mi lectura es que SELECT fue el mejor servicio que la ciencia pudo haberle hecho al selenio: no solo frenó un mercado que prometía lo que no podía cumplir, sino que señaló exactamente dónde y por qué el razonamiento observacional tiene sus límites.
 
 El selenio es el único oligoelemento con ventana terapéutica en sentido estricto: la diferencia entre la ingesta que optimiza la función de las selenoproteínas y la que produce alopecia, neuropatía y aliento a ajo es de apenas cuatro veces; y la diferencia entre el nivel que protege en deficiencia y el que es inútil en suficiencia es un solo análisis de sangre.
 

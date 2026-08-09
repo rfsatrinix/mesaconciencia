@@ -5,7 +5,7 @@ categoria: "Alimentos"
 draft: true
 date: 2026-07-19
 image: "./fotos/alimentos_portada.jpg"
-imageAlt: "Fotografía de alimentos"
+imageAlt: "Composición de alimentos variados: carnes, pescados, huevos, lácteos, frutos secos, frutas, verduras y cereales sobre tela de arpillera"
 ---
 
 La nutrición estudia moléculas. Tú comes alimentos. Entre los dos hay una distancia que conviene entender, porque lo que llega a tus células no es lo mismo que lo que figura en la etiqueta.

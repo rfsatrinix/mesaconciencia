@@ -4,6 +4,8 @@ description: "Grasas o lípidos: son el macronutriente más calórico y esencial
 categoria: "Grasas o lípidos"
 draft: true
 date: 2026-06-12
+image: "./fotos/grasasolipidos_portada.jpg"
+imageAlt: "Composición de alimentos ricos en grasas dividida en dos grupos: insaturadas (aceite de oliva, aguacate, frutos secos, salmón, sardinas) y saturadas (aceite de coco, mantequilla, queso, carne roja)"
 ---
 
 Las grasas son el macronutriente más calórico: aportan **9 kilocalorías (kcal) por gramo**, más del doble que las [proteínas](/nutricion/macronutrientes/proteinas) o los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono). Esa densidad energética las convierte en un componente fundamental de tu dieta, no en algo que debas evitar.
@@ -20,7 +22,7 @@ Su consumo elevado se asocia con un aumento del tipo de colesterol que eleva el 
 
 ### Monoinsaturadas
 
-La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el aguacate y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en [frutos secos](/alimentos/frutos-secos) como almendras y avellanas. Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
+La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el aguacate y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en [frutos secos](/alimentos/frutos-secos) como [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana). Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
 
 ### Poliinsaturadas
 
@@ -47,9 +49,11 @@ La EFSA recomienda que las grasas aporten entre el **20 y el 35 % de tu energía
 | Grasas totales | 20–35 % de la energía |
 | Saturadas | < 10 % de la energía |
 | Grasas trans | < 1 % de la energía |
-| Omega-6 (LA) | ~4 % de la energía (~9 g/día) |
-| Omega-3 (ALA) | ~0,5 % de la energía (~1,1–1,6 g/día) |
+| Omega-6 (LA) | 4 % de la energía (9 g/día) |
+| Omega-3 (ALA) | 0,5 % de la energía (1,1–1,6 g/día) |
 | EPA + DHA | 250 mg/día |
+
+*Valores aproximados.*
 
 ## Los ácidos grasos esenciales en las grasas o lípidos
 

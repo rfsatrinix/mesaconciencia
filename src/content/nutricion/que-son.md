@@ -4,6 +4,8 @@ description: "Nutrición: es el proceso que convierte lo que comes en energía y
 categoria: "Nutrición"
 draft: true
 date: 2026-06-15
+image: "./fotos/nutricion_portada.jpg"
+imageAlt: "Representación molecular de los cuatro grupos de nutrientes: macronutrientes, micronutrientes, fibra y agua"
 ---
 
 La nutrición es lo que ocurre entre que el alimento entra en tu boca y sus componentes llegan a tus células. No es sinónimo de alimentación: la alimentación es el acto de comer; la nutrición es el proceso de digestión, absorción y utilización de los nutrientes para mantener tus funciones vitales, crecer, reparar tejidos y obtener energía.

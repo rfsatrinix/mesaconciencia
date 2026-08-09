@@ -3,6 +3,8 @@ title: "Proteínas"
 description: "Proteínas: son el macronutriente que construye y repara tu cuerpo; sus funciones, cuántas necesitas según tu situación y las mejores fuentes alimentarias."
 categoria: "Proteínas"
 draft: true
+image: "./fotos/proteinas_portada.jpg"
+imageAlt: "Composición de alimentos ricos en proteínas dividida en dos grupos: origen animal (huevos, pollo, salmón, atún, carne, queso) y origen vegetal (lentejas, garbanzos, soja, edamame, tofu, frutos secos)"
 date: 2026-06-12
 ---
 
@@ -54,7 +56,7 @@ El contenido proteico por 100 g varía según el alimento y el modo de preparaci
 | Atún en conserva (escurrido) | 25 g |
 | Tofu firme | 17 g |
 | Huevo entero | 13 g |
-| Lentejas cocidas | 9 g |
+| [Lentejas cocidas](/alimentos/legumbres/lentejas) | 9 g |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 9 g |
 
 *Fuente: BEDCA.*
@@ -75,7 +77,7 @@ Tienen sentido en contextos concretos: un volumen de entrenamiento alto que elev
 
 > La suplementación proteica es una herramienta práctica, no una necesidad universal.
 
-> La proteína no es solo músculo. Es la materia prima de tus enzimas, tus hormonas y tus defensas.
+La proteína no es solo músculo. Es la materia prima de tus enzimas, tus hormonas y tus defensas.
 
 ---
 

@@ -4,6 +4,8 @@ description: "Macronutrientes: son los tres nutrientes que aportan energía a tu
 categoria: "Macronutrientes"
 draft: true
 date: 2026-06-15
+image: "./fotos/macronutrientes_portada.jpg"
+imageAlt: "Composición de alimentos dividida en tres grupos: hidratos de carbono, proteínas y grasas"
 ---
 
 Los **macronutrientes** son los nutrientes que tu organismo necesita en grandes cantidades para obtener energía y mantener sus estructuras. Son tres: hidratos de carbono, proteínas y grasas.

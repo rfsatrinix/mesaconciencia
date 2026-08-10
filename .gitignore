@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# carpetas de trabajo local
+src/Todas las fotos/
+Anotaciones/
+BCK-src-content/

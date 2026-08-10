@@ -28,15 +28,15 @@ La grasa monoinsaturada más común es la que predomina en el aceite de oliva, e
 
 Son las grasas más importantes por las funciones que cumplen en tu cuerpo. Incluyen dos familias esenciales que tu organismo no puede producir por sí solo:
 
-**Omega-6:** la más abundante en la dieta occidental. Su representante principal es el que abunda en aceites de girasol, maíz y [soja](/alimentos/legumbres/soja), y en la mayoría de frutos secos —el **ácido linoleico (LA)**—.
+**Omega-6:** es la familia más abundante en la dieta occidental. Su representante principal es el que abunda en aceites de girasol, maíz y [soja](/alimentos/legumbres/soja), y en la mayoría de frutos secos —el **ácido linoleico (LA)**—.
 
-**Omega-3:** su representante vegetal principal es el que se encuentra en lino, chía y nueces —el **ácido alfa-linolénico (ALA)**—. Sus derivados de cadena larga, los que tu cuerpo puede usar directamente para reducir la inflamación y proteger el corazón, son el **EPA** y el **DHA**; se encuentran principalmente en pescado azul y algas.
+**Omega-3:** su representante vegetal principal es el que se encuentra en lino, chía y [nueces](/alimentos/frutos-secos/nuez) —el **ácido alfa-linolénico (ALA)**—. Sus derivados de cadena larga, los que tu cuerpo puede usar directamente para reducir la inflamación y proteger el corazón, son el **EPA** y el **DHA**; se encuentran principalmente en pescado azul y algas.
 
 El equilibrio entre omega-6 y omega-3 influye en cómo responde tu cuerpo ante infecciones, lesiones y enfermedades crónicas. La dieta occidental tiende a un exceso de omega-6 respecto al omega-3.
 
 ### Grasas trans
 
-Se forman principalmente durante el proceso industrial que convierte aceites vegetales líquidos en grasas sólidas —la **hidrogenación industrial**—, presente en margarinas duras y ultraprocesados. También aparecen en pequeñas cantidades de forma natural en lácteos y carnes de rumiantes. Las de origen industrial se asocian con un aumento del riesgo cardiovascular; su consumo debe ser el mínimo posible.
+Se forman principalmente durante el proceso industrial que convierte aceites vegetales líquidos en grasas sólidas —la **hidrogenación industrial**—, presente en margarinas duras y ultraprocesados. También aparecen en pequeñas cantidades de forma natural en lácteos y carnes de rumiantes. Las de origen industrial se asocian con un aumento del riesgo cardiovascular; intenta que su consumo sea el mínimo posible.
 
 A diferencia del resto, las grasas trans industriales no aportan ninguna función útil a tu cuerpo.
 
@@ -88,12 +88,14 @@ Tu organismo puede fabricar la mayoría de las grasas que necesita. Solo hay dos
 
 **Frutos secos sin procesar:** son una buena fuente de [grasas monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) y de omega-3 vegetal, aunque sin sustituir al pescado azul para el EPA y el DHA.
 
-**Reducir:** carnes procesadas, bollería industrial y cualquier alimento con aceites parcialmente hidrogenados en la lista de ingredientes.
+**Reducir al mínimo:** las carnes procesadas, la bollería industrial y cualquier alimento con aceites parcialmente hidrogenados en la lista de ingredientes; son las principales fuentes de grasas trans en la dieta cotidiana.
 
-Cambiar la mantequilla por aceite de oliva, los snacks ultraprocesados por frutos secos y añadir pescado azul dos veces por semana son los tres ajustes con mayor impacto en tu perfil lipídico.
+Para mí, los tres ajustes con mayor impacto en tu perfil lipídico son cambiar la mantequilla por aceite de oliva, sustituir los snacks ultraprocesados por frutos secos y añadir pescado azul dos veces por semana.
 
 > El problema con las grasas nunca fue la cantidad. Fue el tipo.
 
 ---
+
+## Referencias
 
 *Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for fats. EFSA Journal. 2010.</a>*

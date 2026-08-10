@@ -4,20 +4,22 @@ description: "Ultraoligoelementos: son los cuatro elementos traza cuya esenciali
 categoria: "Ultraoligoelementos"
 draft: true
 date: 2026-07-04
+image: "./fotos/ultraoligoelementos_portada.jpg"
+imageAlt: "Composición de alimentos ricos en ultraoligoelementos sobre fondo negro: setas, ajo, ostras, almejas, pimiento verde, uvas y granos de pimienta negra"
 ---
 
 Los ultraoligoelementos son componentes que aparecen en cantidades ínfimas —los **elementos traza**— tanto en la dieta como en los tejidos de tu cuerpo: huesos, hígado, riñones, sangre. Lo que los diferencia de los [oligoelementos](/nutricion/micronutrientes/oligoelementos) clásicos —[hierro](/nutricion/micronutrientes/oligoelementos/hierro), [zinc](/nutricion/micronutrientes/oligoelementos/zinc), [yodo](/nutricion/micronutrientes/oligoelementos/yodo), [selenio](/nutricion/micronutrientes/oligoelementos/selenio), [cobre](/nutricion/micronutrientes/oligoelementos/cobre)— es que ninguna autoridad sanitaria ha podido confirmar que sean imprescindibles para vivir: su condición de nutrientes que el cuerpo necesita y no puede reemplazar con ningún otro —la **esencialidad**— no ha sido reconocida ni por la EFSA ni por la OMS. No tienen una ingesta de referencia establecida porque la evidencia disponible no ha identificado ninguna función del cuerpo que los requiera de forma específica.
 
-Que no tengan una ingesta de referencia no significa que sean inertes ni que la ciencia los ignore. Significa algo más preciso: la evidencia disponible —procedente en gran parte de estudios en animales y de ensayos clínicos pequeños en humanos— no es suficiente para establecer una relación causal entre su ingesta y un resultado de salud concreto en poblaciones humanas. Ese estado de «posiblemente activo pero no establecido» no es permanente: el [selenio](/nutricion/micronutrientes/oligoelementos/selenio) fue durante décadas un elemento de toxicidad conocida pero sin función esencial reconocida, hasta que en los años setenta se descubrió que es parte estructural de un grupo de moléculas del organismo —las **selenoproteínas**—. El [flúor](/nutricion/micronutrientes/oligoelementos/fluor) tardó más de un siglo en que su papel en la protección del esmalte dental fuera cuantificado con rigor suficiente para que la EFSA fijara una ingesta adecuada. Los cuatro ultraoligoelementos de esta sección son los candidatos que la investigación actual sitúa en esa frontera.
+Que no tengan una ingesta de referencia no significa que sean inertes ni que la ciencia los ignore. Significa algo más preciso: la evidencia disponible —procedente en gran parte de estudios en animales y de ensayos clínicos pequeños en humanos— no es suficiente para establecer una relación causal entre su ingesta y un resultado de salud concreto en poblaciones humanas. Ese estado de «posiblemente activo pero no establecido» no es permanente: el selenio fue durante décadas un elemento de toxicidad conocida pero sin función esencial reconocida, hasta que en los años setenta se descubrió que es parte estructural de un grupo de moléculas del organismo —las **selenoproteínas**—. El [flúor](/nutricion/micronutrientes/oligoelementos/fluor) tardó más de un siglo en que su papel en la protección del esmalte dental fuera cuantificado con rigor suficiente para que la EFSA fijara una ingesta adecuada. Los cuatro ultraoligoelementos de esta sección son los candidatos que la investigación actual sitúa en esa frontera.
 
 ## Los cuatro ultraoligoelementos estudiados
 
 | Elemento | Principales fuentes | Investigación principal | Toxicidad |
 |---|---|---|---|
-| **Boro** | Frutas, [frutos secos](/alimentos/frutos-secos), [legumbres](/alimentos/legumbres), verduras | Formación del hueso, regulación hormonal, función cognitiva | Baja a dosis dietéticas |
-| **Silicio** | Cereales integrales, verduras, granos fermentados | Fabricación de colágeno, estructura del hueso | Muy baja a dosis dietéticas |
-| **Vanadio** | Marisco, setas, cereales, pimienta negra | Sensibilidad a la insulina, control del azúcar en sangre | Moderada; margen estrecho entre dosis estudiada y tóxica |
-| **Germanio** | Ajo, setas medicinales, ginseng | Sin función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
+| **Boro** | Frutas, [frutos secos](/alimentos/frutos-secos), [legumbres](/alimentos/legumbres), verduras | Interviene en la formación del hueso, la regulación hormonal y la función cognitiva | Baja a dosis dietéticas |
+| **Silicio** | Cereales integrales, verduras, granos fermentados | Participa en la fabricación de colágeno y en la estructura del hueso | Muy baja a dosis dietéticas |
+| **Vanadio** | Marisco, setas, cereales, pimienta negra | Interviene en la sensibilidad a la insulina y el control del azúcar en sangre | Moderada; margen estrecho entre dosis estudiada y tóxica |
+| **Germanio** | Ajo, setas medicinales, ginseng | No tiene función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
 
 **[Boro](/nutricion/micronutrientes/ultraoligoelementos/boro).** Las investigaciones más consistentes apuntan a los procesos de formación y mantenimiento del hueso —el **metabolismo óseo**— y a la función cognitiva en personas mayores. El boro parece amplificar la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los estrógenos, que intervienen en la incorporación del [calcio](/nutricion/micronutrientes/minerales/calcio) al hueso. Si tu dieta es rica en frutas y verduras, tu ingesta habitual de boro se sitúa entre 1 y 3 mg/día, y ningún caso de toxicidad se ha asociado a fuentes alimentarias.
 
@@ -27,7 +29,7 @@ Que no tengan una ingesta de referencia no significa que sean inertes ni que la 
 
 > El problema del vanadio no es que no parezca activo: es que la dosis que podría serlo roza la que daña.
 
-**[Germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio).** Es el único de los cuatro con una señal de riesgo documentada de forma inequívoca. El dióxido de germanio (GeO₂) —la forma inorgánica presente en suplementos vendidos durante los años ochenta— causó la pérdida grave e irreversible de la función del riñón —la **insuficiencia renal**— y muertes en usuarios que lo tomaron de forma prolongada. Los compuestos orgánicos de germanio tienen un perfil de seguridad algo mejor, pero tampoco tienen ningún papel conocido en el organismo ni evidencia clínica sólida de beneficio. Su inclusión en esta sección responde únicamente a que sigue generando búsquedas y a que la información disponible —incluyendo los riesgos reales— merece una exposición honesta.
+**[Germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio).** Es el único de los cuatro con una señal de riesgo documentada de forma inequívoca. El dióxido de germanio (GeO₂) —la forma inorgánica presente en suplementos vendidos durante los años ochenta— causó la pérdida grave e irreversible de la función del riñón —la **insuficiencia renal**— y muertes en usuarios que lo tomaron de forma prolongada. Los compuestos orgánicos de germanio tienen un perfil de seguridad algo mejor, pero tampoco tienen ningún papel conocido en el organismo ni evidencia clínica sólida de beneficio. Para mí, la única justificación para incluirlo aquí es precisamente esa: sigue apareciendo en tiendas de suplementos, y la historia de sus riesgos reales merece una exposición honesta.
 
 ## ¿Por qué no existe una dosis de referencia?
 
@@ -63,4 +65,4 @@ La investigación dietética no avanza declarando esenciales a los candidatos an
 
 ## Referencias
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/37931" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a> · <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3098" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for molybdenum. EFSA Journal. 2013 (referencia para verificar ausencia de DRV en ultraoligoelementos).</a>*
+*Fuentes: <a href="https://iris.who.int/handle/10665/37931" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a> · <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values (lista completa de nutrientes con DRV establecido)</a>*

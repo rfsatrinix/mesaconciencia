@@ -26,7 +26,7 @@ Los [macronutrientes](/nutricion/macronutrientes) son los que necesitas en grand
 
 ### Micronutrientes
 
-Los [micronutrientes](/nutricion/micronutrientes) se necesitan en cantidades pequeñas —miligramos o microgramos al día— pero sin ellos el conjunto de reacciones químicas que te mantiene vivo —tu **metabolismo**— no funciona:
+Los [micronutrientes](/nutricion/micronutrientes) los necesitas en cantidades pequeñas —miligramos o microgramos al día— pero sin ellos el conjunto de reacciones químicas que te mantiene vivo —tu **metabolismo**— no funciona:
 
 **[Vitaminas](/nutricion/micronutrientes/vitaminas):** son sustancias que tu cuerpo no puede fabricar en cantidad suficiente y que regulan procesos esenciales. Las liposolubles —A, D, E y K— se almacenan en la grasa corporal; las hidrosolubles —el grupo B y la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c)— no se acumulan y necesitas aportarlas con regularidad.
 
@@ -45,5 +45,7 @@ Entender cómo funcionan los nutrientes te permite tomar decisiones alimentarias
 > Comer es inevitable. Nutrirse es una decisión.
 
 ---
+
+## Referencias
 
 *Fuentes: <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>; <a href="https://www.who.int/es/health-topics/nutrition" target="_blank" rel="noopener noreferrer">OMS — Nutrición</a>.*

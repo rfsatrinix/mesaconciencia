@@ -3,6 +3,8 @@ title: "Aminoácidos esenciales"
 description: "Aminoácidos esenciales: son los nueve que tu cuerpo no puede fabricar; qué función tiene cada uno, qué son los BCAAs y cómo cubrirlos con la dieta."
 categoria: "Aminoácidos esenciales"
 draft: true
+image: "./fotos/aminoacidosesenciales_portada.jpg"
+imageAlt: "Representación molecular de una cadena de aminoácidos esenciales, los bloques constructores de las proteínas (representación artística)"
 date: 2026-06-12
 ---
 
@@ -38,6 +40,8 @@ Los suplementos de BCAAs aislados tienen utilidad limitada cuando ya consumes pr
 
 > Con proteína completa en cantidad suficiente, los BCAAs adicionales no añaden nada.
 
+Para mí, el éxito de los suplementos de BCAAs tiene más que ver con el marketing deportivo que con lo que dice la fisiología.
+
 ## ¿Qué ocurre cuando falta un aminoácido esencial?
 
 La fabricación de cada proteína requiere que todos sus aminoácidos estén disponibles simultáneamente. Si falta uno, la fabricación se detiene: el aminoácido que falta —el **limitante**— condiciona el aprovechamiento de todos los demás.
@@ -50,11 +54,23 @@ Las deficiencias graves son raras en dietas variadas, pero aparecen cuando la di
 
 Al margen de los nueve esenciales, existen aminoácidos que tu organismo adulto sano puede fabricar, pero que se vuelven indispensables en situaciones concretas: enfermedad grave, cirugía mayor, grandes quemados o prematuridad.
 
-Los más relevantes son la **arginina** —que permite fabricar el gas que dilata tus vasos sanguíneos (**óxido nítrico**) y participa en la cicatrización de heridas—, la **glutamina** —principal combustible de las células de tu intestino y de tu sistema inmune—, la **cisteína** —que el cuerpo puede fabricar a partir de la metionina, pero con capacidad limitada bajo estrés físico intenso— y la **tirosina** —que el cuerpo fabrica a partir de la fenilalanina—. En contexto clínico, su suplementación puede ser necesaria.
+Los más relevantes son cuatro.
+
+**Arginina:** permite fabricar el gas que dilata tus vasos sanguíneos —el **óxido nítrico**— y participa en la cicatrización de heridas.
+
+**Glutamina:** es el principal combustible de las células de tu intestino y de tu sistema inmune.
+
+**Cisteína:** tu cuerpo puede fabricarla a partir de la metionina, pero con capacidad limitada bajo estrés físico intenso.
+
+**Tirosina:** tu cuerpo la fabrica a partir de la fenilalanina, aunque esa síntesis puede volverse insuficiente en situaciones de estrés grave.
+
+En contexto clínico, la suplementación de estos aminoácidos puede ser necesaria.
+
+> Que tu cuerpo pueda fabricarlos no significa que siempre pueda hacerlo en cantidad suficiente.
 
 ## Cómo cubrir los nueve aminoácidos esenciales
 
-Basta con incluir variedad de fuentes proteicas a lo largo del día.
+Basta con que incluyas variedad de fuentes proteicas a lo largo del día.
 
 **Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y quinoa.
 
@@ -62,7 +78,7 @@ Basta con incluir variedad de fuentes proteicas a lo largo del día.
 
 Una dieta con proteínas en cada comida —dos o tres fuentes distintas al día es suficiente— cubre los nueve aminoácidos esenciales sin que tengas que hacer ningún cálculo.
 
-Tu cuerpo puede fabricar once de los veinte aminoácidos que necesita. Los nueve que no puede fabricar son los que deciden la calidad de la proteína que comes.
+Tu cuerpo puede fabricar once de los veinte aminoácidos que necesita. Los nueve que no puede fabricar son los que indican la calidad de la proteína que comes.
 
 ---
 

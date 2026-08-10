@@ -4,6 +4,8 @@ description: "Micronutrientes: son las vitaminas y los minerales que tu cuerpo n
 categoria: "Micronutrientes"
 draft: true
 date: 2026-07-03
+image: "./fotos/micronutrientes_portada.jpg"
+imageAlt: "Composición de alimentos ricos en micronutrientes sobre fondo negro: espinacas, brócoli, zanahoria, boniato, pimiento rojo, garbanzos, lentejas, almendras, nueces, salmón, huevos y tomates cherry"
 ---
 
 Los micronutrientes son sustancias que tu organismo necesita en cantidades pequeñas —miligramos o microgramos al día— pero que son imprescindibles para que funcione correctamente. A diferencia de los [macronutrientes](/nutricion/macronutrientes), no aportan energía; su papel es estructural y regulador: sin ellos, el conjunto de reacciones que mantiene tu cuerpo vivo —tu **metabolismo**— no puede funcionar.
@@ -24,14 +26,20 @@ La deficiencia leve no siempre genera síntomas inmediatos, pero deteriora el fu
 
 > Puedes tener una carencia sin saberlo durante meses.
 
-Las más comunes en Europa son las de [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —más del 40 % de la población europea presenta niveles insuficientes—, [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y [yodo](/nutricion/micronutrientes/oligoelementos/yodo).
+Las más comunes en Europa son las de vitamina D —más del 40 % de la población europea presenta niveles insuficientes—, hierro y [yodo](/nutricion/micronutrientes/oligoelementos/yodo).
 
 ## Fuentes alimentarias y suplementación
 
-La mayor parte de los micronutrientes se cubre con una dieta que incluya vegetales frescos, [legumbres](/alimentos/legumbres), cereales integrales, [frutos secos](/alimentos/frutos-secos) y proteínas de calidad. Los ultraprocesados desplazan estas fuentes y reducen la cantidad de vitaminas y minerales que aportan por cada 100 kilocalorías —la **densidad de micronutrientes**— sin reducir las calorías: ese trueque explica por qué existen deficiencias en países con abundancia alimentaria.
+La mayor parte de los micronutrientes los cubres con una dieta que incluya vegetales frescos, [legumbres](/alimentos/legumbres), cereales integrales, [frutos secos](/alimentos/frutos-secos) y proteínas de calidad. Los ultraprocesados desplazan estas fuentes y reducen la cantidad de vitaminas y minerales que aportan por cada 100 kilocalorías —la **densidad de micronutrientes**— sin reducir las calorías: ese trueque explica por qué existen deficiencias en países con abundancia alimentaria.
 
-Los suplementos son necesarios cuando existe una deficiencia confirmada o un riesgo elevado que la dieta no puede resolver por sí sola. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) en latitudes con poca exposición solar y la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) en dietas veganas son los casos más documentados. Fuera de esos contextos, suplementar sin deficiencia no aporta beneficio comprobado y puede interferir con la absorción de otros micronutrientes.
+Los suplementos son necesarios cuando existe una deficiencia confirmada o un riesgo elevado que la dieta no puede resolver por sí sola. La vitamina D en latitudes con poca exposición solar y la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) en dietas veganas son los casos más documentados. Fuera de esos contextos, suplementar sin deficiencia no aporta beneficio comprobado y puede interferir con la absorción de otros micronutrientes.
 
 Cuanto más variada es tu dieta, menos probable es que falte alguno.
 
 > No hay suplemento que reemplace la diversidad alimentaria.
+
+---
+
+## Referencias
+
+*Fuentes: <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10064807/" target="_blank" rel="noopener noreferrer">Iqbal et al. Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants. Frontiers in Nutrition. 2023.</a>*

@@ -4,6 +4,8 @@ description: "Minerales: son los elementos que tu cuerpo no puede fabricar y deb
 categoria: "Minerales"
 draft: true
 date: 2026-07-03
+image: "./fotos/minerales_portada.jpg"
+imageAlt: "Composición de alimentos ricos en minerales sobre fondo negro: sardinas, queso, plátano, brócoli, almendras, huevos, lentejas, arroz integral y avena"
 ---
 
 Los **minerales** son la segunda gran categoría de [micronutrientes](/nutricion/micronutrientes), junto con las [vitaminas](/nutricion/micronutrientes/vitaminas). A diferencia de estas últimas —que el calor y el cocinado pueden degradar—, los minerales mantienen su composición intacta durante la cocción y el procesado. Un gramo de calcio en una sardina cruda sigue siendo un gramo de calcio en una sardina en lata.
@@ -16,16 +18,16 @@ Los seis macrominerales con mayor relevancia clínica y dietética son:
 
 | Mineral | Función principal | Fuentes principales |
 |---|---|---|
-| **[Calcio](/nutricion/micronutrientes/minerales/calcio)** | Estructura ósea y dental; contracción muscular; coagulación | Lácteos, sardinas, brócoli, almendras |
-| **[Fósforo](/nutricion/micronutrientes/minerales/fosforo)** | Huesos, paredes de tus células y producción de energía (ATP) | Carnes, pescado, lácteos, [legumbres](/alimentos/legumbres) |
-| **[Magnesio](/nutricion/micronutrientes/minerales/magnesio)** | Activa más de 300 enzimas; funcionamiento del músculo y el sistema nervioso | [Frutos secos](/alimentos/frutos-secos), legumbres, cereales integrales |
-| **[Potasio](/nutricion/micronutrientes/minerales/potasio)** | Ion principal dentro de tus células; regula el equilibrio hídrico y la presión arterial | Frutas, verduras, legumbres, patata |
-| **[Sodio](/nutricion/micronutrientes/minerales/sodio)** | Ion principal fuera de tus células; conducción nerviosa; equilibrio del pH | Sal común, productos procesados |
-| **[Azufre](/nutricion/micronutrientes/minerales/azufre)** | Fabricación del principal antioxidante que produce tu cuerpo y de ciertos aminoácidos | Carnes, huevos, legumbres, crucíferas |
+| **[Calcio](/nutricion/micronutrientes/minerales/calcio)** | Da estructura a tus huesos y dientes; participa en la contracción muscular y en la coagulación sanguínea | Lácteos, sardinas, brócoli, almendras |
+| **[Fósforo](/nutricion/micronutrientes/minerales/fosforo)** | Forma los huesos junto con el calcio, constituye las paredes de tus células y participa en la producción de energía celular | Carnes, pescado, lácteos, [legumbres](/alimentos/legumbres) |
+| **[Magnesio](/nutricion/micronutrientes/minerales/magnesio)** | Activa más de 300 enzimas y regula el funcionamiento del músculo y el sistema nervioso | [Frutos secos](/alimentos/frutos-secos), legumbres, cereales integrales |
+| **[Potasio](/nutricion/micronutrientes/minerales/potasio)** | Es el ion principal dentro de tus células; regula el equilibrio hídrico y la presión arterial | Frutas, verduras, legumbres, patata |
+| **[Sodio](/nutricion/micronutrientes/minerales/sodio)** | Es el ion principal fuera de tus células; permite la conducción nerviosa y mantiene el equilibrio del pH | Sal común, productos procesados |
+| **[Azufre](/nutricion/micronutrientes/minerales/azufre)** | Participa en la fabricación del principal antioxidante que produce tu cuerpo y de ciertos aminoácidos | Carnes, huevos, legumbres, crucíferas |
 
 ## El calcio: el mineral más abundante
 
-Tu cuerpo contiene entre 1.000 y 1.200 gramos de [calcio](/nutricion/micronutrientes/minerales/calcio). El 99 % se concentra en huesos y dientes, donde forma parte de la sal mineral que les da rigidez —la **hidroxiapatita**—. El 1 % restante, libre en sangre y en el interior de las células, participa en la contracción muscular, la transmisión nerviosa y la coagulación sanguínea.
+Tu cuerpo contiene entre 1.000 y 1.200 gramos de calcio. El 99 % se concentra en huesos y dientes, donde forma parte de la sal mineral que les da rigidez —la **hidroxiapatita**—. El 1 % restante, libre en sangre y en el interior de las células, participa en la contracción muscular, la transmisión nerviosa y la coagulación sanguínea.
 
 Esas funciones no óseas son prioritarias: cuando tu ingesta de calcio cae, el hueso cede calcio a la sangre para mantener los niveles de calcio en sangre dentro de lo que tu cuerpo necesita.
 
@@ -53,11 +55,11 @@ La relación entre sodio y presión arterial está bien establecida: un exceso c
 
 La proporción de cada mineral que tu intestino consigue absorber y usar —la **biodisponibilidad**— varía mucho, y los macrominerales compiten entre sí dificultándose mutuamente.
 
-El [calcio](/nutricion/micronutrientes/minerales/calcio) en dosis altas reduce la absorción de [magnesio](/nutricion/micronutrientes/minerales/magnesio) y de [hierro](/nutricion/micronutrientes/oligoelementos/hierro).
+El calcio en dosis altas reduce la absorción de magnesio y de [hierro](/nutricion/micronutrientes/oligoelementos/hierro).
 
 El exceso de sodio aumenta la pérdida de calcio por la orina: por cada 2.300 mg de sodio ingeridos, el riñón excreta aproximadamente 40 mg adicionales de calcio.
 
-Los compuestos que se acumulan en la capa exterior de los granos, semillas y legumbres —los **fitatos**— forman complejos con calcio y magnesio en el intestino e impiden su absorción.
+Los compuestos que se acumulan en la capa exterior de los granos, semillas y legumbres —los **fitatos**— se unen al calcio y al magnesio en el intestino y los atrapan en una forma que tu cuerpo no puede absorber.
 
 El remojo prolongado de legumbres y la fermentación de cereales activan las enzimas que descomponen los fitatos —las **fitasas**— y son los ajustes con mayor impacto sobre la absorción de calcio y magnesio en dietas de base vegetal.
 
@@ -67,12 +69,18 @@ La EFSA ha establecido ingestas de referencia diferenciadas por mineral y grupo 
 
 | Mineral | Ingesta de referencia (EFSA) | Nivel máximo tolerable |
 |---|---|---|
-| [Calcio](/nutricion/micronutrientes/minerales/calcio) | 1.000 mg/día (1.200 mg/día >75 años) | 2.500 mg/día |
+| Calcio | 1.000 mg/día (1.200 mg/día >75 años) | 2.500 mg/día |
 | Fósforo | 550 mg/día | 3.000 mg/día |
 | Magnesio | 300 mg/día (hombres) / 250 mg/día (mujeres) | No establecido (fuentes dietéticas) |
 | Potasio | 3.500 mg/día | No establecido |
 | Sodio | 2.000 mg/día (referencia de reducción) | No establecido como UL |
 
-La ingesta insuficiente de calcio y magnesio es más habitual de lo que parece, incluso en dietas aparentemente variadas, sobre todo cuando se evitan los lácteos sin compensar con sardinas, brócoli, almendras o legumbres —o cuando la ingesta de fitatos es alta y no se emplean técnicas que los reduzcan—. La deficiencia grave de macrominerales es poco frecuente con acceso alimentario suficiente; la insuficiencia crónica sin síntomas claros, en cambio, es mucho más común de lo que los análisis de sangre estándar detectan.
+La ingesta insuficiente de calcio y magnesio es más habitual de lo que parece, incluso en dietas aparentemente variadas, sobre todo cuando evitas los lácteos sin compensar con sardinas, brócoli, almendras o legumbres —o cuando tu ingesta de fitatos es alta y no empleas técnicas que los reduzcan—. La deficiencia grave de macrominerales es poco frecuente con acceso alimentario suficiente. Para mí, la insuficiencia crónica sin síntomas claros es el problema real: es mucho más común de lo que los análisis de sangre estándar detectan.
 
-Los macrominerales no actúan de forma aislada: el calcio depende de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d), el magnesio del ATP que produce el [fósforo](/nutricion/micronutrientes/minerales/fosforo), el potasio del sodio que equilibra. En la dieta, los déficits raramente son de un solo mineral; cuando aparecen, señalan un patrón de alimentación, no un alimento concreto.
+Los macrominerales no actúan de forma aislada: el calcio depende de la vitamina D, el magnesio del ATP que produce el fósforo, el potasio del sodio que equilibra. En la dieta, los déficits raramente son de un solo mineral; cuando aparecen, señalan un patrón de alimentación, no un alimento concreto.
+
+---
+
+## Referencias
+
+*Fuentes: <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>*

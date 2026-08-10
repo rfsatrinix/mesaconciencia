@@ -14,17 +14,17 @@ Los hidratos de carbono son la fuente de energía que tu organismo consume con m
 
 ### Simples (azúcares)
 
-Se absorben con rapidez en tu intestino y producen una elevación brusca del nivel de azúcar en tu sangre —la **glucemia**—.
+Tu cuerpo los absorbe con rapidez en tu intestino y produce una elevación brusca del nivel de azúcar en tu sangre —la **glucemia**—.
 
 **Monosacáridos:** son los azúcares más simples, formados por una sola molécula. Los principales son la glucosa, el azúcar que abunda en las frutas —la **fructosa**— y el azúcar presente en la leche —la **galactosa**—.
 
 **Disacáridos:** están formados por dos monosacáridos encadenados. El azúcar de mesa —la **sacarosa**— une glucosa y fructosa; el azúcar de la leche —la **lactosa**— une glucosa y galactosa.
 
-Se encuentran de forma natural en frutas, leche y miel, pero también se añaden en forma de azúcar refinado a ultraprocesados.
+Los encuentras de forma natural en frutas, leche y miel, pero también se añaden en forma de azúcar refinado a ultraprocesados.
 
 ### Complejos (polisacáridos)
 
-Son cadenas muy largas de moléculas de glucosa encadenadas —a veces miles de ellas—. Se digieren más lentamente que los azúcares simples y tienen un impacto menor sobre tu glucemia.
+Son cadenas muy largas de moléculas de glucosa encadenadas —a veces miles de ellas—. Tu cuerpo los digiere más lentamente que los azúcares simples y tienen un impacto menor sobre tu glucemia.
 
 **Almidón:** es la forma en que las plantas almacenan energía. Está presente en cereales, [legumbres](/alimentos/legumbres) y tubérculos, y es el hidrato complejo más abundante en tu dieta habitual.
 
@@ -72,10 +72,12 @@ Las diferencias entre fuentes integrales y refinadas van más allá del IG. Los 
 
 **Frutas enteras** (no zumos): la fibra de la fruta entera ralentiza la absorción de sus azúcares naturales y modera la subida brusca de glucemia.
 
-Elegir bien las fuentes importa más que contar gramos: un plato de lentejas y una barrita de cereales refinados pueden contener cantidades similares de hidratos, pero su efecto en tu glucemia y en la sensación de quedar satisfecho —la **saciedad**— es completamente diferente.
+Para mí, elegir bien las fuentes importa más que contar gramos: un plato de lentejas y una barrita de cereales refinados pueden contener cantidades similares de hidratos, pero su efecto en tu glucemia y en la sensación de quedar satisfecho —la **saciedad**— es completamente diferente.
 
 > No hay hidrato malo por naturaleza. Lo que importa es de dónde viene cada uno.
 
 ---
+
+## Referencias
 
 *Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1462" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies. Scientific Opinion on Dietary Reference Values for carbohydrates and dietary fibre. EFSA Journal. 2010.</a>*

@@ -16,7 +16,7 @@ A diferencia de los [micronutrientes](/nutricion/micronutrientes) —[vitaminas]
 
 ### Hidratos de carbono
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) son la fuente de energía preferida de tu cerebro y tus músculos durante el ejercicio de alta intensidad. Aportan **4 kilocalorías por gramo**. Se dividen en los que el cuerpo digiere rápido —los **hidratos simples**, como los azúcares— y los que procesa más lentamente —los **hidratos complejos**, como los almidones y la [fibra](/nutricion/fibra-alimenticia)—. La EFSA recomienda que aporten entre el 45 y el 60 % de tu energía total diaria.
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) son la fuente de energía preferida de tu cerebro y tus músculos durante el ejercicio de alta intensidad. Aportan **4 kilocalorías por gramo**. Se dividen en los que tu cuerpo digiere rápido —los **hidratos simples**, como los azúcares— y los que procesa más lentamente —los **hidratos complejos**, como los almidones y la [fibra](/nutricion/fibra-alimenticia)—. La EFSA recomienda que aporten entre el 45 y el 60 % de tu energía total diaria.
 
 ### Proteínas
 
@@ -42,10 +42,12 @@ Eliminar cualquiera de los tres —algo frecuente en dietas de moda— tiene con
 
 > Las dietas de moda cambian. Tu biología, no.
 
-La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son las fuentes que lo aportan. Eso implica elegir cereales integrales antes que azúcares añadidos, grasas saludables —las **insaturadas**— antes que las artificiales que elevan el colesterol malo (LDL) —las **grasas trans**—, y proteínas que tu intestino pueda absorber con facilidad —las de **alta biodisponibilidad**—, como las de origen animal o las combinaciones vegetales bien planificadas.
+La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son las fuentes que lo aportan. Eso implica que elijas cereales integrales antes que azúcares añadidos, grasas saludables —las **insaturadas**— antes que las artificiales que elevan el colesterol malo (LDL) —las **grasas trans**—, y proteínas que tu intestino pueda absorber con facilidad —las de **alta biodisponibilidad**—, como las de origen animal o las combinaciones vegetales bien planificadas.
 
 > La fuente importa más que el porcentaje.
 
 ---
+
+## Referencias
 
 *Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1462" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for carbohydrates. 2010.</a>; <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for fats. 2010.</a>; <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for protein. 2012.</a>*

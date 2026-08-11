@@ -4,9 +4,13 @@ description: "Hidratos de carbono complejos: son cadenas largas de glucosa que s
 categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
+image: "./fotos/complejos_portada.jpg"
+imageAlt: "Composición de alimentos ricos en hidratos de carbono complejos sobre fondo negro: avena en copos, arroz integral, boniato cortado por la mitad, pan integral, pasta integral sin cocer y granos de trigo"
 ---
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) complejos son cadenas largas de moléculas de glucosa —a veces miles de ellas— unidas entre sí formando estructuras lineales o ramificadas. Cuando tu sistema digestivo las descompone, lo hace mucho más despacio que con los [azúcares simples](/nutricion/macronutrientes/hidratos-de-carbono/simples): las cadenas largas tardan más en romperse en fragmentos que tu intestino puede absorber. Ese retraso se traduce en glucosa llegando a la sangre de forma gradual en lugar de en una avalancha.
+Cuando alguien dice que los hidratos de carbono engordan, rara vez está pensando en [lentejas](/alimentos/legumbres/lentejas). Tampoco en avena, ni en la patata que guardaste ayer en la nevera. Está pensando en pan blanco, en arroz refinado, en el azúcar del café. Y tiene razón en que esos hidratos hacen algo diferente en tu cuerpo: llegan deprisa, suben la glucosa en sangre y bajan igual de rápido. La pregunta es por qué. La respuesta está en la longitud de las cadenas.
+
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) complejos son cadenas largas de moléculas de glucosa —a veces miles de ellas— unidas entre sí formando estructuras lineales o ramificadas. Cuando tu sistema digestivo las descompone, lo hace mucho más despacio que con los [azúcares simples](/nutricion/macronutrientes/hidratos-de-carbono/simples): las cadenas largas tardan más en romperse en fragmentos que el intestino puede absorber. Ese retraso se traduce en glucosa llegando a la sangre de forma gradual en lugar de en una avalancha.
 
 ## La estructura química de los hidratos de carbono complejos
 
@@ -16,9 +20,9 @@ El nombre técnico de estos hidratos de cadena larga —los **polisacáridos**�
 
 **Glucógeno.** Es la forma en que tu propio cuerpo almacena hidratos de carbono, principalmente en el músculo y en el hígado. Tiene una estructura muy ramificada —parecida a la amilopectina pero más compacta— que permite movilizar glucosa con rapidez cuando tus músculos o tu cerebro la necesitan.
 
-**Fibra.** Son los polisacáridos que tus enzimas digestivas no pueden descomponer porque las uniones entre sus moléculas de glucosa son de un tipo distinto al que el intestino reconoce. No te aportan glucosa directamente, pero regulan el tránsito intestinal, ralentizan la absorción de glucosa de los otros hidratos y alimentan la comunidad de bacterias que vive en tu colon —el **microbioma**—. La fibra tiene su propio artículo: [fibra alimenticia](/nutricion/fibra-alimenticia).
+**Fibra.** Son los polisacáridos que tus enzimas digestivas no pueden descomponer porque las uniones entre sus moléculas de glucosa son de un tipo distinto al que el intestino reconoce. No te aportan glucosa directamente, pero regulan el tránsito intestinal, ralentizan la absorción de glucosa de los otros hidratos y alimentan la comunidad de bacterias que vive en tu colon —el **microbioma**—. Si quieres profundizar, tengo un artículo dedicado a la [fibra alimenticia](/nutricion/fibra-alimenticia).
 
-Los tres son cadenas de glucosa. Solo una de esas cadenas llega intacta a tu colon.
+> Los tres son cadenas de glucosa. Solo una de esas cadenas llega intacta a tu colon.
 
 ## El almidón resistente en los hidratos de carbono complejos
 
@@ -26,7 +30,7 @@ Una fracción del almidón escapa intacta al intestino delgado y llega al colon,
 
 Cuando cocinas arroz, pasta o patata y los enfrías después, parte del almidón gelatinizado se reorganiza en una estructura más compacta que las enzimas no atacan con tanta facilidad. Es la razón por la que el arroz o la patata del día anterior tienen un impacto menor en tu glucemia que recién cocinados. Recalentar el alimento revierte parcialmente ese efecto, pero no del todo.
 
-La patata del día anterior no es un sobrado: es un hidrato con mejor perfil glucémico que la recién cocinada.
+> La patata del día anterior no es un sobrado: es un hidrato con mejor perfil glucémico que la recién cocinada.
 
 ## Cómo se digieren los hidratos de carbono complejos
 
@@ -44,7 +48,7 @@ La velocidad de ese proceso —y por tanto cuánto sube tu glucemia y en cuánto
 
 *El índice glucémico (IG) mide la rapidez con que un alimento eleva tu glucemia comparado con la glucosa pura. Cuanto más bajo, más gradual es la subida.*
 
-El mismo alimento, cocinado de distinta manera, puede tener un índice glucémico muy diferente.
+> El mismo alimento, cocinado de distinta manera, puede tener un índice glucémico muy diferente.
 
 ## Fuentes de hidratos de carbono complejos
 
@@ -66,8 +70,8 @@ La mayor parte de los hidratos complejos en tu dieta puede proceder de tres grup
 |---|---|---|
 | Lentejas | 20 g | 25 |
 | [Garbanzos](/alimentos/legumbres/garbanzos) | 27 g | 28 |
-| Alubias negras | 24 g | 30 |
-| Guisantes secos | 22 g | 22 |
+| [Alubias](/alimentos/legumbres/alubia) negras | 24 g | 30 |
+| [Guisantes secos](/alimentos/legumbres/guisante-seco) | 22 g | 22 |
 
 Las legumbres tienen los índices glucémicos más bajos de todos los hidratos complejos habituales. El motivo es que su almidón queda encerrado dentro de la estructura de la semilla, lo que frena la acción de las enzimas digestivas. Cuando comes lentejas, consumes hidratos de carbono que se absorben más despacio que casi cualquier otro alimento.
 
@@ -95,9 +99,9 @@ La EFSA y la OMS recomiendan que los hidratos procedan mayoritariamente de fuent
 
 **Salud del microbioma.** El almidón resistente y la fibra alimentan a las bacterias beneficiosas de tu colon. Un microbioma diverso se asocia con menor inflamación generalizada y mejor función inmune.
 
-Para mí, el aspecto más infraestimado de los hidratos complejos es precisamente ese: la mitad de sus beneficios no te los da la glucosa que llega a tu sangre, sino lo que nunca la atraviesa y llega al colon como alimento para tu microbioma.
+Sustituir pan blanco, arroz refinado y azúcares añadidos por legumbres, cereales integrales y tubérculos es uno de los cambios dietéticos con mayor respaldo científico. No tienes que hacerlo todo a la vez: cambiar el pan del desayuno o añadir una ración de lentejas a la semana ya hace la diferencia.
 
-Sustituir pan blanco, arroz refinado y azúcares añadidos por legumbres, cereales integrales y tubérculos es uno de los cambios dietéticos con mayor respaldo científico. No tienes que hacerlo todo a la vez: empezar por el pan ya marca la diferencia.
+Para mí, el aspecto más infravalorado de los hidratos complejos es que la mitad de sus beneficios no viene de la glucosa que entra en tu sangre, sino de lo que llega intacto a tu colon y alimenta a tu microbioma.
 
 ---
 

@@ -4,11 +4,13 @@ description: "Hidratos de carbono simples: son los azúcares que tu cuerpo absor
 categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
+image: "./fotos/simples_portada.jpg"
+imageAlt: "Composición de alimentos ricos en azúcares simples sobre fondo negro: tarro de miel con hilo dorado, uvas moradas, fresas, plátano entero y en mitad, dátiles y cuenco de azúcar blanco"
 ---
 
-Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares. Tu cuerpo los digiere y absorbe con rapidez, lo que provoca una elevación más rápida de la glucosa en tu sangre —la **glucemia**— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos).
+Un plátano maduro, un vaso de zumo de naranja recién exprimido y una lata de refresco son, los tres, fuentes de azúcares simples. La OMS incluye el zumo y la cola dentro del límite diario de azúcar, pero no el plátano. El motivo no está en el tipo de molécula: está en lo que los acompaña —o en lo que les han quitado—.
 
-Clasificarlos como "buenos" o "malos" en abstracto no lleva a ningún sitio. Lo que importa es **de dónde proceden** y en qué cantidad los consumes.
+Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares que el cuerpo digiere y absorbe con rapidez, lo que provoca una elevación más rápida de la glucosa en tu sangre —la **glucemia**— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos). Clasificarlos como «buenos» o «malos» en abstracto no lleva a ningún sitio: lo que importa es de dónde proceden y en qué cantidad los consumes.
 
 ## Clasificación de los hidratos de carbono simples
 
@@ -50,11 +52,11 @@ La EFSA recomienda que los azúcares libres supongan **menos del 10 % de tu ener
 
 La OMS va un paso más allá y sugiere que bajarlos al 5 % (25 g/día) aportaría beneficios adicionales para tu salud dental y el control de tu peso.
 
-Para que te hagas una idea: una lata de refresco de cola estándar (330 ml) contiene aproximadamente 35 g de azúcares libres —el 70 % del límite diario recomendado por la EFSA en una sola bebida—.
+> Una lata de refresco de cola de 330 ml contiene aproximadamente 35 g de azúcares libres: el 70 % del límite diario de la EFSA en una sola bebida.
 
 ## Cómo metaboliza tu cuerpo la fructosa
 
-La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la glucosa, que cualquier célula de tu cuerpo puede usar directamente. Esa diferencia tiene dos consecuencias concretas.
+La fructosa se metaboliza casi exclusivamente en el hígado, a diferencia de la glucosa, que cualquier célula de tu cuerpo puede usar directamente. Esa diferencia tiene dos consecuencias.
 
 **Menos saciedad.** La fructosa no estimula la producción de la hormona que tu páncreas libera para retirar glucosa de la sangre —la **insulina**—, ni activa la señal que avisa a tu cerebro de que ya has comido suficiente —la **leptina**—. El resultado es que la fructosa genera menos saciedad que la glucosa a igual cantidad de calorías: puedes consumir las mismas kilocalorías sin que tu cuerpo registre que ha comido.
 
@@ -68,10 +70,10 @@ Estas fuentes contienen azúcares simples pero con un perfil nutricional complet
 
 | Alimento | Azúcares por 100 g | Contexto nutricional |
 |---|---|---|
-| Plátano maduro | 15 g | [Potasio](/nutricion/micronutrientes/minerales/potasio), B6, fibra |
+| Plátano maduro | 15 g | [Potasio](/nutricion/micronutrientes/minerales/potasio), [B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/b6), fibra |
 | Manzana | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
-| Leche entera | 5 g (lactosa) | Proteína, [calcio](/nutricion/micronutrientes/minerales/calcio), [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
+| Leche entera | 5 g (lactosa) | [Proteína](/nutricion/macronutrientes/proteinas), [calcio](/nutricion/micronutrientes/minerales/calcio), [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
 | Yogur natural sin azúcar | 4 g (lactosa) | Probióticos, proteína |
 
 *Fuente: BEDCA; USDA FoodData Central.*
@@ -90,7 +92,7 @@ El consumo elevado de azúcares libres tiene efectos documentados sobre varios s
 
 **Elevación de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre.** El exceso de fructosa altera los niveles de grasas en tu sangre —una condición que se conoce como **dislipemia**—, un factor de riesgo cardiovascular independiente del colesterol.
 
-Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Si soy sincera, el problema con los azúcares libres no es el que añades al café: es el que viene oculto en el pan de molde, el aliño de ensalada y la salsa de tomate envasada, sin que nadie lo cuente ni lo vea. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
+Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Si soy sincera, el problema con los azúcares libres no es el azúcar que añades al café: es el que viene oculto en el pan de molde, el aliño de ensalada y la salsa de tomate envasada, sin que nadie lo cuente ni lo vea. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
 
 ---
 

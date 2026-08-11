@@ -4,15 +4,17 @@ description: "Grasas monoinsaturadas: son los ácidos grasos con un solo doble e
 categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
+image: "./fotos/monoinsaturadas_portada.jpg"
+imageAlt: "Composición de alimentos ricos en grasas monoinsaturadas sobre fondo negro: botella de aceite de oliva virgen extra vertiendo en cuenco, aguacate en mitad, aceitunas verdes y negras, almendras y avellanas con ramas de romero"
 ---
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos cuya cadena tiene una única conexión química especial entre dos átomos de carbono —el **doble enlace**—. Esa característica les da una estructura ligeramente curvada que las mantiene líquidas a temperatura ambiente y las hace más resistentes al proceso por el que las grasas se degradan con el calor o el tiempo —la **oxidación**— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas).
+En las décadas en que todas las grasas pasaron a ser el enemigo de la dieta sana, el aceite de oliva fue la excepción que nadie sabía muy bien cómo justificar. Los países que lo usaban como grasa principal seguían teniendo tasas de enfermedad cardiovascular más bajas. La respuesta, en gran parte, está en el tipo de grasa que predomina en ese aceite —y en las aceitunas, el aguacate y los [frutos secos](/alimentos/frutos-secos)—: la grasa monoinsaturada.
 
-Son el tipo de grasa más representativo de la **dieta mediterránea** y el que más se ha estudiado en relación con tu salud cardiovascular.
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos cuya cadena tiene una única conexión química especial entre dos átomos de carbono —el **doble enlace**—. Esa característica les da una estructura ligeramente curvada que las mantiene líquidas a temperatura ambiente y las hace más resistentes al proceso por el que las grasas se degradan con el calor o el tiempo —la **oxidación**— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas). Son el tipo de grasa más representativo de la **dieta mediterránea** y el que más se ha estudiado en relación con tu salud cardiovascular.
 
 ## El ácido oleico: protagonista de las grasas monoinsaturadas
 
-El principal ácido graso monoinsaturado de la dieta —el **ácido oleico** (omega-9)— representa más del 90 % de las grasas monoinsaturadas que consumes. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en almendras y avellanas.
+El principal ácido graso monoinsaturado de la dieta —el **ácido oleico** (omega-9)— representa más del 90 % de las grasas monoinsaturadas que consumes. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana).
 
 Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En lácteos y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—; a diferencia de los trans de producción industrial, su perfil metabólico es neutral o ligeramente positivo.
 
@@ -38,7 +40,7 @@ La temperatura a partir de la cual el aceite empieza a humear y generar compuest
 
 ## Fuentes alimentarias de grasas monoinsaturadas
 
-La mayor concentración está en aceites, [frutos secos](/alimentos/frutos-secos) y algunos vegetales grasos:
+La mayor concentración está en aceites, frutos secos y algunos vegetales grasos:
 
 | Alimento | Grasa monoinsaturada (por 100 g) |
 |---|---|
@@ -46,8 +48,8 @@ La mayor concentración está en aceites, [frutos secos](/alimentos/frutos-secos
 | Aceite de macadamia | 59 g |
 | Avellanas | 46 g |
 | Almendras | 31 g |
-| Cacahuetes | 24 g |
-| Pistachos | 23 g |
+| [Cacahuetes](/alimentos/frutos-secos/cacahuete) | 24 g |
+| [Pistachos](/alimentos/frutos-secos/pistacho) | 23 g |
 | Aceitunas negras (en conserva) | 11 g |
 | Aguacate | 10 g |
 
@@ -62,7 +64,7 @@ En la práctica:
 - Incluye **frutos secos** (almendras, avellanas, pistachos) como fuente habitual de snack o acompañamiento.
 - Añade **aguacate** con frecuencia en ensaladas, tostadas y platos.
 
-Si soy sincera, hay pocas decisiones culinarias con mejor relación coste-beneficio que sustituir el aceite de semillas de girasol por aceite de oliva virgen extra: el desembolso lo parece, pero las consecuencias en tu perfil lipídico a largo plazo no son comparables.
+Si soy sincera, hay pocas decisiones culinarias con mejor relación coste-beneficio que sustituir el aceite de semillas de girasol por aceite de oliva virgen extra: el desembolso no lo parece, pero las consecuencias en tu perfil lipídico, y por tanto en tu salud, a largo plazo no son comparables.
 
 > Que la EFSA no fije un límite superior para las AGMI no es casual. Es el único tipo de grasa sobre el que los datos dicen: dentro del rango recomendado, cuanto más, mejor.
 

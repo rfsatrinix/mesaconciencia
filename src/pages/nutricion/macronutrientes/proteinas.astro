@@ -26,12 +26,16 @@ const hermanas = [
   { label: 'Grasas o lípidos', href: '/nutricion/macronutrientes/grasas-o-lipidos' },
 ];
 
+const aminoacidosIntro = await getEntry('nutricion', 'macronutrientes/proteinas/aminoacidos-esenciales/que-son');
+
 // Solo landings hijas — origen-animal y origen-vegetal son artículos individuales
 const subcategorias = [
   {
-    label: 'Aminoácidos esenciales',
-    href:  '/nutricion/macronutrientes/proteinas/aminoacidos-esenciales',
-    desc:  'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
+    label:    'Aminoácidos esenciales',
+    href:     '/nutricion/macronutrientes/proteinas/aminoacidos-esenciales',
+    desc:     'Los nueve aminoácidos que el organismo no puede sintetizar y que deben obtenerse obligatoriamente de la dieta.',
+    image:    aminoacidosIntro?.data.image,
+    imageAlt: aminoacidosIntro?.data.imageAlt ?? 'Aminoácidos esenciales',
   },
 ];
 
@@ -60,12 +64,17 @@ const migas = [
     {subcategorias.length > 0 && (
       <section class="seccion seccion-subcategorias">
         <h2 class="titulo-seccion">Profundiza</h2>
-        <div class="grid-categorias">
+        <div class="grid-articulos">
           {subcategorias.map(sub => (
-            <a href={sub.href} class="tarjeta tarjeta-categoria">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="ver-mas">Ver artículos →</span>
+            <a href={sub.href} class="tarjeta tarjeta-articulo">
+              {sub.image && (
+                <Image src={sub.image} alt={sub.imageAlt} class="tarjeta-imagen" />
+              )}
+              <div class="tarjeta-articulo-inner">
+                <h2>{sub.label}</h2>
+                <p>{sub.desc}</p>
+                <span class="leer-mas">Ver artículos →</span>
+              </div>
             </a>
           ))}
         </div>

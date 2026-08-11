@@ -21,16 +21,25 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const [hidrosolublesIntro, liposolublesIntro] = await Promise.all([
+  getEntry('nutricion', 'micronutrientes/vitaminas/hidrosolubles/que-son'),
+  getEntry('nutricion', 'micronutrientes/vitaminas/liposolubles/que-son'),
+]);
+
 const subcategorias = [
   {
-    label: 'Vitaminas hidrosolubles',
-    href:  '/nutricion/micronutrientes/vitaminas/hidrosolubles',
-    desc:  'Las vitaminas del grupo B y la vitamina C: coenzimas del metabolismo energético, síntesis de colágeno, formación de glóbulos rojos y sistema nervioso.',
+    label:    'Vitaminas hidrosolubles',
+    href:     '/nutricion/micronutrientes/vitaminas/hidrosolubles',
+    desc:     'Las vitaminas del grupo B y la vitamina C: coenzimas del metabolismo energético, síntesis de colágeno, formación de glóbulos rojos y sistema nervioso.',
+    image:    hidrosolublesIntro?.data.image,
+    imageAlt: hidrosolublesIntro?.data.imageAlt ?? 'Vitaminas hidrosolubles',
   },
   {
-    label: 'Vitaminas liposolubles',
-    href:  '/nutricion/micronutrientes/vitaminas/liposolubles',
-    desc:  'Las vitaminas A, D, E y K se almacenan en el tejido adiposo e hígado. Esenciales para la visión, la coagulación, la salud ósea y la defensa antioxidante.',
+    label:    'Vitaminas liposolubles',
+    href:     '/nutricion/micronutrientes/vitaminas/liposolubles',
+    desc:     'Las vitaminas A, D, E y K se almacenan en el tejido adiposo e hígado. Esenciales para la visión, la coagulación, la salud ósea y la defensa antioxidante.',
+    image:    liposolublesIntro?.data.image,
+    imageAlt: liposolublesIntro?.data.imageAlt ?? 'Vitaminas liposolubles',
   },
 ];
 
@@ -65,12 +74,17 @@ const migas = [
     {subcategorias.length > 0 && (
       <section class="seccion seccion-subcategorias">
         <h2 class="titulo-seccion">Profundiza</h2>
-        <div class="grid-categorias">
+        <div class="grid-articulos">
           {subcategorias.map(sub => (
-            <a href={sub.href} class="tarjeta tarjeta-categoria">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="ver-mas">Ver artículos →</span>
+            <a href={sub.href} class="tarjeta tarjeta-articulo">
+              {sub.image && (
+                <Image src={sub.image} alt={sub.imageAlt} class="tarjeta-imagen" />
+              )}
+              <div class="tarjeta-articulo-inner">
+                <h2>{sub.label}</h2>
+                <p>{sub.desc}</p>
+                <span class="leer-mas">Ver artículos →</span>
+              </div>
             </a>
           ))}
         </div>

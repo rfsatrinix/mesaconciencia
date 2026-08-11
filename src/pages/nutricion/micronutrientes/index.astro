@@ -21,26 +21,41 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const [vitaminasIntro, mineralesIntro, oligoIntro, ultraIntro] = await Promise.all([
+  getEntry('nutricion', 'micronutrientes/vitaminas/que-son'),
+  getEntry('nutricion', 'micronutrientes/minerales/que-son'),
+  getEntry('nutricion', 'micronutrientes/oligoelementos/que-son'),
+  getEntry('nutricion', 'micronutrientes/ultraoligoelementos/que-son'),
+]);
+
 const subcategorias = [
   {
-    label: 'Vitaminas',
-    href:  '/nutricion/micronutrientes/vitaminas',
-    desc:  'Compuestos orgánicos esenciales que regulan procesos metabólicos: inmunidad, coagulación, visión, síntesis de colágeno y mucho más.',
+    label:    'Vitaminas',
+    href:     '/nutricion/micronutrientes/vitaminas',
+    desc:     'Compuestos orgánicos esenciales que regulan procesos metabólicos: inmunidad, coagulación, visión, síntesis de colágeno y mucho más.',
+    image:    vitaminasIntro?.data.image,
+    imageAlt: vitaminasIntro?.data.imageAlt ?? 'Vitaminas',
   },
   {
-    label: 'Minerales',
-    href:  '/nutricion/micronutrientes/minerales',
-    desc:  'Calcio, magnesio, potasio, fósforo y sodio: los macrominerales que el organismo necesita en cantidades de cientos de miligramos al día.',
+    label:    'Minerales',
+    href:     '/nutricion/micronutrientes/minerales',
+    desc:     'Calcio, magnesio, potasio, fósforo y sodio: los macrominerales que el organismo necesita en cantidades de cientos de miligramos al día.',
+    image:    mineralesIntro?.data.image,
+    imageAlt: mineralesIntro?.data.imageAlt ?? 'Minerales',
   },
   {
-    label: 'Oligoelementos',
-    href:  '/nutricion/micronutrientes/oligoelementos',
-    desc:  'Hierro, zinc, yodo, selenio y otros minerales traza esenciales que se necesitan en microgramos pero son indispensables para la salud.',
+    label:    'Oligoelementos',
+    href:     '/nutricion/micronutrientes/oligoelementos',
+    desc:     'Hierro, zinc, yodo, selenio y otros minerales traza esenciales que se necesitan en microgramos pero son indispensables para la salud.',
+    image:    oligoIntro?.data.image,
+    imageAlt: oligoIntro?.data.imageAlt ?? 'Oligoelementos',
   },
   {
-    label: 'Ultraoligoelementos',
-    href:  '/nutricion/micronutrientes/ultraoligoelementos',
-    desc:  'Boro, silicio, vanadio y germanio: elementos traza presentes en los alimentos y en los tejidos humanos pero sin esencialidad reconocida ni dosis de referencia establecida.',
+    label:    'Ultraoligoelementos',
+    href:     '/nutricion/micronutrientes/ultraoligoelementos',
+    desc:     'Boro, silicio, vanadio y germanio: elementos traza presentes en los alimentos y en los tejidos humanos pero sin esencialidad reconocida ni dosis de referencia establecida.',
+    image:    ultraIntro?.data.image,
+    imageAlt: ultraIntro?.data.imageAlt ?? 'Ultraoligoelementos',
   },
 ];
 
@@ -72,12 +87,17 @@ const migas = [{ href: '/nutricion', label: 'Nutrición' }];
     {subcategorias.length > 0 && (
       <section class="seccion seccion-subcategorias">
         <h2 class="titulo-seccion">Profundiza</h2>
-        <div class="grid-categorias">
+        <div class="grid-articulos">
           {subcategorias.map(sub => (
-            <a href={sub.href} class="tarjeta tarjeta-categoria">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="ver-mas">Ver artículos →</span>
+            <a href={sub.href} class="tarjeta tarjeta-articulo">
+              {sub.image && (
+                <Image src={sub.image} alt={sub.imageAlt} class="tarjeta-imagen" />
+              )}
+              <div class="tarjeta-articulo-inner">
+                <h2>{sub.label}</h2>
+                <p>{sub.desc}</p>
+                <span class="leer-mas">Ver artículos →</span>
+              </div>
             </a>
           ))}
         </div>

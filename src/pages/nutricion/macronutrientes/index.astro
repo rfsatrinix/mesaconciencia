@@ -21,21 +21,33 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const [hidratosIntro, grasasIntro, proteinasIntro] = await Promise.all([
+  getEntry('nutricion', 'macronutrientes/hidratos-de-carbono/que-son'),
+  getEntry('nutricion', 'macronutrientes/grasas-o-lipidos/que-son'),
+  getEntry('nutricion', 'macronutrientes/proteinas/que-son'),
+]);
+
 const subcategorias = [
   {
-    label: 'Hidratos de carbono',
-    href:  '/nutricion/macronutrientes/hidratos-de-carbono',
-    desc:  'La principal fuente de energía. Azúcares simples, almidones complejos y su impacto en la glucemia.',
+    label:    'Hidratos de carbono',
+    href:     '/nutricion/macronutrientes/hidratos-de-carbono',
+    desc:     'La principal fuente de energía. Azúcares simples, almidones complejos y su impacto en la glucemia.',
+    image:    hidratosIntro?.data.image,
+    imageAlt: hidratosIntro?.data.imageAlt ?? 'Hidratos de carbono',
   },
   {
-    label: 'Grasas o lípidos',
-    href:  '/nutricion/macronutrientes/grasas-o-lipidos',
-    desc:  'Esenciales para la absorción de vitaminas liposolubles, la síntesis hormonal y la integridad celular.',
+    label:    'Grasas o lípidos',
+    href:     '/nutricion/macronutrientes/grasas-o-lipidos',
+    desc:     'Esenciales para la absorción de vitaminas liposolubles, la síntesis hormonal y la integridad celular.',
+    image:    grasasIntro?.data.image,
+    imageAlt: grasasIntro?.data.imageAlt ?? 'Grasas o lípidos',
   },
   {
-    label: 'Proteínas',
-    href:  '/nutricion/macronutrientes/proteinas',
-    desc:  'Los bloques constructores del organismo: crecimiento, reparación tisular y síntesis enzimática.',
+    label:    'Proteínas',
+    href:     '/nutricion/macronutrientes/proteinas',
+    desc:     'Los bloques constructores del organismo: crecimiento, reparación tisular y síntesis enzimática.',
+    image:    proteinasIntro?.data.image,
+    imageAlt: proteinasIntro?.data.imageAlt ?? 'Proteínas',
   },
 ];
 
@@ -67,12 +79,17 @@ const migas = [{ href: '/nutricion', label: 'Nutrición' }];
     {subcategorias.length > 0 && (
       <section class="seccion seccion-subcategorias">
         <h2 class="titulo-seccion">Profundiza</h2>
-        <div class="grid-categorias">
+        <div class="grid-articulos">
           {subcategorias.map(sub => (
-            <a href={sub.href} class="tarjeta tarjeta-categoria">
-              <h2>{sub.label}</h2>
-              <p>{sub.desc}</p>
-              <span class="ver-mas">Ver artículos →</span>
+            <a href={sub.href} class="tarjeta tarjeta-articulo">
+              {sub.image && (
+                <Image src={sub.image} alt={sub.imageAlt} class="tarjeta-imagen" />
+              )}
+              <div class="tarjeta-articulo-inner">
+                <h2>{sub.label}</h2>
+                <p>{sub.desc}</p>
+                <span class="leer-mas">Ver artículos →</span>
+              </div>
             </a>
           ))}
         </div>

@@ -16,7 +16,9 @@ Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI)
 
 El principal ácido graso monoinsaturado de la dieta —el **ácido oleico** (omega-9)— representa más del 90 % de las grasas monoinsaturadas que consumes. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana).
 
-Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En lácteos y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—; a diferencia de los trans de producción industrial, su perfil metabólico es neutral o ligeramente positivo.
+Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En lácteos y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—. A diferencia de los trans industriales, no eleva el LDL ni parece reducir el HDL.
+
+> Cuando la etiqueta dice «rico en grasas monoinsaturadas», quiere decir, casi siempre, rico en ácido oleico. El 90 % de las AGMI que consumes llevan el mismo nombre.
 
 ## Efecto de las grasas monoinsaturadas sobre tu perfil lipídico
 
@@ -37,6 +39,8 @@ Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón má
 Las grasas monoinsaturadas son más resistentes a la oxidación térmica que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), porque tienen un solo doble enlace susceptible de degradarse. Esto hace del AOVE una opción adecuada para cocinar a temperaturas moderadas.
 
 La temperatura a partir de la cual el aceite empieza a humear y generar compuestos no deseados —el **punto de humo**— del AOVE es de aproximadamente 190–210 °C, suficiente para la mayoría de las técnicas culinarias habituales: salteado, sofrito, horno moderado. Para frituras profundas y prolongadas, su estabilidad sigue siendo mejor que la de aceites ricos en poliinsaturadas.
+
+> Con un punto de humo de 190–210 °C, el AOVE no humea en una sartén corriente ni en un horno a temperatura normal. Los aceites de girasol o de maíz, ricos en poliinsaturadas, se degradan antes.
 
 ## Fuentes alimentarias de grasas monoinsaturadas
 
@@ -59,15 +63,20 @@ La mayor concentración está en aceites, frutos secos y algunos vegetales graso
 
 La EFSA no establece una ingesta de referencia específica para las grasas monoinsaturadas —a diferencia de los [ácidos grasos esenciales](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) (omega-3 y omega-6), que sí tienen recomendaciones concretas—. La recomendación implícita es que las AGMI sean la grasa predominante en tu dieta, cubriendo la diferencia entre el total recomendado (20–35 % de tu energía) y lo que aportan las saturadas y las poliinsaturadas.
 
-En la práctica:
-- Usa el **aceite de oliva virgen extra** como grasa principal de cocina y aliño.
-- Incluye **frutos secos** (almendras, avellanas, pistachos) como fuente habitual de snack o acompañamiento.
-- Añade **aguacate** con frecuencia en ensaladas, tostadas y platos.
+En la práctica, tres cambios tienen el mayor impacto:
 
-Si soy sincera, hay pocas decisiones culinarias con mejor relación coste-beneficio que sustituir el aceite de semillas de girasol por aceite de oliva virgen extra: el desembolso no lo parece, pero las consecuencias en tu perfil lipídico, y por tanto en tu salud, a largo plazo no son comparables.
+**Aceite de oliva virgen extra.** Úsalo como grasa principal de cocina y aliño. Si hasta ahora usas aceite de girasol, ese cambio solo ya mejora tu perfil lipídico sin necesidad de calcular nada más.
+
+**Frutos secos.** Almendras, avellanas y pistachos son una fuente habitual y fácil de incorporar como snack o acompañamiento de comidas.
+
+**Aguacate.** Con unos 10 g de grasas monoinsaturadas por cada 100 g, es una de las pocas fuentes vegetales que aporta AGMI en cantidades relevantes junto con [fibra](/nutricion/fibra-alimenticia) y [micronutrientes](/nutricion/micronutrientes).
+
+Si soy sincera, hay pocas decisiones culinarias con mejor relación calidad-precio que sustituir el aceite de girasol por aceite de oliva virgen extra. Cuesta algo más, sí, pero las consecuencias en tu perfil lipídico a largo plazo no son comparables.
 
 > Que la EFSA no fije un límite superior para las AGMI no es casual. Es el único tipo de grasa sobre el que los datos dicen: dentro del rango recomendado, cuanto más, mejor.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for fats. EFSA Journal. 2010.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for fats. EFSA Journal. 2010.</a>

@@ -4,7 +4,11 @@ description: "Proteínas de origen animal: son las proteínas que aportan los nu
 categoria: "Proteínas"
 draft: false
 date: 2026-07-03
+image: "./fotos/origenanimal_portada.jpg"
+imageAlt: "Composición de alimentos ricos en proteínas de origen animal sobre fondo negro: rodaja de salmón crudo, sardinas, huevo abierto mostrando la yema, pechuga de pollo cruda, queso curado y yogur griego en tarro con cuchara"
 ---
+
+Durante décadas, los nutricionistas usaron el huevo como referencia absoluta para medir la calidad de cualquier proteína. No era una elección arbitraria: su perfil de aminoácidos encaja mejor que ningún otro alimento conocido con lo que el cuerpo humano necesita. Carne, pescado, legumbre —todo se midió contra ese estándar. Hoy lo seguimos haciendo, aunque el índice que usamos tenga otro nombre.
 
 Las [proteínas](/nutricion/macronutrientes/proteinas) de origen animal son las que proceden de tejidos animales o de sus secreciones (leche, huevos). Su ventaja principal frente a las [proteínas vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) es el **perfil completo de aminoácidos esenciales**: contienen los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que tu organismo no puede sintetizar, en proporciones cercanas a las que necesitas.
 
@@ -24,7 +28,7 @@ La FAO recomienda actualmente un índice más preciso que mide la digestibilidad
 | Pechuga de pollo | 1,08 |
 | Atún en conserva | 1,00 |
 
-Un DIAAS superior a 1,00 indica que la proteína cubre sobradamente todas tus necesidades de aminoácidos esenciales por gramo de proteína consumida.
+> Un DIAAS superior a 1,00 indica que esa proteína no solo cubre, sino que supera tus necesidades de aminoácidos esenciales por cada gramo que consumes.
 
 ## El huevo: la referencia proteica
 
@@ -42,7 +46,7 @@ El huevo entero es históricamente el patrón de referencia para medir la calida
 
 ### Carnes blancas (pollo, pavo, conejo)
 
-Alto contenido proteico con menor proporción de grasa saturada que las rojas. La pechuga de pollo sin piel es una de las fuentes proteicas más eficientes medida por proteína por caloría.
+Las carnes blancas tienen alto contenido proteico y menor proporción de [grasa saturada](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) que las rojas. La pechuga de pollo sin piel es una de las fuentes más eficientes si mides la proteína por caloría.
 
 | Alimento (cocido) | Proteína por 100 g | Grasa por 100 g |
 |---|---|---|
@@ -53,7 +57,7 @@ Alto contenido proteico con menor proporción de grasa saturada que las rojas. L
 
 ### Carnes rojas (vacuno, cordero, cerdo)
 
-Las carnes rojas aportan la forma de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) que tu intestino absorbe con mucha más eficiencia que el hierro de origen vegetal —el **hierro hemo**—, [zinc](/nutricion/micronutrientes/oligoelementos/zinc) y [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La [grasa](/nutricion/macronutrientes/grasas-o-lipidos) varía mucho según el corte; las guías nutricionales no las prohíben, pero sí recomiendan moderar su consumo, especialmente en los cortes más grasos.
+Las carnes rojas aportan la forma de [hierro](/nutricion/micronutrientes/oligoelementos/hierro) que tu intestino absorbe con mucha más eficiencia que el hierro de origen vegetal —el **hierro hemo**—, [zinc](/nutricion/micronutrientes/oligoelementos/zinc) y vitamina B12. La [grasa](/nutricion/macronutrientes/grasas-o-lipidos) varía mucho según el corte; las guías nutricionales no las prohíben, pero sí recomiendan moderar su consumo, especialmente en los cortes más grasos.
 
 | Alimento (cocido) | Proteína por 100 g | Hierro |
 |---|---|---|
@@ -64,7 +68,9 @@ Las carnes rojas aportan la forma de [hierro](/nutricion/micronutrientes/oligoel
 
 ### Carnes procesadas: la excepción
 
-Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a la carne fresca. La Agencia Internacional para la Investigación del Cáncer (IARC) las coloca en la categoría de mayor certeza sobre su relación con el cáncer, la misma que el tabaco aunque con magnitudes de riesgo muy distintas —el **Grupo 1** de la IARC—, por su asociación con el cáncer colorrectal. El problema no es solo la proteína que aportan. El [sodio](/nutricion/micronutrientes/minerales/sodio) en exceso y las [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) contribuyen a su peor perfil, pero el mayor riesgo específico viene de los aditivos conservantes —los **nitratos**— que en el intestino generan compuestos con potencial carcinógeno —las **nitrosaminas**—: un conjunto de riesgo que la carne fresca no tiene.
+Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a la carne fresca. La Agencia Internacional para la Investigación del Cáncer (IARC) las coloca en la categoría de mayor certeza sobre su relación con el cáncer, la misma que el tabaco aunque con magnitudes de riesgo muy distintas —el **Grupo 1** de la IARC—, por su asociación con el cáncer colorrectal. El problema no es solo la proteína que aportan. El [sodio](/nutricion/micronutrientes/minerales/sodio) en exceso y las grasas saturadas contribuyen a su peor perfil, pero el mayor riesgo específico viene de los aditivos conservantes —los **nitratos**— que en el intestino generan compuestos con potencial carcinógeno —las **nitrosaminas**—: un conjunto de riesgo que la carne fresca no tiene.
+
+> Embutidos y carne fresca comparten etiqueta en la pirámide alimentaria. No comparten perfil de riesgo.
 
 ## Pescado y marisco
 
@@ -72,14 +78,16 @@ El pescado azul combina proteína de alta calidad con los ácidos grasos de cade
 
 | Alimento (cocido) | Proteína por 100 g | EPA + DHA |
 |---|---|---|
-| Atún (fresco) | 29 g | ~400 mg |
-| Salmón del Atlántico | 25 g | ~2000 mg |
-| Gamba cocida | 24 g | ~500 mg |
-| Sardina (fresca) | 21 g | ~1400 mg |
-| Merluza | 18 g | ~300 mg |
-| Bacalao desalado | 18 g | ~200 mg |
+| Atún (fresco) | 29 g | 400 mg |
+| Salmón del Atlántico | 25 g | 2000 mg |
+| Gamba cocida | 24 g | 500 mg |
+| Sardina (fresca) | 21 g | 1400 mg |
+| Merluza | 18 g | 300 mg |
+| Bacalao desalado | 18 g | 200 mg |
 
-Para EPA y DHA, el salmón y la sardina son las fuentes más densas de la dieta habitual: ningún alimento de origen vegetal los aporta directamente.
+*Valores de EPA + DHA aproximados. Fuente: USDA FoodData Central.*
+
+> Para EPA y DHA, el salmón y la sardina son las fuentes más densas de la dieta habitual. Ningún alimento de origen vegetal los aporta directamente.
 
 ## Lácteos
 
@@ -111,4 +119,7 @@ La EFSA no distingue entre proteína de origen animal y vegetal en sus recomenda
 
 ---
 
-*Fuentes: <a href="https://www.fao.org/ag/humannutrition/35978-02317b979a686a57aa4593304ffc17f03.pdf" target="_blank" rel="noopener noreferrer">FAO. Dietary protein quality evaluation in human nutrition. FAO Food and Nutrition Paper 92. 2013.</a> · <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products. Scientific Opinion on Dietary Reference Values for protein. EFSA Journal. 2012.</a>*
+## Referencias
+
+- <a href="https://www.fao.org/ag/humannutrition/35978-02317b979a686a57aa4593304ffc17f03.pdf" target="_blank" rel="noopener noreferrer">FAO. Dietary protein quality evaluation in human nutrition. FAO Food and Nutrition Paper 92. 2013.</a>
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products. Scientific Opinion on Dietary Reference Values for protein. EFSA Journal. 2012.</a>

@@ -4,7 +4,7 @@ description: "Proteínas: son el macronutriente que construye y repara tu cuerpo
 categoria: "Proteínas"
 draft: true
 image: "./fotos/proteinas_portada.jpg"
-imageAlt: "Composición de alimentos ricos en proteínas dividida en dos grupos: origen animal (huevos, pollo, salmón, atún, carne, queso) y origen vegetal (lentejas, garbanzos, soja, edamame, tofu, frutos secos)"
+imageAlt: "Mesa de madera rústica con tela de lino: dos zonas — izquierda con salmón, pechuga de pollo cruda, huevo roto y queso curado; derecha con cuencos de lentejas y garbanzos, bloque de tofu, edamame y almendras"
 date: 2026-06-12
 ---
 

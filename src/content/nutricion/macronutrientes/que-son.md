@@ -5,7 +5,7 @@ categoria: "Macronutrientes"
 draft: true
 date: 2026-06-15
 image: "./fotos/macronutrientes_portada.jpg"
-imageAlt: "Composición de alimentos dividida en tres grupos: hidratos de carbono, proteínas y grasas"
+imageAlt: "Mesa de madera rústica con tela de lino: tres tablas de madera con grupos de hidratos de carbono (pan, arroz, pasta, avena), proteínas (salmón, pollo a la plancha, huevo) y grasas (aguacate, aceite de oliva, nueces, queso)"
 ---
 
 Los **macronutrientes** son los nutrientes que tu organismo necesita en grandes cantidades para obtener energía y mantener sus estructuras. Son tres: hidratos de carbono, proteínas y grasas.

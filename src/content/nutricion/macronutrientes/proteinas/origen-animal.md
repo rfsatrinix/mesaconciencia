@@ -5,7 +5,7 @@ categoria: "Proteínas"
 draft: false
 date: 2026-07-03
 image: "./fotos/origenanimal_portada.jpg"
-imageAlt: "Composición de alimentos ricos en proteínas de origen animal sobre fondo negro: rodaja de salmón crudo, sardinas, huevo abierto mostrando la yema, pechuga de pollo cruda, queso curado y yogur griego en tarro con cuchara"
+imageAlt: "Mesa de madera rústica con tela de lino: rodaja de salmón en plato redondo central, platito de sardinas, tarro de yogur con cuchara de madera, dos huevos rotos con yemas visibles, pechuga de pollo cruda y queso curado"
 ---
 
 Durante décadas, los nutricionistas usaron el huevo como referencia absoluta para medir la calidad de cualquier proteína. No era una elección arbitraria: su perfil de aminoácidos encaja mejor que ningún otro alimento conocido con lo que el cuerpo humano necesita. Carne, pescado, legumbre —todo se midió contra ese estándar. Hoy lo seguimos haciendo, aunque el índice que usamos tenga otro nombre.

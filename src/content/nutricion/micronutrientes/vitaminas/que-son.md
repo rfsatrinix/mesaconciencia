@@ -5,7 +5,7 @@ categoria: "Vitaminas"
 draft: true
 date: 2026-07-03
 image: "./fotos/vitaminas_portada.jpg"
-imageAlt: "Composición de alimentos ricos en vitaminas sobre fondo negro: pimiento naranja, salmón, espinacas, huevos, zanahoria, queso fresco, almendras, pipas de girasol y boniato"
+imageAlt: "Mesa de madera rústica con tela de lino: pimiento naranja abierto en plato redondo central, salmón, espinacas, boniatos, brócoli, zanahoria, huevo roto, queso de cabra y cuencos de almendras y semillas de girasol"
 ---
 
 La historia de las vitaminas es, en gran parte, la historia de sus ausencias. El escorbuto —encías sangrantes, heridas que no cicatrizan, articulaciones que duelen— reveló la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). El beriberi —parálisis progresiva, insuficiencia cardíaca— llevó al descubrimiento de la B1. La pelagra —dermatitis, diarrea, demencia— a la B3. Cada enfermedad fue el mapa negativo de una molécula que faltaba en la dieta. Las 13 vitaminas que hoy reconocemos son los [micronutrientes](/nutricion/micronutrientes) orgánicos que tu cuerpo necesita en cantidades pequeñas para mantener el metabolismo en funcionamiento, y que no puede fabricar por sí solo en cantidad suficiente.

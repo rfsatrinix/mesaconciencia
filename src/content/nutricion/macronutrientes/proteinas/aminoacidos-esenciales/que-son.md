@@ -4,7 +4,7 @@ description: "Aminoácidos esenciales: son los nueve que tu cuerpo no puede fabr
 categoria: "Aminoácidos esenciales"
 draft: true
 image: "./fotos/aminoacidosesenciales_portada.jpg"
-imageAlt: "Representación molecular de una cadena de aminoácidos esenciales, los bloques constructores de las proteínas (representación artística)"
+imageAlt: "Mesa de madera rústica con tela de lino: filete de salmón y pechuga de pollo sobre tabla redonda, cuencos de lentejas y quinoa, huevo roto en plato redondo central, bloque de tofu y nueces dispersas"
 date: 2026-06-12
 ---
 

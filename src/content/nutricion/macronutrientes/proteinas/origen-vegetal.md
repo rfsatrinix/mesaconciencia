@@ -1,10 +1,14 @@
 ---
 title: "Proteínas de origen vegetal"
-description: "Proteínas de origen vegetal: son las proteínas de legumbres, cereales, frutos secos y soja, con aminoácidos limitantes, biodisponibilidad y dieta vegana."
+description: "Proteínas de origen vegetal: son las que proceden de legumbres, cereales y soja, qué aminoácidos les faltan y cómo cubrirlos con una dieta vegana."
 categoria: "Proteínas"
 draft: false
 date: 2026-07-03
+image: "./fotos/origenvegetal_portada.jpg"
+imageAlt: "Mesa de madera rústica con tela de lino: bloque de tofu en plato redondo central, tabla con lonchas de tempeh, cuencos de garbanzos, lentejas, semillas de cáñamo y chía, edamame en vainas, quinoa y almendras dispersas"
 ---
+
+En 1971, la reconocida investigadora, activista y escritora estadounidense Frances Moore Lappé publicó *Diet for a Small Planet* y popularizó la idea de que las proteínas vegetales debían combinarse en la misma comida para funcionar. La restricción se instaló en los libros de texto y sobrevivió décadas: arroz con lentejas tenía que ser en la misma comida, punto. Diez años después, la propia Lappé la retiró en una edición revisada: el cuerpo no necesita que la complementación ocurra en la misma comida, sino a lo largo del día.
 
 Las [proteínas](/nutricion/macronutrientes/proteinas) de origen vegetal son las que proceden de [legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos), semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales). Esa etiqueta describe una característica bioquímica real, pero **no significa que sean insuficientes** para cubrir tus necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
 
@@ -14,7 +18,7 @@ Cada fuente vegetal tiende a ser deficitaria en algún aminoácido esencial conc
 
 | Fuente vegetal | Aminoácido limitante principal |
 |---|---|
-| Legumbres (lentejas, garbanzos, alubias) | [Metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina) |
+| Legumbres ([lentejas](/alimentos/legumbres/lentejas), [garbanzos](/alimentos/legumbres/garbanzos), [alubias](/alimentos/legumbres/alubia)) | [Metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina) |
 | Cereales (trigo, arroz, maíz) | [Lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina) |
 | Maíz | [Triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) y lisina |
 | Frutos secos y semillas | Lisina |
@@ -35,21 +39,21 @@ La puntuación que mide cuántos aminoácidos de cada alimento puede aprovechar 
 
 | Alimento | Proteína por 100 g (cocido o crudo según indica) | DIAAS aproximado |
 |---|---|---|
-| Soja texturizada (seca) | 52 g | ~0,90 |
-| Edamame (soja verde) | 11 g | ~0,90 |
-| Tempeh | 19 g | ~0,85 |
-| Quinoa cocida | 4 g | ~0,85 |
-| Tofu firme | 17 g | ~0,80 |
-| Semillas de cáñamo | 31 g | ~0,65 |
-| Lentejas cocidas | 9 g | ~0,60 |
-| [Garbanzos](/alimentos/garbanzos) cocidos | 9 g | ~0,55 |
-| Alubias negras cocidas | 9 g | ~0,55 |
-| Almendras | 21 g | ~0,40 |
-| Seitán (gluten de trigo) | 25 g | ~0,25 (bajo en lisina) |
+| Soja texturizada (seca) | 52 g | 0,90 |
+| Edamame (soja verde) | 11 g | 0,90 |
+| Tempeh | 19 g | 0,85 |
+| Quinoa cocida | 4 g | 0,85 |
+| Tofu firme | 17 g | 0,80 |
+| Semillas de cáñamo | 31 g | 0,65 |
+| Lentejas cocidas | 9 g | 0,60 |
+| Garbanzos cocidos | 9 g | 0,55 |
+| Alubias negras cocidas | 9 g | 0,55 |
+| [Almendras](/alimentos/frutos-secos/almendra) | 21 g | 0,40 |
+| Seitán (gluten de trigo) | 25 g | 0,25 (bajo en lisina) |
 
-*Fuente: FAO; USDA FoodData Central.*
+*Valores de DIAAS aproximados. Fuentes: FAO; USDA FoodData Central.*
 
-La soja es la única fuente vegetal con DIAAS comparable al del huevo o la carne; el resto se queda por debajo de 0,90.
+> La soja es la única fuente vegetal con DIAAS comparable al del huevo o la carne. El resto se queda por debajo de 0,90.
 
 ## La complementariedad proteica: qué dice la evidencia actual
 
@@ -67,13 +71,15 @@ Lo que sí importa:
 
 Si sigues una dieta estrictamente vegetal, no necesitas calcular aminoácidos: basta con incluir legumbres a diario, combinarlas con cereales integrales y no basar tu dieta en un solo alimento vegetal.
 
+> Legumbres a diario, cereales en cada comida, un puñado de frutos secos: no es un plan dietético, es sentido común culinario.
+
 ## Antinutrientes y biodisponibilidad
 
 Las plantas contienen compuestos que pueden reducir la absorción de proteínas y [minerales](/nutricion/micronutrientes/minerales):
 
 Los compuestos que se encuentran en legumbres y cereales integrales y reducen la absorción de [zinc](/nutricion/micronutrientes/oligoelementos/zinc), [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y [calcio](/nutricion/micronutrientes/minerales/calcio) al unirse a estos minerales en el intestino se llaman **fitatos**. El remojo, la germinación y la fermentación los disminuyen significativamente.
 
-La soja cruda y otras legumbres sin cocinar contienen compuestos que bloquean la enzima digestiva que tu intestino usa para descomponer las proteínas —la **tripsina**—: los **inhibidores de tripsina**. La cocción los inactiva completamente.
+La soja cruda y otras legumbres sin cocinar contienen compuestos que bloquean la enzima que tu intestino usa para descomponer las proteínas —la **tripsina**—. Se llaman **inhibidores de tripsina** y la cocción los inactiva completamente.
 
 Las legumbres crudas contienen un tipo de proteínas capaces de unirse a las células del intestino e interferir con la digestión —las **lectinas**—. La cocción adecuada —hervir, no solo remojar— las neutraliza.
 
@@ -81,9 +87,11 @@ En espinacas y otros vegetales de hoja se concentran compuestos que se unen al c
 
 La mayoría de estas limitaciones se resuelven con una preparación adecuada. Las legumbres bien cocidas tienen una digestibilidad proteica notablemente mejor que crudas o mal cocinadas.
 
+> Remojar, germinar y cocer no son rituales: son los pasos que convierten una proteína parcialmente disponible en una proteína que tu organismo puede aprovechar de verdad.
+
 ## Cómo cubrir las necesidades proteicas con alimentación vegetal
 
-Para un adulto sano con necesidades de ~0,83 g/kg/día (EFSA), una dieta vegana variada puede cubrir perfectamente esas necesidades con estas bases:
+Para un adulto sano con necesidades de aproximadamente 0,83 g/kg/día (EFSA), una dieta vegana variada puede cubrir perfectamente esas necesidades con estas bases:
 
 ### Fuentes a incluir habitualmente
 
@@ -93,9 +101,9 @@ Para un adulto sano con necesidades de ~0,83 g/kg/día (EFSA), una dieta vegana 
 
 **Cereales integrales** (avena, arroz integral, quinoa, espelta). Úsalos en todas las comidas; complementan el perfil de lisina de las legumbres.
 
-**Frutos secos y semillas** (nueces, almendras, semillas de cáñamo, chía). Incorpóralos como complemento por su aporte de proteína y [grasas](/nutricion/macronutrientes/grasas-o-lipidos) saludables.
+**Frutos secos y semillas** ([nueces](/alimentos/frutos-secos/nuez), almendras, semillas de cáñamo, chía). Incorpóralos como complemento por su aporte de proteína y [grasas](/nutricion/macronutrientes/grasas-o-lipidos) saludables.
 
-### Ejemplo de distribución diaria (~55–60 g de proteína)
+### Ejemplo de distribución diaria (55–60 g de proteína)
 
 | Comida | Alimento | Proteína aprox. |
 |---|---|---|
@@ -110,8 +118,11 @@ Los suplementos de proteína vegetal (proteína de guisante, arroz, soja, cáña
 
 Creo que el debate sobre si la proteína vegetal «es suficiente» está mal planteado desde el principio: la pregunta real es si la dieta en su conjunto cubre los aminoácidos esenciales en la cantidad adecuada. Y la respuesta, con legumbres, cereales integrales y soja presentes a lo largo del día, es sí.
 
-> La etiqueta "incompleta" describe una propiedad de las fuentes individuales, no de la dieta en su conjunto: tu organismo no evalúa cada comida por separado, sino lo que acumula a lo largo del día.
+> «Incompleta» describe cada fuente vegetal por separado. No describe lo que acumula tu organismo a lo largo del día.
 
 ---
 
-*Fuentes: <a href="https://www.fao.org/ag/humannutrition/35978-02317b979a686a57aa4593304ffc17f03.pdf" target="_blank" rel="noopener noreferrer">FAO. Dietary protein quality evaluation in human nutrition. FAO Food and Nutrition Paper 92. 2013.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/27886704/" target="_blank" rel="noopener noreferrer">Melina V et al. Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. J Acad Nutr Diet. 2016.</a>*
+## Referencias
+
+- <a href="https://www.fao.org/ag/humannutrition/35978-02317b979a686a57aa4593304ffc17f03.pdf" target="_blank" rel="noopener noreferrer">FAO. Dietary protein quality evaluation in human nutrition. FAO Food and Nutrition Paper 92. 2013.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/27886704/" target="_blank" rel="noopener noreferrer">Melina V et al. Position of the Academy of Nutrition and Dietetics: Vegetarian Diets. J Acad Nutr Diet. 2016.</a>

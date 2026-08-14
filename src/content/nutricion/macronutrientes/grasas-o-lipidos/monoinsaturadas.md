@@ -5,7 +5,7 @@ categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 image: "./fotos/monoinsaturadas_portada.jpg"
-imageAlt: "Composición de alimentos ricos en grasas monoinsaturadas sobre fondo negro: botella de aceite de oliva virgen extra vertiendo en cuenco, aguacate en mitad, aceitunas verdes y negras, almendras y avellanas con ramas de romero"
+imageAlt: "Mesa de madera rústica con tela de lino: botella de aceite de oliva virgen extra en plato redondo central, aguacate abierto, cuenco de aceitunas verdes y negras, cuenco de almendras, cuenco de avellanas y ramas de romero dispersas"
 ---
 
 En las décadas en que todas las grasas pasaron a ser el enemigo de la dieta sana, el aceite de oliva fue la excepción que nadie sabía muy bien cómo justificar. Los países que lo usaban como grasa principal seguían teniendo tasas de enfermedad cardiovascular más bajas. La respuesta, en gran parte, está en el tipo de grasa que predomina en ese aceite —y en las aceitunas, el aguacate y los [frutos secos](/alimentos/frutos-secos)—: la grasa monoinsaturada.

@@ -5,7 +5,7 @@ categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
 image: "./fotos/complejos_portada.jpg"
-imageAlt: "Composición de alimentos ricos en hidratos de carbono complejos sobre fondo negro: avena en copos, arroz integral, boniato cortado por la mitad, pan integral, pasta integral sin cocer y granos de trigo"
+imageAlt: "Mesa de madera rústica con tela de lino: tabla de madera con pan integral de semillas en rebanadas, cuencos de avena y arroz integral, boniato cortado, pasta integral penne seca, espigas de trigo y granos dispersos"
 ---
 
 Cuando alguien dice que los hidratos de carbono engordan, rara vez está pensando en [lentejas](/alimentos/legumbres/lentejas). Tampoco en avena, ni en la patata que guardaste ayer en la nevera. Está pensando en pan blanco, en arroz refinado, en el azúcar del café. Y tiene razón en que esos hidratos hacen algo diferente en tu cuerpo: llegan deprisa, suben la glucosa en sangre y bajan igual de rápido. La pregunta es por qué. La respuesta está en la longitud de las cadenas.

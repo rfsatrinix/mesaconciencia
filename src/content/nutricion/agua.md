@@ -5,7 +5,7 @@ categoria: "Nutrición"
 draft: false
 date: 2026-07-04
 image: "./fotos/agua_portada.jpg"
-imageAlt: "Fotografía de agua"
+imageAlt: "Mesa de madera rústica con tela de lino: jarra de cristal y vaso con hielo y menta sobre tabla redonda de madera, rodeados de rodajas de pepino, tomates cherry, gajos de naranja, sandía y hojas de menta dispersas"
 ---
 
 Llevas cuatro horas en el avión y no has bebido nada. No tenías sed. Lo que no sabes es que la cabina en la que estás sentado tiene una humedad relativa de entre el 10 y el 20 %: similar a la de la mayoría de los desiertos. Tu cuerpo ha estado perdiendo agua por la respiración y la piel durante todo el vuelo, en silencio, sin pedirte nada. Lo mismo ocurre en cualquier oficina con aire acondicionado un día cualquiera.

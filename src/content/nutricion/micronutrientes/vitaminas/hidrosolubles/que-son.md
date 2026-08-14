@@ -5,7 +5,7 @@ categoria: "Vitaminas hidrosolubles"
 draft: true
 date: 2026-07-03
 image: "./fotos/hidrosolubles_portada.jpg"
-imageAlt: "Composición de alimentos ricos en vitaminas hidrosolubles sobre fondo negro: limón, naranja, kiwi, espárragos, hígado, garbanzos, huevo, yogur y avena"
+imageAlt: "Mesa de madera rústica con tela de lino: naranja y limón partidos en plato redondo central, kiwi, espárragos, hígado en platito, cuenco de avena, yogur en tarro con cuchara, huevo roto y cuenco de garbanzos"
 ---
 
 Las [vitaminas](/nutricion/micronutrientes/vitaminas) hidrosolubles son las que tu organismo no puede almacenar en cantidades significativas: el exceso que no utilizas se elimina por la orina. Se distinguen de las [vitaminas liposolubles](/nutricion/micronutrientes/vitaminas/liposolubles) en ese punto —las liposolubles se acumulan en la grasa corporal y el hígado, lo que reduce el riesgo de déficit pero hace posible la toxicidad por exceso—. Las hidrosolubles debes reponerlas con regularidad a través de la alimentación.

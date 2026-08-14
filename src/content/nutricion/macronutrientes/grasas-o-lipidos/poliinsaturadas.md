@@ -5,7 +5,7 @@ categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 image: "./fotos/poliinsaturadas_portada.jpg"
-imageAlt: "Composición de alimentos ricos en grasas poliinsaturadas sobre fondo negro: rodaja de salmón crudo en el centro, nueces, semillas de lino en cuenco, semillas de chía en cuenco, pipas de girasol, aceite en cuenco de cristal y ramas de eneldo"
+imageAlt: "Mesa de madera rústica con tela de lino: rodaja de salmón en plato redondo central, cuencos de nueces, semillas de lino oscuras, semillas de chía y pipas de girasol, tres sardinas pequeñas y eneldo disperso"
 ---
 
 En los años setenta, dos investigadores daneses publicaron algo que no cuadraba con el consenso de la época. Los inuit de Groenlandia comían cantidades de grasa que habrían horrorizado a cualquier cardiólogo occidental —focas, ballenas, salmón a diario—, y sin embargo sus tasas de enfermedad coronaria eran notablemente bajas. Bang y Dyerberg señalaron al omega-3 como la pieza que faltaba. Tenían razón, aunque la historia resultó más compleja de lo que parecía.

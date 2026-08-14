@@ -5,7 +5,7 @@ categoria: "Vitaminas liposolubles"
 draft: true
 date: 2026-07-03
 image: "./fotos/liposolubles_portada.jpg"
-imageAlt: "Composición de alimentos ricos en vitaminas liposolubles sobre fondo negro: aguacate, caballa, kale, mantequilla, avellanas, mango y queso curado"
+imageAlt: "Mesa de madera rústica con tela de lino: tabla con caballa entera y abierta, salmón, mantequilla, cuenco de avellanas, aguacate abierto en plato redondo central, queso curado, mango cortado y col rizada"
 ---
 
 Las vitaminas liposolubles son las cuatro [vitaminas](/nutricion/micronutrientes/vitaminas) —A, D, E y K— que se disuelven en los [lípidos](/nutricion/macronutrientes/grasas-o-lipidos) de la dieta y no en los líquidos de tu cuerpo. A diferencia de las [vitaminas hidrosolubles](/nutricion/micronutrientes/vitaminas/hidrosolubles), tu organismo puede almacenarlas en el hígado y la grasa corporal durante semanas o meses: no necesitas consumirlas a diario. Esa capacidad de reserva tiene un coste: el exceso de vitamina A y D puede acumularse hasta niveles tóxicos, especialmente con suplementación prolongada.

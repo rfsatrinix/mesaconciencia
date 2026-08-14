@@ -5,7 +5,7 @@ categoria: "Minerales"
 draft: true
 date: 2026-07-03
 image: "./fotos/minerales_portada.jpg"
-imageAlt: "Composición de alimentos ricos en minerales sobre fondo negro: sardinas, queso, plátano, brócoli, almendras, huevos, lentejas, arroz integral y avena"
+imageAlt: "Mesa de madera rústica con tela de lino: cuatro sardinas en tabla rectangular central, cuencos de almendras, avena, arroz integral y lentejas, brócoli, huevo roto, plátano y queso curado"
 ---
 
 Los **minerales** son la segunda gran categoría de [micronutrientes](/nutricion/micronutrientes), junto con las [vitaminas](/nutricion/micronutrientes/vitaminas). A diferencia de estas últimas —que el calor y el cocinado pueden degradar—, los minerales mantienen su composición intacta durante la cocción y el procesado. Un gramo de calcio en una sardina cruda sigue siendo un gramo de calcio en una sardina en lata.

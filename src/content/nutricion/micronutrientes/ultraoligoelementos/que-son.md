@@ -5,7 +5,7 @@ categoria: "Ultraoligoelementos"
 draft: true
 date: 2026-07-04
 image: "./fotos/ultraoligoelementos_portada.jpg"
-imageAlt: "Composición de alimentos ricos en ultraoligoelementos sobre fondo negro: setas, ajo, ostras, almejas, pimiento verde, uvas y granos de pimienta negra"
+imageAlt: "Mesa de madera rústica con tela de lino: cuenco central con ostras abiertas, cuenco de almejas, cuenco de setas variadas, racimo de uvas, cabeza de ajo con dientes dispersos, pimiento verde abierto y granos de pimienta negra"
 ---
 
 Los ultraoligoelementos son componentes que aparecen en cantidades ínfimas —los **elementos traza**— tanto en la dieta como en los tejidos de tu cuerpo: huesos, hígado, riñones, sangre. Lo que los diferencia de los [oligoelementos](/nutricion/micronutrientes/oligoelementos) clásicos —[hierro](/nutricion/micronutrientes/oligoelementos/hierro), [zinc](/nutricion/micronutrientes/oligoelementos/zinc), [yodo](/nutricion/micronutrientes/oligoelementos/yodo), [selenio](/nutricion/micronutrientes/oligoelementos/selenio), [cobre](/nutricion/micronutrientes/oligoelementos/cobre)— es que ninguna autoridad sanitaria ha podido confirmar que sean imprescindibles para vivir: su condición de nutrientes que el cuerpo necesita y no puede reemplazar con ningún otro —la **esencialidad**— no ha sido reconocida ni por la EFSA ni por la OMS. No tienen una ingesta de referencia establecida porque la evidencia disponible no ha identificado ninguna función del cuerpo que los requiera de forma específica.

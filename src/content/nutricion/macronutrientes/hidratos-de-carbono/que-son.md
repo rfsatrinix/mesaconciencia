@@ -4,7 +4,7 @@ description: "Hidratos de carbono: son la principal fuente de energía de tu cue
 categoria: "Hidratos de carbono"
 draft: true
 image: "./fotos/hidratosdecarbono_portada.jpg"
-imageAlt: "Composición de alimentos ricos en hidratos de carbono dividida en dos grupos: complejos (pan integral, avena, arroz, patata, lentejas, pasta) y simples (fruta, miel y azúcar)"
+imageAlt: "Mesa de madera rústica con tela de lino: pan integral en rebanadas sobre tabla, cuencos de avena y arroz, tarro de miel, uvas, fresas, plátano medio pelado, naranja abierta, patata y pasta seca dispersa"
 date: 2026-06-11
 ---
 

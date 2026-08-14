@@ -5,7 +5,7 @@ categoria: "Nutrición"
 draft: false
 date: 2026-07-04
 image: "./fotos/fibraalimenticia_portada.jpg"
-imageAlt: "Fotografía de fibra alimenticia"
+imageAlt: "Mesa de madera rústica con tela de lino: cuenco central de copos de avena, cuenco de lentejas, cuenco de semillas de lino, rebanadas de pan integral sobre tabla rectangular, media manzana, brócoli, pera entera y hierbas dispersas"
 ---
 
 El paquete lo lleva marcado bien visible: «RICO EN FIBRA». Lo pones en el carrito sin pensártelo. Llevas años sabiendo que la fibra alimenticia es buena —que regula el tránsito, que es sana—, sin saber exactamente por qué ni cuánta tomas al día. Ese yogur con cereales del desayuno te ha dado 2,5 g. La referencia son 25 g.

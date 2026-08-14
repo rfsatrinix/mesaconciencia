@@ -5,7 +5,7 @@ categoria: "Grasas o lípidos"
 draft: true
 date: 2026-06-12
 image: "./fotos/grasasolipidos_portada.jpg"
-imageAlt: "Composición de alimentos ricos en grasas dividida en dos grupos: insaturadas (aceite de oliva, aguacate, frutos secos, salmón, sardinas) y saturadas (aceite de coco, mantequilla, queso, carne roja)"
+imageAlt: "Mesa de madera rústica con tela de lino: botella de aceite de oliva, aguacate abierto, cuenco de nueces, rodaja de salmón, sardinas en tabla, coco abierto, mantequilla, queso parmesano y carne roja con hierbas dispersas"
 ---
 
 Las grasas son el macronutriente más calórico: aportan **9 kilocalorías (kcal) por gramo**, más del doble que las [proteínas](/nutricion/macronutrientes/proteinas) o los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono). Esa densidad energética las convierte en un componente fundamental de tu dieta, no en algo que debas evitar.

@@ -5,7 +5,7 @@ categoria: "Hidratos de carbono"
 draft: false
 date: 2026-06-12
 image: "./fotos/simples_portada.jpg"
-imageAlt: "Composición de alimentos ricos en azúcares simples sobre fondo negro: tarro de miel con hilo dorado, uvas moradas, fresas, plátano entero y en mitad, dátiles y cuenco de azúcar blanco"
+imageAlt: "Mesa de madera rústica con tela de lino: tarro de miel con palillo de madera en plato redondo central, platito de dátiles, cuenco de azúcar moreno, racimo de uvas rojas, fresas, plátano entero y partido"
 ---
 
 Un plátano maduro, un vaso de zumo de naranja recién exprimido y una lata de refresco son, los tres, fuentes de azúcares simples. La OMS incluye el zumo y la cola dentro del límite diario de azúcar, pero no el plátano. El motivo no está en el tipo de molécula: está en lo que los acompaña —o en lo que les han quitado—.

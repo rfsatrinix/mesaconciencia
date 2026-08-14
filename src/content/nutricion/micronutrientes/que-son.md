@@ -5,7 +5,7 @@ categoria: "Micronutrientes"
 draft: true
 date: 2026-07-03
 image: "./fotos/micronutrientes_portada.jpg"
-imageAlt: "Composición de alimentos ricos en micronutrientes sobre fondo negro: espinacas, brócoli, zanahoria, boniato, pimiento rojo, garbanzos, lentejas, almendras, nueces, salmón, huevos y tomates cherry"
+imageAlt: "Mesa de madera rústica con tela de lino: filete de salmón en plato redondo central, cuencos de garbanzos y almendras, espinacas, tomates cherry, brócoli, zanahoria, pimiento rojo abierto, huevo roto y luz cálida de ventana"
 ---
 
 Los micronutrientes son sustancias que tu organismo necesita en cantidades pequeñas —miligramos o microgramos al día— pero que son imprescindibles para que funcione correctamente. A diferencia de los [macronutrientes](/nutricion/macronutrientes), no aportan energía; su papel es estructural y regulador: sin ellos, el conjunto de reacciones que mantiene tu cuerpo vivo —tu **metabolismo**— no puede funcionar.

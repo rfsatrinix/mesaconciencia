@@ -5,7 +5,7 @@ categoria: "Oligoelementos"
 draft: true
 date: 2026-07-03
 image: "./fotos/oligoelementos_portada.jpg"
-imageAlt: "Composición de alimentos ricos en oligoelementos sobre fondo negro: nueces de Brasil, mejillones, sardina, lentejas, espinacas, semillas de calabaza y carne roja"
+imageAlt: "Mesa de madera con tela de lino: cuenco central de mejillones abiertos, platito de sardinas, cuencos de semillas de calabaza y lentejas, nueces de Brasil, espinacas frescas y carne roja"
 ---
 
 Los oligoelementos son [minerales](/nutricion/micronutrientes/minerales) que tu organismo necesita en cantidades muy pequeñas —microgramos o pocos miligramos al día—. Se distinguen de los minerales que necesitas en cantidades de cientos de miligramos al día —[calcio](/nutricion/micronutrientes/minerales/calcio), [magnesio](/nutricion/micronutrientes/minerales/magnesio), [sodio](/nutricion/micronutrientes/minerales/sodio) y [potasio](/nutricion/micronutrientes/minerales/potasio), los **macrominerales**— únicamente por la cantidad requerida, no por la importancia de su función. La deficiencia de cualquiera de ellos tiene consecuencias clínicas bien documentadas.

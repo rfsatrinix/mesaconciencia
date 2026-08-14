@@ -5,7 +5,7 @@ categoria: "Oligoelementos"
 draft: false
 date: 2026-07-03
 image: "./fotos/hierro_portada.jpg"
-imageAlt: "Fotografía de hierro"
+imageAlt: "Plato redondo de madera sobre mesa con tela de lino: lentejas con zanahoria, espinacas salteadas con sésamo y lonchas de ternera a la plancha, con media naranja al lado"
 ---
 
 En el siglo XVII, los médicos europeos describían en mujeres jóvenes un síndrome de fatiga extrema, palidez y un tinte verdoso en la piel que llamaron *clorosis* —o «mal de la virgen»— sin entender su causa. El tratamiento empírico más extendido era el «vino de acero»: vino en el que se habían sumergido clavos o limaduras de hierro durante días. Funcionaba. No por el vino, sino porque el ácido tartárico de la uva disolvía el hierro y producía una solución que, tomada en ayunas, aportaba hierro absorbible al organismo. El mecanismo que lo explicaba —la conexión entre el hierro, la hemoglobina y el transporte de oxígeno— tardaría dos siglos más en aclararse.

@@ -48,4 +48,6 @@ Entender cómo funcionan los nutrientes te permite tomar decisiones alimentarias
 
 ## Referencias
 
-*Fuentes: <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>; <a href="https://www.who.int/es/health-topics/nutrition" target="_blank" rel="noopener noreferrer">OMS — Nutrición</a>.*
+## Referencias
+
+- <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>; <a href="https://www.who.int/es/health-topics/nutrition" target="_blank" rel="noopener noreferrer">OMS — Nutrición</a>.

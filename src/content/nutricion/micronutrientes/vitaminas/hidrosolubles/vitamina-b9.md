@@ -116,4 +116,7 @@ La prevención de los defectos del tubo neural con ácido fólico reúne las dos
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3893" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for folate. EFSA Journal. 2014.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/1677062/" target="_blank" rel="noopener noreferrer">MRC Vitamin Study Research Group. Prevention of neural tube defects: results of the MRC Vitamin Study. Lancet. 1991.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3893" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for folate. EFSA Journal. 2014.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/1677062/" target="_blank" rel="noopener noreferrer">MRC Vitamin Study Research Group. Prevention of neural tube defects: results of the MRC Vitamin Study. Lancet. 1991.</a>

@@ -56,4 +56,6 @@ A diferencia de lo que ocurre con las [vitaminas](/nutricion/micronutrientes/vit
 
 ## Referencias
 
-*Fuentes: <a href="https://www.who.int/publications/i/item/9789241564960" target="_blank" rel="noopener noreferrer">WHO. The global prevalence of anaemia in 2011. World Health Organization, 2015.</a>*
+## Referencias
+
+- <a href="https://www.who.int/publications/i/item/9789241564960" target="_blank" rel="noopener noreferrer">WHO. The global prevalence of anaemia in 2011. World Health Organization, 2015.</a>

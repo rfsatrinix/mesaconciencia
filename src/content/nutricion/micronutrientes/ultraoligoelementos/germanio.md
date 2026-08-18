@@ -60,4 +60,7 @@ Si soy sincera, es difícil encontrar un argumento para suplementar germanio: si
 
 ---
 
-*Fuentes: <a href="https://pubmed.ncbi.nlm.nih.gov/2352034/" target="_blank" rel="noopener noreferrer">Sanai T et al. Germanium dioxide-induced nephropathy: a new type of renal disease. Nephron. 1990;54(1):53–60.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/9142146/" target="_blank" rel="noopener noreferrer">Tao SH, Bolger PM. Hazard assessment of germanium supplements. Regul Toxicol Pharmacol. 1997;25(3):211–9.</a>*
+## Referencias
+
+- <a href="https://pubmed.ncbi.nlm.nih.gov/2352034/" target="_blank" rel="noopener noreferrer">Sanai T et al. Germanium dioxide-induced nephropathy: a new type of renal disease. Nephron. 1990;54(1):53–60.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/9142146/" target="_blank" rel="noopener noreferrer">Tao SH, Bolger PM. Hazard assessment of germanium supplements. Regul Toxicol Pharmacol. 1997;25(3):211–9.</a>

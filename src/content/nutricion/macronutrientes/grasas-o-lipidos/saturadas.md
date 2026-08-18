@@ -5,7 +5,7 @@ categoria: "Grasas o lípidos"
 draft: false
 date: 2026-06-12
 image: "./fotos/saturadas_portada.jpg"
-imageAlt: "Mesa de madera rústica con tela de lino: mantequilla en plato redondo central, queso curado, tableta de chocolate negro, rodajas de embutido, carne roja cruda, huevo roto con yema visible y coco abierto con láminas de coco"
+imageAlt: "Fondo negro con tres fuentes de grasas saturadas: bloque de mantequilla sobre plato de cerámica oscura (51 g), tarro de cristal con aceite de coco sólido blanco (86 g) y tableta de chocolate negro 70% sobre tabla de madera clara (19 g), cada uno con su montón delante y etiqueta kraft con la concentración por 100 g"
 ---
 
 En los años ochenta, el dogma nutricional en el mundo occidental era casi unánime: la grasa saturada tapona las arterias, eleva el colesterol y mata. La respuesta fue masiva. La margarina sustituyó a la mantequilla en millones de hogares, los supermercados llenaron sus estantes de productos desnatados y la grasa animal quedó relegada al rincón de lo que no se come si uno se cuida. Los infartos no cayeron tan dramáticamente como prometía aquella simplificación. Lo que siguió fueron décadas de revisión, debate y, en algunos casos, rectificación.

@@ -144,4 +144,7 @@ La vitamina B12 tiene el déficit más silencioso de las [vitaminas](/nutricion/
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4150" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies. Dietary Reference Values for cobalamin. EFSA Journal. 2015.</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK441923/" target="_blank" rel="noopener noreferrer">Ankar A, Kumar A. Vitamin B12 Deficiency. StatPearls. 2023.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4150" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies. Dietary Reference Values for cobalamin. EFSA Journal. 2015.</a>
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK441923/" target="_blank" rel="noopener noreferrer">Ankar A, Kumar A. Vitamin B12 Deficiency. StatPearls. 2023.</a>

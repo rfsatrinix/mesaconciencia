@@ -22,6 +22,8 @@ La EFSA establece las siguientes ingestas de referencia para la riboflavina:
 | Niños 4–6 | 0,7 mg/día |
 | Niños 1–3 | 0,6 mg/día |
 
+*Fuente: EFSA 2017.*
+
 No existe un nivel máximo tolerable establecido: es hidrosoluble y el exceso que no utilizas se excreta por la orina sin efectos adversos conocidos. Si has tomado suplementos de riboflavina en dosis altas, ya lo habrás comprobado: tu orina adquiere un color amarillo intenso, inconfundible e inocuo.
 
 ## ¿Para qué sirve la vitamina B2?
@@ -44,20 +46,20 @@ Las fuentes más concentradas son los órganos animales, los lácteos, los [frut
 
 | Alimento | Riboflavina por cada 100 g |
 |---|---|
-| Hígado de ternera (cocido) | ~3,0 mg |
-| Almendras | ~1,1 mg |
-| Champiñones (crudos) | ~0,5 mg |
-| Huevo entero (cocido) | ~0,45 mg |
-| Queso curado | ~0,35 mg |
-| Yogur natural | ~0,27 mg |
-| Salmón del Atlántico (cocido) | ~0,25 mg |
-| Espinacas cocidas | ~0,20 mg |
-| Leche entera | ~0,18 mg |
-| Pechuga de pollo (cocida) | ~0,15 mg |
+| Hígado de ternera (cocido) | 3,0 mg |
+| Almendras | 1,1 mg |
+| Champiñones (crudos) | 0,5 mg |
+| Huevo entero (cocido) | 0,45 mg |
+| Queso curado | 0,35 mg |
+| Yogur natural | 0,27 mg |
+| Salmón del Atlántico (cocido) | 0,25 mg |
+| Espinacas cocidas | 0,20 mg |
+| Leche entera | 0,18 mg |
+| Pechuga de pollo (cocida) | 0,15 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
-El hígado de ternera tiene una concentración extraordinaria, pero no es un alimento de consumo habitual. En la práctica, los lácteos son los que más contribuyen a la ingesta diaria de riboflavina en la dieta occidental: no por su concentración, sino por el volumen que se consume. Un vaso de leche de 250 mL aporta ~0,45 mg; dos yogures naturales, ~0,5 mg. Si no consumes lácteos, cubrir los 1,6 mg diarios requiere planificación activa.
+El hígado de ternera tiene una concentración extraordinaria, pero no es un alimento de consumo habitual. En la práctica, los lácteos son los que más contribuyen a la ingesta diaria de riboflavina en la dieta occidental: no por su concentración, sino por el volumen que se consume. Un vaso de leche de 250 mL aporta unos 0,45 mg; dos yogures naturales, unos 0,5 mg. Si no consumes lácteos, cubrir los 1,6 mg diarios requiere planificación activa.
 
 ## La riboflavina y la luz: el enemigo invisible
 
@@ -77,13 +79,15 @@ La riboflavina no solo tiene sus propias funciones: es necesaria para activar ot
 
 **Niacina (B3).** Varios pasos de la vía por la que el [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) se convierte en niacina dependen de enzimas con FAD o FMN como cofactor. Un déficit de riboflavina reduce la síntesis endógena de niacina a partir del triptófano.
 
-El resultado práctico: un déficit de riboflavina puede reproducir o agravar síntomas atribuibles a déficits de B6, folato o niacina, aunque la ingesta de estas últimas sea suficiente.
+> El resultado práctico: un déficit de riboflavina puede reproducir o agravar síntomas atribuibles a déficits de B6, folato o niacina, aunque la ingesta de estas últimas sea suficiente.
 
 ## Riboflavina en dosis altas: la migraña
 
 Una de las indicaciones más estudiadas de la riboflavina fuera del terreno nutricional es la profilaxis de la migraña. La dosis es de **400 mg/día** —250 veces la ingesta de referencia—, lo que la convierte en un tratamiento farmacológico con una vitamina, no en una recomendación dietética.
 
 El mecanismo propuesto parte de la hipótesis mitocondrial de la migraña: los pacientes migrañosos presentarían una disfunción en la producción de ATP mitocondrial que genera mayor susceptibilidad a una onda de inhibición eléctrica que se expande lentamente por la corteza cerebral y desencadena el dolor migrañoso —la **depresión cortical propagada**—. La riboflavina, como cofactor de los Complejos I y II de la cadena de transporte de electrones, mejoraría esa eficiencia energética. Los ensayos clínicos muestran una reducción de la frecuencia de episodios de aproximadamente el 50 % respecto al placebo en respondedores, con una tolerabilidad excelente: el único efecto adverso relevante es la orina de color amarillo intenso.
+
+> A 400 mg/día, la riboflavina ya no actúa como vitamina. Actúa como fármaco.
 
 No todos los pacientes responden. Una variante genética que reduce la actividad de la MTHFR en el 10–15 % de la población —el **polimorfismo MTHFR C677T**— parece predecir una mejor respuesta, lo que es coherente con el papel de la riboflavina como cofactor de esa vía.
 
@@ -107,4 +111,7 @@ La riboflavina es la única vitamina B cuyo déficit puede imitar simultáneamen
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4919" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for riboflavin. EFSA Journal. 2017.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/9484373/" target="_blank" rel="noopener noreferrer">Schoenen J et al. Effectiveness of high-dose riboflavin in migraine prophylaxis. Neurology. 1998.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2017.4919" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for riboflavin. EFSA Journal. 2017.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/9484373/" target="_blank" rel="noopener noreferrer">Schoenen J et al. Effectiveness of high-dose riboflavin in migraine prophylaxis. Neurology. 1998.</a>

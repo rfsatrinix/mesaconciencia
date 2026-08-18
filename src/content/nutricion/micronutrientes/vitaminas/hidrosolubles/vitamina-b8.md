@@ -27,6 +27,8 @@ Las necesidades de biotina se expresan en **microgramos** (µg), una unidad cien
 | Niños 4–6 | 20 µg/día |
 | Niños 1–3 | 20 µg/día |
 
+*Fuente: EFSA 2019.*
+
 No existe nivel máximo tolerable establecido. La biotina no produce toxicidad conocida ni siquiera a las dosis de varios miligramos que contienen muchos suplementos comerciales. Esas dosis altas tienen otras implicaciones que no son metabólicas.
 
 ## ¿Para qué sirve la vitamina B8?
@@ -41,7 +43,7 @@ La biotina es el grupo prostético de exactamente cuatro carboxilasas —enzimas
 
 **3-metilcrotonil-CoA carboxilasa (MCC).** Participa en la descomposición de la [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina). Cuando la MCC no funciona, un fragmento de esa ruta se acumula y aparece en la orina como marcador de déficit de biotina.
 
-Cuatro enzimas, cuatro rutas metabólicas distintas, el mismo cofactor en todas.
+> Cuatro enzimas, cuatro rutas metabólicas distintas, el mismo cofactor en todas.
 
 ## Fuentes alimentarias de biotina
 
@@ -49,18 +51,18 @@ La biotina está presente en muchas fuentes dietéticas, aunque en concentracion
 
 | Alimento | Biotina por cada 100 g |
 |---|---|
-| Hígado de ternera (cocido) | ~100 µg |
-| Semillas de girasol (crudas) | ~28 µg |
-| Huevo entero (cocido) | ~25 µg |
-| Cacahuetes tostados | ~18 µg |
-| Coliflor cocida | ~17 µg |
-| Champiñones cocidos | ~16 µg |
-| Almendras | ~16 µg |
-| Avena cocida | ~7 µg |
-| Salmón del Atlántico (cocido) | ~5 µg |
-| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~4 µg |
+| Hígado de ternera (cocido) | 100 µg |
+| Semillas de girasol (crudas) | 28 µg |
+| Huevo entero (cocido) | 25 µg |
+| Cacahuetes tostados | 18 µg |
+| Coliflor cocida | 17 µg |
+| Champiñones cocidos | 16 µg |
+| Almendras | 16 µg |
+| Avena cocida | 7 µg |
+| Salmón del Atlántico (cocido) | 5 µg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 4 µg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
 Las bacterias intestinales también sintetizan biotina en el colon. La contribución de esa producción endógena a los niveles corporales es incierta, pero constituye un amortiguador que explica por qué la deficiencia por restricción dietética pura —sin un antagonista activo— es poco frecuente.
 
@@ -74,7 +76,7 @@ Los primeros casos descritos en la literatura médica, en los años veinte del s
 
 La solución es la cocción. El calor desnaturaliza la avidina y destruye su capacidad de unirse a la biotina. El huevo cocido no tiene ningún efecto sobre la absorción de biotina.
 
-La avidina cruda, sí.
+> La avidina cruda, sí.
 
 La misma propiedad que hace peligrosa a la avidina en el intestino la convierte en una herramienta de laboratorio excepcional. La avidina y su versión de origen bacteriano con la misma capacidad de unión —la **estreptavidina**— se usan como elementos de captura en las técnicas de laboratorio que detectan y cuantifican moléculas usando anticuerpos —los **inmunoensayos**—, en la tinción de tejidos para estudios histológicos —la **histoquímica**—, en diagnóstico molecular y en plataformas de secuenciación. La interacción avidina-biotina está detrás de una fracción enorme de la tecnología biomédica moderna de detección.
 
@@ -86,7 +88,7 @@ Lo que la evidencia muestra es más matizado. Los beneficios sobre el pelo y las
 
 Lo más relevante no es la falta de efecto. Es la **advertencia de la FDA de 2017** sobre la interferencia de la biotina con las pruebas de laboratorio. Muchos inmunoensayos clínicos modernos usan la interacción avidina-estreptavidina-biotina como mecanismo de detección. Si tienes niveles muy elevados de biotina en sangre —como ocurre con suplementos de 5–10 mg, entre 125 y 250 veces la ingesta adecuada—, la biotina libre compite con el reactivo y falsea el resultado. Las pruebas afectadas incluyen la que detecta la proteína que se libera cuando el músculo cardíaco sufre daño —la **troponina**—, la hormona que regula la función de la tiroides —la **TSH**—, las hormonas que controlan la ovulación y la fertilidad —la **FSH** y la **LH**—, y la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d). Se documentaron casos de infarto de miocardio con troponina falsamente negativa. La recomendación actual es suspender los suplementos de biotina al menos 48–72 horas antes de cualquier análisis de sangre.
 
-Tomar un suplemento de biotina para el pelo antes de un análisis puede enmascarar un infarto.
+> Tomar un suplemento de biotina para el pelo antes de un análisis puede enmascarar un infarto.
 
 ## ¿Qué ocurre si falta vitamina B8?
 
@@ -102,4 +104,7 @@ Que una mutación en ese único paso —la enzima que recupera la biotina de los
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5728" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for biotin. EFSA Journal. 2019.</a> · <a href="https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests" target="_blank" rel="noopener noreferrer">FDA. Biotin (vitamin B7) interference with lab tests. Safety Communication. 2019.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5728" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for biotin. EFSA Journal. 2019.</a>
+- <a href="https://www.fda.gov/medical-devices/safety-communications/fda-warns-biotin-may-interfere-lab-tests" target="_blank" rel="noopener noreferrer">FDA. Biotin (vitamin B7) interference with lab tests. Safety Communication. 2019.</a>

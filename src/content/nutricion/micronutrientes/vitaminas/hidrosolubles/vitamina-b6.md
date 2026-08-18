@@ -23,6 +23,8 @@ La EFSA fija los valores de referencia para la vitamina B6 tomando como marcador
 | Niños 4–6 | 0,7 mg/día |
 | Niños 1–3 | 0,6 mg/día |
 
+*Fuente: EFSA 2016.*
+
 La EFSA establece un **nivel máximo tolerable de 25 mg/día** para la vitamina B6 procedente de suplementos y productos enriquecidos. Es uno de los pocos B vitamínicos con un límite toxicológico establecido. Las dosis crónicas altas producen, paradójicamente, el mismo síntoma que el déficit: daño en los nervios sensoriales de las extremidades —la **neuropatía sensorial periférica**—, un fenómeno suficientemente documentado como para que la cifra de 25 mg/día sea una advertencia real, no una cautela teórica.
 
 ## ¿Para qué sirve la vitamina B6?
@@ -39,7 +41,7 @@ El PLP actúa como cofactor creando con el aminoácido un tipo de enlace covalen
 
 **Metabolismo de la homocisteína.** La enzima que convierte el aminoácido que en concentraciones altas daña los vasos sanguíneos —la **homocisteína**— en cistationina, iniciando la ruta hacia su eliminación, es la **cistationina beta-sintasa (CBS)**, que depende de PLP. Esa reacción es el primer paso de la ruta que transforma la homocisteína, paso a paso, en cisteína —la **vía de la transulfuración**—. Un déficit de vitamina B6 puede elevar los niveles de homocisteína en sangre independientemente del estado de [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) o [ácido fólico](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9), añadiendo un componente de riesgo cardiovascular propio.
 
-El PLP no falla en una reacción a la vez: cuando su concentración baja, todas las rutas que dependen de él se resienten al mismo tiempo.
+> El PLP no falla en una reacción a la vez: cuando su concentración baja, todas las rutas que dependen de él se resienten al mismo tiempo.
 
 ## Fuentes alimentarias de piridoxina
 
@@ -47,20 +49,20 @@ La vitamina B6 está presente en una amplia variedad de fuentes, tanto de origen
 
 | Alimento | Vitamina B6 por cada 100 g |
 |---|---|
-| Semillas de girasol (crudas) | ~1,3 mg |
-| Hígado de ternera (cocido) | ~1,0 mg |
-| Pechuga de pollo (cocida) | ~0,9 mg |
-| Atún fresco (cocido) | ~0,9 mg |
-| Salmón del Atlántico (cocido) | ~0,8 mg |
-| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,5 mg |
-| Patata cocida | ~0,3 mg |
-| Plátano | ~0,3 mg |
-| Pan integral | ~0,2 mg |
-| Espinacas cocidas | ~0,2 mg |
+| Semillas de girasol (crudas) | 1,3 mg |
+| Hígado de ternera (cocido) | 1,0 mg |
+| Pechuga de pollo (cocida) | 0,9 mg |
+| Atún fresco (cocido) | 0,9 mg |
+| Salmón del Atlántico (cocido) | 0,8 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
+| Patata cocida | 0,3 mg |
+| Plátano | 0,3 mg |
+| Pan integral | 0,2 mg |
+| Espinacas cocidas | 0,2 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
-La cocción prolongada y el procesado industrial degradan la vitamina B6. La forma vegetal (piridoxina) es algo menos biodisponible que las formas animales (piridoxal y piridoxamina), porque parte se encuentra unida a glucósidos en ciertos vegetales —especialmente en patatas— que el intestino humano absorbe con menor eficiencia.
+La cocción prolongada y el procesado industrial degradan la vitamina B6. La forma vegetal (piridoxina) es algo menos biodisponible que las formas animales (piridoxal y piridoxamina), porque parte se encuentra unida a glucósidos en ciertos vegetales —especialmente en patatas— que tu intestino absorbe con menor eficiencia.
 
 ## La vitamina B6 y la síntesis de neurotransmisores
 
@@ -70,7 +72,7 @@ El PLP cataliza el último paso de síntesis de los neurotransmisores más impor
 
 **Dopamina y catecolaminas.** La tirosina se convierte en el compuesto intermedio que precede directamente a la dopamina —la **L-DOPA**—, y la misma descarboxilasa de aminoácidos aromáticos, usando PLP, completa la conversión. La dopamina es precursora de las hormonas que el organismo libera en situaciones de estrés y alerta —la **noradrenalina** y la **adrenalina**—.
 
-**GABA.** La enzima que convierte el glutamato en el principal mensajero inhibidor del cerebro —la **glutamato descarboxilasa**— depende de PLP. Sin niveles adecuados de PLP, la síntesis del **GABA** se reduce y el equilibrio entre activación e inhibición neuronal se compromete.
+**GABA.** La enzima que convierte el glutamato —la **glutamato descarboxilasa**— depende de PLP para producir el principal neurotransmisor inhibidor del cerebro —el **GABA**—. Sin niveles adecuados de PLP, la síntesis de GABA se reduce y el equilibrio entre activación e inhibición neuronal se compromete.
 
 **Histamina.** La [histidina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/histidina) se transforma mediante una descarboxilasa dependiente de PLP en el mensajero implicado en la respuesta inmune, la inflamación y la secreción gástrica —la **histamina**—.
 
@@ -80,7 +82,7 @@ La más conocida en la práctica habitual es el tratamiento de las **náuseas de
 
 La más llamativa es la **epilepsia dependiente de piridoxina (EDP)**. Una mutación en el gen ALDH7A1 bloquea el catabolismo de la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina), lo que lleva a la acumulación de un metabolito que inactiva el PLP en el cerebro. Sin PLP funcional, la síntesis de GABA se colapsa y el recién nacido convulsiona desde las primeras horas de vida, sin responder a ningún anticonvulsivo estándar. El diagnóstico —y la prueba terapéutica— consiste en administrar 100 mg de piridoxina intravenosa: en minutos, las convulsiones ceden.
 
-Es uno de los diagnósticos terapéuticos más dramáticos de la neurología neonatal.
+> Es uno de los diagnósticos terapéuticos más dramáticos de la neurología neonatal.
 
 ## Demasiada vitamina B6: la neuropatía por piridoxina
 
@@ -92,7 +94,7 @@ Las dosis que producen daño en los estudios son típicamente superiores a 200 m
 
 El escenario clínico más frecuente no es la sobredosis accidental: son personas que toman suplementos en dosis altas durante meses para el síndrome premenstrual, el síndrome del túnel carpiano o las náuseas del embarazo, sin supervisión médica, y desarrollan síntomas neurológicos que a veces se atribuyen erróneamente a neuropatía diabética o a déficit de B12.
 
-La recuperación es lenta. En algunos casos, incompleta.
+> La recuperación es lenta. En algunos casos, incompleta.
 
 Para mí, este es el riesgo más subestimado de los suplementos de vitaminas B: parecen tan inocuos que nadie piensa que la dosis pueda importar.
 
@@ -110,4 +112,7 @@ La exploración clínica de la neuropatía por déficit de B6 es idéntica a la 
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4485" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin B6. EFSA Journal. 2016.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/6308447/" target="_blank" rel="noopener noreferrer">Schaumburg H et al. Sensory neuropathy from pyridoxine abuse. A new megavitamin syndrome. N Engl J Med. 1983.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4485" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin B6. EFSA Journal. 2016.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/6308447/" target="_blank" rel="noopener noreferrer">Schaumburg H et al. Sensory neuropathy from pyridoxine abuse. A new megavitamin syndrome. N Engl J Med. 1983.</a>

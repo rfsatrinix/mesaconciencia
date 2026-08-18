@@ -64,4 +64,8 @@ A mí me parece que la segunda explicación es la más probable: no que el silic
 
 ---
 
-*Fuentes: <a href="https://pubmed.ncbi.nlm.nih.gov/17435952/" target="_blank" rel="noopener noreferrer">Jugdaohsingh R. Silicon and bone health. J Nutr Health Aging. 2007;11(2):99–110.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/22119326/" target="_blank" rel="noopener noreferrer">Macdonald HM et al. Dietary silicon interacts with oestrogen to influence bone density. Bone. 2012;50(3):681–7.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/19505335/" target="_blank" rel="noopener noreferrer">Sripanyakorn S et al. The comparative absorption of silicon from different foods and food supplements. Br J Nutr. 2009;102(6):825–34.</a>*
+## Referencias
+
+- <a href="https://pubmed.ncbi.nlm.nih.gov/17435952/" target="_blank" rel="noopener noreferrer">Jugdaohsingh R. Silicon and bone health. J Nutr Health Aging. 2007;11(2):99–110.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/22119326/" target="_blank" rel="noopener noreferrer">Macdonald HM et al. Dietary silicon interacts with oestrogen to influence bone density. Bone. 2012;50(3):681–7.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/19505335/" target="_blank" rel="noopener noreferrer">Sripanyakorn S et al. The comparative absorption of silicon from different foods and food supplements. Br J Nutr. 2009;102(6):825–34.</a>

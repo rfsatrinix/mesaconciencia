@@ -6,11 +6,11 @@ draft: false
 date: 2026-07-03
 ---
 
-El **calcio** es el [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano: un adulto contiene entre 1.000 y 1.200 gramos. El **99 % está en huesos y dientes**, donde forma la red cristalina de calcio y [fósforo](/nutricion/micronutrientes/minerales/fosforo) que da dureza y resistencia al tejido óseo —la **hidroxiapatita**—. El 1 % restante circula en sangre y tejidos blandos, donde tu organismo lo usa para procesos que no toleran fluctuaciones: la contracción muscular, la transmisión nerviosa y la coagulación sanguínea. Esas funciones son tan prioritarias que cuando tu ingesta de calcio cae, tu organismo extrae calcio del hueso para mantener los niveles en sangre dentro del rango fisiológico, aunque eso signifique debilitar el esqueleto progresivamente.
+El **calcio** es el [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano: tu cuerpo contiene entre 1.000 y 1.200 gramos. El **99 % está en huesos y dientes**, donde forma la red cristalina de calcio y [fósforo](/nutricion/micronutrientes/minerales/fosforo) que da dureza y resistencia al tejido óseo —la **hidroxiapatita**—. El 1 % restante circula en sangre y tejidos blandos, donde tu organismo lo usa para procesos que no toleran fluctuaciones: la contracción muscular, la transmisión nerviosa y la coagulación sanguínea. Esas funciones son tan prioritarias que cuando tu ingesta de calcio cae, tu organismo extrae calcio del hueso para mantener los niveles en sangre dentro del rango fisiológico, aunque eso signifique debilitar el esqueleto progresivamente.
 
 ## ¿Para qué sirve el calcio?
 
-**Estructura ósea y dental.** El calcio, junto con el fósforo, forma la hidroxiapatita —la red cristalina que da al hueso su dureza y resistencia—. Durante los primeros 25–30 años de vida el hueso acumula calcio neto; después, empieza a cederlo lentamente si la ingesta no lo repone.
+**Estructura ósea y dental.** El calcio, junto con el fósforo, forma la hidroxiapatita que da al hueso su dureza y resistencia. Durante los primeros 25–30 años de vida el hueso acumula calcio neto; después, empieza a cederlo lentamente si la ingesta no lo repone.
 
 **Contracción muscular.** El calcio intracelular desencadena el deslizamiento de las fibras de actina y miosina en el músculo esquelético, el cardíaco y la musculatura de los vasos sanguíneos y el tubo digestivo —el **músculo liso**—.
 
@@ -19,6 +19,8 @@ El **calcio** es el [mineral](/nutricion/micronutrientes/minerales) más abundan
 **Coagulación sanguínea.** El calcio actúa como cofactor en al menos cuatro etapas de la secuencia de reacciones enzimáticas que convierte la sangre líquida en coágulo —la **cascada de coagulación**—.
 
 **Señalización celular.** Los cambios en la concentración de calcio dentro de la célula son una de las señales intracelulares más utilizadas por las hormonas y los factores de crecimiento para activar respuestas en el interior celular.
+
+> La señal nerviosa, la contracción muscular, la coagulación. Ninguna puede esperar al próximo vaso de leche.
 
 ## Cómo regula tu organismo el calcio en sangre
 
@@ -43,16 +45,18 @@ Tus necesidades de calcio varían considerablemente según la edad y el momento 
 | Hombres >65 años | 1.150 mg/día |
 | Embarazo y lactancia | 950–1.000 mg/día |
 
-La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la adolescencia, el hueso crece y se mineraliza a máxima velocidad —es la etapa en que se construye la mayor parte del capital óseo de toda la vida—. En la posmenopausia, la caída de estrógenos acelera la pérdida ósea y la PTH trabaja con más intensidad, consumiendo reservas del hueso si la ingesta no las repone.
+*Fuente: EFSA 2015.*
+
+La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la adolescencia, el hueso crece y se mineraliza a máxima velocidad —es la etapa en que construyes la mayor parte del capital óseo de tu vida—. En la posmenopausia, la caída de estrógenos acelera la pérdida ósea y la PTH trabaja con más intensidad, consumiendo reservas del hueso si la ingesta no las repone.
 
 ## Fuentes alimentarias de calcio
 
-| Alimento | Calcio por 100 g |
+| Alimento | Calcio por cada 100 g |
 |---|---|
 | Queso parmesano | 1.184 mg |
 | Queso manchego curado | 756 mg |
 | Sardinas en conserva (con espinas) | 382 mg |
-| Almendras | 269 mg |
+| [Almendras](/alimentos/frutos-secos/almendra) | 269 mg |
 | Bebida de [soja](/alimentos/legumbres/soja) enriquecida | 120 mg |
 | Leche entera | 119 mg |
 | Yogur natural | 110 mg |
@@ -60,7 +64,7 @@ La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la 
 | Espinacas cocidas | 99 mg |
 | Brócoli cocido | 44 mg |
 
-*Fuente: BEDCA; USDA FoodData Central.*
+*Valores aproximados. Fuente: BEDCA; USDA FoodData Central.*
 
 El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las espinacas, las acelgas y la remolacha contienen los ácidos orgánicos que se unen al calcio en el intestino y forman complejos insolubles que no se pueden absorber —los **oxalatos**—, lo que reduce su biodisponibilidad a menos del 5 %. El brócoli, el kale y el bok choy alcanzan una biodisponibilidad del 50–60 %, comparable o superior a la de la leche, precisamente porque contienen muy pocos oxalatos.
 
@@ -68,7 +72,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 **Factores que la mejoran:**
 
-**[Vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d).** Es el regulador principal de la absorción intestinal activa de calcio. Sin niveles adecuados de esta vitamina, tu intestino no puede captar el calcio de forma eficiente, aunque lo ingieras en cantidad suficiente.
+**Vitamina D.** Es el regulador principal de la absorción intestinal activa de calcio. Sin niveles adecuados de esta vitamina, tu intestino no puede captar el calcio de forma eficiente, aunque lo ingieras en cantidad suficiente.
 
 **Acidez gástrica.** El calcio se disuelve y se absorbe mejor en medio ácido. Los medicamentos que reducen el ácido del estómago para tratar la acidez o el reflujo —el omeprazol y sus equivalentes— reducen la absorción de calcio con el uso prolongado.
 
@@ -88,7 +92,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 Si sigues una dieta vegana, puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
 
-**Bebidas vegetales enriquecidas.** Las de soja, avena y [almendra](/alimentos/frutos-secos/almendra) aportan entre 120 y 150 mg de calcio por 100 mL cuando llevan sales cálcicas añadidas; sin enriquecimiento, su contenido es marginal.
+**Bebidas vegetales enriquecidas.** Las de soja, avena y almendra aportan entre 120 y 150 mg de calcio por 100 mL cuando llevan sales cálcicas añadidas; sin enriquecimiento, su contenido es marginal.
 
 **Tofu precipitado con sulfato cálcico o cloruro cálcico.** Aporta entre 100 y 200 mg por 100 g dependiendo de la firmeza —el tofu más firme concentra más calcio—.
 
@@ -102,7 +106,9 @@ Usar bebidas enriquecidas y remojar las legumbres son los dos ajustes con mayor 
 
 La deficiencia crónica de calcio conduce primero a una pérdida de densidad ósea que todavía no alcanza el umbral de la enfermedad —la **osteopenia**— y después a una situación en que los huesos se vuelven tan frágiles que una caída desde la propia altura puede provocar una fractura —la **osteoporosis**—. En personas mayores de 65 años, la fractura de cadera asociada a osteoporosis tiene una mortalidad al año de entre el 15 y el 30 %.
 
-El descenso brusco del calcio en sangre —la **hipocalcemia aguda**— produce síntomas neuromusculares rápidos: calambres, los hormigueos y adormecimientos de la sensibilidad —las **parestesias**— y, en casos graves, las contracciones musculares involuntarias y mantenidas que pueden afectar la respiración —la **tetania**—. Es una emergencia médica.
+> La osteoporosis no duele. Solo rompe.
+
+El descenso brusco del calcio en sangre —la **hipocalcemia aguda**— produce síntomas neuromusculares rápidos: calambres, hormigueos y adormecimientos de la sensibilidad —las **parestesias**— y, en casos graves, las contracciones musculares involuntarias y mantenidas que pueden afectar la respiración —la **tetania**—. Es una emergencia médica.
 
 El exceso de calcio en sangre causado por la suplementación excesiva —la **hipercalcemia**— puede causar cálculos renales, estreñimiento y, en casos severos, calcificación de tejidos blandos. La EFSA fija el límite superior tolerable en **2.500 mg/día**; ese umbral incluye la suma de calcio dietético y suplementario, no solo los suplementos.
 
@@ -112,4 +118,6 @@ El calcio es el único macromineral cuya deficiencia deja una huella que no se p
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4101" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for calcium. EFSA Journal. 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4101" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for calcium. EFSA Journal. 2015.</a>

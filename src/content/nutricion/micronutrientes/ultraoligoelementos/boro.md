@@ -64,4 +64,7 @@ Creo que el boro no actúa como un nutriente en el sentido clásico, sino como u
 
 ---
 
-*Fuentes: <a href="https://pubmed.ncbi.nlm.nih.gov/2932210/" target="_blank" rel="noopener noreferrer">Nielsen FH et al. Effect of dietary boron on mineral, estrogen, and testosterone metabolism in postmenopausal women. FASEB J. 1987.</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK222301/" target="_blank" rel="noopener noreferrer">Institute of Medicine. Dietary Reference Intakes for Boron. National Academies Press, 2001.</a>*
+## Referencias
+
+- <a href="https://pubmed.ncbi.nlm.nih.gov/2932210/" target="_blank" rel="noopener noreferrer">Nielsen FH et al. Effect of dietary boron on mineral, estrogen, and testosterone metabolism in postmenopausal women. FASEB J. 1987.</a>
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK222301/" target="_blank" rel="noopener noreferrer">Institute of Medicine. Dietary Reference Intakes for Boron. National Academies Press, 2001.</a>

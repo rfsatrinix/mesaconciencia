@@ -18,9 +18,9 @@ El PPT actúa como cofactor de cuatro complejos enzimáticos con funciones concr
 
 **Alfa-cetoglutarato deshidrogenasa.** Cataliza un paso dentro del propio ciclo de Krebs: convierte el alfa-cetoglutarato —un intermediario del ciclo— en succinil-CoA. Su bloqueo detiene el ciclo a mitad del recorrido.
 
-**Transcetolasa.** Opera en la ruta metabólica que, en paralelo a la glucólisis, produce los materiales para construir ADN y ARN —la **vía de las pentosas fosfato**—. Esta ruta genera un transportador de electrones esencial para la síntesis de ácidos grasos y para la defensa antioxidante de la célula —el **NADPH**— y el azúcar que forma la columna vertebral del ADN y el ARN —la **ribosa-5-fosfato**—. La actividad de la transcetolasa en los glóbulos rojos —los **eritrocitos**— es la prueba funcional estándar para valorar el estado de tiamina en tu organismo.
+**Transcetolasa.** Opera en la ruta metabólica que, en paralelo a la glucólisis, produce los materiales para construir ADN y ARN —la **vía de las pentosas fosfato**—. Esta ruta genera dos productos clave: la **nicotinamida adenina dinucleótido fosfato** (NADPH), un transportador de electrones esencial para la síntesis de ácidos grasos y la defensa antioxidante de la célula, y la **ribosa-5-fosfato**, el azúcar que forma la columna vertebral del ADN y el ARN. La actividad de la transcetolasa en los glóbulos rojos —los **eritrocitos**— es la prueba funcional estándar para valorar el estado de tiamina en tu organismo.
 
-**BCKDH (deshidrogenasa de cetoácidos de cadena ramificada).** Degrada los cetoácidos derivados de los aminoácidos de cadena ramificada [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina) y [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina). Es la misma enzima cuya mutación genética causa la enfermedad de la orina con olor a jarabe de arce (MSUD).
+**Deshidrogenasa de cetoácidos de cadena ramificada (BCKDH).** Degrada los cetoácidos derivados de los aminoácidos de cadena ramificada [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina) y [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina). Es la misma enzima cuya mutación genética causa la enfermedad de la orina con olor a jarabe de arce (MSUD).
 
 La tiamina tiene además un papel en las membranas de las prolongaciones de las neuronas que conducen el impulso nervioso —los **axones**—, independiente de su función como cofactor. Este papel explica por qué la deficiencia afecta al sistema nervioso incluso antes de que los marcadores metabólicos se alteren de forma significativa.
 
@@ -41,6 +41,8 @@ La EFSA establece la ingesta de tiamina en función del gasto energético: **0,1
 | Niños 7–14 | 0,6–0,9 mg/día |
 | Niños 1–6 | 0,4–0,5 mg/día |
 
+*Fuente: EFSA 2016.*
+
 No existe un nivel máximo tolerable establecido para la tiamina: es hidrosoluble y el exceso que no utilizas se excreta por la orina sin efectos adversos conocidos.
 
 ## Fuentes alimentarias de tiamina
@@ -49,22 +51,22 @@ La tiamina se concentra en el salvado y el germen de los cereales, en las [legum
 
 | Alimento | Tiamina por cada 100 g |
 |---|---|
-| Germen de trigo | ~1,9 mg |
-| Semillas de girasol (crudas) | ~1,5 mg |
-| Lomo de cerdo (cocido) | ~0,9 mg |
-| Copos de avena (crudos) | ~0,8 mg |
-| Pan integral | ~0,3 mg |
-| Arroz integral cocido | ~0,2 mg |
-| Guisantes cocidos | ~0,2 mg |
-| Lentejas cocidas | ~0,2 mg |
-| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,1 mg |
-| Arroz blanco cocido | ~0,02 mg |
+| Germen de trigo | 1,9 mg |
+| Semillas de girasol (crudas) | 1,5 mg |
+| Lomo de cerdo (cocido) | 0,9 mg |
+| Copos de avena (crudos) | 0,8 mg |
+| Pan integral | 0,3 mg |
+| Arroz integral cocido | 0,2 mg |
+| Guisantes cocidos | 0,2 mg |
+| Lentejas cocidas | 0,2 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,1 mg |
+| Arroz blanco cocido | 0,02 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
 La diferencia entre el arroz integral y el arroz blanco es la misma que causó décadas de beriberi en Asia: el proceso de pulido elimina el salvado y el germen, donde reside la práctica totalidad de la tiamina del grano.
 
-El arroz blanco que llega a la mesa conserva menos del 10 % de la tiamina original.
+> El arroz blanco que llega a la mesa conserva menos del 10 % de la tiamina original.
 
 ## Qué destruye la tiamina en la dieta
 
@@ -92,6 +94,8 @@ El **beriberi infantil** ocurre en lactantes amamantados por madres con déficit
 
 La resolución histórica del problema fue accidental. En 1884, el médico naval japonés Kanehiro Takaki eliminó el beriberi de la flota imperial sustituyendo parte del arroz blanco por cebada y añadiendo más proteína a la dieta de los marineros, décadas antes de que se identificara la tiamina como causa.
 
+> Takaki eliminó el beriberi de la flota imperial japonesa décadas antes de que alguien supiera que la tiamina existía.
+
 ## Síndrome de Wernicke-Korsakoff: el déficit en la sociedad moderna
 
 El equivalente contemporáneo del beriberi en países industrializados no ocurre por escasez de arroz integral: ocurre por alcoholismo crónico. El alcohol bloquea la absorción de tiamina, acelera su degradación y va acompañado con frecuencia de una dieta escasa en [micronutrientes](/nutricion/micronutrientes). El resultado es el síndrome de Wernicke-Korsakoff, una de las urgencias neurológicas más subdiagnosticadas.
@@ -102,7 +106,7 @@ Es una emergencia médica: el tratamiento es tiamina intravenosa inmediata, y de
 
 **Psicosis de Korsakoff.** Es la fase crónica. Si la encefalopatía de Wernicke no se trata a tiempo, el 80 % de los casos progresa a psicosis de Korsakoff: la incapacidad para formar nuevos recuerdos —la **amnesia anterógrada grave**— junto con la tendencia a construir recuerdos ficticios para cubrir los huecos de memoria sin ser consciente de hacerlo —la **confabulación**—.
 
-El daño es, en su mayor parte, irreversible.
+> El daño es, en su mayor parte, irreversible.
 
 Para mí, que el síndrome de Wernicke-Korsakoff siga siendo uno de los más subdiagnosticados en urgencias no se debe a que sea difícil de tratar, sino a que pocas personas piensan en una vitamina cuando ven a alguien confuso.
 
@@ -124,4 +128,7 @@ La tiamina fue la primera vitamina que el ser humano aisló y la que dio nombre 
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4532" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for thiamine. EFSA Journal. 2016.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/26772441/" target="_blank" rel="noopener noreferrer">Latt N, Dore G. Thiamine in the treatment of Wernicke encephalopathy in patients with alcohol use disorders. Intern Med J. 2014.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4532" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for thiamine. EFSA Journal. 2016.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/26772441/" target="_blank" rel="noopener noreferrer">Latt N, Dore G. Thiamine in the treatment of Wernicke encephalopathy in patients with alcohol use disorders. Intern Med J. 2014.</a>

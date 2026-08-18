@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El potasio es el [mineral](/nutricion/micronutrientes/minerales) más abundante dentro de las células: un adulto contiene entre 100 y 150 gramos, y el **98 % se encuentra en el interior celular**. Su concentración dentro de la célula —140 mmol/L— es 35 veces mayor que fuera —4 mmol/L—, y esa diferencia no es accidental: tu cuerpo la mantiene activamente mediante la proteína de membrana que bombea 3 iones de [sodio](/nutricion/micronutrientes/minerales/sodio) hacia fuera y mete 2 de potasio hacia dentro en cada ciclo, consumiendo ATP en cada vuelta —la **bomba sodio-potasio** (Na⁺/K⁺-ATPasa)—.
+El potasio es el [mineral](/nutricion/micronutrientes/minerales) más abundante dentro de las células: tu cuerpo contiene entre 100 y 150 gramos, y el **98 % se encuentra en el interior celular**. Su concentración dentro de la célula —140 mmol/L— es 35 veces mayor que fuera —4 mmol/L—, y esa diferencia no es accidental: tu cuerpo la mantiene activamente mediante la proteína de membrana que bombea 3 iones de [sodio](/nutricion/micronutrientes/minerales/sodio) hacia fuera y mete 2 de potasio hacia dentro en cada ciclo, consumiendo ATP en cada vuelta —la **bomba sodio-potasio** (Na⁺/K⁺-ATPasa)—.
 
 > Sin esa diferencia de concentración, ningún nervio podría disparar un impulso ni ningún músculo podría contraerse.
 
@@ -19,6 +19,8 @@ El potasio es el [mineral](/nutricion/micronutrientes/minerales) más abundante 
 **Contracción muscular y ritmo cardíaco.** El [calcio](/nutricion/micronutrientes/minerales/calcio) desencadena la contracción muscular, pero el potasio controla la repolarización que permite al músculo relajarse y prepararse para la siguiente contracción. En el músculo cardíaco, la forma de la curva de repolarización —y por tanto la duración del latido— depende directamente del potasio disponible. Un desequilibrio de potasio en sangre es uno de los factores más frecuentes de arritmia cardíaca.
 
 **Regulación de la presión arterial.** El potasio actúa sobre la presión arterial por dos mecanismos simultáneos: estimula la excreción renal de sodio —el riñón intercambia potasio por sodio en sus túbulos internos, aumentando la eliminación del exceso de sal— y relaja el músculo liso de las paredes arteriales, reduciendo la resistencia que los vasos ofrecen al paso de la sangre. La evidencia epidemiológica es robusta: cada aumento de 1.000 mg/día en la ingesta de potasio se asocia con una reducción de aproximadamente 1 mmHg en la presión sistólica.
+
+> El potasio baja la presión arterial de dos formas a la vez: empuja el sodio hacia la orina y relaja las paredes de las arterias.
 
 **Equilibrio ácido-base.** El potasio y los iones hidrógeno (H⁺) compiten por los mismos transportadores renales: cuando el pH de la sangre baja —acidosis—, el riñón excreta más H⁺ y retiene más potasio; cuando el pH sube —alcalosis—, la dirección se invierte. Esto explica por qué los vómitos repetidos —que eliminan ácido clorhídrico— o el uso de diuréticos —que incrementan la excreción de potasio— pueden alterar el equilibrio ácido-base y el potasio simultáneamente.
 
@@ -36,13 +38,15 @@ La EFSA ha establecido una ingesta adecuada (IA) de **3.500 mg/día** de potasio
 | Niños 4–6 años | 2.300 mg/día |
 | Niños 1–3 años | 800 mg/día |
 
+*Fuente: EFSA 2016.*
+
 La ingesta media en España y en la mayoría de los países europeos se sitúa entre 2.500 y 3.000 mg/día —hasta un 30 % por debajo de la referencia—. La EFSA no ha establecido un nivel máximo tolerable para el potasio de origen dietético, porque los riñones sanos excretan el exceso con gran eficiencia. La restricción de potasio solo es necesaria en personas con enfermedad renal crónica avanzada.
 
 ## Fuentes alimentarias de potasio
 
 El potasio está presente de forma natural en prácticamente todo lo que comes de origen vegetal, en concentraciones muy superiores a las del sodio. Las frutas, verduras, [legumbres](/alimentos/legumbres) y [frutos secos](/alimentos/frutos-secos) son las fuentes más ricas:
 
-| Alimento | Potasio por 100 g |
+| Alimento | Potasio por cada 100 g |
 |---|---|
 | Albaricoques secos | 1.160 mg |
 | Almendras | 733 mg |
@@ -54,7 +58,7 @@ El potasio está presente de forma natural en prácticamente todo lo que comes d
 | Atún (al natural) | 237 mg |
 | Leche entera | 150 mg |
 
-*Fuente: USDA FoodData Central; BEDCA.*
+*Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
 El método de cocción importa. La patata hervida en abundante líquido y sin piel pierde hasta el 50 % de su potasio, que se disuelve en el líquido de cocción. Cocinarla al horno o al vapor, con piel, conserva entre el 85 y el 95 % del potasio original. Lo mismo ocurre con las espinacas, el brócoli y otras verduras de hoja: el vapor o el salteado breve preservan más que el hervido prolongado.
 
@@ -82,4 +86,6 @@ La proporción potasio:sodio en la dieta de los humanos durante la mayor parte d
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4592" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for potassium. EFSA Journal. 2016.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2016.4592" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for potassium. EFSA Journal. 2016.</a>

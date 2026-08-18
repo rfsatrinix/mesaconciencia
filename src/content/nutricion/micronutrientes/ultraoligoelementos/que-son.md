@@ -65,4 +65,7 @@ La investigación dietética no avanza declarando esenciales a los candidatos an
 
 ## Referencias
 
-*Fuentes: <a href="https://iris.who.int/handle/10665/37931" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a> · <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values (lista completa de nutrientes con DRV establecido)</a>*
+## Referencias
+
+- <a href="https://iris.who.int/handle/10665/37931" target="_blank" rel="noopener noreferrer">WHO. Trace elements in human nutrition and health. World Health Organization, 1996.</a>
+- <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values (lista completa de nutrientes con DRV establecido)</a>

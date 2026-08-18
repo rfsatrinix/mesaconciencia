@@ -10,7 +10,7 @@ La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina
 
 ## ¿Para qué sirve la vitamina C?
 
-**Síntesis de colágeno.** El colágeno es la proteína más abundante del cuerpo: forma la estructura mecánica de la piel, los tendones, los ligamentos, el cartílago, los huesos y las paredes de los vasos sanguíneos. Para fabricarlo, tu organismo ensambla primero cadenas de la versión inmadura que aún no ha tomado su forma final —el **procolágeno**—. Dos enzimas que añaden un grupo químico (hidroxilo) a los aminoácidos de cada cadena —la **prolil hidroxilasa** y la **lisil hidroxilasa**— permiten que las tres cadenas se retuerzan entre sí formando la estructura rígida que caracteriza al colágeno maduro —la **triple hélice**—. La vitamina C es el cofactor imprescindible para que esas dos enzimas funcionen; sin ella, las cadenas no pueden estabilizarse y la red de soporte estructural que une y sustenta todos los tejidos del cuerpo —el **tejido conjuntivo**— se desintegra progresivamente. Es la base molecular del escorbuto, la enfermedad que se describe en el apartado sobre deficiencia.
+**Síntesis de colágeno.** El colágeno es la proteína más abundante del cuerpo: forma la estructura mecánica de la piel, los tendones, los ligamentos, el cartílago, los huesos y las paredes de los vasos sanguíneos. Para fabricarlo, tu organismo ensambla primero cadenas de la versión inmadura que aún no ha tomado su forma final —el **procolágeno**—. Dos enzimas que añaden un grupo químico (hidroxilo) a los aminoácidos de cada cadena —la **prolil hidroxilasa** y la **lisil hidroxilasa**— permiten que las tres cadenas se retuerzan entre sí formando la estructura rígida que caracteriza al colágeno maduro —la **triple hélice**—. La vitamina C es el cofactor imprescindible para que esas dos enzimas funcionen; sin ella, las cadenas no pueden estabilizarse y la red de soporte estructural que une y sustenta todos los tejidos de tu cuerpo —el **tejido conjuntivo**— se desintegra progresivamente. Es la base molecular del escorbuto, la enfermedad que se describe en el apartado sobre deficiencia.
 
 **Antioxidante y regenerador.** La vitamina C es el antioxidante más importante de los que circulan disueltos en el plasma y en el líquido intracelular. Neutraliza las moléculas inestables con un electrón desapareado que dañan las membranas celulares, el ADN y otros componentes de la célula —los **radicales libres**— antes de que alcancen estructuras críticas. También regenera la [vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) oxidada —el principal antioxidante de las membranas lipídicas— devolviéndole su capacidad de protección: la vitamina E detiene la oxidación en las membranas; la vitamina C la restaura desde el compartimento acuoso.
 
@@ -18,7 +18,7 @@ La **vitamina C** —ácido ascórbico en su nombre químico— es una [vitamina
 
 **Sistema inmunitario.** Las células del sistema inmunitario —neutrófilos, linfocitos y macrófagos, agrupados bajo el nombre de **leucocitos**— concentran vitamina C en su interior a niveles entre 50 y 100 veces superiores a los del plasma. Esa acumulación activa la capacidad de los neutrófilos de desplazarse hasta el foco de infección —la **quimiotaxis**—, la fagocitosis y la producción de las moléculas de señalización que alertan a las células vecinas para que activen sus defensas —el **interferón**—. Durante una infección aguda, los niveles plasmáticos de vitamina C caen rápidamente porque los leucocitos la movilizan hacia los tejidos afectados.
 
-Cuatro funciones radicalmente distintas —estructura, protección, absorción y defensa—, la misma molécula detrás de todas.
+> Cuatro funciones radicalmente distintas —estructura, protección, absorción y defensa—, la misma molécula detrás de todas.
 
 ## ¿Cuánta vitamina C necesitas?
 
@@ -31,6 +31,8 @@ La EFSA establece valores diferenciados por sexo porque las mujeres tienen, en p
 | Embarazo | 105 mg/día |
 | Lactancia | 155 mg/día |
 
+*Fuente: EFSA 2013.*
+
 Si fumas, necesitas entre 35 y 40 mg adicionales diarios. El tabaco aumenta el estrés oxidativo sistémico y acelera el recambio metabólico de la vitamina C: los fumadores habituales tienen niveles plasmáticos entre un 25 y un 40 % inferiores a los de no fumadores con la misma ingesta dietética.
 
 La absorción de vitamina C no es lineal. Por debajo de 200 mg al día, el intestino absorbe entre el 80 y el 90 % de lo ingerido. A 1 000 mg, la absorción cae al 50 %. A dosis superiores a 2 000 mg, solo entra alrededor del 20 % y el riñón elimina el exceso en pocas horas. La EFSA establece un umbral orientativo de 1 000 mg/día; por encima, el primer límite práctico es el efecto laxante que se produce cuando el exceso de vitamina C no absorbida atrae líquido hacia el intestino —la **diarrea osmótica**— antes que cualquier riesgo metabólico establecido.
@@ -41,21 +43,21 @@ Los pimientos crudos y algunas frutas tropicales son las fuentes más concentrad
 
 | Alimento | Vitamina C por cada 100 g |
 |---|---|
-| Acerola (cruda) | ~1 677 mg |
-| Escaramujo (fresco) | ~426 mg |
-| Pimiento rojo crudo | ~190 mg |
-| Kiwi | ~93 mg |
-| Brócoli cocido | ~65 mg |
-| Fresa | ~59 mg |
-| Naranja | ~53 mg |
-| Espinaca cruda | ~28 mg |
-| Espinaca cocida | ~10 mg |
+| Acerola (cruda) | 1677 mg |
+| Escaramujo (fresco) | 426 mg |
+| Pimiento rojo crudo | 190 mg |
+| Kiwi | 93 mg |
+| Brócoli cocido | 65 mg |
+| Fresa | 59 mg |
+| Naranja | 53 mg |
+| Espinaca cruda | 28 mg |
+| Espinaca cocida | 10 mg |
 
-*Fuente: BEDCA; USDA FoodData Central.*
+*Valores aproximados. Fuente: BEDCA; USDA FoodData Central.*
 
 La vitamina C es termolábil, oxidable y fotosensible. La cocción por inmersión destruye entre el 40 y el 80 % del contenido —parte se oxida por el calor, parte migra al líquido de cocción—; el vapor y el microondas sin líquido añadido conservan mejor el contenido. Almacenar verduras a temperatura ambiente durante días también reduce el aporte: las espinacas pierden hasta la mitad de su vitamina C en 48 horas fuera del refrigerador.
 
-Dos porciones diarias de fruta fresca y una de verdura cubren tu ingesta de referencia sin dificultad: 200 g de kiwi —dos piezas medianas— aportan ~186 mg; medio pimiento rojo crudo aporta ~95 mg.
+Dos porciones diarias de fruta fresca y una de verdura cubren tu ingesta de referencia sin dificultad: 200 g de kiwi —dos piezas medianas— aportan unos 186 mg; medio pimiento rojo crudo aporta unos 95 mg.
 
 ## La vitamina C y el hierro: una sinergia práctica
 
@@ -65,7 +67,7 @@ El efecto requiere simultaneidad: la reducción de Fe³⁺ a Fe²⁺ ocurre en e
 
 En la práctica: añadir pimiento rojo, kiwi o zumo de limón a una ensalada de lentejas o a un plato de espinacas multiplica el hierro disponible sin cambios en la receta más allá de esa adición. Es especialmente relevante en dietas vegetarianas y veganas, donde el hierro vegetal es la única fuente.
 
-El zumo de limón sobre las lentejas no es un truco de cocina: es química aplicada.
+> El zumo de limón sobre las lentejas no es un truco de cocina: es química aplicada.
 
 ## ¿Qué ocurre si falta vitamina C?
 
@@ -75,7 +77,7 @@ En las primeras semanas con una ingesta inferior a 10 mg/día —frente a los 95
 
 James Lind demostró en 1747 —en lo que se considera el primer ensayo clínico controlado de la historia moderna— que los limones y las naranjas revertían el escorbuto en marineros a bordo del HMS Salisbury en menos de dos semanas. Sus conclusiones tardaron décadas en traducirse en política naval. La Royal Navy no adoptó el suministro obligatorio de zumo de limón hasta 1795. Durante ese intervalo, el escorbuto siguió siendo la causa más letal del mar.
 
-Hoy la deficiencia grave es excepcional, pero la deficiencia subclínica —niveles por debajo del óptimo sin escorbuto clínico— persiste en grupos concretos:
+Hoy la deficiencia grave es excepcional, pero la deficiencia subclínica —niveles por debajo del óptimo sin escorbuto clínico— persiste en algunos grupos:
 
 **Fumadores habituales.** Los niveles plasmáticos son sistemáticamente más bajos incluso con la misma ingesta dietética, porque el tabaco consume la vitamina C en las reacciones oxidativas que genera.
 
@@ -91,7 +93,7 @@ En 1970, Linus Pauling —dos veces premio Nobel, en Química y en Paz— public
 
 La conclusión del análisis Cochrane más actualizado (más de 11 000 participantes): la suplementación regular con vitamina C **no reduce la incidencia de resfriados** en la población general. Sí reduce la duración media: aproximadamente un 8 % en adultos y un 14 % en niños —equivalente a medio día menos de síntomas en un resfriado típico de seis días—. En grupos bajo estrés físico extremo —corredores de maratón, soldados en condiciones subárticas, esquiadores de fondo— la suplementación previa sí reduce la incidencia a la mitad.
 
-La vitamina C no previene el resfriado en condiciones habituales. Puede acortarlo ligeramente. En situaciones de estrés físico extremo, puede reducir la probabilidad de contraerlo.
+> La vitamina C no previene el resfriado en condiciones habituales. Puede acortarlo ligeramente. En situaciones de estrés físico extremo, puede reducir la probabilidad de contraerlo.
 
 ## ¿Necesitas suplementar?
 
@@ -113,4 +115,7 @@ Que el ser humano sea uno de los poquísimos mamíferos que no puede sintetizar 
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3418" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin C. EFSA Journal. 2013.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/23440782/" target="_blank" rel="noopener noreferrer">Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. 2013.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3418" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for vitamin C. EFSA Journal. 2013.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/23440782/" target="_blank" rel="noopener noreferrer">Hemilä H, Chalker E. Vitamin C for preventing and treating the common cold. Cochrane Database Syst Rev. 2013.</a>

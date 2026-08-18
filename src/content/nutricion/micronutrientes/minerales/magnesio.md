@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El magnesio es el cuarto [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano y el segundo más abundante dentro de las células, después del [potasio](/nutricion/micronutrientes/minerales/potasio): un adulto contiene entre 20 y 28 gramos, de los cuales el **60 % está en los huesos**, el 39 % en el músculo y otros tejidos blandos, y solo el 1 % circula en la sangre. Ese 1 % no refleja el estado real de tus reservas: cuando tu ingesta cae, tu organismo extrae magnesio de los huesos y los músculos para mantener el nivel en sangre dentro del rango normal, de modo que un análisis de sangre rutinario puede mostrarte resultados normales mientras tus tejidos acumulan déficit.
+El magnesio es el cuarto [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano y el segundo más abundante dentro de las células, después del [potasio](/nutricion/micronutrientes/minerales/potasio): tu cuerpo contiene entre 20 y 28 gramos, de los cuales el **60 % está en los huesos**, el 39 % en el músculo y otros tejidos blandos, y solo el 1 % circula en la sangre. Ese 1 % no refleja el estado real de tus reservas: cuando tu ingesta cae, tu organismo extrae magnesio de los huesos y los músculos para mantener el nivel en sangre dentro del rango normal, de modo que un análisis de sangre rutinario puede mostrarte resultados normales mientras tus tejidos acumulan déficit.
 
 ## ¿Para qué sirve el magnesio?
 
@@ -43,6 +43,8 @@ La EFSA ha establecido ingestas adecuadas (IA) —no requerimientos medios, porq
 | Niños 4–6 años | 170 mg/día |
 | Niños 1–3 años | 160 mg/día |
 
+*Fuente: EFSA 2015.*
+
 La ingesta media en la mayoría de los países europeos se sitúa entre 260 y 320 mg/día —por debajo de la referencia para los hombres y en el límite para las mujeres—. El magnesio es uno de los minerales con mayor prevalencia de insuficiencia crónica subclínica en dietas occidentales.
 
 La EFSA no ha establecido un nivel máximo tolerable para el magnesio que viene de la dieta, porque la absorción intestinal se autorregula y el riñón excreta el exceso con eficiencia. Los suplementos son una excepción: dosis superiores a **250 mg/día de magnesio suplementario** retienen líquido en el colon —un efecto osmótico— y causan diarrea y malestar digestivo.
@@ -53,7 +55,7 @@ El magnesio ocupa el centro de cada molécula del pigmento que da color verde a 
 
 Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-secos), cacao y [legumbres](/alimentos/legumbres):
 
-| Alimento | Magnesio por 100 g |
+| Alimento | Magnesio por cada 100 g |
 |---|---|
 | Semillas de calabaza | 550 mg |
 | Cacao puro en polvo | 499 mg |
@@ -66,7 +68,7 @@ Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-s
 | Arroz integral cocido | 44 mg |
 | Lentejas cocidas | 36 mg |
 
-*Fuente: USDA FoodData Central; BEDCA.*
+*Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
 Las semillas de calabaza tienen la concentración más alta, pero se consumen en pequeñas cantidades. En la práctica, los frutos secos consumidos a diario —almendras, anacardos— junto con la presencia regular de legumbres y cereales integrales son los ajustes con mayor impacto sostenido sobre tu ingesta de magnesio.
 
@@ -78,11 +80,13 @@ Tres factores reducen la absorción:
 
 Los compuestos que almacenan fósforo en la capa exterior de los cereales y las legumbres sin procesar, y que el intestino no puede digerir directamente —los **fitatos**—, forman complejos con el magnesio e impiden su absorción. El remojo y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el magnesio para su absorción.
 
-Los ácidos orgánicos presentes en espinacas, acelgas y remolacha —los **oxalatos**— se unen al magnesio en el intestino y reducen su biodisponibilidad, aunque el efecto es menor que con el [calcio](/nutricion/micronutrientes/minerales/calcio).
+Los ácidos orgánicos presentes en espinacas, acelgas y remolacha —los **oxalatos**— se unen al magnesio en el intestino y reducen su biodisponibilidad, aunque el efecto es menor que con el calcio.
 
-Las ingestas muy elevadas de [fósforo](/nutricion/micronutrientes/minerales/fosforo) y calcio compiten con el magnesio por los mismos transportadores intestinales.
+Las ingestas muy elevadas de fósforo y calcio compiten con el magnesio por los mismos transportadores intestinales.
 
 La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— estimula la expresión de los canales de magnesio en el intestino delgado y potencia su absorción, igual que hace con el calcio y el fósforo.
+
+> Tu intestino puede absorber entre el 20 y el 80 % del magnesio ingerido. La diferencia la marca cuánto queda ya en tus reservas.
 
 ## ¿Qué ocurre si falta magnesio?
 
@@ -110,4 +114,6 @@ Cada molécula de clorofila que da color verde a las plantas lleva un átomo de 
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4186" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for magnesium. EFSA Journal. 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4186" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for magnesium. EFSA Journal. 2015.</a>

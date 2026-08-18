@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): un adulto contiene entre 700 y 800 gramos, de los cuales el **85 % está en huesos y dientes** formando la red cristalina de calcio y fosfato que da rigidez al tejido óseo —la **hidroxiapatita**—. El 15 % restante no está inerte: se distribuye en todas las células del organismo como parte del ATP, el ADN, el ARN y las membranas celulares. Mientras el calcio puede llegar a ser insuficiente con una dieta poco variada, es prácticamente imposible que te falte fósforo si te alimentas con normalidad, porque está presente en prácticamente cualquier dieta mínimamente variada.
+El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): tu cuerpo contiene entre 700 y 800 gramos, de los cuales el **85 % está en huesos y dientes** formando la red cristalina de calcio y fosfato que da rigidez al tejido óseo —la **hidroxiapatita**—. El 15 % restante no está inerte: se distribuye en todas las células del organismo como parte del ATP, el ADN, el ARN y las membranas celulares. Mientras el calcio puede llegar a ser insuficiente con una dieta poco variada, es prácticamente imposible que te falte fósforo si te alimentas con normalidad, porque está presente en prácticamente cualquier dieta mínimamente variada.
 
 ## ¿Para qué sirve el fósforo?
 
@@ -36,6 +36,8 @@ La EFSA ha establecido ingestas de referencia (PRI) basadas en el consumo observ
 | Niños (4–10 años) | 440 mg/día |
 | Niños (1–3 años) | 400 mg/día |
 
+*Fuente: EFSA 2015.*
+
 La adolescencia requiere ingestas más altas porque el esqueleto crece a máxima velocidad y demanda fósforo para mineralizar el hueso nuevo. En adultos, la ingesta media europea está entre 1.000 y 1.500 mg/día —el doble de la referencia—, lo que hace que la deficiencia sea excepcional en poblaciones con acceso alimentario normal.
 
 El nivel máximo tolerable establecido por la EFSA es de **3.000 mg/día**. Por encima de esa cifra, la sobrecarga de fosfato puede alterar la regulación hormonal del calcio y comprometer la salud ósea y cardiovascular.
@@ -44,7 +46,7 @@ El nivel máximo tolerable establecido por la EFSA es de **3.000 mg/día**. Por 
 
 El fósforo está presente en cantidades relevantes en prácticamente todo lo que comes si tu dieta incluye [proteínas](/nutricion/macronutrientes/proteinas) o [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono). Las fuentes con mayor concentración son:
 
-| Alimento | Fósforo por 100 g |
+| Alimento | Fósforo por cada 100 g |
 |---|---|
 | Semillas de calabaza | 1.230 mg |
 | Queso parmesano | 694 mg |
@@ -56,7 +58,7 @@ El fósforo está presente en cantidades relevantes en prácticamente todo lo qu
 | Lentejas cocidas | 180 mg |
 | Leche entera | 93 mg |
 
-*Fuente: USDA FoodData Central; BEDCA.*
+*Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
 El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que almacenan fósforo en el grano o la semilla y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo, mejorando su disponibilidad. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
 
@@ -64,13 +66,13 @@ Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola 
 
 ## La absorción del fósforo
 
-La absorción intestinal del fósforo oscila entre el 40 y el 70 % del fósforo dietético convencional. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— estimula la expresión de los transportadores de fosfato en el intestino y potencia su absorción, igual que hace con el [calcio](/nutricion/micronutrientes/minerales/calcio).
+La absorción intestinal del fósforo oscila entre el 40 y el 70 % del fósforo dietético convencional. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— estimula la expresión de los transportadores de fosfato en el intestino y potencia su absorción, igual que hace con el calcio.
 
 Tres hormonas regulan los niveles de fosfato en sangre:
 
 La hormona que las glándulas paratiroides secretan cuando el calcio en sangre baja —la **hormona paratiroidea** (PTH)— reduce la reabsorción de fosfato en el riñón cuando el calcio en sangre es bajo, aumentando su excreción urinaria.
 
-El factor de crecimiento que las células maduras del hueso secretan cuando detectan que el fosfato en sangre es alto —el **FGF23** o factor de crecimiento fibroblástico 23— inhibe la reabsorción renal de fosfato y reduce la activación de la vitamina D, frenando el aporte de nuevo fósforo desde el intestino.
+El factor de crecimiento que las células maduras del hueso secretan cuando detectan que el fosfato en sangre es alto —el **factor de crecimiento fibroblástico 23** (FGF23)— inhibe la reabsorción renal de fosfato y reduce la activación de la vitamina D, frenando el aporte de nuevo fósforo desde el intestino.
 
 El calcitriol estimula tanto la absorción intestinal de fósforo como su reabsorción renal.
 
@@ -84,6 +86,8 @@ El resultado es un sistema de retroalimentación preciso: cuando comes mucho fó
 
 **Si sobra:** El fosfato elevado en sangre —la **hiperfosfatemia**— es el escenario más relevante en la práctica clínica actual. Los riñones sanos excretan el exceso de fosfato con eficiencia, pero en la situación en que el riñón pierde progresivamente su capacidad de filtrar —la **enfermedad renal crónica**— esa capacidad de excreción falla: el fosfato se acumula en sangre, estimula la secreción de PTH y FGF23, acelera la pérdida de masa ósea y favorece la calcificación de las arterias. En pacientes renales, controlar la ingesta de fósforo —especialmente el procedente de aditivos alimentarios— es parte esencial del tratamiento.
 
+> En la enfermedad renal, el fósforo más peligroso es el que no aparece en la tabla nutricional.
+
 En personas con función renal normal, las ingestas habituales en la dieta occidental no producen daño demostrado, pero la proporción creciente de fósforo procedente de aditivos en los ultraprocesados hace que la ingesta real sea sistemáticamente más alta de lo que los estudios dietéticos estiman.
 
 Mi lectura es que el fósforo de los aditivos alimentarios es el punto ciego del sistema: no aparece cuantificado en el etiquetado, se absorbe al 80–100 % y puede deteriorar una función renal ya comprometida sin que el paciente lo sepa ni el médico lo detecte en la dieta.
@@ -92,4 +96,6 @@ El fósforo es el único macromineral del que la mayoría de las personas en pa�
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4185" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for phosphorus. EFSA Journal. 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2015.4185" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for phosphorus. EFSA Journal. 2015.</a>

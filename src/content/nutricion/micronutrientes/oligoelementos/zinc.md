@@ -10,7 +10,7 @@ El zinc es el segundo [oligoelemento](/nutricion/micronutrientes/oligoelementos)
 
 > El zinc no hace redox.
 
-El [cobre](/nutricion/micronutrientes/oligoelementos/cobre), el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y el [manganeso](/nutricion/micronutrientes/oligoelementos/manganeso) son indispensables precisamente porque cambian de estado de oxidación, pero ese mismo dinamismo genera radicales libres como subproducto inevitable. El zinc no. Puede integrarse en centros activos enzimáticos y en estructuras proteicas sin los riesgos oxidativos que acompañan a los metales redox. El resultado es que el zinc se ha convertido en el catalizador universal, en el andamiaje estructural y en el regulador intracelular de una fracción enorme del conjunto completo de [proteínas](/nutricion/macronutrientes/proteinas) que tu genoma es capaz de producir —el **proteoma** humano—: está presente en más de 700 proteínas distintas, de las cuales casi 300 son enzimas de todas las clases principales.
+El [cobre](/nutricion/micronutrientes/oligoelementos/cobre), el hierro y el [manganeso](/nutricion/micronutrientes/oligoelementos/manganeso) son indispensables precisamente porque cambian de estado de oxidación, pero ese mismo dinamismo genera radicales libres como subproducto inevitable. El zinc no. Puede integrarse en centros activos enzimáticos y en estructuras proteicas sin los riesgos oxidativos que acompañan a los metales redox. El resultado es que el zinc se ha convertido en el catalizador universal, en el andamiaje estructural y en el regulador intracelular de una fracción enorme del conjunto completo de [proteínas](/nutricion/macronutrientes/proteinas) que tu genoma es capaz de producir —el **proteoma** humano—: está presente en más de 700 proteínas distintas, de las cuales casi 300 son enzimas de todas las clases principales.
 
 ## ¿Cuánto zinc necesitas?
 
@@ -18,9 +18,11 @@ La EFSA, en su dictamen de 2014, adoptó un enfoque inusual para establecer las 
 
 | Ingesta de fitatos | Hombres adultos | Mujeres adultas |
 |---|---|---|
-| Baja (~300 mg/día) | 7,5 mg/día | 6,2 mg/día |
-| Moderada (~600 mg/día) | 9,4 mg/día | 7,5 mg/día |
-| Alta (~1.200 mg/día) | 11,0 mg/día | 9,0 mg/día |
+| Baja (300 mg/día) | 7,5 mg/día | 6,2 mg/día |
+| Moderada (600 mg/día) | 9,4 mg/día | 7,5 mg/día |
+| Alta (1.200 mg/día) | 11,0 mg/día | 9,0 mg/día |
+
+*Fuente: EFSA 2014. Los niveles de fitato son valores representativos.*
 
 El nivel máximo tolerable es de **25 mg/día** para adultos (EFSA). El Instituto de Medicina de EEUU establece su RDA en 11 mg/día para hombres y 8 mg/día para mujeres, con un UL más holgado de 40 mg/día. La diferencia entre los ULs refleja filosofías de evaluación de riesgo distintas: ambas organizaciones coinciden en que el riesgo principal del exceso de zinc es la interferencia con la absorción de cobre.
 
@@ -32,9 +34,11 @@ El zinc ejerce funciones biológicas en tres registros simultáneos que no tiene
 
 **Rol catalítico — ácido de Lewis en el sitio activo.** En los sitios activos de las enzimas, el Zn²⁺ actúa como una especie química que acepta pares de electrones de las moléculas cercanas, polarizando sus enlaces y activándolas para que reaccionen —lo que los químicos llaman un **ácido de Lewis**—. El ejemplo más estudiado es la enzima que convierte el CO₂ disuelto en los tejidos en bicarbonato para transportarlo en sangre —la **anhidrasa carbónica**—: el zinc en su centro activo activa una molécula de H₂O, convirtiéndola en la especie que ataca el CO₂ y produce bicarbonato —un **nucleófilo**—, a una velocidad de hasta un millón de moléculas por segundo. La enzima pancreática que libera aminoácidos del extremo de los péptidos durante la digestión —la **carboxipeptidasa A**— usa el mismo principio. La enzima que oxida el etanol en el hígado —la **alcohol deshidrogenasa**— lo convierte en el primer metabolito del alcohol, más tóxico que el etanol mismo y responsable del daño hepático del consumo crónico —el **acetaldehído**—; en la retina, esa misma enzima convierte la forma de almacenamiento de la [vitamina A](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-a) —el **retinol**— en la forma que los fotorreceptores necesitan para captar la luz —el **retinal**—. Las enzimas que degradan las proteínas de la red que rodea y sostiene las células en los tejidos —las **metaloproteasas de matriz** (MMPs)— regulan la remodelación tisular y la cicatrización; su desregulación está implicada en la invasión tumoral.
 
-**Rol estructural — dedos de zinc.** El dominio de unión al ADN más frecuente del genoma humano no es una hélice-giro-hélice ni una cremallera de aminoácidos cargados: es el **dedo de zinc** (*zinc finger*). Una pequeña región de la proteína se pliega en una geometría precisa cuando el Zn²⁺ se ancla a dos cisteínas y dos histidinas —cuatro aminoácidos que actúan como garfios de sujeción—. Sin el zinc, el dedo se despliega; con él, encaja en la ranura más accesible de la doble hélice del ADN, donde residen la mayoría de los sitios de reconocimiento de secuencia —el **surco mayor del ADN**—, y lee el código genético. Hay aproximadamente 700 proteínas de dedo de zinc en el genoma humano, incluyendo los receptores nucleares de las hormonas sexuales, del [yodo](/nutricion/micronutrientes/oligoelementos/yodo) (receptor de hormona tiroidea), de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los retinoides. Sin zinc, esos receptores no pueden leer su señal.
+**Rol estructural — dedos de zinc.** El dominio de unión al ADN más frecuente del genoma humano no es una hélice-giro-hélice ni una cremallera de aminoácidos cargados: es una pequeña región proteica que se pliega en una geometría precisa cuando el Zn²⁺ se ancla a dos cisteínas y dos histidinas —cuatro aminoácidos que actúan como garfios de sujeción—: el **dedo de zinc** (*zinc finger*). Sin el zinc, el dedo se despliega; con él, encaja en la ranura más accesible de la doble hélice del ADN, donde residen la mayoría de los sitios de reconocimiento de secuencia —el **surco mayor del ADN**—, y lee el código genético. Hay aproximadamente 700 proteínas de dedo de zinc en el genoma humano, incluyendo los receptores nucleares de las hormonas sexuales, del [yodo](/nutricion/micronutrientes/oligoelementos/yodo) (receptor de hormona tiroidea), de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los retinoides. Sin zinc, esos receptores no pueden leer su señal.
 
 **Rol regulador — señalización intracelular.** El zinc libre (Zn²⁺ no unido a proteína) funciona como mensajero intracelular en determinadas células. En las células del páncreas que sintetizan y almacenan la insulina —las **células beta**—, el zinc cocristaliza con la insulina en los gránulos de secreción y es cosecretado con ella. En las neuronas del hipocampo, algunas fibras liberan zinc junto con glutamato —el principal neurotransmisor excitador del cerebro—; ese zinc libre modula la actividad de un canal iónico que permite la entrada de calcio cuando la sinapsis se activa con suficiente intensidad, esencial para el aprendizaje y la memoria —el **receptor NMDA**—, y participa en la capacidad de las sinapsis para modificar su fuerza según su historial de actividad —la **plasticidad sináptica**—, que es la base celular del aprendizaje. Los sensores de zinc intracelular —proteínas que responden a pequeñas variaciones en la concentración de Zn²⁺ libre— coordinan respuestas celulares al estrés oxidativo, la inflamación y la señalización hormonal.
+
+> El zinc participa en más de 700 proteínas distintas. La condición de entrada: no generar radicales libres.
 
 ## El zinc y el sistema inmunitario
 
@@ -58,29 +62,29 @@ Las **pastillas de zinc para el resfriado** han generado más publicaciones y m�
 
 Las ostras son, con diferencia, el alimento más rico en zinc de la naturaleza:
 
-| Alimento | Zinc por 100 g |
+| Alimento | Zinc por cada 100 g |
 |---|---|
-| Ostras (crudas) | ~59 mg |
-| Carne de vacuno (cocinada) | ~5–9 mg |
-| Pipas de calabaza | ~7,5 mg |
-| Anacardos | ~5,6 mg |
-| Carne de cordero (cocinada) | ~4,5 mg |
-| Copos de avena | ~3,6 mg |
-| Cangrejos (cocidos) | ~3,5 mg |
-| Queso cheddar | ~3,1 mg |
-| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~1,5 mg |
-| Lentejas cocidas | ~1,3 mg |
-| Pechuga de pollo (cocinada) | ~1,0 mg |
+| Ostras (crudas) | 59 mg |
+| Carne de vacuno (cocinada) | 5–9 mg |
+| Pipas de calabaza | 7,5 mg |
+| Anacardos | 5,6 mg |
+| Carne de cordero (cocinada) | 4,5 mg |
+| Copos de avena | 3,6 mg |
+| Cangrejos (cocidos) | 3,5 mg |
+| Queso cheddar | 3,1 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 1,5 mg |
+| Lentejas cocidas | 1,3 mg |
+| Pechuga de pollo (cocinada) | 1,0 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
 Una sola ostra grande puede aportar más de 10 mg de zinc —la ingesta de referencia diaria completa—. Las carnes rojas, el marisco y los lácteos son fuentes fiables con alta biodisponibilidad (30–40 % de absorción). El zinc de las [legumbres](/alimentos/legumbres), los cereales integrales, los [frutos secos](/alimentos/frutos-secos) y las semillas está sujeto a una restricción crítica: el **fitato** (ácido fítico, inositol hexafosfato).
 
-El ácido fítico está almacenado en los granos, las semillas y las legumbres como forma de reserva de [fósforo](/nutricion/micronutrientes/minerales/fosforo). En el intestino, forma con el zinc complejos en los que el fitato atrapa físicamente el ión metálico e impide que las células de la pared intestinal lo absorban —los **quelatos insolubles**—, y hace lo mismo con el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) y el [calcio](/nutricion/micronutrientes/minerales/calcio). La fracción de zinc que el intestino puede absorber realmente —la **biodisponibilidad**— cae al 15–20 % en una dieta vegetariana estricta con alta ingesta de fitatos, frente al 30–40 % de una dieta con carne, pescado o lácteos. Las personas que siguen dietas predominantemente vegetales necesitan consumir aproximadamente un 50 % más de zinc que los omnívoros para cubrir sus necesidades reales.
+El ácido fítico está almacenado en los granos, las semillas y las legumbres como forma de reserva de [fósforo](/nutricion/micronutrientes/minerales/fosforo). En el intestino, forma con el zinc complejos en los que el fitato atrapa físicamente el ión metálico e impide que las células de la pared intestinal lo absorban —los **quelatos insolubles**—, y hace lo mismo con el hierro y el [calcio](/nutricion/micronutrientes/minerales/calcio). La fracción de zinc que el intestino puede absorber realmente —la **biodisponibilidad**— cae al 15–20 % en una dieta vegetariana estricta con alta ingesta de fitatos, frente al 30–40 % de una dieta con carne, pescado o lácteos. Si sigues una dieta predominantemente vegetal, necesitas consumir aproximadamente un 50 % más de zinc que los omnívoros para cubrir tus necesidades reales.
 
 Para reducir el contenido en fitato, existen cuatro estrategias con base experimental:
 
-**Remojo prolongado.** Remojar las legumbres durante 12–24 horas activa las fitasas propias del alimento —enzimas que fragmentan el ácido fítico— y reduce parcialmente su contenido.
+**Remojo prolongado.** Remojar las legumbres durante 12–24 horas activa las enzimas propias del alimento que fragmentan el ácido fítico —las **fitasas**— y reduce parcialmente su contenido.
 
 **Fermentación con levadura.** Durante la fermentación del pan, las levaduras secretan fitasas que eliminan entre el 40 y el 60 % del fitato; el pan de masa madre tiene más zinc biodisponible que el pan sin fermentar hecho con la misma harina.
 
@@ -106,10 +110,13 @@ El zinc no es tóxico a las dosis dietéticas habituales. El problema clínico r
 
 El mecanismo de daño es indirecto: el exceso de zinc en las células de la pared intestinal induce la síntesis de una proteína que atrapa metales y tiene mayor afinidad por el cobre que por el propio zinc —la **metalotioneína**—. El cobre queda retenido en el interior de esas células y, cuando se renuevan y se descaman hacia la luz intestinal, el cobre atrapado se pierde por las heces. El resultado es un déficit progresivo de cobre que puede tardar meses en volverse clínicamente evidente: anemia que no responde al hierro, neutropenia y, en casos avanzados, un daño de la médula espinal que afecta la sensibilidad y la coordinación —la **mielopatía**—, con degeneración de las vías que transmiten la sensibilidad táctil fina y el sentido de la posición articular al cerebro —las **columnas posteriores**—, un cuadro idéntico al del déficit de [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12), con el que se ha confundido en repetidas ocasiones.
 
-Este mecanismo, descrito con detalle en el artículo del [cobre](/nutricion/micronutrientes/oligoelementos/cobre), convierte la suplementación de zinc sin seguimiento del cobre plasmático en la causa adquirida más frecuente de neutropenia por déficit de cobre en adultos sin enfermedad digestiva. Para mí, la historia de Prasad y los pacientes de Shiraz es uno de los descubrimientos más llamativos de la medicina clínica: hombres de 21 años con cuerpo de niño de 10, en una zona concreta, porque su pan no tenía levadura. Una diferencia de proceso culinario que marcaba la diferencia entre crecer y no crecer.
+Este mecanismo, descrito con detalle en el artículo del cobre, convierte la suplementación de zinc sin seguimiento del cobre plasmático en la causa adquirida más frecuente de neutropenia por déficit de cobre en adultos sin enfermedad digestiva. Para mí, la historia de Prasad y los pacientes de Shiraz es uno de los descubrimientos más llamativos de la medicina clínica: hombres de 21 años con cuerpo de niño de 10, en una zona concreta, porque su pan no tenía levadura. Una diferencia de proceso culinario que marcaba la diferencia entre crecer y no crecer.
 
 El mismo mineral que, en dosis de pastilla para el resfriado, puede acortar un catarro en un día, en dosis de suplemento crónico sin control puede agotar el metal que la médula ósea necesita para madurar los glóbulos blancos que ese zinc pretendía proteger.
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3844" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for zinc. EFSA Journal. 2014;12(10):3844.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/12574039/" target="_blank" rel="noopener noreferrer">Prasad AS. Zinc deficiency. BMJ. 2003;326(7386):409-10.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3844" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for zinc. EFSA Journal. 2014;12(10):3844.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/12574039/" target="_blank" rel="noopener noreferrer">Prasad AS. Zinc deficiency. BMJ. 2003;326(7386):409-10.</a>

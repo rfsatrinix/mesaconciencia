@@ -69,4 +69,8 @@ La actividad insulinomimética del vanadio es real; lo que no existe todavía es
 
 ---
 
-*Fuentes: <a href="https://pubmed.ncbi.nlm.nih.gov/8621020/" target="_blank" rel="noopener noreferrer">Halberstam M et al. Oral vanadyl sulfate improves insulin sensitivity in NIDDM but not in obese nondiabetic subjects. Diabetes. 1996;45(5):659–66.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/11238546/" target="_blank" rel="noopener noreferrer">Cusi K et al. Vanadyl sulfate improves hepatic and muscle insulin sensitivity in type 2 diabetes. J Clin Endocrinol Metab. 2001;86(3):1410–7.</a> · <a href="https://www.ncbi.nlm.nih.gov/books/NBK222302/" target="_blank" rel="noopener noreferrer">Institute of Medicine. Dietary Reference Intakes for Vanadium. National Academies Press, 2001.</a>*
+## Referencias
+
+- <a href="https://pubmed.ncbi.nlm.nih.gov/8621020/" target="_blank" rel="noopener noreferrer">Halberstam M et al. Oral vanadyl sulfate improves insulin sensitivity in NIDDM but not in obese nondiabetic subjects. Diabetes. 1996;45(5):659–66.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/11238546/" target="_blank" rel="noopener noreferrer">Cusi K et al. Vanadyl sulfate improves hepatic and muscle insulin sensitivity in type 2 diabetes. J Clin Endocrinol Metab. 2001;86(3):1410–7.</a>
+- <a href="https://www.ncbi.nlm.nih.gov/books/NBK222302/" target="_blank" rel="noopener noreferrer">Institute of Medicine. Dietary Reference Intakes for Vanadium. National Academies Press, 2001.</a>

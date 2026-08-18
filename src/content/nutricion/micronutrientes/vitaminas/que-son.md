@@ -104,4 +104,6 @@ De las 13 vitaminas, al menos una —la **vitamina D**— no debería llamarse v
 
 ## Referencias
 
-*Fuentes: <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>*
+## Referencias
+
+- <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>

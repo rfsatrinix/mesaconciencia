@@ -6,7 +6,7 @@ draft: false
 date: 2026-07-04
 ---
 
-El azufre es el tercer [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, después del [calcio](/nutricion/micronutrientes/minerales/calcio) y el [fósforo](/nutricion/micronutrientes/minerales/fosforo): un adulto contiene entre 140 y 175 gramos distribuidos en prácticamente todos los tejidos. Lo que lo distingue de los demás macrominerales es que no llega principalmente como mineral aislado en la dieta, sino integrado en los [aminoácidos azufrados](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) de las [proteínas](/nutricion/macronutrientes/proteinas) que comes. La EFSA y la OMS no han establecido una ingesta de referencia específica para el azufre; la razón es que las necesidades quedan cubiertas automáticamente cuando la ingesta proteica es suficiente.
+El azufre es el tercer [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, después del [calcio](/nutricion/micronutrientes/minerales/calcio) y el [fósforo](/nutricion/micronutrientes/minerales/fosforo): tu cuerpo contiene entre 140 y 175 gramos distribuidos en prácticamente todos los tejidos. Lo que lo distingue de los demás macrominerales es que no llega principalmente como mineral aislado en la dieta, sino integrado en los [aminoácidos azufrados](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) de las [proteínas](/nutricion/macronutrientes/proteinas) que comes. La EFSA y la OMS no han establecido una ingesta de referencia específica para el azufre; la razón es que las necesidades quedan cubiertas automáticamente cuando la ingesta proteica es suficiente.
 
 ## ¿Para qué sirve el azufre?
 
@@ -36,16 +36,16 @@ Las fuentes de azufre se dividen en dos categorías con comportamientos biológi
 
 Las fuentes más ricas en aminoácidos azufrados son:
 
-| Alimento | Proteína por 100 g | Metionina + cisteína (aprox.) |
+| Alimento | Proteína por cada 100 g | Metionina + cisteína |
 |---|---|---|
-| Pechuga de pollo | 31 g | ~1.500 mg |
-| Atún en lata (al natural) | 26 g | ~1.100 mg |
-| Ternera (filete magro) | 26 g | ~1.000 mg |
-| Huevo entero | 13 g | ~900 mg |
-| Lentejas cocidas | 9 g | ~360 mg |
-| Tofu firme | 8 g | ~300 mg |
+| Pechuga de pollo | 31 g | 1.500 mg |
+| Atún en lata (al natural) | 26 g | 1.100 mg |
+| Ternera (filete magro) | 26 g | 1.000 mg |
+| Huevo entero | 13 g | 900 mg |
+| Lentejas cocidas | 9 g | 360 mg |
+| Tofu firme | 8 g | 300 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
 El huevo es la proteína de referencia para la biodisponibilidad de aminoácidos y tiene una concentración de metionina y cisteína especialmente equilibrada respecto a sus necesidades relativas. Las [legumbres](/alimentos/legumbres) son comparativamente bajas en metionina, pero la combinación con cereales integrales —que contienen más metionina y son más limitados en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)— completa el perfil de aminoácidos azufrados de la comida.
 
@@ -73,6 +73,8 @@ Cuando el aporte de metionina y cisteína es insuficiente, los efectos más temp
 
 **Síntesis de queratina.** La queratina no puede sintetizarse con normalidad cuando faltan los aminoácidos azufrados, lo que se traduce en cabello frágil, uñas débiles y deterioro progresivo de la capa superficial de la piel.
 
+> Uñas frágiles y cabello quebradizo son los síntomas visibles. Debajo, el glutatión lleva semanas escaso.
+
 Los suplementos de **metilsulfonilmetano** (MSM), una forma orgánica de azufre comercializada principalmente para el dolor articular, no tienen respaldo sólido en ensayos clínicos controlados: los estudios disponibles son pequeños y con resultados inconsistentes. Si tu ingesta proteica es adecuada, tu aporte de azufre lo es también.
 
 Si soy sincera, el MSM es un caso de libro de cómo el marketing llena el vacío que deja la ciencia: estudios pequeños, resultados inconsistentes, y aun así ventas millonarias para una sustancia cuyo aporte de azufre es irrelevante si tu dieta ya cubre las proteínas.
@@ -81,4 +83,6 @@ El azufre es el único macromineral cuya deficiencia no tiene nombre propio en l
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific Opinion on Dietary Reference Values for protein. EFSA Journal. 2012.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific Opinion on Dietary Reference Values for protein. EFSA Journal. 2012.</a>

@@ -4,6 +4,8 @@ description: "Flúor: es el oligoelemento que endurece el esmalte y reduce la ca
 categoria: "Oligoelementos"
 draft: false
 date: 2026-06-30
+image: "./fotos/fluor_portada.jpg"
+imageAlt: "Mesa de madera rústica con tela de lino: plato redondo central con sardinas en lata abiertas mostrando las espinas, tabla de madera con filete de bacalao cocido, cuenco de uvas pasas, taza de cerámica con té negro y hojas de té dispersas sobre el lino"
 ---
 
 Colorado Springs, 1901. El joven dentista Frederick McKay se instala en la ciudad y descubre algo que no sabe cómo explicar: una fracción enorme de sus pacientes tiene los dientes manchados con vetas marrones, blancas y opacas —un defecto que los lugareños llaman «esmalte colorado»—. Cuando revisa las fichas de caries, el dato resulta el opuesto al esperado: esos mismos dientes, los manchados, los feos, tienen una tasa de caries extraordinariamente baja. Algo en el [agua](/nutricion/agua) de la región produce daño cosmético y protege la dentición al mismo tiempo.
@@ -19,10 +21,10 @@ La EFSA publicó sus valores de referencia para el flúor en 2013 y fijó ingest
 | Grupo | Ingesta adecuada (EFSA 2013) |
 |---|---|
 | Adultos hombres | 3,4 mg/día |
+| Adolescentes 15–17 | 3,2 mg/día |
 | Adultos mujeres | 3,1 mg/día |
 | Embarazo | 3,1 mg/día |
 | Lactancia | 3,1 mg/día |
-| Adolescentes 15–17 | 3,2 mg/día |
 | Niños 11–14 | 2,2 mg/día |
 | Niños 7–10 | 1,5 mg/día |
 | Niños 4–6 | 1,0 mg/día |
@@ -37,13 +39,13 @@ Calcular tu ingesta de flúor es más complejo que con otros [minerales](/nutric
 
 La función principal del flúor es estructural, no enzimática: modifica la composición química del mineral de los dientes y los huesos haciéndolo más resistente.
 
-El esmalte dental está formado por cristales del mismo mineral que compone el hueso en alta proporción, Ca₁₀(PO₄)₆(OH)₂ —la **hidroxiapatita**—. Cuando el ión fluoruro está presente en la saliva o en el líquido que rodea las células del esmalte durante su formación, sustituye los grupos hidroxilo de la estructura cristalina:
+El esmalte dental está formado por un mineral que también constituye los huesos —la **hidroxiapatita**—. Cuando el fluoruro está presente en la saliva durante la formación del esmalte, se incorpora a la estructura de ese mineral y lo transforma: el producto resultante es la **fluorapatita**.
 
-Ca₁₀(PO₄)₆(OH)₂ + 2 F⁻ → Ca₁₀(PO₄)₆F₂ + 2 OH⁻
+El cambio no es cosmético. La hidroxiapatita empieza a disolverse cuando el ácido del entorno baja de pH 5,5; la fluorapatita aguanta hasta pH 4,5. Esa diferencia equivale a que las bacterias responsables de la caries —las que se adhieren al esmalte formando una capa llamada **biofilm dental** y producen ácido láctico al fermentar los azúcares— necesiten generar diez veces más ácido para causar el mismo daño que sobre la hidroxiapatita.
 
-El producto —el mineral resultante de incorporar fluoruro al cristal— es la **fluorapatita**. El cambio de OH⁻ por F⁻ no es cosmético: altera el pH al que el cristal empieza a disolverse en medio ácido. La hidroxiapatita comienza a desmineralizarse a pH 5,5; la fluorapatita resiste hasta pH 4,5. Una unidad de pH en escala logarítmica equivale a diez veces más concentración de iones H⁺. La placa bacteriana que se adhiere al esmalte —el **biofilm dental**— contiene principalmente *Streptococcus mutans*, bacterias que producen ácido láctico al fermentar los azúcares y, al acidificar el medio, causan caries —las **bacterias cariogénicas**—. Con esmalte de fluorapatita, esas bacterias necesitan generar diez veces más ácido para causar el mismo daño que sobre la hidroxiapatita.
+El fluoruro también actúa por un segundo mecanismo, independiente del esmalte: inhibe la enzima central de la vía por la que las bacterias cariogénicas descomponen los azúcares para obtener energía y producir ácido —la **enolasa**—. Al reducir esa ruta de conversión de azúcares en ácido —la **glucólisis**—, reduce la producción de ácido láctico en el propio biofilm.
 
-El fluoruro también actúa por un segundo mecanismo, independiente del esmalte: inhibe la enzima central de la vía por la que las bacterias cariogénicas descomponen los azúcares para obtener energía y producir ácido —la **enolasa**—. Al reducir esa glucólisis, reduce la producción de ácido láctico en el propio biofilm. > El fluoruro ataca tanto el diente como la bacteria.
+> El fluoruro ataca tanto el diente como la bacteria.
 
 El tercer mecanismo actúa directamente sobre la superficie del diente: cuando el esmalte pierde [calcio](/nutricion/micronutrientes/minerales/calcio) y fosfato por un ataque ácido, la saliva puede regenerar mineral en las zonas dañadas —este proceso se llama **remineralización tópica**—. Si el fluoruro está presente en ese momento, incorpora fluorapatita en lugar de hidroxiapatita, haciendo que las zonas remineralizadas sean más resistentes que el esmalte original.
 
@@ -55,18 +57,20 @@ El flúor es excepcional entre los oligoelementos porque lo que más contribuye 
 
 | Fuente | Flúor aproximado |
 |---|---|
-| Suministro fluorizado (0,7 mg/L) | ~1,4 mg en 2 litros diarios |
+| Suministro fluorizado (0,7 mg/L) | 1,4 mg en 2 litros diarios |
 | Té negro infusionado (3–5 min) | 0,5–2,0 mg por taza de 240 mL |
 | Mineral embotellada (variable) | 0,01–8,5 mg/L según manantial |
-| Sardinas en lata (con espinas) | ~0,2 mg/100 g |
-| Bacalao cocido | ~0,2 mg/100 g |
-| Uvas pasas | ~0,2 mg/100 g |
-| Patata cocida (con piel) | ~0,1 mg/100 g |
-| Pollo cocido | ~0,06 mg/100 g |
+| Sardinas en lata (con espinas) | 0,2 mg/100 g |
+| Bacalao cocido | 0,2 mg/100 g |
+| Uvas pasas | 0,2 mg/100 g |
+| Patata cocida (con piel) | 0,1 mg/100 g |
+| Pollo cocido | 0,06 mg/100 g |
 
-*Fuente: USDA FoodData Central y EFSA 2013. Los valores dependen de la fuente y del tratamiento municipal.*
+*Valores aproximados. Fuente: USDA FoodData Central y EFSA 2013. Los valores dependen de la fuente y del tratamiento municipal.*
 
 El **té negro** es la excepción alimentaria más notable: la planta del té (*Camellia sinensis*) acumula activamente fluoruro del suelo, y una infusión de varios minutos puede aportar entre 0,5 y 2 mg por taza, lo que convierte al té en un contribuyente significativo a la ingesta diaria de flúor en países con alto consumo de té.
+
+> El alimento con mayor concentración de flúor no es un pescado ni un marisco: es la hoja de té.
 
 Los **dentífricos fluorados** (habitualmente con 1000–1500 ppm de fluoruro, equivalente a 1–1,5 mg/g) no son una fuente dietética, pero representan una exposición sistémica real en niños pequeños que los ingieren parcialmente. Una cantidad de pasta del tamaño de un guisante contiene alrededor de 0,25 mg de fluoruro; ingerida de forma habitual en niños menores de 6 años, puede contribuir a la ingesta total de forma significativa. Por eso las guías pediátricas recomiendan cantidades mínimas de pasta y supervisión adulta hasta que el niño sabe escupir con fiabilidad.
 
@@ -78,7 +82,7 @@ No hicieron falta quince. A los diez años, los datos eran tan concluyentes —r
 
 Hoy, los Centros para el Control y la Prevención de Enfermedades de Estados Unidos incluyen la fluoración del suministro en su lista de los diez grandes logros de salud pública del siglo XX. La OMS recomienda mantener el fluoruro entre 0,5 y 1,5 mg/L en el suministro de consumo. Australia, Brasil, Irlanda, el Reino Unido y Estados Unidos tienen programas de fluoración extendidos. España, como la mayoría de los países de Europa continental, no fluoriza el suministro de forma sistemática; la protección recae íntegramente en el dentífrico fluorado y, en algunos casos, en suplementos orales para niños en zonas con bajo contenido en flúor.
 
-El debate científico moderno sobre la fluoración no cuestiona la eficacia para reducir caries —ese dato es robusto— sino su relevancia relativa en la era del dentífrico fluorado universal. Un metaanálisis Cochrane de 2015 concluyó que la mayoría de los estudios que demostraron la eficacia de la fluoración del suministro se realizaron antes de que el uso del dentífrico fluorado se generalizara, y que la evidencia sobre el beneficio adicional de la fluoración sobre el fondo de uso masivo de pasta fluorada es más limitada de lo que los defensores históricos de la fluoración reconocen. No hay evidencia de daño a las concentraciones recomendadas (≤1 mg/L), pero el margen de beneficio incremental respecto al dentífrico se ha vuelto más difícil de medir.
+El debate científico moderno sobre la fluoración no cuestiona la eficacia para reducir caries —ese dato es robusto— sino su relevancia relativa en la era del dentífrico fluorado universal. Un metaanálisis Cochrane de 2015 concluyó que la mayoría de los estudios que demostraron la eficacia de la fluoración del suministro se realizaron antes de que el uso del dentífrico fluorado se generalizara, y que la evidencia sobre el beneficio adicional de la fluoración cuando la pasta fluorada ya es de uso generalizado es más limitada de lo que los defensores históricos de la fluoración reconocen. No hay evidencia de daño a las concentraciones recomendadas (≤1 mg/L), pero el margen de beneficio incremental respecto al dentífrico se ha vuelto más difícil de medir.
 
 > Eficacia cuando no había dentífrico fluorado: demostrada. Beneficio adicional sobre el dentífrico hoy: pendiente de evidencia de calidad.
 
@@ -89,6 +93,8 @@ McKay había identificado en 1901 el exceso de flúor sin saberlo. La misma expo
 El mecanismo: durante el desarrollo del esmalte (desde el nacimiento hasta los 8 años aproximadamente, con mayor sensibilidad entre los 15 y 30 meses para los dientes anteriores), el exceso de flúor interfiere con las células que fabrican el esmalte —los **ameloblastos**— y produce una matriz de esmalte con menos contenido mineral del normal —hipomineralizada— que, cuando el diente sale a la boca, aparece con manchas o estrías blancas opacas. En grados moderados, las manchas se tornan marrones y el esmalte puede presentar hoyuelos o erosiones superficiales. En la forma más grave, el esmalte queda físicamente dañado.
 
 La paradoja clínica es que los dientes con fluorosis dental tienen, estadísticamente, menos caries que los dientes sin fluorosis. El mismo exceso de flúor que produce el defecto cosmético produce también más fluorapatita en el esmalte, que es más resistente al ácido bacteriano. No es consuelo para quien busca tratamiento estético, pero sí un dato biológicamente coherente con el mecanismo.
+
+> Los dientes que McKay consideraba defectuosos en 1901 resultaron ser los más resistentes.
 
 La exposición crónica a dosis muy elevadas —habitualmente por encima de 10 mg/día durante años—, casi exclusivamente del flúor natural en el suministro hídrico de ciertas regiones, produce una afección ósea grave —la **fluorosis esquelética**—. El Valle del Rift en África Oriental, partes de India, China y algunas zonas de Turquía y Pakistán tienen acuíferos con concentraciones de fluoruro de 4 a más de 20 mg/L. Los residentes de esas zonas desarrollan, tras décadas de exposición, un hueso excesivamente denso pero estructuralmente frágil. El mecanismo es paradójico: el flúor estimula las células que fabrican hueso nuevo —los **osteoblastos**— y suprime al mismo tiempo las células que lo reabsorben y renuevan —los **osteoclastos**—. Sin ese equilibrio, el tejido óseo crece de forma descontrolada: en radiografía parece mármol, pero se fractura con facilidad, causa dolor crónico y, en los casos avanzados, comprime la médula espinal y genera deformidades invalidantes.
 
@@ -106,4 +112,7 @@ El flúor es el único oligoelemento cuya ausencia se cuenta en caries, cuyo exc
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3332" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific Opinion on Dietary Reference Values for fluoride. EFSA Journal. 2013;11(8):3332.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/26092033/" target="_blank" rel="noopener noreferrer">Iheozor-Ejiofor Z et al. Water fluoridation for the prevention of dental caries (Cochrane Review). Cochrane Database Syst Rev. 2015.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2013.3332" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific Opinion on Dietary Reference Values for fluoride. EFSA Journal. 2013;11(8):3332.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/26092033/" target="_blank" rel="noopener noreferrer">Iheozor-Ejiofor Z et al. Water fluoridation for the prevention of dental caries (Cochrane Review). Cochrane Database Syst Rev. 2015.</a>

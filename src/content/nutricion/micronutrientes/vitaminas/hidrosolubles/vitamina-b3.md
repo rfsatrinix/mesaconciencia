@@ -10,7 +10,7 @@ La **vitamina B3**, también llamada **niacina**, es una [vitamina hidrosoluble]
 
 En tu organismo actúa en dos portadores de energía química que mueven los electrones entre reacciones —el **nicotinamida adenina dinucleótido** (NAD⁺) y el **nicotinamida adenina dinucleótido fosfato** (NADP⁺)—. Son los coenzimas de transferencia de energía más abundantes de la célula.
 
-Sin NAD⁺, el metabolismo energético se detiene.
+> Sin NAD⁺, el metabolismo energético se detiene.
 
 ## ¿Cuánta vitamina B3 necesitas?
 
@@ -26,6 +26,8 @@ Las necesidades de niacina se expresan en una unidad que integra tanto la niacin
 | Adolescentes 15–17 (mujeres) | 12,0 mg EN/día |
 | Niños 7–14 | 9,0–13,0 mg EN/día |
 | Niños 1–6 | 5,0–7,5 mg EN/día |
+
+*Fuente: EFSA 2014.*
 
 La EFSA establece un nivel máximo tolerable de **10 mg/día** para la forma de niacina que causa vasodilatación —el **ácido nicotínico**— procedente de suplementos o productos enriquecidos. Para la forma que no produce ese efecto vasodilatador —la **nicotinamida**—, el umbral tolerable sube hasta los **900 mg/día**. La diferencia refleja perfiles de seguridad completamente distintos entre las dos formas.
 
@@ -45,18 +47,18 @@ La niacina se concentra en carnes, pescados, [frutos secos](/alimentos/frutos-se
 
 | Alimento | Niacina preformada por cada 100 g |
 |---|---|
-| Atún fresco (cocido) | ~16 mg |
-| Pechuga de pollo (cocida) | ~14 mg |
-| Hígado de ternera (cocido) | ~14 mg |
-| Cacahuetes tostados | ~13 mg |
-| Salmón del Atlántico (cocido) | ~8 mg |
-| Semillas de girasol (crudas) | ~8 mg |
-| Champiñones (crudos) | ~4 mg |
-| Pan integral | ~4 mg |
-| Lentejas cocidas | ~1 mg |
-| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | ~0,5 mg |
+| Atún fresco (cocido) | 16 mg |
+| Pechuga de pollo (cocida) | 14 mg |
+| Hígado de ternera (cocido) | 14 mg |
+| Cacahuetes tostados | 13 mg |
+| Salmón del Atlántico (cocido) | 8 mg |
+| Semillas de girasol (crudas) | 8 mg |
+| Champiñones (crudos) | 4 mg |
+| Pan integral | 4 mg |
+| Lentejas cocidas | 1 mg |
+| [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
 
-*Fuente: USDA FoodData Central.*
+*Valores aproximados. Fuente: USDA FoodData Central.*
 
 El maíz merece una mención aparte. Su contenido de niacina no es despreciable en términos cuantitativos, pero está unida a polisacáridos en una forma que el intestino no puede absorber —la **niacitina**—. El tratamiento alcalino que los pueblos mesoamericanos aplicaban al maíz desde hace milenios —la **nixtamalización**, que consiste en cocer el grano en solución de cal viva— libera esa niacina y la hace biodisponible. Las culturas que adoptaron el maíz sin adoptar la nixtamalización pagaron el precio. Es la historia de la pelagra.
 
@@ -66,7 +68,9 @@ A principios del siglo XX, el sur de Estados Unidos vivió una de las crisis de 
 
 La enfermedad era incomprendida. Las autoridades médicas sostenían que era infecciosa, y los estados del sur rechazaban la hipótesis dietética porque admitirla significaba reconocer la pobreza extrema de su población. En 1914, Joseph Goldberger, médico del Servicio de Salud Pública de Estados Unidos, llegó a una conclusión diferente observando un patrón que a nadie más le había llamado la atención: el personal sanitario de los hospitales donde había pelagra nunca enfermaba, pero los pacientes internos sí. Si fuera infecciosa, los médicos y enfermeras también estarían afectados.
 
-Goldberger demostró la causa dietética con una serie de experimentos que hoy serían imposibles de replicar éticamente. Alimentó a presos voluntarios con la dieta del sur y reprodujo la pelagra. Después la curó añadiendo carne y [legumbres](/alimentos/legumbres). Para demostrar que no era contagiosa, él y sus colaboradores se inyectaron sangre de pacientes con pelagra, ingirieron sus secreciones y frotaron costras de sus lesiones sobre su propia piel. Nadie enfermó.
+Goldberger demostró la causa dietética con una serie de experimentos que hoy serían imposibles de replicar éticamente. Alimentó a presos voluntarios con la dieta del sur y reprodujo la pelagra. Después la curó añadiendo carne y [legumbres](/alimentos/legumbres). Para demostrar que no era contagiosa, él y sus colaboradores se inyectaron sangre de pacientes con pelagra, ingirieron sus secreciones y frotaron costras de sus lesiones sobre su propia piel.
+
+> Nadie enfermó.
 
 Los signos clínicos son inconfundibles. La dermatitis de la pelagra aparece en la piel expuesta al sol con un patrón simétrico —una lesión que rodea el cuello como un pañuelo, el **collar de Casal**— y deja una pigmentación oscura y descamación. La lengua se vuelve roja, brillante y dolorosa —la **glositis**—. La afectación neuropsiquiátrica incluye depresión, desorientación, alucinaciones y, en fases avanzadas, un cuadro que puede confundirse con esquizofrenia. Sin tratamiento, es mortal.
 
@@ -78,7 +82,9 @@ El ácido nicotínico a dosis de 1 a 3 g diarios —entre 60 y 200 veces la inge
 
 El efecto secundario más conocido es el enrojecimiento y sensación de calor en cara, cuello y tórax que aparece a los 20–30 minutos de tomar ácido nicotínico y dura entre 30 minutos y una hora —el *flushing*—. El mecanismo es la activación de un receptor en células de la piel que libera una sustancia inflamatoria —la **prostaglandina D2**— y produce la dilatación de los vasos sanguíneos superficiales —la **vasodilatación**—. Tomar una aspirina 30 minutos antes reduce el fenómeno de forma considerable.
 
-Cuando llegaron los ensayos clínicos a gran escala, los resultados sorprendieron a la cardiología. El estudio AIM-HIGH (2011) y el HPS2-THRIVE (2013), con más de 25.000 pacientes entre ambos, no encontraron reducción de eventos cardiovasculares al añadir niacina a la terapia con los fármacos que reducen la síntesis de colesterol en el hígado —las **estatinas**—, pese a que el perfil lipídico mejoraba en el papel. Los dos ensayos se interrumpieron antes de tiempo. La FDA retiró en 2016 algunas combinaciones de niacina con estatinas del mercado estadounidense.
+Cuando llegaron los ensayos clínicos a gran escala, los resultados sorprendieron a la cardiología. El estudio AIM-HIGH (2011) y el HPS2-THRIVE (2013), con más de 25.000 pacientes entre ambos, no encontraron reducción de eventos cardiovasculares al añadir niacina a la terapia con los fármacos que reducen la síntesis de colesterol en el hígado —las **estatinas**—, pese a que el perfil lipídico mejoraba en el papel.
+
+> Los dos ensayos se interrumpieron antes de tiempo. La FDA retiró en 2016 algunas combinaciones de niacina con estatinas del mercado estadounidense.
 
 Para mí, la lección más importante que dejaron esos estudios va más allá de la niacina: mejorar los números del laboratorio no equivale automáticamente a reducir el riesgo real. El HDL que sube con niacina no se comporta igual que el HDL que sube con ejercicio o que el que tienen de forma natural ciertas personas con variantes genéticas protectoras.
 
@@ -102,4 +108,7 @@ La vitamina B3 ocupa un lugar único en la historia de la medicina: su ausencia 
 
 ---
 
-*Fuentes: <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3759" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific opinion on dietary reference values for niacin. EFSA Journal. 2014.</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/21849790/" target="_blank" rel="noopener noreferrer">AIM-HIGH Investigators. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy. N Engl J Med. 2011.</a>*
+## Referencias
+
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2014.3759" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Scientific opinion on dietary reference values for niacin. EFSA Journal. 2014.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/21849790/" target="_blank" rel="noopener noreferrer">AIM-HIGH Investigators. Niacin in patients with low HDL cholesterol levels receiving intensive statin therapy. N Engl J Med. 2011.</a>

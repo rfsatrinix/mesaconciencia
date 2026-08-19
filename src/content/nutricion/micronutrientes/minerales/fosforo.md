@@ -6,23 +6,27 @@ draft: false
 date: 2026-07-04
 ---
 
-El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante del cuerpo humano, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): tu cuerpo contiene entre 700 y 800 gramos, de los cuales el **85 % está en huesos y dientes** formando la red cristalina de calcio y fosfato que da rigidez al tejido óseo —la **hidroxiapatita**—. El 15 % restante no está inerte: se distribuye en todas las células del organismo como parte del ATP, el ADN, el ARN y las membranas celulares. Mientras el calcio puede llegar a ser insuficiente con una dieta poco variada, es prácticamente imposible que te falte fósforo si te alimentas con normalidad, porque está presente en prácticamente cualquier dieta mínimamente variada.
+En 1669, el alquimista alemán Hennig Brand llevaba meses convencido de que había dado con el ingrediente secreto de la piedra filosofal: la orina humana. Tras hervir cincuenta cubos, concentrar el residuo y calentarlo durante horas, no obtuvo oro. Lo que salió fue una cera blanca que brillaba sola en la oscuridad. La llamó *phosphorus* —del griego «portador de luz»— y lo mantuvo en secreto durante años. Era el primer elemento químico que un ser humano identificado por nombre descubría deliberadamente —aunque lo que buscaba fuera el oro.
+
+Lo que Brand no anticipó es que ese mineral brillante era indispensable para casi todos los procesos de la vida. Tres siglos y medio después, el problema real con el fósforo no es que falte, sino que sobra: la persona media en Europa consume entre 1.000 y 1.500 mg al día, prácticamente el doble de lo que la EFSA recomienda. Ese exceso no tiene consecuencias detectables con una función renal normal. Pero la condición en que el riñón pierde poco a poco su capacidad de filtrar —la **enfermedad renal crónica**— afecta aproximadamente al 10 % de la población adulta, y para esas personas el fósforo de la dieta tiene un impacto directo en su evolución.
+
+El fósforo es el segundo [mineral](/nutricion/micronutrientes/minerales) más abundante de tu cuerpo, solo por detrás del [calcio](/nutricion/micronutrientes/minerales/calcio): entre 700 y 800 gramos, de los cuales el 85 % está en huesos y dientes, formando junto con el calcio la red cristalina que da dureza y resistencia al tejido óseo —la **hidroxiapatita**—. El 15 % restante trabaja en todas tus células: lo necesitan para almacenar energía, para construir las membranas que las envuelven y para mantener intacta la cadena del ADN. Prácticamente ningún proceso celular funciona sin él.
 
 ## ¿Para qué sirve el fósforo?
 
-**Estructura ósea y dental.** El fósforo, junto con el calcio, forma la hidroxiapatita —la red cristalina que da al hueso su dureza y resistencia a la compresión—. Sin fósforo no hay estructura ósea estable, aunque el calcio esté en cantidad suficiente.
+**Estructura ósea y dental.** El fósforo, junto con el calcio, forma la hidroxiapatita que da al hueso su dureza y resistencia. Sin fósforo no hay estructura ósea estable, aunque el calcio esté en cantidad suficiente.
 
-**Metabolismo energético.** La molécula que almacena y transfiere energía en todas las células del cuerpo —el **adenosín trifosfato** (ATP)— contiene tres grupos fosfato enlazados en cadena; la energía que se libera al romper el enlace entre el segundo y el tercer fosfato —formando ADP y fosfato libre— es lo que impulsa la contracción muscular, la síntesis de moléculas y el transporte activo.
+**Metabolismo energético.** Tus células no guardan energía en un gran depósito: la almacenan en paquetes pequeños que pueden romperse exactamente donde y cuando hace falta. Esos paquetes son moléculas con tres grupos fosfato enlazados en cadena —el **adenosín trifosfato** (ATP)—. Cuando el eslabón entre el segundo y el tercer fosfato se rompe, se libera la energía que impulsa la contracción muscular, la fabricación de nuevas moléculas y el transporte de sustancias dentro y fuera de la célula.
 
-> Tus células sintetizan y reciclan varios kilogramos de ATP al día aunque tu cuerpo solo contenga unos 250 gramos en un momento dado.
+> Tus células sintetizan y reciclan varios kilogramos de ATP al día, aunque en un momento dado solo tengas unos 250 gramos en el cuerpo: el fosfato no se destruye, se reutiliza.
 
-**Membranas celulares.** Las moléculas formadas por una cabeza de fosfato que se mezcla con los líquidos y dos colas de [ácidos grasos](/nutricion/macronutrientes/grasas-o-lipidos) que los repelen —los **fosfolípidos**— forman la bicapa lipídica que rodea todas las células y las estructuras especializadas del interior celular, como la mitocondria o el núcleo —los **orgánulos**—. Sin esa membrana fosfolipídica, las células no pueden mantener su composición interna ni controlar qué entra y qué sale.
+**Membranas celulares.** Cada una de tus células está envuelta por una membrana hecha de moléculas con una cabeza que se mezcla con los líquidos y dos colas de [ácidos grasos](/nutricion/macronutrientes/grasas-o-lipidos) que los repelen —los **fosfolípidos**—. Esa disposición hace que las moléculas se organicen espontáneamente en una doble lámina, con las colas enfrentadas hacia dentro y las cabezas hacia fuera, formando una barrera selectiva que controla qué entra y qué sale de la célula. El fósforo forma la cabeza de esa molécula.
 
-**ADN y ARN.** El fosfato forma el esqueleto covalente que une en cadena las unidades que forman el ADN y el ARN —los **nucleótidos**—. Sin esa cadena de fosfatos, la información genética no puede almacenarse ni leerse.
+**ADN y ARN.** El fosfato forma la columna vertebral del ADN y del ARN: une en cadena las unidades que contienen la información genética —los **nucleótidos**—. Sin esa cadena de fosfatos, la información no puede almacenarse ni copiarse.
 
-**Señalización celular.** Las enzimas que transfieren grupos fosfato del ATP a otras moléculas para activarlas —las **quinasas**— y las enzimas que eliminan esos grupos para desactivarlas —las **fosfatasas**— regulan la actividad de prácticamente todos los receptores, enzimas y factores de transcripción de la célula. La fosforilación y defosforilación son los interruptores moleculares de la biología celular.
+**Señalización celular.** Para que tus células actúen de forma coordinada, cada proceso dentro de ellas necesita poder encenderse y apagarse en el momento preciso. El fósforo es la señal de encendido: unas enzimas lo transfieren desde el ATP a otras proteínas para activarlas —las **quinasas**—, y otras enzimas lo retiran para desactivarlas —las **fosfatasas**—. Ese proceso de activar proteínas añadiendo fósforo —la **fosforilación**— y de desactivarlas retirándolo regula desde la respuesta de tus células a las hormonas hasta cuándo una célula se divide o muere.
 
-**Equilibrio ácido-base.** El mecanismo que amortigua los cambios bruscos de acidez en la sangre basado en el fosfato —el **sistema tampón fosfato**— colabora con el sistema bicarbonato y los pulmones para mantener el pH de la sangre en el rango estrecho de 7,35–7,45 que las enzimas y las proteínas necesitan para funcionar.
+**Equilibrio ácido-base.** La acidez de tu sangre debe mantenerse en un rango muy estrecho para que tus enzimas y proteínas funcionen correctamente; cualquier desviación significativa pone en riesgo todos los procesos vitales. El fosfato actúa como uno de los amortiguadores que frena los cambios bruscos de acidez —el **sistema tampón fosfato**—, especialmente dentro de las células y en la orina, donde el riñón lo usa para excretar el exceso de ácido.
 
 ## ¿Cuánto fósforo necesitas?
 
@@ -38,7 +42,7 @@ La EFSA ha establecido ingestas de referencia (PRI) basadas en el consumo observ
 
 *Fuente: EFSA 2015.*
 
-La adolescencia requiere ingestas más altas porque el esqueleto crece a máxima velocidad y demanda fósforo para mineralizar el hueso nuevo. En adultos, la ingesta media europea está entre 1.000 y 1.500 mg/día —el doble de la referencia—, lo que hace que la deficiencia sea excepcional en poblaciones con acceso alimentario normal.
+La adolescencia requiere ingestas más altas porque el esqueleto crece a máxima velocidad y necesita fósforo para mineralizar el hueso nuevo. En adultos, la ingesta media europea está entre 1.000 y 1.500 mg al día —el doble de la referencia—, lo que hace que la deficiencia sea excepcional en personas con acceso alimentario normal.
 
 El nivel máximo tolerable establecido por la EFSA es de **3.000 mg/día**. Por encima de esa cifra, la sobrecarga de fosfato puede alterar la regulación hormonal del calcio y comprometer la salud ósea y cardiovascular.
 
@@ -60,39 +64,35 @@ El fósforo está presente en cantidades relevantes en prácticamente todo lo qu
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
-El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que almacenan fósforo en el grano o la semilla y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo, mejorando su disponibilidad. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
+El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que el grano usa para almacenar fósforo y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo para que puedas absorberlo. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
 
-Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola y quesos fundidos —los **aditivos de fosfato**— aportan fósforo inorgánico que se absorbe con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. Es una fuente difícil de cuantificar en el etiquetado y puede elevar la ingesta total de forma significativa sin que puedas detectarlo fácilmente.
+Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola y quesos fundidos —los **aditivos de fosfato**— son una fuente muy diferente: se absorben con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. No aparecen desglosadas en el etiquetado nutricional y pueden elevar tu ingesta real de fósforo de forma significativa sin que lo detectes.
 
 ## La absorción del fósforo
 
-La absorción intestinal del fósforo oscila entre el 40 y el 70 % del fósforo dietético convencional. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— estimula la expresión de los transportadores de fosfato en el intestino y potencia su absorción, igual que hace con el calcio.
+Tu intestino absorbe entre el 40 y el 70 % del fósforo que comes. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) —en su forma activa, el **calcitriol**— potencia esa absorción estimulando los transportadores de fosfato en el intestino, igual que hace con el calcio.
 
-Tres hormonas regulan los niveles de fosfato en sangre:
+Una vez en sangre, dos hormonas mantienen el nivel de fosfato dentro de un rango preciso, actuando como sensores y correctores en tiempo real.
 
-La hormona que las glándulas paratiroides secretan cuando el calcio en sangre baja —la **hormona paratiroidea** (PTH)— reduce la reabsorción de fosfato en el riñón cuando el calcio en sangre es bajo, aumentando su excreción urinaria.
+Cuando el nivel de fosfato sube demasiado, las células maduras del hueso lo detectan y secretan una señal que le indica al riñón que excrete más fosfato por la orina y que reduzca la activación de la vitamina D —el **factor de crecimiento fibroblástico 23** (FGF23)—. Menos vitamina D activa significa menos absorción de nuevo fósforo desde el intestino: el sistema frena en dos frentes a la vez.
 
-El factor de crecimiento que las células maduras del hueso secretan cuando detectan que el fosfato en sangre es alto —el **factor de crecimiento fibroblástico 23** (FGF23)— inhibe la reabsorción renal de fosfato y reduce la activación de la vitamina D, frenando el aporte de nuevo fósforo desde el intestino.
-
-El calcitriol estimula tanto la absorción intestinal de fósforo como su reabsorción renal.
-
-El resultado es un sistema de retroalimentación preciso: cuando comes mucho fósforo, el FGF23 sube, el riñón excreta más fosfato y la vitamina D se activa menos; cuando el fósforo en sangre baja, el sistema lo retiene.
+Cuando el calcio en sangre baja, las glándulas paratiroides secretan una hormona que, entre otras funciones, también hace que el riñón excrete más fosfato —la **hormona paratiroidea** (PTH)—. El motivo es que el calcio y el fosfato compiten: demasiado fosfato libre en sangre tiende a unirse al calcio para ser arrastrado fuera de circulación.
 
 > El sistema no espera a que el fósforo cause problemas. Actúa antes de que llegue a ser uno.
 
-## ¿Qué ocurre si falta o sobra fósforo?
+## ¿Qué ocurre si te falta o te sobra fósforo?
 
-**Si falta:** El descenso del fosfato en sangre por debajo de 0,8 mmol/L —la **hipofosforemia**— es infrecuente y casi siempre tiene una causa identificable: uso excesivo de antiácidos que contienen aluminio o [magnesio](/nutricion/micronutrientes/minerales/magnesio) —que secuestran el fosfato en el intestino e impiden su absorción—, la situación que ocurre cuando se reintroduce alimentación en pacientes con desnutrición grave —el **síndrome de realimentación**—, donde la insulina activa el transporte de fosfato al interior de las células y puede vaciar bruscamente el plasma, el hiperparatiroidismo o la malabsorción intestinal severa. Los síntomas son debilidad muscular, dolor óseo, fatiga y, en los casos más graves, confusión y arritmias cardíacas.
+**Si te falta:** El descenso del fosfato en sangre por debajo de 0,8 mmol/L —la **hipofosforemia**— es infrecuente y casi siempre tiene una causa identificable distinta a una dieta insuficiente: el uso excesivo de antiácidos con aluminio o [magnesio](/nutricion/micronutrientes/minerales/magnesio) que atrapan el fosfato en el intestino e impiden su absorción; la situación que ocurre cuando se reintroduce la alimentación en personas con desnutrición grave —el **síndrome de realimentación**—, donde la insulina activa bruscamente el transporte de fosfato al interior de las células y puede vaciar el plasma de golpe; la sobreproducción de hormona paratiroidea —el **hiperparatiroidismo**—, que hace que el riñón excrete fosfato de forma excesiva; o una alteración grave de la capacidad del intestino delgado para absorber nutrientes —la **malabsorción intestinal**—. Los síntomas son debilidad muscular, dolor óseo, fatiga y, en los casos más graves, confusión y arritmias cardíacas.
 
-**Si sobra:** El fosfato elevado en sangre —la **hiperfosfatemia**— es el escenario más relevante en la práctica clínica actual. Los riñones sanos excretan el exceso de fosfato con eficiencia, pero en la situación en que el riñón pierde progresivamente su capacidad de filtrar —la **enfermedad renal crónica**— esa capacidad de excreción falla: el fosfato se acumula en sangre, estimula la secreción de PTH y FGF23, acelera la pérdida de masa ósea y favorece la calcificación de las arterias. En pacientes renales, controlar la ingesta de fósforo —especialmente el procedente de aditivos alimentarios— es parte esencial del tratamiento.
+**Si te sobra:** El fosfato elevado en sangre —la **hiperfosfatemia**— es el escenario clínicamente más relevante. Los riñones sanos excretan el exceso con eficiencia, pero en la enfermedad renal crónica esa capacidad falla: el fosfato se acumula, estimula la secreción de PTH y FGF23, acelera la pérdida de masa ósea y favorece que el calcio se acumule en las paredes de las arterias, endureciéndolas. En pacientes renales, controlar la ingesta de fósforo —especialmente el procedente de aditivos— es parte esencial del tratamiento.
 
 > En la enfermedad renal, el fósforo más peligroso es el que no aparece en la tabla nutricional.
 
-En personas con función renal normal, las ingestas habituales en la dieta occidental no producen daño demostrado, pero la proporción creciente de fósforo procedente de aditivos en los ultraprocesados hace que la ingesta real sea sistemáticamente más alta de lo que los estudios dietéticos estiman.
+En personas con función renal normal, las ingestas habituales en la dieta occidental no producen daño demostrado. Pero la proporción creciente de fósforo de aditivos en los ultraprocesados hace que la ingesta real sea sistemáticamente más alta de lo que los estudios dietéticos estiman.
 
-Mi lectura es que el fósforo de los aditivos alimentarios es el punto ciego del sistema: no aparece cuantificado en el etiquetado, se absorbe al 80–100 % y puede deteriorar una función renal ya comprometida sin que el paciente lo sepa ni el médico lo detecte en la dieta.
+Mi lectura es que el fósforo de los aditivos alimentarios es el punto ciego del sistema: no aparece cuantificado en el etiquetado, se absorbe al 80–100 % y puede acelerar el deterioro de un riñón que ya falla sin que el paciente lo sepa ni el médico lo detecte revisando la dieta.
 
-El fósforo es el único macromineral del que la mayoría de las personas en países desarrollados consume en exceso, no por defecto: la misma ubicuidad que hace imposible su deficiencia en una dieta normal convierte el exceso en el riesgo más relevante cuando la función renal empieza a fallar.
+El fósforo es el único macromineral del que la mayoría de las personas en países desarrollados consume en exceso: la misma ubicuidad que hace imposible su deficiencia en una dieta normal convierte el exceso en el riesgo más relevante cuando los riñones empiezan a fallar.
 
 ---
 

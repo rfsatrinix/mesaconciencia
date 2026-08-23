@@ -6,23 +6,31 @@ draft: false
 date: 2026-07-04
 ---
 
+A finales del siglo XIX, en los barrios obreros de Glasgow y Manchester, el raquitismo era tan frecuente entre los niños que los médicos casi lo consideraban inevitable. Las autopsias de la época mostraban lesiones óseas en más de la mitad de los niños menores de dos años. Las calles eran estrechas, el humo de las fábricas tapaba el cielo y las familias vivían entre paredes durante casi todo el día. El resultado: piernas arqueadas, costillas deformadas, cráneos que tardaban años en endurecerse. El aceite de hígado de bacalao revertía los síntomas de forma fiable, pero nadie entendía qué tenía en común ese aceite con el sol. La respuesta llegó en los años veinte del siglo XX, cuando se identificó la vitamina D como el factor común entre ambas fuentes.
+
+Hoy el raquitismo florido es historia en Europa, pero la deficiencia de vitamina D no lo es. Estudios poblacionales en España muestran que más del 80 % de la población adulta tiene niveles insuficientes en invierno, y entre el 30 y el 40 % no alcanza los valores recomendados ni en verano. España es uno de los países más soleados de Europa. Y la proporción de la población con déficit de vitamina D —la **prevalencia**— se encuentra entre las más altas del continente. El problema no es que falte sol: es que la mayor parte del día transcurre en interiores, en coches o con ropa que bloquea la exposición directa de la piel.
+
 La **vitamina D** es, en términos estrictos, más una hormona que una vitamina: tu piel la sintetiza a partir de la exposición solar, y una vez activada actúa sobre receptores en casi todos los tejidos del cuerpo para regular la expresión de cientos de genes. Es una [vitamina liposoluble](/nutricion/micronutrientes/vitaminas/liposolubles) que se almacena en el hígado y el tejido graso, lo que permite sostener las funciones básicas durante semanas sin exposición solar ni ingesta dietética.
 
 Existen dos formas naturales: la que la piel sintetiza con el sol y que también se encuentra en fuentes de origen animal —la **vitamina D3** o **colecalciferol**—; y la que sintetizan los hongos y las levaduras cuando reciben luz ultravioleta —la **vitamina D2** o **ergocalciferol**—. La D3 eleva los niveles sanguíneos con mayor eficacia y durante más tiempo; en contextos clínicos y de suplementación, la D3 es la forma preferente.
 
 ## ¿Para qué sirve la vitamina D?
 
-**Absorción de calcio y fósforo.** La forma activa de la vitamina D —el **calcitriol**— activa genes en las células del intestino delgado que incrementan la captación de [calcio](/nutricion/micronutrientes/minerales/calcio) y [fósforo](/nutricion/micronutrientes/minerales/fosforo). Sin vitamina D, la absorción de calcio cae del 30–40 % habitual al 10–15 %: puedes tener una ingesta adecuada de calcio en la dieta y aun así absorber solo una fracción de lo que consumes.
+La vitamina D no tiene un único trabajo. Cumple cinco funciones completamente distintas, todas ellas a través de un receptor presente en casi todos los tejidos del cuerpo.
 
-**Mineralización y salud ósea.** El calcio y el fósforo absorbidos se depositan en la matriz ósea para darle dureza y resistencia —la **mineralización**—. La vitamina D regula también la actividad de las células que forman el hueso —los **osteoblastos**— y las que lo reabsorben —los **osteoclastos**—, manteniendo el equilibrio del remodelado óseo continuo. Su deficiencia crónica produce reblandecimiento y fragilidad ósea progresivos.
+**Absorción de calcio y fósforo.** Puedes tener una ingesta adecuada de calcio en la dieta y aun así absorber solo una fracción de lo que consumes. Eso ocurre porque sin vitamina D suficiente, la absorción de calcio cae del 30–40 % habitual al 10–15 %. La forma activa de la vitamina D —el **calcitriol**— activa genes en las células del intestino delgado que incrementan la captación de [calcio](/nutricion/micronutrientes/minerales/calcio) y [fósforo](/nutricion/micronutrientes/minerales/fosforo).
 
-**Sistema inmunitario.** El calcitriol se une al receptor presente en casi todas las células del sistema inmunitario —el **VDR (receptor de vitamina D)**— y modula tanto la primera línea de defensa inespecífica, basada en neutrófilos, macrófagos y células asesinas naturales —la **respuesta innata**—, como la respuesta específica que genera anticuerpos y memoria inmunológica —la **respuesta adaptativa**—. Su deficiencia se asocia con mayor susceptibilidad a infecciones respiratorias y mayor prevalencia de enfermedades autoinmunes.
+**Mineralización y salud ósea.** El calcio y el fósforo absorbidos en el intestino necesitan depositarse en el hueso para darle dureza y resistencia —ese proceso se llama **mineralización**—. La vitamina D lo regula en dos frentes: controla la actividad de las células que forman nuevo hueso —los **osteoblastos**— y la de las que reabsorben el hueso viejo —los **osteoclastos**—, manteniendo el equilibrio del remodelado continuo. Cuando la vitamina D escasea de forma crónica, ese equilibrio se rompe y el hueso se vuelve progresivamente blando y frágil.
 
-**Función muscular.** El calcitriol regula la captación de calcio en el músculo esquelético, imprescindible para la contracción muscular. Los niveles bajos de vitamina D se asocian con debilidad muscular, mayor riesgo de caídas en personas mayores y peor recuperación tras el ejercicio intenso.
+**Sistema inmunitario.** Pocas personas asocian la vitamina D con las defensas, pero el receptor de vitamina D (**VDR**) está presente en casi todas las células del sistema inmunitario. El calcitriol que se une a él modula tanto la primera línea de defensa que actúa de inmediato ante cualquier infección —la **respuesta innata**— como la respuesta que aprende a reconocer patógenos concretos y genera anticuerpos y memoria —la **respuesta adaptativa**—.
 
-**Regulación celular.** La vitamina D frena la multiplicación celular excesiva en varios tejidos —efecto **antiproliferativo**— y regula la muerte programada de las células dañadas —la **apoptosis**—. Se estudia su papel en la reducción del riesgo de ciertos tumores, aunque la evidencia de ensayos clínicos controlados es mixta y no justifica la suplementación con ese objetivo específico.
+Su deficiencia se asocia con mayor susceptibilidad a infecciones respiratorias y con una prevalencia más alta de enfermedades en las que el sistema inmunitario ataca los tejidos propios —las **enfermedades autoinmunes**—.
 
-> Cinco rutas distintas —absorción mineral, hueso, inmunidad, músculo y célula—, la misma vitamina actuando como regulador en todas.
+**Función muscular.** El músculo esquelético también necesita vitamina D, y a veces los síntomas del déficit aparecen antes de que el hueso dé señales. El calcitriol regula la entrada de calcio en el músculo, imprescindible para que las fibras se contraigan. Los niveles bajos de vitamina D se asocian con debilidad muscular, mayor riesgo de caídas en personas mayores y peor recuperación tras el ejercicio intenso.
+
+**Regulación celular.** Más allá del hueso, el músculo y el sistema inmunitario, la vitamina D también regula cuánto crecen las células y cuándo mueren: frena su multiplicación excesiva en varios tejidos —efecto **antiproliferativo**— y activa su muerte programada cuando están dañadas —la **apoptosis**—. Se investiga su papel en la reducción del riesgo de ciertos tumores, aunque la evidencia de ensayos clínicos controlados es mixta y no justifica la suplementación con ese objetivo específico.
+
+> Cinco funciones distintas —absorción mineral, hueso, inmunidad, músculo y regulación celular—, la misma vitamina actuando como regulador en todas.
 
 ## ¿Cuánta vitamina D necesitas?
 
@@ -30,21 +38,25 @@ La vitamina D se expresa en dos unidades: microgramos (µg) y unidades internaci
 
 | Grupo | Ingesta de referencia (EFSA) |
 |---|---|
-| Lactantes (0–12 meses) | 10 µg/día (400 UI) |
-| Niños y adolescentes | 15 µg/día (600 UI) |
-| Adultos (18–70 años) | 15 µg/día (600 UI) |
 | Mayores de 70 años | 20 µg/día (800 UI) |
+| Adultos (18–70 años) | 15 µg/día (600 UI) |
 | Embarazo y lactancia | 15 µg/día (600 UI) |
+| Niños y adolescentes | 15 µg/día (600 UI) |
+| Lactantes (0–12 meses) | 10 µg/día (400 UI) |
+
+*Fuente: EFSA 2016.*
 
 Las personas mayores de 70 años necesitan más porque la piel envejece y sintetiza vitamina D con menor eficiencia, y porque la absorción intestinal también se reduce con la edad. El umbral por encima del cual el riesgo de daño renal y de hipervitaminosis D aumenta de forma significativa —el **nivel máximo tolerable**— es de **100 µg/día (4000 UI)**.
 
 ## La síntesis solar de vitamina D
 
-Aproximadamente el 80–90 % de la vitamina D que tu organismo necesita proviene de la síntesis cutánea, no de la dieta. El proceso se activa en la capa exterior de tu piel: la fracción del espectro solar con longitud de onda entre 290 y 315 nm —la radiación **UVB**—, distinta de la UVA que llega durante todo el día, convierte un compuesto derivado del colesterol presente en la epidermis —el **7-dehidrocolesterol**— en una forma intermedia inestable —la **previtamina D3**—. El calor corporal completa la conversión a vitamina D3. Esta pasa al hígado, que la transforma en la forma de almacenamiento que mide el análisis de sangre —el **calcidiol (25-OH vitamina D)**—, y de ahí al riñón, que produce la forma hormonal activa —el **calcitriol (1,25-dihidroxivitamina D)**—.
+Aproximadamente el 80–90 % de la vitamina D que tu organismo necesita proviene de la síntesis en la piel, no de la dieta. El proceso empieza con la fracción del espectro solar con longitud de onda entre 290 y 315 nm —la radiación **UVB**—, distinta de la UVA que llega durante todo el día. Esa radiación convierte un compuesto derivado del colesterol presente en la capa exterior de la piel —el **7-dehidrocolesterol**— en una forma intermedia inestable —la **previtamina D3**—. El calor corporal completa la conversión a vitamina D3.
+
+A partir de ahí, la vitamina D3 pasa al hígado, que la transforma en la forma de almacenamiento que mide el análisis de sangre —el **calcidiol**—, y de ahí al riñón, que produce la forma hormonal activa que regula calcio, huesos e inmunidad —el **calcitriol**—.
 
 > Lo que entra por la piel como colesterol modificado sale del riñón como hormona activa: dos órganos, tres pasos, el mismo sol al principio de todo.
 
-Varios factores reducen esta síntesis en tu caso:
+Varios factores pueden reducir esa síntesis:
 
 **Latitudes altas o meses de otoño e invierno.** Entre noviembre y marzo, en latitudes similares a las de la Península Ibérica o superiores, el ángulo de incidencia solar hace que la radiación UVB sea insuficiente o prácticamente nula. Tu piel no puede sintetizar vitamina D con esa luz, independientemente del tiempo que pases al exterior.
 
@@ -60,27 +72,33 @@ Varios factores reducen esta síntesis en tu caso:
 
 Las fuentes dietéticas que contienen vitamina D son escasas y aportan cantidades modestas comparadas con lo que produce la síntesis solar:
 
-| Alimento | µg por 100 g |
+| Alimento | µg por cada 100 g |
 |---|---|
-| Aceite de hígado de bacalao | ~250 µg |
-| Arenque ahumado | ~22 µg |
-| Salmón cocido | ~11–16 µg |
-| Sardina en conserva | ~4,8 µg |
-| Atún en conserva (en aceite) | ~3,7 µg |
-| Setas expuestas al sol | hasta ~10 µg |
-| Huevo entero (yema) | ~1,8 µg |
+| Aceite de hígado de bacalao | 250 µg |
+| Arenque ahumado | 22 µg |
+| Salmón cocido | 11–16 µg |
+| Sardinas en conserva | 4,8 µg |
+| Atún en conserva (en aceite) | 3,7 µg |
+| Setas expuestas al sol | hasta 10 µg |
+| Huevo entero (yema) | 1,8 µg |
 
-*Fuente: BEDCA; USDA FoodData Central.*
+*Valores aproximados. Fuente: BEDCA; USDA FoodData Central.*
 
-Las setas producen vitamina D2 cuando se exponen a radiación ultravioleta —el mismo mecanismo que la piel humana, aunque con el precursor vegetal ergosterol en lugar del 7-dehidrocolesterol—. La vitamina D3 de origen animal es más potente que la D2 de origen vegetal.
+Las setas producen vitamina D2 cuando se exponen a radiación ultravioleta —el mismo mecanismo que la piel humana, aunque con el precursor vegetal que activa la síntesis en hongos —el **ergosterol**— en lugar del 7-dehidrocolesterol—. La vitamina D3 de origen animal es más potente que la D2 de origen vegetal.
 
 La leche, las bebidas vegetales y los cereales de desayuno suelen estar enriquecidos con vitamina D en muchos países. En España no existe enriquecimiento obligatorio, por lo que conviene revisar el etiquetado.
 
-## ¿Qué ocurre si falta vitamina D?
+## Déficit de vitamina D y grupos de riesgo
 
-En niños, la deficiencia grave produce la mineralización insuficiente de los huesos en crecimiento, que los vuelve blandos y deformables —el **raquitismo**—. Las manifestaciones más características son las piernas arqueadas, los engrosamientos en las costillas en los puntos de unión con el cartílago —el llamado **rosario raquítico**— y el retraso en el cierre de las zonas membranosas del cráneo del lactante que se endurecen a medida que el hueso madura —las **fontanelas**—. El raquitismo fue endémico en Europa durante los siglos XVIII y XIX, especialmente en las ciudades industriales donde los niños apenas veían el sol.
+En niños, la deficiencia grave produce una mineralización insuficiente de los huesos en crecimiento que los vuelve blandos y deformables —el **raquitismo**—. Las manifestaciones más características son las piernas arqueadas y los pequeños bultos en las costillas donde el hueso se une al cartílago —el llamado **rosario raquítico**—.
 
-En adultos, la deficiencia crónica produce el reblandecimiento de los huesos por mineralización insuficiente —la **osteomalacia**—, que se manifiesta como dolor óseo difuso, debilidad muscular proximal y mayor susceptibilidad a fracturas en huesos que en la radiografía convencional pueden parecer intactos. A largo plazo, la insuficiencia sostenida de vitamina D contribuye a la pérdida progresiva de densidad mineral ósea que eleva el riesgo de fracturas por fragilidad, especialmente en cadera y vértebras —la **osteoporosis**—.
+También se retrasa el cierre de la parte membranosa de la cabeza del bebé que va endureciéndose conforme el cráneo madura —las **fontanelas**—. El raquitismo fue endémico en Europa durante los siglos XVIII y XIX, especialmente en las ciudades industriales donde los niños apenas veían el sol.
+
+En adultos, la deficiencia crónica produce el reblandecimiento de los huesos por mineralización insuficiente —la **osteomalacia**—, que se manifiesta como dolor óseo difuso, debilidad en los músculos de las caderas y los hombros, y mayor susceptibilidad a fracturas en huesos que en la radiografía convencional pueden parecer intactos.
+
+A largo plazo, la insuficiencia sostenida de vitamina D contribuye a la pérdida progresiva de densidad ósea que eleva el riesgo de fracturas por fragilidad, especialmente en cadera y vértebras —la **osteoporosis**—.
+
+> La osteomalacia puede estar presente durante meses sin que una radiografía convencional la detecte. A veces, la primera señal es una fractura.
 
 A nivel inmunitario, los niveles bajos de vitamina D se asocian con mayor frecuencia e intensidad de infecciones respiratorias, incluyendo la gripe y las neumonías bacterianas.
 
@@ -92,13 +110,13 @@ Los grupos con mayor riesgo de deficiencia:
 
 **Personas con piel oscura** que viven en latitudes medias o altas. La melanina protege contra el cáncer de piel, pero reduce la síntesis de vitamina D de forma significativa.
 
-**Personas con enfermedades que deterioran la absorción de [grasas](/nutricion/macronutrientes/grasas-o-lipidos)** —enfermedad celíaca, enfermedad de Crohn, pancreatitis crónica—. Como la vitamina D es liposoluble, cualquier malabsorción de lípidos la arrastra consigo.
+**Personas con problemas para absorber grasas** —celiaquía, enfermedad de Crohn, pancreatitis crónica—. Como la vitamina D es liposoluble, cualquier dificultad para absorber [grasas](/nutricion/macronutrientes/grasas-o-lipidos) la arrastra consigo.
 
 **Personas con insuficiencia renal crónica.** El riñón es el órgano que convierte el calcidiol en calcitriol activo; cuando falla, la activación de la vitamina D falla con él.
 
 ## ¿Necesitas suplementar?
 
-La única forma de confirmar tu estado real es un análisis de sangre que mida el calcidiol —la forma de almacenamiento cuya concentración refleja las reservas del organismo con más fiabilidad que los niveles del calcitriol activo—. Se expresa en nmol/L (nanomoles por litro):
+La única forma de saber de verdad si te falta vitamina D es un análisis de sangre que mida el calcidiol —la forma de almacenamiento que refleja las reservas reales de tu organismo con más fiabilidad que el calcitriol activo—. Se expresa en nmol/L (nanomoles por litro):
 
 | Nivel sérico | Interpretación |
 |---|---|
@@ -114,7 +132,7 @@ Los suplementos están justificados en situaciones concretas:
 
 **Personas mayores de 65 años con exposición solar escasa.** La síntesis cutánea y la absorción intestinal son menos eficientes, y el riesgo de caídas y fracturas por déficit de vitamina D tiene consecuencias clínicas directas.
 
-**Personas de los grupos de riesgo** con análisis que confirme valores por debajo de 50 nmol/L: enfermedad celíaca, Crohn, obesidad severa o insuficiencia renal crónica.
+**Personas de los grupos de riesgo** con análisis que confirme valores por debajo de 50 nmol/L: celiaquía, Crohn, obesidad severa o insuficiencia renal crónica.
 
 Para la mayoría de adultos sin análisis disponible, una dosis de mantenimiento de **1000–2000 UI/día (25–50 µg/día)** durante los meses de octubre a marzo es segura y suficiente para prevenir la caída invernal de los niveles. No suplementes con dosis superiores a 4000 UI/día sin seguimiento analítico: el exceso se acumula y puede producir niveles anormalmente elevados de calcio en sangre —la **hipercalcemia**—, con síntomas que incluyen náuseas, confusión, daño renal y arritmias.
 

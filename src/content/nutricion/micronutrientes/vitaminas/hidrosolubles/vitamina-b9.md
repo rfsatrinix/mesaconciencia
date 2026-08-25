@@ -6,15 +6,15 @@ draft: false
 date: 2026-07-04
 ---
 
-La **vitamina B9** —llamada **folato** en su forma natural y **ácido fólico** en los suplementos— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu cuerpo necesita para copiar el ADN y para regular qué genes están activos en cada célula. Para esas dos funciones trabaja en su forma activa en sangre —la forma en que circula tras ser procesado en el intestino y el hígado, conocida como **5-metiltetrahidrofolato (5-MTHF)**—, transportando pequeños fragmentos de carbono de una molécula a otra.
+En 1991, el Medical Research Council publicó el mayor ensayo aleatorizado realizado hasta entonces sobre malformaciones congénitas. El resultado fue tan claro que los investigadores detuvieron el estudio antes de tiempo: sería poco ético seguir sin darle el tratamiento al grupo de control. Las mujeres que habían tomado un suplemento concreto antes de quedarse embarazadas tenían un 72 % menos de probabilidades de tener un hijo con el tubo neural mal cerrado. El suplemento era ácido fólico.
 
-Sin ese flujo de fragmentos, la división celular se interrumpe. Los tejidos que se renuevan rápido —la médula ósea, el epitelio intestinal, el embrión en formación— son los primeros en sufrir. Eso convierte las semanas previas a la concepción y el primer trimestre —el **período periconcepcional**— en la ventana crítica: el precursor del cerebro y la médula espinal se cierra entre los días 21 y 28, cuando la mayoría de las mujeres todavía no saben que están embarazadas.
+Lo que hace posible esa protección —y lo que la complica— es la naturaleza de la propia molécula. El folato trabaja transportando pequeños fragmentos de carbono de una molécula a otra, y para poder seguir haciéndolo necesita primero deshacerse del fragmento que lleva. Esa entrega la hace siempre a la misma molécula, con la misma enzima como intermediaria. Si esa enzima falla —por falta de vitamina B12, por un defecto genético, por ambas cosas a la vez— el folato se queda atrapado con el fragmento que necesita ceder. Está ahí, en sangre, en cantidades que pueden parecer normales. Y no puede hacer nada.
 
-La suplementación periconcepcional con ácido fólico es la recomendación nutricional preventiva con mayor respaldo empírico en la historia de la medicina moderna.
+La **vitamina B9** —llamada **folato** en su forma natural y **ácido fólico** en los suplementos— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que tu cuerpo necesita para copiar el ADN y para regular qué genes están activos en cada célula. Circula en sangre principalmente en su forma activa —el **5-metiltetrahidrofolato (5-MTHF)**—, que es la versión lista para trabajar.
 
 ## ¿Cuánta vitamina B9 necesitas?
 
-Las necesidades de vitamina B9 se expresan en una unidad que compensa la diferencia de biodisponibilidad entre el folato alimentario y el ácido fólico sintético —los **equivalentes de folato dietético (EFD)**—. 1 µg de folato alimentario equivale a 0,5 µg de ácido fólico tomado en ayunas o a 0,6 µg de ácido fólico tomado durante las comidas.
+Las necesidades de vitamina B9 se expresan en una unidad que tiene en cuenta que el folato de la comida y el ácido fólico del suplemento no se absorben igual de bien —los **equivalentes de folato dietético (EFD)**—. Un microgramo de folato de la comida cuenta como 0,5 µg de ácido fólico tomado en ayunas, o como 0,6 µg tomado durante las comidas.
 
 | Grupo | Ingesta de referencia (EFSA) |
 |---|---|
@@ -27,32 +27,34 @@ Las necesidades de vitamina B9 se expresan en una unidad que compensa la diferen
 | Niños 4–6 | 200 µg EFD/día |
 | Niños 1–3 | 120 µg EFD/día |
 
-La EFSA fija un nivel máximo tolerable de **1 000 µg/día** para el ácido fólico sintético procedente de suplementos y productos enriquecidos. El límite no se establece porque el ácido fólico sea tóxico: se establece para evitar que dosis altas enmascaren una deficiencia de vitamina B12 con consecuencias neurológicas graves.
+La EFSA fija un máximo de **1.000 µg/día** para el ácido fólico sintético de suplementos y productos enriquecidos. No es porque el ácido fólico sea tóxico: es para evitar que tomar mucho ácido fólico oculte un déficit de vitamina B12 que puede causar daño neurológico grave sin dar señal de alarma en la analítica. Más sobre eso en el apartado de la trampa del metilo.
 
-Durante el período periconcepcional la recomendación va más allá de la ingesta adecuada: **400 µg adicionales de ácido fólico sintético al día**, empezando al menos cuatro semanas antes de la concepción y durante el primer trimestre, independientemente de la ingesta dietética de folato.
+Durante el período previo a la concepción y el primer trimestre —el **período periconcepcional**— la recomendación va más allá de los números de la tabla: **400 µg adicionales de ácido fólico sintético al día**, empezando al menos cuatro semanas antes de la concepción y manteniéndolos durante el primer trimestre.
 
 ## ¿Para qué sirve la vitamina B9?
 
-La vitamina B9 opera en el conjunto de reacciones que transfieren fragmentos de un único átomo de carbono entre moléculas para fabricar ADN, ARN y [aminoácidos](/nutricion/macronutrientes/proteinas) —el **metabolismo de una sola unidad de carbono**—. El 5-MTHF cede su fragmento de carbono al aminoácido que en concentraciones altas daña los vasos sanguíneos —la **homocisteína**— para regenerar la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), en una reacción que requiere [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). La metionina se convierte a continuación en el donante universal de grupos metilo de tu cuerpo —la **S-adenosilmetionina (SAM)**—, que metila el ADN, las histonas, el ARN, los neurotransmisores y los fosfolípidos. La metilación del ADN regula la expresión génica sin alterar la secuencia del código.
+El folato trabaja en un proceso que mueve pequeños fragmentos de carbono —de un solo átomo— entre moléculas para fabricar ADN, ARN y algunos [aminoácidos](/nutricion/macronutrientes/proteinas). El 5-MTHF cede su fragmento cada vez que regenera la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina) a partir del aminoácido que en concentraciones altas puede dañar los vasos sanguíneos —la **homocisteína**—. Para esa reacción necesita [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12). Si la B12 falla, el 5-MTHF no puede liberarse del fragmento que lleva y queda inutilizado —es la trampa del metilo, que se explica más abajo—.
 
-**Síntesis de ADN.** La enzima que fabrica la timina —uno de los cuatro componentes del ADN— a partir de su precursor inmediato —la **timidilato sintasa**— necesita un derivado activo del folato para hacerlo —el **5,10-metilentetrahidrofolato**—. Es la única ruta de síntesis de ese componente que existe en la célula. Sin timina, el ADN no puede replicarse.
+**Síntesis de ADN.** Para fabricar timina —uno de los cuatro componentes del ADN— hace falta una forma concreta del folato que actúa como donante de carbono —el **5,10-metilentetrahidrofolato**—. Es la única vía que existe para producir timina en la célula. Sin ella, el ADN no puede replicarse.
 
-Las células que más se dividen son las primeras en fallar: en la médula ósea, la escasez de timina produce glóbulos rojos que no pueden completar su división nuclear y salen al torrente sanguíneo anormalmente grandes y poco funcionales —la **anemia megaloblástica**—.
+Las células que más se dividen son las primeras en acusar el problema: en la médula ósea, la falta de timina produce glóbulos rojos que no pueden terminar de dividirse. Salen a la sangre anormalmente grandes y con poca capacidad para transportar oxígeno —lo que se llama **anemia megaloblástica**—.
 
-**Síntesis de purinas.** Dos de los cuatro componentes del ADN y el ARN —la adenina y la guanina, agrupadas en la familia química de las **purinas**— se fabrican en una ruta que necesita otra forma activa del folato —el **formil-tetrahidrofolato**— en dos pasos distintos. Sin purinas, la síntesis de ácidos nucleicos se detiene independientemente de la timina disponible.
+**Síntesis de purinas.** Dos de los cuatro componentes del ADN y el ARN —la adenina y la guanina, agrupadas en la familia de las **purinas**— se fabrican en un proceso que también necesita folato activo en dos pasos distintos. Sin purinas, la síntesis de material genético se para aunque haya timina disponible.
 
-**Metabolismo de aminoácidos.** La interconversión de serina y glicina, la degradación de la [histidina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/histidina) y el metabolismo de la metionina dependen de formas derivadas del tetrahidrofolato.
+**Metilación del ADN.** La metionina que el folato ayuda a regenerar se convierte en el donante universal de grupos metilo de tu cuerpo —la **S-adenosilmetionina (SAM)**—. El SAM le añade pequeñas marcas químicas al ADN, a las histonas y a otros componentes celulares —en eso consiste la **metilación**—, controlando qué genes se expresan en cada momento sin cambiar la secuencia del código. Es el mecanismo principal de lo que se llama **regulación epigenética**.
 
-> Tres rutas críticas —fabricar ADN, regular el genoma y eliminar homocisteína—, el mismo donante de fragmentos de carbono en todas.
+**Metabolismo de aminoácidos.** La conversión de serina en glicina, la degradación de la [histidina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/histidina) y el conjunto de reacciones con que tu cuerpo transforma la metionina —el **metabolismo de la metionina**— dependen de formas derivadas del folato activo.
 
-## Fuentes alimentarias de ácido fólico
+> Tres funciones críticas —fabricar ADN, regular el genoma y eliminar homocisteína—, el mismo transportador de carbono en todas.
 
-El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verde son su fuente más característica. Las [legumbres](/alimentos/legumbres) y el hígado son igualmente destacables:
+## Fuentes alimentarias de folato
+
+El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verde son su fuente más característica. Pero el alimento con mayor concentración no es una verdura: es el hígado. Las [legumbres](/alimentos/legumbres) también figuran entre las fuentes más ricas:
 
 | Alimento | Folato por cada 100 g |
 |---|---|
 | Hígado de ternera (cocido) | 220 µg |
-| Lentejas cocidas | 180 µg |
+| [Lentejas](/alimentos/legumbres/lentejas) cocidas | 180 µg |
 | Espinacas cocidas | 150 µg |
 | Espárragos cocidos | 150 µg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 140 µg |
@@ -64,55 +66,61 @@ El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verd
 
 *Fuente: USDA FoodData Central. Valores aproximados.*
 
-El folato es termolábil: la cocción prolongada destruye entre el 40 y el 70 % del contenido en verduras hervidas mucho tiempo. El vapor y la cocción corta conservan mejor el folato. Es también fotosensible; los productos expuestos a la luz durante horas lo pierden.
+El folato tiene dos debilidades prácticas. La primera: se destruye con el calor. Hervir verduras durante mucho tiempo elimina entre el 40 y el 70 % de su folato; cocinarlas al vapor o poco tiempo conserva bastante más. La segunda: es sensible a la luz. Los productos que llevan horas expuestos pierden parte del contenido antes de que lleguen a tu plato.
 
-La biodisponibilidad del folato alimentario es inferior a la del ácido fólico sintético: en promedio, solo el 50 % del folato dietético se absorbe, frente al 85 % del ácido fólico en suplemento tomado en ayunas. De ahí el sistema de equivalentes y la necesidad de suplementar durante el embarazo, cuando cubrir las necesidades solo con la dieta es muy difícil.
+La otra complicación es la absorción. De media, solo el 50 % del folato de la comida pasa realmente a sangre, frente al 85 % del ácido fólico sintético en suplemento tomado en ayunas. De ahí el sistema de equivalentes y la necesidad de tomar un suplemento durante el embarazo, cuando cubrir las necesidades solo con la dieta es prácticamente imposible.
 
 ## El ácido fólico y el embarazo: defectos del tubo neural
 
-El tubo neural —el precursor del cerebro y la médula espinal— se cierra entre los días 21 y 28 después de la fecundación. La mayoría de las mujeres no saben que están embarazadas en esa ventana. El cierre requiere una división celular intensa y coordinada que depende de la disponibilidad de folato. Cuando escasea, el tubo no cierra correctamente.
+El tubo neural —el precursor del cerebro y la médula espinal— se cierra entre los días 21 y 28 después de la fecundación. La mayoría de las mujeres no saben que están embarazadas en esa ventana. El cierre requiere una división celular intensa y coordinada que depende directamente de la disponibilidad de folato. Cuando escasea, el tubo no cierra correctamente.
 
-Los **defectos del tubo neural (DTN)** son el resultado: la malformación en que la médula espinal queda expuesta y que produce secuelas variables según la localización —la **espina bífida**, la más frecuente—, la ausencia de encéfalo incompatible con la vida extrauterina —la **anencefalia**— y la herniación de tejido cerebral a través de una abertura en el cráneo —el **encefalocele**—. Son las malformaciones congénitas que el ácido fólico puede prevenir con mayor eficacia demostrada.
+Los **defectos del tubo neural (DTN)** son el resultado: la malformación en que la médula espinal queda expuesta y que produce secuelas variables según la localización —la **espina bífida**, la más frecuente—, la ausencia de encéfalo incompatible con la vida extrauterina —la **anencefalia**— y la herniación de tejido cerebral a través de una abertura en el cráneo —el **encefalocele**—.
 
-La evidencia llegó en 1991 con el Medical Research Council Vitamin Study: el mayor ensayo aleatorizado realizado hasta entonces sobre DTN demostró que la suplementación con 4 mg de ácido fólico al día reducía la tasa de recurrencia en un **72 %**. Fue una magnitud de efecto extraordinaria para una intervención nutricional. Estudios posteriores confirmaron que la prevención primaria —en mujeres sin embarazo previo afectado— también era eficaz con dosis de 400 µg/día.
+El ensayo de 1991 demostró una reducción del 72 % en los casos en que el defecto se repetía. Un resultado así, conseguido únicamente con un suplemento, es casi sin precedentes. Estudios posteriores confirmaron que también funcionaba para evitar el primer caso —en mujeres que no habían tenido antes un embarazo con ese defecto— con la dosis habitual de 400 µg/día.
 
-La consecuencia fue el rediseño de las recomendaciones nutricionales en todo el mundo: todas las mujeres en edad fértil, independientemente de si tienen previsto un embarazo, deben tomar 400 µg de ácido fólico al día. Estados Unidos y Canadá introdujeron en 1998 la **fortificación obligatoria** de harinas y cereales con ácido fólico; la prevalencia de DTN cayó entre un 25 y un 50 % en las décadas siguientes. España y la Unión Europea no tienen fortificación obligatoria —una decisión que sigue siendo objeto de debate en salud pública—, lo que transfiere la responsabilidad de la prevención íntegra a la suplementación individual.
+La consecuencia fue el rediseño de las recomendaciones en todo el mundo. Estados Unidos y Canadá introdujeron en 1998 la obligación legal de añadir ácido fólico a las harinas y cereales del mercado —la **fortificación obligatoria**—; la frecuencia de casos de DTN —la **prevalencia**— cayó entre un 25 y un 50 % en las décadas siguientes. España y la Unión Europea no tienen fortificación obligatoria —una decisión que sigue siendo objeto de debate en salud pública—, lo que transfiere toda la responsabilidad de la prevención a la suplementación individual.
+
+> La ventana de acción empieza el día 21. La mayoría de las mujeres no saben que están embarazadas hasta la semana 5 o 6.
 
 ## La trampa del metilo: folato y vitamina B12
 
-El folato y la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) están vinculados por una reacción con consecuencias clínicas de primera importancia. Para que el 5-MTHF pueda seguir cediendo fragmentos de carbono en la síntesis de ADN, necesita primero deshacerse del grupo metilo que lleva —dárselo a la homocisteína para regenerar metionina—. Esa reacción la cataliza la enzima que transfiere ese grupo metilo y que necesita vitamina B12 como cofactor —la **metionina sintasa**—.
+El 5-MTHF solo puede seguir cediendo fragmentos de carbono si antes se deshace del que lleva. Para hacerlo, se lo entrega a la homocisteína en una reacción que regenera la metionina. Esa reacción la hace posible —la **cataliza**— una enzima que necesita [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) como herramienta de apoyo —se llama **metionina sintasa**—.
 
-Si la B12 escasea, la metionina sintasa no puede actuar, el 5-MTHF se acumula y no puede regenerar la forma de folato que la célula necesita para fabricar ADN —el **tetrahidrofolato (THF)**—. A esa situación se le llama la **trampa del metilo**.
+Si la B12 escasea, la metionina sintasa no puede actuar. El 5-MTHF se queda atrapado con su fragmento de carbono, incapaz de regenerar la forma de folato que la célula necesita para fabricar ADN —el **tetrahidrofolato (THF)**—. Es lo que se llama la **trampa del metilo**: el folato está en sangre, en cantidades que pueden parecer normales o incluso altas. Pero no puede hacer su trabajo.
 
-El resultado es una deficiencia funcional de folato aunque los niveles séricos de ácido fólico sean normales o elevados. La médula ósea falla igual: anemia megaloblástica. El problema es que una dosis alta de ácido fólico puede corregir esa anemia sin corregir la causa subyacente. La anemia desaparece. Los síntomas neurológicos del déficit de B12 —daño en los nervios de las extremidades, deterioro cognitivo, daño en la médula espinal— progresan sin que el análisis de sangre que recuenta y clasifica las células sanguíneas —el **hemograma**— los delate.
+El resultado es que el folato que tienes no puede hacer su trabajo, aunque la analítica muestre niveles normales de ácido fólico. La médula ósea falla igual: anemia megaloblástica. El peligro está en que tomar dosis altas de ácido fólico puede corregir esa anemia sin tocar la causa. La anemia desaparece. El daño neurológico que produce el déficit de B12 —daño en los nervios de las extremidades, deterioro cognitivo, lesión de la médula espinal— sigue avanzando sin que el análisis de sangre lo detecte.
 
-Esa es la razón del nivel máximo tolerable de 1 000 µg/día para el ácido fólico sintético: evitar que dosis altas enmascaren un déficit de B12, especialmente en personas mayores, donde ambas deficiencias son frecuentes.
+Esa es la razón del límite de 1.000 µg/día: evitar que el folato enmascare un déficit de B12 que todavía no ha dado síntomas.
 
-Esta vía tiene además una complicación de origen genético. La enzima que convierte una forma del folato en 5-MTHF y que necesita la forma activa de la [vitamina B2](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b2) como cofactor —la **metilenotetrahidrofolato reductasa (MTHFR)**— existe en una variante menos eficiente que se hereda con frecuencia —el **polimorfismo MTHFR C677T**—. Las personas que heredaron una copia del alelo T y conservan otra copia normal del gen —los **heterocigotos CT**— tienen un 30–40 % menos de actividad de esa enzima; las que heredaron el alelo T de ambos progenitores —los **homocigotos TT**— la pierden entre un 60 y un 70 %. El genotipo TT está presente en aproximadamente el 10–15 % de la población española, con mayor prevalencia en mediterráneos.
+Esta vía tiene además una complicación genética frecuente. La enzima que convierte una forma del folato en 5-MTHF —la **metilenotetrahidrofolato reductasa (MTHFR)**— existe en una variante que funciona peor. Quienes heredaron esa variante de un solo progenitor —los **heterocigotos CT**— pierden entre un 30 y un 40 % de la capacidad de esa enzima. Quienes la heredaron de los dos —los **homocigotos TT**— la pierden entre un 60 y un 70 %. El genotipo TT está presente en aproximadamente el 10–15 % de la población española, con mayor prevalencia en mediterráneos. Esta variante se llama **polimorfismo MTHFR C677T** y también necesita [vitamina B2](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b2) como herramienta de apoyo para rendir lo que le queda de capacidad.
 
-> Una persona de cada siete o diez tiene una capacidad reducida de activar el folato dietético.
+> Una persona de cada siete o diez tiene una capacidad reducida para activar el folato que ingiere.
 
-Creo que para esas personas, suplementar directamente con 5-MTHF —en lugar de con ácido fólico, que también requiere MTHFR para activarse— puede ser más eficaz; y prestar atención al estado de vitamina B2, para que la MTHFR disponga de su cofactor, no me parece un detalle menor.
+Para mí, para esas personas, suplementar directamente con 5-MTHF —la forma ya activa, que no necesita MTHFR para nada— puede ser más eficaz que tomar ácido fólico estándar. Y mantener un buen estado de vitamina B2 no me parece un detalle secundario si la MTHFR ya trabaja al 40 % de su capacidad.
 
-## ¿Qué ocurre si falta vitamina B9?
+## ¿Qué ocurre si te falta vitamina B9?
 
-El déficit de ácido fólico produce anemia megaloblástica: la médula ósea genera los glóbulos rojos —los **eritrocitos**— con el doble o el triple del tamaño normal porque no pueden completar su división nuclear. El hemograma muestra glóbulos rojos anormalmente grandes —la **macrocitosis**— y un recuento bajo de eritrocitos. La muestra de sangre extendida sobre un portaobjetos y examinada al microscopio —el **frotis de sangre periférica**— revela los glóbulos blancos con el núcleo dividido en cinco o más fragmentos en lugar de los habituales tres o cuatro —los **neutrófilos hipersegmentados**—, el hallazgo más específico. La anemia megaloblástica por déficit de folato es clínicamente idéntica a la de déficit de B12; distinguirlas requiere medir los niveles séricos de folato y B12 por separado.
+El primer signo que aparece es la anemia megaloblástica: la médula ósea genera glóbulos rojos anormalmente grandes porque no pueden completar su división. El análisis de sangre muestra esos glóbulos grandes —la **macrocitosis**— y un recuento bajo de glóbulos rojos. Si se mira la sangre al microscopio, los glóbulos blancos que combaten infecciones —los **neutrófilos**— aparecen con el núcleo dividido en cinco segmentos o más, en lugar de los habituales tres o cuatro —los **neutrófilos hipersegmentados**—. Es el hallazgo más específico del déficit de folato.
 
-A nivel digestivo aparece una inflamación de la lengua con enrojecimiento y superficie lisa —la **glositis**—, grietas dolorosas en las comisuras de los labios —la **queilosis angular**—, diarrea y deterioro del epitelio intestinal que puede agravar la propia malabsorción de folato. El déficit de ácido fólico se asocia también a depresión, irritabilidad y deterioro cognitivo, aunque las manifestaciones neurológicas graves son más características del déficit de B12.
+La anemia megaloblástica por déficit de folato es clínicamente idéntica a la que produce el déficit de B12. Distinguirlas requiere medir los niveles de las dos por separado: el tratamiento es diferente y confundirlas tiene consecuencias graves.
+
+A nivel digestivo puede aparecer una inflamación de la lengua con enrojecimiento y superficie lisa —la **glositis**—, grietas dolorosas en las comisuras de los labios —la **queilosis angular**— y diarrea. El déficit de folato se asocia también a depresión, irritabilidad y deterioro cognitivo, aunque el daño neurológico grave es más característico del déficit de B12.
 
 Los grupos con mayor riesgo:
 
 **Mujeres embarazadas o en período periconcepcional.** Las necesidades se duplican y la dieta rara vez las cubre sin suplementación específica.
 
-**Personas con alcoholismo crónico.** El alcohol deteriora la absorción intestinal del folato y bloquea su activación hepática.
+**Personas con alcoholismo crónico.** El alcohol deteriora la absorción intestinal del folato e impide que el hígado lo active.
 
-**Pacientes con enfermedad celíaca o enfermedad de Crohn.** La inflamación intestinal reduce la superficie absortiva y limita la absorción de folato incluso con ingesta adecuada.
+**Pacientes con enfermedad celíaca o enfermedad de Crohn.** La inflamación intestinal reduce la zona del intestino que absorbe los nutrientes y limita la absorción de folato incluso con ingesta adecuada.
 
-**Usuarios crónicos de anticonvulsivos.** La fenitoína, la carbamazepina y el valproato aceleran el catabolismo del folato y elevan las necesidades por encima de la ingesta habitual.
+**Usuarios crónicos de anticonvulsivos.** La fenitoína, la carbamazepina y el valproato aceleran la destrucción del folato y elevan las necesidades por encima de la ingesta habitual.
 
-**Pacientes tratados con metotrexato.** Este fármaco —usado en quimioterapia, artritis reumatoide y psoriasis— actúa bloqueando la enzima que convierte el ácido fólico en su forma reducida activa —la **dihidrofolato reductasa (DHFR)**—. Todos los pacientes con metotrexato a largo plazo reciben una forma de folato que no requiere DHFR para activarse y que atenúa la toxicidad sobre tejidos sanos sin anular el efecto del fármaco —el **ácido folínico (leucovorín)**—.
+**Pacientes tratados con metotrexato.** Este fármaco —usado en quimioterapia, artritis reumatoide y psoriasis— actúa bloqueando la enzima que convierte el ácido fólico en su forma reducida activa —la **dihidrofolato reductasa (DHFR)**—. Todos los pacientes que lo toman a largo plazo reciben una forma de folato que no necesita esa enzima para activarse y que atenúa la toxicidad sobre tejidos sanos sin anular el efecto del fármaco —el **ácido folínico (leucovorín)**—.
 
-La prevención de los defectos del tubo neural con ácido fólico reúne las dos características de la mejor medicina preventiva: una evidencia de eficacia extraordinaria —72 % de reducción en un ensayo aleatorizado— y un mecanismo de fracaso igualmente claro: la ventana de acción comienza en los días 21–28 de la gestación, cuando la mayoría de las mujeres todavía no saben que están embarazadas.
+El ensayo de 1991 fue detenido antes de tiempo porque el efecto era demasiado claro para seguir negándoselo al grupo de control. Lo que ese resultado no resolvió —y lo que todavía no está del todo resuelto— es por qué algunas mujeres con buena ingesta de folato siguen teniendo hijos con DTN, y por qué otras con ingesta deficiente no. El folato es necesario. No siempre es suficiente solo.
+
+El mismo transportador de carbono que divide células en el embrión también da soporte a la metilación del ADN de cada célula de tu cuerpo durante toda tu vida. Y puede quedar inutilizado aunque tus niveles en sangre sean normales, si la vitamina que necesita para liberarse escasea.
 
 ---
 

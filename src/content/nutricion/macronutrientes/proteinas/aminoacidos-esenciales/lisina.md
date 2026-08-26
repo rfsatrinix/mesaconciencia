@@ -4,6 +4,8 @@ description: "Lisina: es el aminoácido esencial limitante en los cereales; func
 date: 2026-06-15
 categoria: "Aminoácidos esenciales"
 draft: false
+image: "./fotos/lisina_portada.jpg"
+imageAlt: "Lisina"
 ---
 
 A finales de los años setenta, un estudio en dermatología llegó a una conclusión que parecía demasiado simple: tomar un aminoácido en dosis altas reducía los brotes de herpes labial. No porque neutralizara el virus, sino porque ese aminoácido compite con lo que el virus necesita para reproducirse. Era la lisina.

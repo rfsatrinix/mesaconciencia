@@ -4,6 +4,8 @@ description: "Leucina: es el aminoácido esencial que activa la síntesis de pro
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/leucina_portada.jpg"
+imageAlt: "Leucina"
 ---
 
 En 1820, Henri Braconnot llevaba años intentando descifrar de qué estaban hechos los tejidos animales. Cuando hirvió tejido muscular con ácido sulfúrico y dejó que el residuo se secara, aparecieron unos cristales blancos que no se parecían a nada que hubiera visto antes. Los llamó «leucina», del griego para blanco. Había aislado sin saberlo el aminoácido esencial con el requerimiento diario más alto de los nueve, y la única molécula nutritiva capaz de decirle a una célula muscular que empiece a construir proteínas.

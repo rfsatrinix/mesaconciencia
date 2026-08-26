@@ -4,6 +4,8 @@ description: "Fenilalanina: es el aminoácido esencial precursor de la dopamina 
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/fenilalanina_portada.jpg"
+imageAlt: "Fenilalanina"
 ---
 
 En 1934, una madre noruega llevaba meses diciéndoles a los médicos que sus dos hijos con retraso mental tenían un olor peculiar. Al bioquímico que finalmente los examinó —Asbjørn Følling— le bastó analizar la orina de los niños para encontrar allí el compuesto que su cuerpo generaba al no poder procesar correctamente un aminoácido —el **fenilpiruvato**—. Esos niños fueron los primeros pacientes con fenilcetonuria diagnosticados en la historia.

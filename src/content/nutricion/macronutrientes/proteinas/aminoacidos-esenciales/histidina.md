@@ -4,6 +4,8 @@ description: "Histidina: es el aminoácido esencial precursor de la histamina y 
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/histidina_portada.jpg"
+imageAlt: "Histidina"
 ---
 
 En 1910, los farmacólogos George Barger y Henry Dale sintetizaron un compuesto a partir de la histidina y encontraron que producía en animales los mismos efectos que la reacción alérgica grave capaz de causar la muerte en minutos —el **shock anafiláctico**—: caída brusca de la presión arterial, contracción de los músculos que no puedes controlar de forma voluntaria —los **músculos lisos**—, dilatación de vasos. Era la histamina. Nadie preveía entonces que esa misma molécula se convertiría en el objetivo de uno de los grupos de fármacos más vendidos del planeta —los antihistamínicos—, ni que su única fuente directa en el organismo era un aminoácido de la dieta.

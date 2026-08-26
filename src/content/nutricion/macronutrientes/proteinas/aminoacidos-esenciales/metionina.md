@@ -4,6 +4,8 @@ description: "Metionina: es el aminoácido azufrado donante de grupos metilo, pr
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/metionina_portada.jpg"
+imageAlt: "Metionina"
 ---
 
 Cada [proteína](/nutricion/macronutrientes/proteinas) que fabrica tu cuerpo —cada enzima, cada hormona, cada tejido muscular— empieza en el mismo punto: una metionina. La maquinaria molecular que ensambla las proteínas siempre coloca una metionina primero, como si fuera la cabecera obligatoria de cualquier mensaje. La mayor parte de las veces la retira del producto final, como si ese primer movimiento no contara.

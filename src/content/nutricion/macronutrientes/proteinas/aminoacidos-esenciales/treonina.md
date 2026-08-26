@@ -4,6 +4,8 @@ description: "Treonina: es el último aminoácido esencial descubierto, impresci
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/treonina_portada.jpg"
+imageAlt: "Treonina"
 ---
 
 En 1935, William Rose llevaba años haciendo lo mismo: retirar un aminoácido a la vez de la dieta de sus ratas de laboratorio para ver qué ocurría. Era el método más lento imaginable, pero era sistemático. Cuando llegó al que no había probado aún, las ratas dejaron de crecer. Tomó notas. Había encontrado el último aminoácido esencial de la lista.

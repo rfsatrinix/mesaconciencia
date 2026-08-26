@@ -4,6 +4,8 @@ description: "Isoleucina: es el aminoácido esencial que introduce glucosa en el
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/isoleucina_portada.jpg"
+imageAlt: "Isoleucina"
 ---
 
 A mediados de los años dos mil, investigadores en Japón que estudiaban cómo el músculo capta glucosa decidieron probar los tres aminoácidos de cadena ramificada por separado —[leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina), isoleucina y [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina)— en células musculares aisladas. Solo una de las tres aumentó la captación de glucosa, y lo hizo sin que hubiera insulina presente. Era la isoleucina.

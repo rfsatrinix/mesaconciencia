@@ -4,6 +4,8 @@ description: "Valina: es el único aminoácido de cadena ramificada que produce 
 categoria: "Aminoácidos esenciales"
 draft: false
 date: 2026-06-29
+image: "./fotos/valina_portada.jpg"
+imageAlt: "Valina"
 ---
 
 En 1954, el neurólogo John Menkes describió en seis recién nacidos un cuadro que no había visto antes: retraso mental severo, movimientos anormales y un olor dulce y penetrante en la orina, comparable al jarabe de arce. Las familias llegaban a la consulta con bebés que habían parecido normales al nacer. Décadas más tarde se identificó la causa: una enzima defectuosa bloquea la degradación de tres aminoácidos a la vez. Uno de ellos es la valina.

@@ -4,6 +4,8 @@ description: "Triptófano: es el aminoácido esencial precursor de la serotonina
 date: 2026-06-12
 categoria: "Aminoácidos esenciales"
 draft: false
+image: "./fotos/triptofano_portada.jpg"
+imageAlt: "Triptófano"
 ---
 
 Cada navidad, alguien termina el segundo plato de pavo y anuncia que se queda en el sofá, que es el triptófano. La historia circula desde hace décadas en Estados Unidos con el Día de Acción de Gracias como escenario: el pavo adormece porque tiene triptófano, el triptófano produce serotonina, la serotonina da sueño. La cadena de causalidades parece limpia.

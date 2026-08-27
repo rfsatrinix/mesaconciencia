@@ -4,6 +4,8 @@ description: "Sodio: es el electrolito extracelular cuyo mínimo son 500 mg/día
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/sodio_portada.jpg"
+imageAlt: "Sodio"
 ---
 
 El 5 de abril de 1930, el Mahatma Gandhi llegó caminando a la costa de Dandi, en el estado de Guyarat, tras 24 días y 385 kilómetros a pie. Se agachó en la orilla, recogió un puñado de sal del suelo húmedo y declaró que los indios tenían derecho a hacer la suya propia. La ley colonial británica hacía ilegal producir o vender sal sin pagar impuestos a la corona. En las semanas siguientes, más de 60.000 personas fueron arrestadas por desafiar el monopolio. La sal —un mineral que cualquier ser humano puede obtener dejando evaporar el mar al sol— era tan valiosa para el Imperio que requería leyes para controlarla.

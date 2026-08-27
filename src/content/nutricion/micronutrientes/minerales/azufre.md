@@ -4,6 +4,8 @@ description: "Azufre: es el tercer mineral más abundante del cuerpo, cuyas nece
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/azufre_portada.jpg"
+imageAlt: "Azufre"
 ---
 
 El olor a ajo recién cortado, el ambiente químico de una peluquería cuando alguien se hace la permanente, el vapor de los géiseres que los romanos asociaban con el inframundo. Todos son compuestos de azufre. Durante siglos, el azufre fue sinónimo de fuego y castigo divino —en la Biblia se llama «azufre y fuego» lo que destruyó Sodoma—, y los alquimistas medievales lo consideraban uno de los tres principios fundamentales de la materia. Lo que nadie anticipó entonces es que ese mismo elemento era también lo que da resistencia al cabello, protege las células del daño oxidativo y participa en el metabolismo de prácticamente todos los órganos del cuerpo.

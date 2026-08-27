@@ -4,6 +4,8 @@ description: "Fósforo: es el mineral del ATP, el ADN y las membranas celulares;
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/fosforo_portada.jpg"
+imageAlt: "Fósforo"
 ---
 
 En 1669, el alquimista alemán Hennig Brand llevaba meses convencido de que había dado con el ingrediente secreto de la piedra filosofal: la orina humana. Tras hervir cincuenta cubos, concentrar el residuo y calentarlo durante horas, no obtuvo oro. Lo que salió fue una cera blanca que brillaba sola en la oscuridad. La llamó *phosphorus* —del griego «portador de luz»— y lo mantuvo en secreto durante años. Era el primer elemento químico que un ser humano identificado por nombre descubría deliberadamente —aunque lo que buscaba fuera el oro.

@@ -4,6 +4,8 @@ description: "Potasio: es el electrolito que regula la presión arterial y activ
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/potasio_portada.jpg"
+imageAlt: "Potasio"
 ---
 
 En 1807, el químico inglés Humphry Davy pasó corriente eléctrica por hidróxido de potasio fundido y vio aparecer en el electrodo unas bolitas plateadas que ardían solas al contacto con el aire. Al contacto con la humedad, algunas explotaban. Davy tenía 29 años y acababa de aislar por primera vez un metal a partir de un compuesto mediante electricidad —una técnica que él mismo había inventado—. Lo llamó *potassium*, del inglés *potash*: la ceniza de plantas que los jaboneros hervían en calderos desde hacía siglos sin saber qué contenía. En tres meses, con el mismo método, aislaría también el sodio.

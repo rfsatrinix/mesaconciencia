@@ -4,6 +4,8 @@ description: "Magnesio: es cofactor de más de 300 enzimas y de cada reacción q
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/magnesio_portada.jpg"
+imageAlt: "Magnesio"
 ---
 
 En 1618, un granjero llamado Henry Wicker descubrió que su ganado se negaba a beber en un manantial cercano a la localidad inglesa de Epsom, en Surrey: el líquido era amargo. Él lo probó de todas formas y comprobó que tenía un efecto laxante potente. En las décadas siguientes, médicos e intelectuales de toda Inglaterra empezaron a viajar hasta Epsom para «tomar las aguas»: a principios del siglo XVIII era uno de los balnearios más concurridos de Gran Bretaña, y su extracto concentrado —la «sal de Epsom»— se convirtió en un remedio casero extendido por toda Europa. Lo que nadie sabía entonces es que el principio activo de ese manantial amargo era el sulfato de magnesio, y que el mismo mineral que provocaba diarrea en dosis altas era el cofactor de más de 300 reacciones enzimáticas del cuerpo humano.

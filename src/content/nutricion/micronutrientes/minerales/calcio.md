@@ -4,6 +4,8 @@ description: "Calcio: es el mineral más abundante del cuerpo humano, esencial p
 categoria: "Minerales"
 draft: false
 date: 2026-07-03
+image: "./fotos/calcio_portada.jpg"
+imageAlt: "Calcio"
 ---
 
 En 1882, el fisiólogo Sydney Ringer llevaba meses en su laboratorio del University College Hospital de Londres intentando mantener vivos corazones de rana aislados de su cuerpo. La idea era simple: si lograba que un corazón siguiera latiendo en una solución artificial, podría estudiar exactamente qué necesita para funcionar. Lo que no esperaba es que la clave la diera un error de su asistente. El asistente había estado preparando las soluciones directamente del grifo en lugar de usar el destilado prescrito. Los corazones latían mejor con la solución equivocada. Ringer pasó el año siguiente identificando qué tenía el grifo de Londres que el destilado no tenía: calcio.

@@ -4,6 +4,8 @@ description: "Selenio: es el oligoelemento que tu cuerpo integra como aminoácid
 categoria: "Oligoelementos"
 draft: false
 date: 2026-06-30
+image: "./fotos/selenio_portada.jpg"
+imageAlt: "Selenio"
 ---
 
 En los ranchos de Wyoming y Dakota del Sur, en la primera mitad del siglo XX, los ganaderos conocían bien un síndrome sin nombre oficial: caballos y vacas que perdían el pelo y las pezuñas, se volvían ciegos, se tambaleaban y morían. Lo llamaban «mal de los álcalis». Décadas después descubrirían la causa: los suelos de esas praderas acumulaban tanto selenio que las plantas que crecían en ellos lo incorporaban hasta concentraciones tóxicas para los animales que las pastaban.

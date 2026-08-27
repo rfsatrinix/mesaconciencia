@@ -4,6 +4,8 @@ description: "Yodo: es el oligoelemento exclusivo de las hormonas tiroideas T4 y
 categoria: "Oligoelementos"
 draft: false
 date: 2026-07-03
+image: "./fotos/yodo_portada.jpg"
+imageAlt: "Yodo"
 ---
 
 El nombre viene del griego *ioeides* (ἰοειδής): de color violeta. En 1811, el fabricante de salitre Bernard Courtois estaba purificando cenizas de algas marinas cuando añadió ácido sulfúrico en exceso por error. Un vapor violeta oscuro surgió de la mezcla y se condensó en cristales brillantes sobre las superficies frías del laboratorio. Gay-Lussac y Davy estudiaron el sólido en los años siguientes y reconocieron un elemento nuevo. Davy propuso llamarlo *iodine* —yodo, en español— por el color de sus vapores.

@@ -4,6 +4,8 @@ description: "Zinc: es el segundo oligoelemento más abundante en el cuerpo, ese
 categoria: "Oligoelementos"
 draft: false
 date: 2026-07-03
+image: "./fotos/zinc_portada.jpg"
+imageAlt: "Zinc"
 ---
 
 En 1958, el médico Ananda Prasad recibe en Shiraz, Irán, a un paciente con anemia severa, el bazo enormemente agrandado y apariencia de niño de diez años. El problema es que el paciente tiene 21. Con apenas un metro de altura y genitales infantiles, Prasad busca la causa en la dieta. El hombre come prácticamente una sola cosa: pan sin levadura de trigo integral, cocido sin fermentar, con muy poca proteína animal. En los años siguientes, identificó docenas de casos iguales en zonas rurales de Irán y Egipto. Todos compartían la misma dieta monótona y el mismo cuadro: adultos que habían dejado de crecer en la infancia.

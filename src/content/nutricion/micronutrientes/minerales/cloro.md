@@ -4,6 +4,8 @@ description: "Cloro: es el electrolito que produce el ácido del estómago, tran
 categoria: "Minerales"
 draft: false
 date: 2026-07-04
+image: "./fotos/cloro_portada.jpg"
+imageAlt: "Cloro"
 ---
 
 En 1979, el fabricante estadounidense Syntex reformuló su leche artificial para bebés reduciendo el contenido de cloruro para ajustarse a los límites de sodio que marcaban las guías de la época. Nadie relacionó el cambio con un riesgo. En los meses siguientes, cientos de lactantes alimentados exclusivamente con esa fórmula empezaron a desarrollar un cuadro extraño: retraso del desarrollo, apatía, apetito escaso, alteración del equilibrio ácido-base en sangre. Cuando la FDA investigó, encontró que la fórmula tenía un contenido de cloruro por debajo del mínimo necesario para los bebés. Era el primer y único caso documentado en la historia de una deficiencia de cloro por ingesta dietética insuficiente en humanos.

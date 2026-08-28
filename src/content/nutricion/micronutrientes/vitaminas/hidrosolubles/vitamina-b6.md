@@ -4,6 +4,8 @@ description: "Vitamina B6: es el cofactor de más de 160 reacciones enzimáticas
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminab6_portada.jpg"
+imageAlt: "Vitamina B6"
 ---
 
 En los primeros años de la década de 1950, varios hospitales de Estados Unidos empezaron a recibir bebés con convulsiones inexplicables. Los niños tenían buen aspecto general, crecían con normalidad y no respondían a ninguno de los anticonvulsivos disponibles. La causa tardó en aparecer: todos habían sido alimentados exclusivamente con la misma fórmula infantil comercial, que había pasado por un proceso de esterilización térmica más intenso de lo habitual. El calor había destruido casi toda la vitamina B6 del preparado. Cuando los médicos administraron piridoxina a los bebés afectados, las convulsiones cesaron en minutos. Por primera vez se había visto que la diferencia entre un cerebro que funciona y uno que falla puede ser simplemente una vitamina.

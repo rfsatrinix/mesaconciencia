@@ -4,6 +4,8 @@ description: "Germanio: es el ultraoligoelemento sin función biológica confirm
 categoria: "Ultraoligoelementos"
 draft: false
 date: 2026-07-04
+image: "./fotos/germanio_portada.jpg"
+imageAlt: "Germanio"
 ---
 
 En 1980, un investigador japonés llamado Kazuhiko Asai publicó un libro titulado *Miracle Cure: Organic Germanium*. Asai había dedicado años a desarrollar un compuesto de germanio propio al que llamó **Ge-132** y afirmaba que podía tratar el cáncer, la artritis y el glaucoma mejorando el transporte de oxígeno a los tejidos. El libro se tradujo a varios idiomas, llegó a Estados Unidos, Países Bajos y Alemania, y desencadenó un mercado de suplementos de germanio. El problema fue que muchos de los productos no contenían el Ge-132 que Asai había estudiado, sino la forma inorgánica del germanio, mucho más barata de producir —el **dióxido de germanio**—.

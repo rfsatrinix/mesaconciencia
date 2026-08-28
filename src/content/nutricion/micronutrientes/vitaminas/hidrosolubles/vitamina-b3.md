@@ -4,6 +4,8 @@ description: "Vitamina B3: es la niacina, la coenzima del metabolismo energétic
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-03
+image: "./fotos/vitaminab3_portada.jpg"
+imageAlt: "Vitamina B3"
 ---
 
 En el siglo XVI, el maíz cruzó el Atlántico desde México hasta Europa en los barcos de los conquistadores españoles. Lo que no viajó fue la técnica con la que los pueblos mesoamericanos lo preparaban desde hacía tres mil años: remojar el grano durante horas en una solución alcalina de cal viva antes de cocinarlo —un proceso que los aztecas llamaban *nixtamalli* y que hoy conocemos como **nixtamalización**—. Esa omisión involuntaria liberó una epidemia. A medida que el maíz sin tratar se convertía en el sustento principal de los pobres rurales de España, Italia y el sur de Francia —y más tarde del sur de Estados Unidos—, millones de personas desarrollaron una enfermedad de síntomas violentos cuya causa tardó tres siglos en comprenderse. La respuesta, siempre, estaba en la cal.

@@ -4,6 +4,8 @@ description: "Vitamina B5: es el ácido pantoténico, la vitamina de distribuci�
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminab5_portada.jpg"
+imageAlt: "Vitamina B5"
 ---
 
 En 1933, el bioquímico Roger Williams llevaba semanas alimentando cultivos de levadura con mezclas de nutrientes purificados cuando observó algo que no cuadraba: los hongos no crecían con normalidad aunque recibieran todas las vitaminas entonces conocidas. Faltaba algo. Lo buscó donde sus predecesores habían encontrado otras vitaminas: en extractos de hígado, en huevo, en levadura, en semillas. Lo encontró en todos. Seis años y cientos de muestras después publicó la estructura del compuesto y lo bautizó con el griego *pantothen*: «de todas partes». No era una metáfora. Era la descripción más literal que podía hacer de lo que había observado: la sustancia estaba en absolutamente todo lo que analizó.

@@ -4,6 +4,8 @@ description: "Vitamina K: es la vitamina liposoluble que activa la coagulación 
 categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminak_portada.jpg"
+imageAlt: "Vitamina K"
 ---
 
 A principios de los años veinte, los ganaderos de Alberta y Dakota del Norte empezaban a perder reses sin explicación. Animales sanos morían de hemorragia después de procedimientos de rutina —una descornación, una castración, un corte menor—. El patrón tardó años en aclararse: solo los que habían comido heno de trébol dulce mal fermentado presentaban el problema. Esa pista llevó al bioquímico Karl Paul Link a aislar, en 1940, el compuesto culpable —el **dicumarol**—, que bloqueaba una vitamina identificada apenas una década antes: la llamaban *Koagulationsvitamin*, vitamina K, precisamente por ese papel en la coagulación que el trébol fermentado saboteaba. El dicumarol llevó a la warfarina —un raticida primero, un anticoagulante aprobado para humanos en 1954—. Hoy es uno de los fármacos más prescritos del mundo para prevenir trombos en personas con fibrilación auricular o válvulas cardíacas mecánicas.

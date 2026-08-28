@@ -4,6 +4,8 @@ description: "Boro: es el ultraoligoelemento con mayor evidencia humana; modula 
 categoria: "Ultraoligoelementos"
 draft: false
 date: 2026-07-04
+image: "./fotos/boro_portada.jpg"
+imageAlt: "Boro"
 ---
 
 A finales del siglo XIX, el ácido bórico era tan habitual en la industria alimentaria que resultaba difícil evitarlo. Los fabricantes lo usaban para conservar la mantequilla, la leche, la carne y el pescado: era barato, eficaz y no alteraba el sabor. El problema llegó en 1904, cuando el químico Harvey Washington Wiley organizó lo que la prensa bautizó como el «escuadrón de veneno» —voluntarios jóvenes que consumían, bajo supervisión médica, los aditivos alimentarios más comunes de la época en dosis controladas para detectar sus efectos—. El ácido bórico produjo náuseas, pérdida de apetito y signos de daño renal a dosis altas. Fue suficiente para que la ley federal prohibiera su uso como conservante. Lo que Wiley no perseguía pero esos experimentos establecieron fue el primer dato de tolerancia humana al boro: el organismo maneja sin consecuencias varios miligramos al día, y ese es exactamente el rango que cualquier dieta con frutas y [frutos secos](/alimentos/frutos-secos) aporta de forma natural.

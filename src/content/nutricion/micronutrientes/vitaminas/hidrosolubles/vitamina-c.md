@@ -4,6 +4,8 @@ description: "Vitamina C: es el ácido ascórbico, indispensable para el coláge
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminac_portada.jpg"
+imageAlt: "Vitamina C"
 ---
 
 Un perro adulto produce entre 40 y 80 mg de vitamina C por kilogramo de peso al día, sin dieta especial ni suplementos. Una cabra sometida a estrés puede superar los 200 mg/kg. La práctica totalidad de los mamíferos tienen en el hígado la maquinaria enzimática para fabricar vitamina C a partir de glucosa. Tu hígado tiene esa misma maquinaria —o debería tenerla—: una mutación puntual inutilizó el gen responsable del último paso de esa síntesis —el **GULO**— hace aproximadamente 63 millones de años, en el linaje de los primates. El gen sigue ahí en tu genoma, intacto en secuencia pero incapaz de funcionar. No produce nada. Desde entonces, los primates dependemos de la dieta para obtener una molécula que la mayor parte de los mamíferos fabrican sin esfuerzo.

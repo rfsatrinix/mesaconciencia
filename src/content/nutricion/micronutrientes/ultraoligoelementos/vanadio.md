@@ -4,6 +4,8 @@ description: "Vanadio: es el ultraoligoelemento con mayor interés clínico por 
 categoria: "Ultraoligoelementos"
 draft: false
 date: 2026-07-04
+image: "./fotos/vanadio_portada.jpg"
+imageAlt: "Vanadio"
 ---
 
 A principios de los años ochenta, un grupo de investigadores observó algo llamativo en ratas diabéticas a las que habían administrado compuestos de vanadio: el nivel de azúcar en sangre —la **glucemia**— descendía de forma notable y reproducible. El efecto recordaba tanto al de la insulina que los investigadores lo identificaron como un compuesto capaz de reproducir parte de los efectos de la insulina en las células sin ser insulina —un **insulinomimético**—. La publicación de esos datos desencadenó una línea de investigación que a finales de los años noventa había llegado ya a los primeros ensayos clínicos en personas con diabetes tipo 2. Los resultados confirmaron lo que los experimentos con animales habían anticipado: dosis altas de compuestos de vanadio reducían la glucemia. También confirmaron el problema central: esa dosis eficaz era entre 500 y 2500 veces superior a lo que cualquier dieta aporta de forma natural.

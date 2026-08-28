@@ -4,6 +4,8 @@ description: "Vitamina B2: es la riboflavina, el cofactor que activa la B6, el f
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-03
+image: "./fotos/vitaminab2_portada.jpg"
+imageAlt: "Vitamina B2"
 ---
 
 En 1934, el bioquímico alemán Richard Kuhn procesó 5.400 litros de suero de leche desnatada —el líquido amarillo-verdoso que sobra al fabricar queso— para aislar un pigmento amarillo que nadie había podido purificar antes. El resultado fue apenas un gramo de una sustancia cristalina de un amarillo limón intenso. Ese suero, que los queseros llevaban siglos desechando o dando a los cerdos, era una de las concentraciones naturales más ricas del pigmento. Kuhn lo llamó *lactoflavina* —*flavus* es latín para amarillo—. Cuatro años después recibió el Premio Nobel de Química. Hoy llamamos a esa sustancia riboflavina, y es la que tiñe tu orina de amarillo intenso cada vez que tomas un suplemento que la contiene.

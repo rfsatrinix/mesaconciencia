@@ -4,6 +4,8 @@ description: "Vitamina D: es la única vitamina que la piel sintetiza con el sol
 categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminad_portada.jpg"
+imageAlt: "Vitamina D"
 ---
 
 A finales del siglo XIX, en los barrios obreros de Glasgow y Manchester, el raquitismo era tan frecuente entre los niños que los médicos casi lo consideraban inevitable. Las autopsias de la época mostraban lesiones óseas en más de la mitad de los niños menores de dos años. Las calles eran estrechas, el humo de las fábricas tapaba el cielo y las familias vivían entre paredes durante casi todo el día. El resultado: piernas arqueadas, costillas deformadas, cráneos que tardaban años en endurecerse. El aceite de hígado de bacalao revertía los síntomas de forma fiable, pero nadie entendía qué tenía en común ese aceite con el sol. La respuesta llegó en los años veinte del siglo XX, cuando se identificó la vitamina D como el factor común entre ambas fuentes.

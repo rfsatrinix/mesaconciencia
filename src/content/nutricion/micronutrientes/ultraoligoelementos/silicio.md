@@ -4,6 +4,8 @@ description: "Silicio: es el ultraoligoelemento más abundante en los vegetales,
 categoria: "Ultraoligoelementos"
 draft: false
 date: 2026-07-04
+image: "./fotos/silicio_portada.jpg"
+imageAlt: "Silicio"
 ---
 
 El silicio es el segundo elemento más abundante en la corteza terrestre, después del oxígeno, y el que más abunda en la dieta vegetal entre los cuatro [ultraoligoelementos](/nutricion/micronutrientes/ultraoligoelementos) de esta sección. Está en la avena, en la cebada, en el arroz integral, en prácticamente cualquier cereal. El problema es que en los cereales el silicio viene encerrado en las paredes celulares en largas cadenas de moléculas entrelazadas y rígidas —una **forma polimérica**— que tu intestino no puede descomponer —los **fitolitos**—: menos del 5 % de lo que ingieres en un bol de avena llega a la sangre. En cambio, una judía verde, un plátano o, sorprendentemente, una caña de cerveza aportan cantidades menores en total, pero en la forma soluble que tu intestino sí puede aprovechar. Durante la fermentación, las levaduras convierten la sílice insoluble de la cebada en la forma activa. El cereal con más silicio aporta el menos aprovechable. La verdura con menos silicio aporta más.

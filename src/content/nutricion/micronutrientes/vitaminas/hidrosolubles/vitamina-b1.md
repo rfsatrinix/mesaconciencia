@@ -4,6 +4,8 @@ description: "Vitamina B1: es la tiamina, la primera vitamina identificada; cone
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-03
+image: "./fotos/vitaminab1_portada.jpg"
+imageAlt: "Vitamina B1"
 ---
 
 A finales del siglo XIX, el médico holandés Christiaan Eijkman trabajaba en el hospital militar de Batavia —hoy Yakarta— investigando el beriberi, una enfermedad que paralizaba y mataba a miles de personas en toda Asia. Un día observó que los pollos del patio arrastraban las patas igual que sus pacientes. Rastreando la causa, descubrió que el cocinero los había estado alimentando con arroz blanco pulido de las sobras del hospital. Cuando un nuevo cocinero retomó el salvado, los pollos se recuperaron. Eijkman, sin proponérselo, había descubierto que el proceso de retirar el salvado y el germen del grano para obtener arroz blanco —el **pulido**— eliminaba algo esencial —algo tan pequeño que tardaría décadas en aislarse—.

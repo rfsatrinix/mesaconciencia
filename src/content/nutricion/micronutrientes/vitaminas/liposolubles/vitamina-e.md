@@ -4,6 +4,8 @@ description: "Vitamina E: es el antioxidante liposoluble que protege las membran
 categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminae_portada.jpg"
+imageAlt: "Vitamina E"
 ---
 
 En 1922, Herbert Evans y Katherine Bishop, de la Universidad de California, estaban estudiando la alimentación de las ratas. Los animales comían, engordaban y parecían sanos, pero había un problema que no entendían: las hembras gestaban con normalidad, pero los fetos morían reabsorbidos antes de nacer. La pauta se repetía en todos los animales que no recibían extracto de lechuga o de germen de trigo. Ese extracto contenía un factor liposoluble desconocido que llamaron factor X —más tarde vitamina E—. El nombre científico que acuñaron para el compuesto activo revela lo que pensaron que habían descubierto: **tocoferol**, del griego *tokos* (parto) y *pherein* (traer). Las décadas siguientes demostraron que la vitamina E no tiene ningún efecto sobre la fertilidad humana, pero sí revelaron un papel mucho más fundamental: proteger las membranas de cada célula del organismo del daño del oxígeno.

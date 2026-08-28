@@ -4,6 +4,8 @@ description: "Vitamina B9: es el folato, indispensable para fabricar ADN y metil
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminab9_portada.jpg"
+imageAlt: "Vitamina B9"
 ---
 
 En 1991, el Medical Research Council publicó el mayor ensayo aleatorizado realizado hasta entonces sobre malformaciones congénitas. El resultado fue tan claro que los investigadores detuvieron el estudio antes de tiempo: sería poco ético seguir sin darle el tratamiento al grupo de control. Las mujeres que habían tomado un suplemento concreto antes de quedarse embarazadas tenían un 72 % menos de probabilidades de tener un hijo con el tubo neural mal cerrado. El suplemento era ácido fólico.

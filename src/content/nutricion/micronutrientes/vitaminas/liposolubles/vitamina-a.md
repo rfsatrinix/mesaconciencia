@@ -4,6 +4,8 @@ description: "Vitamina A: es el retinol y los retinoides, esenciales para la vis
 categoria: "Vitaminas liposolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminaa_portada.jpg"
+imageAlt: "Vitamina A"
 ---
 
 En enero de 1913, el explorador australiano Douglas Mawson caminaba solo por la Antártida hacia el campamento base. Llevaba semanas comiendo hígado de perro de trineo: su compañero Belgrave Ninnis había caído a una grieta del glaciar con casi todas las provisiones, y los perros eran lo único que quedaba. Los síntomas que Mawson anotó en su diario los reconocería hoy cualquier médico: el cabello se le caía a puñados, la piel de los pies se le desprendía en láminas enteras, perdía peso sin parar y apenas podía mantenerse en pie. Su compañero Xavier Mertz había muerto con síntomas parecidos semanas antes. El diagnóstico más aceptado: intoxicación aguda por vitamina A. Los hígados de los perros del trineo concentran retinol a niveles que el organismo humano no puede manejar sin consecuencias.

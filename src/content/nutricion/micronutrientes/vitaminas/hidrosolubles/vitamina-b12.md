@@ -4,6 +4,8 @@ description: "Vitamina B12: es la cobalamina, única vitamina con cobalto en su 
 categoria: "Vitaminas hidrosolubles"
 draft: false
 date: 2026-07-04
+image: "./fotos/vitaminab12_portada.jpg"
+imageAlt: "Vitamina B12"
 ---
 
 En 1926, los médicos George Minot y William Murphy publicaron algo que la comunidad científica recibió con escepticismo: habían curado la anemia perniciosa —una enfermedad que hasta entonces era mortal— haciendo que sus pacientes comieran grandes cantidades de hígado crudo. No sabían qué había en el hígado que lo conseguía. Solo sabían que funcionaba. En 1934 recibieron el Premio Nobel. Pasaron otros catorce años hasta que dos equipos independientes lograron aislar la molécula responsable en 1948. La sorpresa fue su estructura: una vitamina con un átomo de metal —cobalto— en el centro.

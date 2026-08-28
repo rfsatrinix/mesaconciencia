@@ -18,14 +18,16 @@ Las ocho vitaminas B comparten un rasgo funcional: actúan como moléculas peque
 
 | Vitamina | Nombre | Función principal |
 |---|---|---|
-| B1 | Tiamina | Convierte el azúcar que comes en energía; transmisión nerviosa |
-| B2 | Riboflavina | Produce energía dentro de las mitocondrias |
-| B3 | Niacina | Fabrica NAD⁺ y NADP⁺; participa en más de 400 reacciones de producción de energía |
-| B5 | Ácido pantoténico | Forma parte de la coenzima A; regula el metabolismo de ácidos grasos |
-| B6 | Piridoxina | Convierte unos aminoácidos en otros; participa en la fabricación de neurotransmisores (serotonina, dopamina, GABA) |
-| B7 | Biotina | Participa en la fabricación de ácidos grasos y de glucosa a partir de aminoácidos |
-| B9 | Ácido fólico / folato | Participa en la fabricación del material genético y en la división celular; es necesaria para la formación de glóbulos rojos |
-| [B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) | Cobalamina | Participa en la fabricación del material genético y en la función neurológica; interviene en el metabolismo del folato |
+| B1 | [Tiamina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b1) | Convierte el azúcar que comes en energía; transmisión nerviosa |
+| B2 | [Riboflavina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b2) | Produce energía dentro de las mitocondrias |
+| B3 | [Niacina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3) | Fabrica NAD⁺ y NADP⁺; participa en más de 400 reacciones de producción de energía |
+| B5 | [Ácido pantoténico](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b5) | Forma parte de la coenzima A; regula el metabolismo de ácidos grasos |
+| B6 | [Piridoxina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6) | Convierte unos aminoácidos en otros; participa en la fabricación de neurotransmisores (serotonina, dopamina, GABA) |
+| B8 | [Biotina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b8) | Participa en la fabricación de ácidos grasos y de glucosa a partir de aminoácidos |
+| B9 | [Ácido fólico / folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) | Participa en la fabricación del material genético y en la división celular; es necesaria para la formación de glóbulos rojos |
+| B12 | [Cobalamina](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) | Participa en la fabricación del material genético y en la función neurológica; interviene en el metabolismo del folato |
+
+*Nota sobre la biotina: según la fuente, puedes encontrarla referenciada como vitamina B7 o como vitamina B8. Ambas denominaciones son correctas; en este sitio usamos B8.*
 
 Las más críticas en la práctica son la B9 y la B12. El ácido fólico tiene demanda máxima desde las primeras semanas de gestación: la división celular acelerada del feto lo consume a una velocidad que la mayoría de las mujeres no cubre con la dieta habitual, y su déficit en esas semanas —a menudo antes de que el embarazo sea evidente— puede impedir el cierre completo de la estructura que origina el cerebro y la médula espinal del feto —los **defectos del tubo neural**—. La B12 es la única prácticamente restringida a las fuentes de origen animal.
 
@@ -63,7 +65,7 @@ La EFSA ha establecido ingestas de referencia (PRI) o ingestas adecuadas (IA) pa
 | B3 (niacina) | 16,5 mg NE/día (hombres) / 13,3 mg NE/día (mujeres) | 10 mg/día (suplementos) |
 | B5 (ácido pantoténico) | 5 mg/día | No establecido |
 | B6 (piridoxina) | 1,7 mg/día (hombres) / 1,6 mg/día (mujeres) | 25 mg/día |
-| B7 (biotina) | 40 μg/día | No establecido |
+| B8 (biotina) | 40 μg/día | No establecido |
 | B9 (ácido fólico) | 330 μg DFE/día | 1.000 μg/día (suplementos sintéticos) |
 | B12 (cobalamina) | 4 μg/día | No establecido |
 
@@ -73,7 +75,7 @@ La EFSA ha establecido ingestas de referencia (PRI) o ingestas adecuadas (IA) pa
 
 **Las carnes y las vísceras** —especialmente el hígado de ternera— concentran las vitaminas B1, B2, B3, B5, B6, B9 y B12 en cantidades que cubren gran parte de las necesidades diarias con una sola ración de 100 g.
 
-**Los huevos** aportan B2, B5, B7 (biotina) y B12. La biotina de la clara cruda no se absorbe porque la clara contiene un compuesto que la bloquea —la **avidina**—; el calor de la cocción la destruye, por eso el huevo cocido sí te aporta la biotina disponible.
+**Los huevos** aportan B2, B5, B8 (biotina) y B12. La biotina de la clara cruda no se absorbe porque la clara contiene un compuesto que la bloquea —la **avidina**—; el calor de la cocción la destruye, por eso el huevo cocido sí te aporta la biotina disponible.
 
 **Las legumbres** son especialmente ricas en B9 (ácido fólico) y aportan también B1, B2 y B6; la cantidad que tu intestino realmente absorbe de lo que contienen —la **biodisponibilidad**— mejora significativamente con el remojo prolongado.
 

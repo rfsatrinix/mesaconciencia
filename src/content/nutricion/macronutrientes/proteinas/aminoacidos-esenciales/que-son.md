@@ -84,6 +84,4 @@ Tu cuerpo puede fabricar once de los veinte aminoácidos que necesita. Los nueve
 
 ## Referencias
 
-## Referencias
-
 - <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>

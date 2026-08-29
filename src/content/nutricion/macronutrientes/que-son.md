@@ -50,6 +50,4 @@ La pregunta útil no es qué macronutriente eliminar, sino de qué calidad son l
 
 ## Referencias
 
-## Referencias
-
 - <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1462" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for carbohydrates. 2010.</a>; <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for fats. 2010.</a>; <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values for protein. 2012.</a>

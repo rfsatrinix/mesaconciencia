@@ -105,6 +105,4 @@ Las nueve vitaminas hidrosolubles se descubrieron a través de las enfermedades 
 
 ## Referencias
 
-## Referencias
-
 - <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>

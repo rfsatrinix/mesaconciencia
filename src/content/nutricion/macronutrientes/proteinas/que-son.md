@@ -83,6 +83,4 @@ La proteína no es solo músculo. Es la materia prima de tus enzimas, tus hormon
 
 ## Referencias
 
-## Referencias
-
 - <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2012.2557" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for protein. EFSA Journal. 2012.</a>

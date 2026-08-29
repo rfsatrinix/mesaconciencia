@@ -87,6 +87,4 @@ Las vitaminas liposolubles son las únicas para las que tu cuerpo construyó res
 
 ## Referencias
 
-## Referencias
-
 - <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>

@@ -42,4 +42,5 @@ Cuanto más variada es tu dieta, menos probable es que falte alguno.
 
 ## Referencias
 
-- <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>; <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10064807/" target="_blank" rel="noopener noreferrer">Iqbal et al. Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants. Frontiers in Nutrition. 2023.</a>
+- <a href="https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values" target="_blank" rel="noopener noreferrer">EFSA — Dietary Reference Values</a>
+- <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10064807/" target="_blank" rel="noopener noreferrer">Iqbal et al. Global and regional prevalence of vitamin D deficiency in population-based studies from 2000 to 2022: A pooled analysis of 7.9 million participants. Frontiers in Nutrition. 2023.</a>

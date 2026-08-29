@@ -110,7 +110,7 @@ La reducción del glutatión incrementa el daño que ocurre cuando los radicales
 
 La S-adenosilmetionina (SAMe) se comercializa como suplemento —distinto del aminoácido L-metionina— con tres usos respaldados por ensayos clínicos de calidad moderada: depresión leve a moderada, el desgaste del cartílago articular que provoca dolor en las articulaciones —la **osteoartritis**— y la inflamación del hígado por acumulación de grasa sin relación con el alcohol —la **esteatohepatitis no alcohólica**—. En los tres casos, los resultados son positivos pero no concluyentes, y los estudios son insuficientes para hacer recomendaciones firmes. Su ventaja sobre los antidepresivos en la depresión es que genera menos efectos secundarios; su desventaja es el coste y la variabilidad de absorción oral.
 
-El suplemento de L-metionina no es equivalente al SAMe: el aminoácido libre debe pasar por el ciclo de activación en el hígado antes de estar disponible como donante de metilo, con menor eficiencia en personas con función hepática comprometida.
+El suplemento de L-metionina no es equivalente al SAMe: el aminoácido libre debe pasar por el ciclo de activación en el hígado antes de estar disponible como donante de metilo, con menor eficiencia en personas cuyo hígado no funciona bien.
 
 Kilmer McCully fue expulsado de Harvard por señalar un aminoácido que nadie conocía. Cincuenta años después, todavía no está claro si la homocisteína que genera es la causa del problema cardiovascular o solo su señal. Lo que sí está claro es que pocas moléculas de la dieta tocan tantos procesos a la vez: la síntesis de tus proteínas, la regulación de tus genes, tu capacidad antioxidante y la salud de tu hígado. Es el aminoácido más omnipresente de tu bioquímica.
 
@@ -119,4 +119,4 @@ Kilmer McCully fue expulsado de Harvard por señalar un aminoácido que nadie co
 ## Referencias
 
 - <a href="https://iris.who.int/handle/10665/43411" target="_blank" rel="noopener noreferrer">WHO/FAO/UNU. Protein and Amino Acid Requirements in Human Nutrition. WHO Technical Report Series 935. 2007.</a>
-- <a href="https://pubmed.ncbi.nlm.nih.gov/12509593/" target="_blank" rel="noopener noreferrer">Papakostas GI et al. S-adenosyl methionine (SAMe) augmentation of serotonin reuptake inhibitors. Am J Psychiatry. 2010.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/20595412/" target="_blank" rel="noopener noreferrer">Papakostas GI et al. S-adenosyl methionine (SAMe) augmentation of serotonin reuptake inhibitors. Am J Psychiatry. 2010.</a>

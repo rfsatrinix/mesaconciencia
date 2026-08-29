@@ -34,7 +34,7 @@ A través de esos dos aminoácidos, el azufre participa en funciones muy distint
 
 La EFSA y la OMS no han establecido ingestas de referencia para el azufre como elemento. Las necesidades están determinadas exclusivamente por las de metionina y cisteína, que quedan cuantificadas dentro de los valores de referencia para las proteínas.
 
-La EFSA fija la ingesta de referencia combinada para metionina y cisteína en adultos en **13 mg/kg de peso corporal al día**. Para una persona de 70 kg, eso equivale a unos 910 mg al día de ambos aminoácidos azufrados juntos. Si tu dieta cubre las necesidades proteicas totales —0,83 g de proteína por kg de peso corporal al día en adultos— alcanza ese umbral sin cálculos adicionales.
+La EFSA fija la ingesta de referencia combinada para metionina y cisteína en adultos en **15 mg/kg de peso corporal al día**. Para una persona de 70 kg, eso equivale a unos 1050 mg al día de ambos aminoácidos azufrados juntos. Si tu dieta cubre las necesidades proteicas totales —0,83 g de proteína por kg de peso corporal al día en adultos— alcanza ese umbral sin cálculos adicionales.
 
 ## Fuentes alimentarias de azufre
 

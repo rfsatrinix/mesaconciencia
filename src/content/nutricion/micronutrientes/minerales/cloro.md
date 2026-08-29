@@ -76,4 +76,4 @@ El cloro no falta nunca en la dieta: lo garantiza la sal. Lo que puede fallar no
 
 ## Referencias
 
-- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5778" target="_blank" rel="noopener noreferrer">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA). Dietary Reference Values for sodium and chloride. EFSA Journal. 2019.</a>
+- <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2019.5779" target="_blank" rel="noopener noreferrer">EFSA Panel on Nutrition, Novel Foods and Food Allergens (NDA). Dietary Reference Values for sodium and chloride. EFSA Journal. 2019.</a>

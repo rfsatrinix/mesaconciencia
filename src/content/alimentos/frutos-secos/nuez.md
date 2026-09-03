@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nuez"
 description: "Nuez: es el fruto seco con más omega-3 vegetal, la evidencia cardiovascular más amplia del grupo y compuestos bioactivos que se pierden si la tuestas."
 date: 2026-07-23
@@ -45,49 +45,51 @@ Datos por cada 100 g de nuez cruda sin cáscara:
 
 ## La fuente vegetal de omega-3 de la despensa
 
-Los ácidos grasos omega-3 no son una sola molécula. Hay tres formas con relevancia para la salud: el tipo de cadena corta que se encuentra en los vegetales —el **ácido alfa-linolénico (ALA)**— y dos formas de cadena larga —el **EPA** y el **DHA**— que se concentran en el pescado azul y que la mayoría de estudios asocian a protección cardiovascular y neurológica.
+Los ácidos grasos omega-3 no son una sola molécula. Hay tres formas con relevancia para la salud: el tipo de cadena corta que se encuentra en los vegetales —el **ácido alfa-linolénico (ALA)**— y dos formas de cadena larga —el **EPA** y el **DHA**— que se concentran en el pescado azul y que la mayoría de estudios asocian a protección del corazón y del sistema nervioso.
 
-La nuez contiene 9,1 g de ALA por cada 100 g de peso seco. Eso la convierte en la fuente de omega-3 vegetal más densa de la despensa habitual: dobla o triplica la cantidad de cualquier otro fruto seco. Una ración de 30 g —aproximadamente siete mitades— aporta unos 2,7 g de ALA, más del doble de la ingesta de referencia que la EFSA establece para un adulto.
+La nuez contiene 9,1 g de ALA por cada 100 g. Eso la convierte en la fuente de omega-3 vegetal más abundante de la despensa habitual: dobla o triplica la cantidad de cualquier otro fruto seco. Una ración de 30 g —aproximadamente siete mitades— aporta unos 2,7 g de ALA, más del doble de la cantidad diaria recomendada por la EFSA.
 
-Aquí entra el matiz que importa. Tu cuerpo convierte el ALA en EPA con una eficiencia de aproximadamente el 5-10 %, y en DHA con menos del 1-5 %. Comer nueces no equivale a comer salmón: la conversión es demasiado limitada para que el ALA sustituya al EPA y al DHA del [pescado azul](/alimentos) cuando tu ingesta de estos es baja.
+Aquí entra el matiz que importa. Tu cuerpo convierte el ALA en EPA con una eficiencia de aproximadamente el 5-10 %, y en DHA con menos del 1-5 %. Comer nueces no equivale a comer salmón: la conversión es demasiado limitada para que el ALA sustituya al EPA y al DHA del pescado azul cuando tomas poco.
 
-Dicho eso, el ALA tiene efectos biológicos propios, no solo como precursor. Y la proporción entre omega-6 y omega-3 en las nueces —aproximadamente 4:1— es mucho más favorable que la de la mayoría de aceites vegetales y que la de la dieta occidental típica, donde esa proporción suele rondar 15:1 o 20:1. Eso tiene consecuencias sobre la respuesta inflamatoria que van más allá de la conversión.
+Dicho eso, el ALA tiene efectos biológicos propios, no solo como precursor. Y la proporción entre omega-6 y omega-3 en las nueces —aproximadamente 4:1— es mucho más favorable que la de la mayoría de aceites vegetales y que la de la dieta occidental típica, donde esa proporción suele rondar 15:1 o 20:1. Eso tiene consecuencias sobre la inflamación que van más allá de la conversión.
 
 > Las nueces no son el salmón. Pero son la mejor fuente vegetal de omega-3 que puedes poner en la mesa sin pensar demasiado.
 
 ## La evidencia cardiovascular más sólida del grupo
 
-Las nueces son el fruto seco más estudiado en relación con la salud cardiovascular. La cantidad de ensayos clínicos, estudios de cohortes y metaanálisis con nueces como objeto específico no tiene equivalente en ningún otro fruto seco.
+Las nueces son el fruto seco más estudiado en relación con la salud cardiovascular. La cantidad de estudios con nueces como objeto específico no tiene equivalente en ningún otro fruto seco.
 
-El Nurses' Health Study, con más de 80.000 mujeres seguidas durante 14 años, encontró que consumir nueces cinco o más veces por semana se asociaba a una reducción del 35 % en el riesgo de infarto de miocardio fatal frente a quienes raramente las consumían. Los ensayos de intervención sobre el perfil lipídico son igualmente consistentes: varios metaanálisis calculan que una ración diaria de 28-30 g durante cuatro a ocho semanas reduce el tipo de colesterol asociado al riesgo cardiovascular —el **LDL**— entre un 7 % y un 10 %, sin modificar significativamente el colesterol total ni el HDL.
+El Nurses' Health Study, con más de 80.000 mujeres seguidas durante 14 años, encontró que consumir nueces cinco o más veces por semana se asociaba a una reducción del 35 % en el riesgo de infarto de miocardio fatal frente a quienes raramente las consumían.
 
-Lo que hace útil entender estos resultados es que los mecanismos que los explican no son uno solo. Las nueces actúan por cuatro vías distintas de forma simultánea:
+Los estudios sobre el colesterol apuntan en la misma dirección: una ración diaria de 28-30 g durante cuatro a ocho semanas reduce el tipo de colesterol que se asocia al riesgo de infarto o ictus —el **LDL**— entre un 7 % y un 10 %, sin modificar significativamente el colesterol total ni el HDL.
 
-**Los ácidos grasos omega-3** reducen los triglicéridos y tienen efecto antiinflamatorio directo sobre la pared arterial, independientemente de su conversión a EPA y DHA.
+Lo que hace útil entender estos resultados es que los mecanismos que los explican no son uno solo. Las nueces actúan por cuatro mecanismos distintos de forma simultánea:
+
+**Los ácidos grasos omega-3** reducen los triglicéridos y frenan la inflamación de la pared arterial, independientemente de si se convierten en EPA y DHA.
 
 El aminoácido más abundante en las nueces —la **arginina**— es la materia prima del compuesto gaseoso que regula el diámetro de tus vasos sanguíneos —el **óxido nítrico**—. Más arginina disponible significa más vasodilatación y menor tensión arterial.
 
-Compuestos con estructura similar al colesterol pero de origen vegetal —los **fitosteroles**— compiten con el colesterol por los mismos transportadores en tu intestino. Menos colesterol absorbido significa menos LDL circulante.
+Los compuestos de origen vegetal con estructura similar al colesterol —los **fitosteroles**— compiten con el colesterol en tu intestino para ser absorbidos. Tu cuerpo solo puede absorber una cantidad determinada de esteroles; si los fitosteroles ocupan ese espacio, entra menos colesterol en sangre y el LDL baja.
 
-**Los polifenoles** del pellejo tienen efecto antioxidante sobre las propias partículas de LDL. El LDL oxidado es mucho más dañino para la pared arterial que el LDL sin oxidar: cuando una partícula de LDL se oxida, activa una cascada inflamatoria que acelera la formación de placa. Reducir esa oxidación tiene consecuencias clínicas reales.
+Los compuestos con efecto antioxidante del pellejo —los **polifenoles**— actúan directamente sobre las partículas de LDL. El LDL oxidado es mucho más dañino para la pared arterial que el LDL sin oxidar: cuando una partícula de LDL se oxida, activa una reacción inflamatoria que acelera la acumulación de depósitos de grasa en las paredes de tus arterias —la **placa de ateroma**—. Reducir esa oxidación tiene consecuencias clínicas reales.
 
 > No hay un compuesto responsable. Es la combinación.
 
 ## Lo que pierdes si las tuestas o les quitas el pellejo
 
-La piel fina y marrón que envuelve cada mitad —el pellejo que mucha gente descarta porque es amargo— concentra el 90 % de los polifenoles de la nuez: los ellagitaninos y el ácido elágico que tienen el efecto antioxidante descrito en el apartado anterior, además de flavonoides como la quercetina y el kaempferol.
+La piel fina y marrón que envuelve cada mitad —el pellejo que mucha gente descarta porque es amargo— concentra el 90 % de los polifenoles de la nuez: los compuestos responsables del efecto antioxidante sobre el LDL descrito en la sección anterior, además de varios flavonoides.
 
-Ese amargor no es un defecto: es la señal química de los compuestos que hacen la nuez nutricionalmente más valiosa que las versiones blanqueadas.
-
-El tostado introduce un segundo problema. El ALA tiene tres dobles enlaces en su cadena —a diferencia del ácido oleico del aceite de oliva, que tiene uno—, lo que lo hace muy susceptible a la oxidación por calor. A temperaturas superiores a 150 °C, el ALA se degrada y pierde gran parte de su actividad biológica. El tostado también reduce los polifenoles de forma significativa.
-
-> Una nuez tostada a alta temperatura tiene menos omega-3 funcional y menos polifenoles que una cruda. La diferencia no es menor.
+Ese amargor no es un defecto: es la señal de los compuestos que hacen la nuez nutricionalmente más valiosa que las versiones blanqueadas.
 
 > La parte amarga es exactamente la que más importa.
 
+El tostado introduce un segundo problema. El ALA es mucho más frágil que el ácido oleico del aceite de oliva: su estructura química lo hace especialmente susceptible a la oxidación por calor. A temperaturas superiores a 150 °C, el ALA se degrada y pierde gran parte de su actividad biológica. El tostado también reduce los polifenoles de forma significativa.
+
+> Una nuez tostada a alta temperatura tiene menos omega-3 funcional y menos polifenoles que una cruda. La diferencia no es menor.
+
 ## ¿Cuántas nueces consumir y cómo?
 
-La ración que aparece en la mayoría de ensayos clínicos es de 28 a 30 g: aproximadamente siete mitades. A esa cantidad aportas unos 2,7 g de ALA, 196 kcal, 4,6 g de [proteína](/nutricion/macronutrientes/proteinas), 2 g de [fibra](/nutricion/fibra-alimenticia) y una dosis significativa de polifenoles y fitosteroles.
+La ración que aparece en la mayoría de estudios es de 28 a 30 g: aproximadamente siete mitades. A esa cantidad aportas unos 2,7 g de ALA, 196 kcal, 4,6 g de proteína, 2 g de fibra y una dosis significativa de polifenoles y fitosteroles.
 
 **Crudas, con pellejo.** Es la forma que preserva el máximo de omega-3 y polifenoles. Si las compras con cáscara, la cáscara retrasa la oxidación del aceite interior.
 
@@ -103,7 +105,7 @@ La nuez que cogías de una en una en Navidad para no pasarte debería ser siete 
 
 ## Referencias
 
-- <a href="https://pubmed.ncbi.nlm.nih.gov/9549297/" target="_blank" rel="noopener noreferrer">Hu FB, et al. (1998). Frequent nut consumption and risk of coronary heart disease in women. *BMJ*, 317(7169), 1341–1345.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/9812929/" target="_blank" rel="noopener noreferrer">Hu FB, et al. (1998). Frequent nut consumption and risk of coronary heart disease in women. *BMJ*, 317(7169), 1341–1345.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/19458020/" target="_blank" rel="noopener noreferrer">Banel DK, Hu FB. (2009). Effects of walnut consumption on blood lipids and other cardiovascular risk factors. *American Journal of Clinical Nutrition*, 90(1), 56–63.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/22187094/" target="_blank" rel="noopener noreferrer">Vinson JA, Cai Y. (2012). Nuts, especially walnuts, have both antioxidant quantity and efficacy and exhibit significant potential health benefits. *Food & Function*, 3(2), 134–140.</a>
-- USDA FoodData Central. fdc.nal.usda.gov.
+- <a href="https://fdc.nal.usda.gov" target="_blank" rel="noopener noreferrer">USDA FoodData Central.</a>

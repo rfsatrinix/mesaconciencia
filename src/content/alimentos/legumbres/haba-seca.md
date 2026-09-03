@@ -8,7 +8,7 @@ image: "./fotos/habaseca_portada.jpg"
 imageAlt: "Fotografía de habas secas"
 ---
 
-Las michirones se sirven en un puchero de barro directamente en la mesa. Habas secas, chorizo, jamón, guindilla. Es el aperitivo de los bares de Murcia, el plato que llevan décadas preparando igual y que no pide explicación.
+Las michirones se sirven en un puchero de barro directamente en la mesa. Habas secas, chorizo, jamón, guindilla. Es el aperitivo de los bares de Murcia, el plato que llevan décadas preparando igual y que no necesita explicación.
 
 La haba seca ha ido perdiendo presencia en la dieta española. Tardas horas en hacerla, dicen. Tiene ese sabor amargo. Y cuando llegan las habas frescas de primavera, las secas quedan olvidadas hasta el invierno siguiente.
 
@@ -18,7 +18,7 @@ Pero hay algo que ninguna otra legumbre tiene.
 
 La haba (*Vicia faba*) es una [legumbre](/alimentos/legumbres) de la familia Fabaceae originaria del Mediterráneo y Oriente Próximo. A diferencia de la [alubia](/alimentos/legumbres/alubia) o la [soja](/alimentos/legumbres/soja), que llegaron a Europa desde América y Asia respectivamente, la haba es propia de esta orilla del Mediterráneo: se cultiva desde el Neolítico, hace más de diez mil años, y es junto al [garbanzo](/alimentos/legumbres/garbanzos) y la [lenteja](/alimentos/legumbres/lentejas) uno de los primeros cultivos documentados de la humanidad.
 
-En España se consume principalmente en seco —remojada y cocida durante horas— o fresca durante la primavera. La versión seca concentra más nutrientes y compuestos bioactivos que la fresca, y es la que tiene presencia histórica en la cocina tradicional española.
+En España se consume principalmente en seco —remojada y cocida durante horas— o fresca durante la primavera. La versión seca concentra más nutrientes y compuestos activos que la fresca, y es la que tiene presencia histórica en la cocina tradicional española.
 
 ## Composición nutricional
 
@@ -40,13 +40,13 @@ Datos por cada 100 g de haba seca cocida, sin sal:
 
 *Fuente: BEDCA.*
 
-El perfil nutricional es sólido pero en la mayoría de parámetros inferior al del garbanzo, la lenteja o la alubia. Lo que distingue a las habas no está en la tabla: está en los compuestos bioactivos que contienen en exclusiva.
+Los datos son buenos pero en la mayoría de nutrientes quedan por debajo del garbanzo, la lenteja o la alubia. Lo que distingue a las habas no está en esa tabla: está en dos compuestos que solo ellas tienen.
 
 ## La única legumbre con L-DOPA
 
-La haba seca es la fuente alimentaria más concentrada de un compuesto que en tu cuerpo se convierte en el neurotransmisor que coordina el movimiento y regula el estado de ánimo —la **dopamina**—. Ese compuesto intermedio, la materia prima con la que el cerebro la fabrica —la **L-DOPA**—, es lo que contienen las habas en concentraciones que ninguna otra legumbre alcanza.
+La haba seca es la fuente alimentaria más concentrada de un compuesto que en tu cuerpo se convierte en el mensajero químico del cerebro que coordina el movimiento y regula el estado de ánimo —la **dopamina**—. Ese compuesto previo, la materia prima con la que tu cerebro fabrica la dopamina —la **L-DOPA**—, es lo que las habas contienen en concentraciones que ninguna otra legumbre alcanza.
 
-La relevancia clínica es directa. La pérdida de células que producen dopamina en el cerebro es el mecanismo central de la enfermedad de Parkinson. El tratamiento farmacológico estándar consiste en administrar L-DOPA por vía oral. Varios estudios pequeños han documentado mejoras en los síntomas motores en pacientes con Parkinson tras el consumo regular de habas: no sustituyen al tratamiento, pero pueden complementarlo.
+Eso importa porque la pérdida de células que producen dopamina en el cerebro es el mecanismo central de la enfermedad de Parkinson. El tratamiento farmacológico estándar consiste en administrar L-DOPA por vía oral. Varios estudios pequeños han documentado mejoras en los síntomas motores en pacientes con Parkinson tras el consumo regular de habas: no sustituyen al tratamiento, pero pueden complementarlo.
 
 La cantidad de L-DOPA varía según la variedad y el procesado. Las habas frescas y jóvenes tienen concentraciones más altas; la cocción prolongada reduce el contenido. Si tu consumo es habitual y no tienes ninguna condición neurológica, el efecto es prácticamente imperceptible.
 
@@ -56,11 +56,13 @@ La precaución importante: si tomas medicamentos que bloquean la enzima que degr
 
 ## El favismo: la única contraindicación genética de la despensa
 
-Las habas contienen compuestos naturales —la **vicina** y la **convicina**— que en tu intestino se convierten en moléculas que generan estrés oxidativo en los glóbulos rojos. Para la mayor parte de la población eso no supone ningún problema: los glóbulos rojos tienen mecanismos de defensa suficientes para neutralizarlo.
+Las habas contienen compuestos naturales —la **vicina** y la **convicina**— que en tu intestino se convierten en moléculas que dañan los glóbulos rojos. Para la mayor parte de la población eso no supone ningún problema: los glóbulos rojos tienen mecanismos de defensa suficientes para neutralizarlo.
 
-El problema aparece en personas con una deficiencia hereditaria en la enzima que protege los glóbulos rojos del estrés oxidativo —la **glucosa-6-fosfato deshidrogenasa**, conocida como **G6PD**—. Sin suficiente G6PD, los glóbulos rojos no pueden defenderse y se destruyen en masa —la **anemia hemolítica**—. El cuadro clínico que eso desencadena —el **favismo**— incluye ictericia, orina oscura, fatiga intensa y dolor abdominal; suele aparecer entre 24 y 72 horas después de comer habas.
+El problema aparece en personas con una deficiencia hereditaria en la enzima que protege los glóbulos rojos de ese daño —la **glucosa-6-fosfato deshidrogenasa**, conocida como **G6PD**—. Sin suficiente G6PD, los glóbulos rojos no pueden defenderse y se destruyen en masa —la **anemia hemolítica**—.
 
-La deficiencia de G6PD es la alteración enzimática más frecuente del mundo: afecta a más de 400 millones de personas. En la cuenca mediterránea —donde las habas forman parte de la dieta tradicional desde el Neolítico— la prevalencia ronda el 5-8 % de la población.
+El conjunto de síntomas que eso provoca —el **favismo**— incluye ictericia, orina oscura, fatiga intensa y dolor abdominal; suele aparecer entre 24 y 72 horas después de comer habas.
+
+Tener poca o ninguna G6PD es más frecuente de lo que parece: afecta a más de 400 millones de personas en todo el mundo. En la cuenca mediterránea —donde las habas forman parte de la dieta tradicional desde el Neolítico— entre el 5 y el 8 % de la población la tiene.
 
 > No es un riesgo marginal.
 
@@ -70,17 +72,17 @@ Si has tenido alguna vez una reacción inexplicable tras comer habas —cansanci
 
 ## ¿Cuántas habas secas consumir y cómo?
 
-La ración de referencia es de 80-100 g en seco, que se convierte en unos 200 g cocidas. Con esa cantidad obtienes 220 kcal, 15,2 g de proteína, 10,8 g de [fibra](/nutricion/fibra-alimenticia) y unos 208 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 40 % de la referencia diaria de la EFSA—.
+La ración habitual es de 80-100 g en seco, que se convierte en unos 200 g cocidas. Con esa cantidad obtienes 220 kcal, 15,2 g de proteína, 10,8 g de fibra y unos 208 µg de folatos —más del 40 % de la cantidad diaria recomendada por la EFSA—.
 
-**Remojo obligatorio, mínimo 8 horas.** A diferencia del [guisante partido](/alimentos/legumbres/guisante-seco), las habas secas enteras no se pueden cocer sin remojo: la piel es dura y la cocción directa no la ablanda bien. Déjalas en remojo la noche anterior, cambia el líquido antes de cocer y empieza con líquido fresco.
+**Remojo obligatorio, mínimo 8 horas.** A diferencia del [guisante partido](/alimentos/legumbres/guisante-seco), las habas secas enteras no se pueden cocer sin remojo: la piel es dura y la cocción directa no la ablanda bien. Déjalas en remojo la noche anterior y cambia el líquido antes de cocer.
 
 **Cocción larga, o exprés.** Sin olla a presión, las habas tardan entre dos y tres horas. Con olla exprés, 30-40 minutos a alta presión son suficientes. El tiempo no es negociable —a diferencia de lentejas o guisantes partidos—, pero tampoco requiere atención: puedes dejarlas al fuego con laurel y ajo y olvidarte.
 
-**Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** El [hierro](/nutricion/micronutrientes/oligoelementos/hierro) de las habas es del tipo que tu cuerpo absorbe con menor eficiencia que el de la carne —el **hierro no hemo**—. Acompañar con un chorro de limón o pimiento fresco en la misma comida puede multiplicar esa absorción por dos o por tres.
+**Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** El hierro de las habas es del tipo que tu cuerpo absorbe con menor eficiencia que el de la carne —el **hierro no hemo**—. Acompañar con un chorro de limón o pimiento fresco en la misma comida puede multiplicar esa absorción por dos o por tres.
 
 **Con atención a las contraindicaciones.** Si tienes deficiencia de G6PD o tomas inhibidores de la MAO, revisa los apartados anteriores antes de incluir habas en tu dieta de forma habitual.
 
-Para mí, la haba seca es la legumbre más singular de la despensa mediterránea. No tiene el mayor perfil proteico ni el hierro más alto, pero es la única que actúa sobre el sistema nervioso y la única que pide que conozcas tu genética antes de comerla en cantidad.
+Para mí, la haba seca es la legumbre más singular de la despensa mediterránea. No tiene la proteína más alta ni el hierro más abundante, pero es la única que actúa sobre el sistema nervioso y la única que pide que conozcas tu genética antes de comerla en cantidad.
 
 Llevamos cultivándola desde el Neolítico. Y todavía nos sorprende.
 
@@ -88,7 +90,7 @@ Llevamos cultivándola desde el Neolítico. Y todavía nos sorprende.
 
 ## Referencias
 
-- <a href="https://pubmed.ncbi.nlm.nih.gov/11113998/" target="_blank" rel="noopener noreferrer">Apaydin EA, et al. (2000). *Vicia faba* supplementation as a complementary treatment in Parkinson's disease: three case series. *Phytotherapy Research*, 14(8), 636–638.</a>
-- Rabey JM, et al. (1992). Broad bean (*Vicia faba*) consumption and Parkinson's disease. *Advances in Neurology*, 60, 681–684.
+- <a href="https://doi.org/10.1002/1531-8257(200001)15:1%3C164::AID-MDS1028%3E3.0.CO;2-E" target="_blank" rel="noopener noreferrer">Apaydin H, Ertan S, Özekmekci S. (2000). Broad bean (*Vicia faba*)—a natural source of L-dopa—prolongs "on" periods in patients with Parkinson's disease who have "on–off" fluctuations. *Movement Disorders*, 15(1), 164–166.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/8420210/" target="_blank" rel="noopener noreferrer">Rabey JM, et al. (1993). Broad bean (*Vicia faba*) consumption and Parkinson's disease. *Advances in Neurology*, 60, 681–684.</a>
 - <a href="https://pubmed.ncbi.nlm.nih.gov/18177777/" target="_blank" rel="noopener noreferrer">Cappellini MD, Fiorelli G. (2008). Glucose-6-phosphate dehydrogenase deficiency. *The Lancet*, 371(9606), 64–74.</a>
-- BEDCA. bedca.net.
+- <a href="https://www.bedca.net" target="_blank" rel="noopener noreferrer">BEDCA.</a>

@@ -40,11 +40,11 @@ Datos por cada 100 g de garbanzo cocido, sin sal:
 
 *Fuente: BEDCA.*
 
-Una ración de 200 g cocidos aporta 17,8 g de proteína, 15,2 g de [fibra](/nutricion/fibra-alimenticia) y 344 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 100 % de la referencia diaria de la EFSA para adultos—.
+Una ración de 200 g cocidos aporta 17,8 g de proteína, 15,2 g de fibra y 344 µg de folatos —más de la cantidad diaria recomendada por la EFSA para adultos—.
 
 ## La proteína que funciona mejor en compañía
 
-8,9 g de [proteína](/nutricion/macronutrientes/proteinas) por cada 100 g cocido es una cifra sólida para una legumbre.
+8,9 g de proteína por cada 100 g cocido es una cifra sólida para una legumbre.
 
 Pero hay un matiz.
 
@@ -54,11 +54,13 @@ No es proteína completa. Le falta el aminoácido que tu cuerpo no puede fabrica
 
 ## La fibra que frena tu glucosa en sangre
 
-7,6 g de [fibra](/nutricion/fibra-alimenticia) por cada 100 g es una cifra alta: más que la mayoría de verduras y comparable a las legumbres con más fibra del grupo.
+7,6 g de fibra por cada 100 g es una cifra alta: más que la mayoría de verduras y comparable a las legumbres con más fibra del grupo.
 
 Parte de esa fibra es del tipo que enlentece la absorción de glucosa en sangre formando una capa viscosa en el intestino —la **fibra soluble**—. El valor que indica con qué rapidez sube tu glucosa en sangre después de comer —el **índice glucémico (IG)**— del garbanzo cocido ronda 28. El del pan blanco ronda 75.
 
-Eso significa que tras comer garbanzos, la glucosa sube despacio y sin picos. Un metaanálisis publicado en *Archives of Internal Medicine* (Jenkins et al., 2012) que analizó ensayos sobre consumo de [legumbres](/alimentos/legumbres) en personas con diabetes tipo 2 encontró reducciones significativas en el marcador que refleja el nivel medio de glucosa en sangre de los últimos dos o tres meses —la **hemoglobina glucosilada**— con respecto a dietas de control.
+Eso significa que tras comer garbanzos, la glucosa sube despacio y sin picos.
+
+Un análisis publicado en *Archives of Internal Medicine* (Jenkins et al., 2012) que revisó estudios sobre consumo de legumbres en personas con diabetes tipo 2 encontró reducciones significativas en el marcador que refleja el nivel medio de glucosa en sangre de los últimos dos o tres meses —la **hemoglobina glucosilada**— respecto a dietas de control.
 
 > El cocido del miércoles tiene mejor índice glucémico que la tostada del desayuno del lunes.
 
@@ -72,7 +74,7 @@ La solución es sencilla: añadir [vitamina C](/nutricion/micronutrientes/vitami
 
 ## El efecto silencioso sobre el colesterol
 
-Hay evidencia de que el consumo regular de legumbres reduce el tipo de colesterol que se asocia al riesgo cardiovascular —el **colesterol LDL**—. Un metaanálisis publicado en *Canadian Medical Association Journal* (Viguiliouk et al., 2014) que analizó 26 ensayos clínicos encontró una reducción media del 5 % en el LDL con una ración diaria de legumbres.
+Hay evidencia de que el consumo regular de legumbres reduce el tipo de colesterol que se asocia al riesgo de infarto o ictus —el **colesterol LDL**—. Un análisis de 26 estudios publicado en *Canadian Medical Association Journal* (Viguiliouk et al., 2014) encontró una reducción media del 5 % en el LDL con una ración diaria de legumbres.
 
 > No es un efecto espectacular. Pero es real, es consistente y se repite en los estudios.
 
@@ -82,27 +84,27 @@ Hay evidencia de que el consumo regular de legumbres reduce el tipo de colestero
 
 Dicho esto: si comes 400 g de garbanzo con chorizo, morcilla y tocino, las calorías del plato no vienen del garbanzo.
 
-## Los gases: el único pero real
+## Los gases: la única pega real
 
 El tema que nadie menciona en los estudios pero que todo el mundo conoce.
 
 Los garbanzos contienen un tipo de azúcares complejos que tu intestino delgado no puede digerir —los **oligosacáridos**, principalmente rafinosa y estaquiosa—. Llegan al colon, las bacterias los fermentan y el resultado es gas.
 
-Hay cosas que reducen este efecto: remojar bien los garbanzos antes de cocinarlos (y tirar el líquido del remojo), cocinarlos a fondo, añadir hierbas carminativas —anís, comino, hinojo, menta— e introducirlos de forma gradual en la dieta si no los consumes con regularidad, para que tu microbiota se adapte.
+Hay cosas que reducen este efecto: remojar bien los garbanzos antes de cocinarlos (y tirar el líquido del remojo o mejor, úsalo para regar tus macetas), cocinarlos a fondo, añadir hierbas como el anís, el comino, el hinojo o la menta —hierbas carminativas que ayudan a reducir los gases— e introducirlos de forma gradual en la dieta si no los consumes con regularidad, para que tu microbiota se adapte.
 
 > La microbiota se adapta en dos o tres semanas. El problema disminuye solo.
 
 ## ¿Cuántos garbanzos consumir y cómo?
 
-La ración de referencia es de 80-100 g en seco, que se convierte en unos 200 g cocidos. Con esa cantidad obtienes 328 kcal, 17,8 g de proteína, 15,2 g de [fibra](/nutricion/fibra-alimenticia) y 344 µg de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) —más del 100 % de la referencia diaria de la EFSA—.
+La ración habitual es de 80-100 g en seco, que se convierte en unos 200 g cocidos. Con esa cantidad obtienes 328 kcal, 17,8 g de proteína, 15,2 g de fibra y 344 µg de folatos —más de la cantidad diaria recomendada por la EFSA—.
 
-**Remojo obligatorio, 8-12 horas.** El garbanzo seco necesita remojo para que la piel ablande y los oligosacáridos tengan tiempo de disolverse. Cambia el líquido antes de cocer y empieza con líquido fresco.
+**Remojo obligatorio, 8-12 horas.** El garbanzo seco necesita remojo para que la piel ablande y los oligosacáridos tengan tiempo de disolverse. Cambia el agua antes de cocer.
 
 **Cocción lenta o en olla exprés.** A fuego lento, los garbanzos tardan entre dos y tres horas. Con olla exprés, 20-25 minutos son suficientes. El garbanzo bien cocido se aplasta fácilmente entre los dedos; si opone resistencia al tenedor, necesita más tiempo.
 
-**Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** Un chorro de limón o pimiento fresco en la misma comida puede multiplicar la absorción del [hierro](/nutricion/micronutrientes/oligoelementos/hierro) por dos o por tres.
+**Con vitamina C para el hierro.** Un chorro de limón o pimiento fresco en la misma comida puede multiplicar la absorción del hierro por dos o por tres.
 
-**El bote como alternativa válida.** El garbanzo de bote conserva la mayor parte de su perfil: pierde algo de [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) y [potasio](/nutricion/micronutrientes/minerales/potasio) en el líquido de conserva, pero la proteína y la fibra no se ven afectadas. Escúrrelo y enjuágalo para reducir el [sodio](/nutricion/micronutrientes/minerales/sodio). El hummus, el falafel y la ensalada de garbanzos son perfectamente válidos con bote.
+**El bote como alternativa válida.** El garbanzo de bote conserva lo más importante: pierde algo de folatos y potasio en el líquido de conserva, pero la proteína y la fibra quedan intactas. Escúrrelo y enjuágalo para reducir el [sodio](/nutricion/micronutrientes/minerales/sodio). El hummus, el falafel y la ensalada de garbanzos son perfectamente válidos con bote.
 
 El garbanzo es, creo, uno de los ingredientes con mejor relación entre precio, versatilidad y perfil nutricional de la cocina española. Barato, saciante y con siglos de historia mediterránea.
 
@@ -116,5 +118,5 @@ Somos el país del potaje y cada vez comemos menos potaje.
 
 - Hallberg L, Brune M, Rossander L. (1989). The role of vitamin C in iron absorption. *International Journal for Vitamin and Nutrition Research*, Suppl 30, 103-108.
 - <a href="https://pubmed.ncbi.nlm.nih.gov/23089999/" target="_blank" rel="noopener noreferrer">Jenkins DJ, et al. (2012). Effect of legumes as part of a low glycemic index diet on glycemic control and cardiovascular risk factors in type 2 diabetes mellitus. *Archives of Internal Medicine*, 172(21), 1653-1660.</a>
-- <a href="https://doi.org/10.1503/cmaj.131727" target="_blank" rel="noopener noreferrer">Viguiliouk E, et al. (2014). Effect of dietary pulses on blood pressure: a systematic review and meta-analysis of controlled feeding trials. *Canadian Medical Association Journal*, 186(8), E252-E262.</a>
-- BEDCA. bedca.net.
+- <a href="https://doi.org/10.1503/cmaj.131727" target="_blank" rel="noopener noreferrer">Ha V, Sievenpiper JL, de Souza RJ, et al. (2014). Effect of dietary pulse intake on established therapeutic lipid targets for cardiovascular risk reduction: a systematic review and meta-analysis of randomized controlled trials. *Canadian Medical Association Journal*, 186(8), E252-E262.</a>
+- <a href="https://www.bedca.net" target="_blank" rel="noopener noreferrer">BEDCA.</a>

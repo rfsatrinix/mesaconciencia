@@ -1,16 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import Layout from '../layouts/Layout.astro';
 
 const COLECCIONES = ['alimentos', 'nutricion', 'dietas', 'salud', 'plantas', 'recetas'] as const;
 
-type Entrada = { id: string; coleccion: string; data: { title: string; description?: string; date?: Date; draft: boolean } };
-
-const articulos: Entrada[] = (
+const articulos = (
   await Promise.all(
     COLECCIONES.map(async (col) => {
       const entradas = await getCollection(col, ({ data }) => !data.draft);
-      return entradas.map(e => ({ ...e, coleccion: col })) as Entrada[];
+      return entradas.map(e => ({ ...e, coleccion: col }));
     })
   )
 ).flat().sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)).slice(0, 9);
@@ -26,32 +25,29 @@ const etiquetas: Record<string, string> = {
 ---
 
 <Layout
-  title="Mesa con Ciencia"
+  title="MesaconCiencia"
   description="Nutrición explicada de forma sencilla para el común de los mortales."
 >
   <!-- Hero -->
   <section class="hero">
     <div class="container">
       <div class="hero-col">
-        <h1>«Que tu medicina sea tu alimento y el alimento tu medicina»<span class="cita-autor"> — Hipócrates</span></h1>
-        <p class="hero-desc">
-          Nutrición explicada de forma sencilla para el común de los mortales.
-        </p>
+        <h1>Nutrición explicada de forma sencilla para el común de los mortales</h1>
       </div>
     </div>
   </section>
 
-  <!-- Por qué Mesa con Ciencia -->
+  <!-- Por qué MesaconCiencia -->
   <section class="seccion seccion-porque">
     <div class="container">
       <div class="hero-col porque-texto">
-            <h2>¿Por qué Mesa con Ciencia?</h2>
+            <h2>¿Por qué MesaconCiencia?</h2>
             <p>
               En dietética hay mucho ruido: modas que van y vienen, afirmaciones sin base
               y controversias que no lo son.
             </p>
             <p>
-              Quiero que Mesa con Ciencia esté escrito con rigor. Si la ciencia evoluciona,
+              Quiero que MesaconCiencia esté escrito con rigor. Si la ciencia evoluciona,
               si la evidencia cambia, el contenido también.
             </p>
             <a href="/sobre-mi" class="btn btn-contorno" style="margin-top: 1.5rem;">Conoce a la autora →</a>
@@ -67,6 +63,9 @@ const etiquetas: Record<string, string> = {
         <div class="grid-articulos-home">
           {articulos.map((art) => (
             <a href={`/${art.coleccion}/${art.id}`} class="tarjeta tarjeta-home">
+              {art.data.image && (
+                <Image src={art.data.image} alt={art.data.imageAlt ?? art.data.title} class="tarjeta-imagen" />
+              )}
               <div class="tarjeta-home-inner">
                 <span class="etiqueta">{etiquetas[art.coleccion]}</span>
                 <h3>{art.data.title}</h3>
@@ -92,20 +91,10 @@ const etiquetas: Record<string, string> = {
     margin: 0 auto;
   }
   .hero h1 {
-    font-size: clamp(1.2rem, 2.3vw, 1.7rem);
-    font-style: italic;
-    margin: 0 0 1.25rem;
-    line-height: 1.4;
-  }
-  .cita-autor {
-    font-style: normal;
-    color: var(--texto-suave);
-  }
-  .hero-desc {
-    font-size: 1.1rem;
-    color: var(--texto-suave);
-    margin-bottom: 2.25rem;
-    line-height: 1.7;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+    margin: 0;
+    line-height: 1.3;
+    text-align: center;
   }
 
   /* Grid artículos */

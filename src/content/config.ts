@@ -1,9 +1,9 @@
 import { defineCollection, z } from 'astro:content';
 
-const articuloSchema = z.object({
+const articuloSchema = ({ image }: any) => z.object({
   title:       z.string(),
   description: z.string().optional(),
-  image:       z.string().optional(),
+  image:       image().optional(),
   imageAlt:    z.string().optional(),
   draft:       z.boolean().default(false),
   date:        z.date().optional(),

@@ -5,11 +5,13 @@ import Layout from '../layouts/Layout.astro';
 
 const COLECCIONES = ['alimentos', 'nutricion', 'dietas', 'salud', 'plantas', 'recetas'] as const;
 
-const articulos = (
+type Entrada = { id: string; coleccion: string; data: Record<string, any> };
+
+const articulos: Entrada[] = (
   await Promise.all(
     COLECCIONES.map(async (col) => {
       const entradas = await getCollection(col, ({ data }) => !data.draft);
-      return entradas.map(e => ({ ...e, coleccion: col }));
+      return entradas.map(e => ({ ...e, coleccion: col })) as Entrada[];
     })
   )
 ).flat().sort((a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)).slice(0, 9);
@@ -25,7 +27,7 @@ const etiquetas: Record<string, string> = {
 ---
 
 <Layout
-  title="MesaconCiencia"
+  title="Nutrición explicada con claridad"
   description="Nutrición explicada de forma sencilla para el común de los mortales."
 >
   <!-- Hero -->

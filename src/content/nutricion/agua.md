@@ -48,7 +48,7 @@ No toda el agua proviene de beber. Los alimentos con mayor contenido en agua son
 | Alimento | Contenido en agua |
 |---|---|
 | Pepino, lechuga, apio | >95 % |
-| Tomate, sandía, naranja | 90–94 % |
+| [Tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate), sandía, naranja | 90–94 % |
 | Leche | ~87 % |
 | Plátano, patata cocida | ~75 % |
 | Arroz cocido | ~70 % |

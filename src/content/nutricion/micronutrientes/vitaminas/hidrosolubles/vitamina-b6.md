@@ -74,7 +74,7 @@ La vitamina B6 está presente en una amplia variedad de fuentes:
 | Patata cocida | 0,3 mg |
 | Plátano | 0,3 mg |
 | Pan integral | 0,2 mg |
-| Espinacas cocidas | 0,2 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,2 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
 

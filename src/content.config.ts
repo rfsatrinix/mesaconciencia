@@ -5,6 +5,7 @@ const base = z.object({
   title: z.string(),
   description: z.string(),
   draft: z.boolean().default(false),
+  date: z.coerce.date().optional(),
   imageAlt: z.string().optional(),
 });
 

@@ -71,7 +71,7 @@ La distribución excepcionalmente amplia del ácido pantoténico queda reflejada
 | Pechuga de pollo (cocida) | 1,0 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 0,6 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
-| Brócoli cocido | 0,5 mg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 0,5 mg |
 | Leche entera | 0,4 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central.*

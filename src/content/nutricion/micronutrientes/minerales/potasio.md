@@ -59,14 +59,14 @@ El potasio está presente de forma natural en prácticamente todo lo que comes d
 | [Alubias blancas](/alimentos/legumbres/alubia) cocidas | 561 mg |
 | Patata cocida (con piel) | 544 mg |
 | Aguacate | 485 mg |
-| Espinacas cocidas | 466 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 466 mg |
 | Plátano | 358 mg |
 | Atún (al natural) | 237 mg |
 | Leche entera | 150 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
-El método de cocción importa. La patata hervida en abundante líquido y sin piel pierde hasta el 50 % de su potasio, que se disuelve en él. Cocinarla al horno o al vapor con piel conserva entre el 85 y el 95 % del potasio original. Lo mismo ocurre con las espinacas, el brócoli y otras verduras de hoja: el vapor o el salteado breve preservan más que el hervido prolongado.
+El método de cocción importa. La patata hervida en abundante líquido y sin piel pierde hasta el 50 % de su potasio, que se disuelve en él. Cocinarla al horno o al vapor con piel conserva entre el 85 y el 95 % del potasio original. Lo mismo ocurre con las espinacas, el [brócoli](/alimentos/verduras-hortalizas/flores/brocoli) y otras [verduras de hoja](/alimentos/verduras-hortalizas/hojas): el vapor o el salteado breve preservan más que el hervido prolongado.
 
 Los ultraprocesados concentran el efecto contrario: pierden gran parte del potasio natural durante el procesado y reciben sodio en la formulación. Un producto procesado típico puede invertir la proporción potasio-sodio respecto al alimento fresco del que procede.
 

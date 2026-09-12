@@ -81,7 +81,7 @@ La EFSA ha establecido ingestas de referencia (PRI) o ingestas adecuadas (IA) pa
 
 **Los cereales integrales** aportan B1, B3 y B6; el proceso de refinado elimina hasta el 80 % del contenido vitamínico del grupo B presente en el grano entero.
 
-**Las verduras de hoja verde** —espinacas, acelgas, brócoli— son la fuente vegetal más rica en B9 y aportan también vitamina C en cantidades relevantes.
+**[Las verduras de hoja verde](/alimentos/verduras-hortalizas/hojas)** —[espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), acelgas, [brócoli](/alimentos/verduras-hortalizas/flores/brocoli)— son la fuente vegetal más rica en B9 y aportan también vitamina C en cantidades relevantes.
 
 **La vitamina C** se concentra en el pimiento rojo (190 mg/100 g), el kiwi, las fresas y los cítricos; se degrada parcialmente con el calor y la exposición al oxígeno, por lo que el consumo en crudo o con cocción breve maximiza el aporte.
 

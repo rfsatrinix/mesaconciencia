@@ -51,7 +51,7 @@ Tu dieta habitual ya aporta silicio, aunque cuánto llega realmente a la sangre 
 | Arroz integral | 120 mg | Fitolitos (1–5 %) |
 | Judías verdes | 10 mg | Ácido ortosilícico (40–65 %) |
 | Plátano | 5 mg | Ácido ortosilícico (40 %) |
-| Zanahoria | 4 mg | Ácido ortosilícico (40 %) |
+| [Zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria) | 4 mg | Ácido ortosilícico (40 %) |
 | Cerveza de cebada | 2 mg ¹ | Ácido ortosilícico (65 %) |
 
 *Valores aproximados. ¹ Por cada 100 mL. Fuente: Jugdaohsingh et al., 2004; Sripanyakorn et al., 2009. Los valores de cereales integrales varían ampliamente según variedad y procesado.*

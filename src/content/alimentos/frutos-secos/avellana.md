@@ -58,7 +58,7 @@ La diferencia respecto a la almendra está en cuánta grasa llega a absorberse d
 
 ## El único fruto seco con folatos en cantidad que importa
 
-La avellana tiene algo que no tiene ningún otro fruto seco del grupo en cantidad comparable: folatos. Con 113 µg por cada 100 g, supera a la nuez (98 µg), a la almendra (44 µg) y al anacardo (25 µg). En el árbol de fuentes de folato de la dieta española —espinacas, acelgas, [legumbres](/alimentos/legumbres), hígado—, los frutos secos no aparecen. La avellana es la excepción.
+La avellana tiene algo que no tiene ningún otro fruto seco del grupo en cantidad comparable: folatos. Con 113 µg por cada 100 g, supera a la nuez (98 µg), a la almendra (44 µg) y al anacardo (25 µg). En el árbol de fuentes de folato de la dieta española —[espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), acelgas, [legumbres](/alimentos/legumbres), hígado—, los frutos secos no aparecen. La avellana es la excepción.
 
 El folato es la vitamina del grupo B que el cuerpo necesita para fabricar ADN y para que las células puedan dividirse. Sin folato suficiente, las células que se replican rápidamente —las del intestino, las de la médula ósea, las del embrión en formación— no pueden dividirse correctamente. Por eso la cantidad diaria recomendada sube en el embarazo: el cierre de la estructura que dará lugar a la médula espinal del feto —el **tubo neural**— ocurre en las primeras semanas, a menudo antes de que la mujer sepa que está embarazada.
 

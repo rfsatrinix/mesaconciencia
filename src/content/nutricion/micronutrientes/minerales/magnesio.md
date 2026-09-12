@@ -57,7 +57,7 @@ La EFSA no ha establecido un nivel máximo tolerable para el magnesio que viene 
 
 ## Fuentes alimentarias de magnesio
 
-El magnesio ocupa el centro de cada molécula del pigmento que da color verde a las plantas —la **clorofila**—, de la misma manera que el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) ocupa el centro de la hemoglobina. Por eso las verduras de hoja verde oscura son fuentes especialmente ricas: cuanto más intensa la clorofila, mayor la concentración de magnesio.
+El magnesio ocupa el centro de cada molécula del pigmento que da color verde a las plantas —la **clorofila**—, de la misma manera que el [hierro](/nutricion/micronutrientes/oligoelementos/hierro) ocupa el centro de la hemoglobina. Por eso las [verduras de hoja verde oscura](/alimentos/verduras-hortalizas/hojas) son fuentes especialmente ricas: cuanto más intensa la clorofila, mayor la concentración de magnesio.
 
 Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-secos), cacao y [legumbres](/alimentos/legumbres):
 
@@ -69,7 +69,7 @@ Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-s
 | [Almendras](/alimentos/frutos-secos/almendra) | 270 mg |
 | [Anacardos](/alimentos/frutos-secos/anacardo) | 260 mg |
 | Chocolate negro (85 % cacao) | 228 mg |
-| Espinacas cocidas | 87 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 87 mg |
 | Pan integral | 68 mg |
 | Arroz integral cocido | 44 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 36 mg |

@@ -75,7 +75,7 @@ Comer nueces del Brasil de producción silvestre certificada es una de las pocas
 
 ## Lo que pasa cuando te comes cuatro en lugar de dos
 
-El límite máximo de selenio que la EFSA considera seguro para adultos es de 300 µg al día. Por encima de ese umbral de forma crónica aparece el síndrome de toxicidad del selenio —la **selenosis**—: pérdida de cabello, fragilidad y caída de uñas, aliento con olor a ajo, erupciones en la piel y, en casos graves, daño neurológico con hormigueos y entumecimiento en extremidades.
+El límite máximo de selenio que la EFSA considera seguro para adultos es de 300 µg al día. Por encima de ese umbral de forma crónica aparece el síndrome de toxicidad del selenio —la **selenosis**—: pérdida de cabello, fragilidad y caída de uñas, aliento con olor a [ajo](/alimentos/verduras-hortalizas/bulbos/ajo), erupciones en la piel y, en casos graves, daño neurológico con hormigueos y entumecimiento en extremidades.
 
 Con una nuez del Brasil de concentración media (96 µg), cuatro unidades aportan unos 384 µg: por encima del límite de seguridad. Con una nuez de lote alto —los estudios que han analizado la variabilidad individual describen un rango de 8 a más de 150 µg por nuez, según el suelo en que creció el árbol—, dos nueces ya pueden acercarse al límite.
 

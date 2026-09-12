@@ -34,7 +34,7 @@ El error más frecuente al hablar de frutos secos es tratarlos como un grupo uni
 
 **[Los pistachos](/alimentos/frutos-secos/pistacho)** son el fruto seco con mayor concentración de luteína y zeaxantina, los pigmentos que se acumulan en la retina y se asocian en estudios prospectivos a menor riesgo de la enfermedad que deteriora la visión central con la edad —la **degeneración macular**—.
 
-**[La avellana](/alimentos/frutos-secos/avellana)** combina vitamina E y la vitamina del grupo B esencial para que tus células puedan fabricar ADN —los [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9)— en proporciones poco frecuentes fuera de las verduras de hoja verde.
+**[La avellana](/alimentos/frutos-secos/avellana)** combina vitamina E y la vitamina del grupo B esencial para que tus células puedan fabricar ADN —los [folatos](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9)— en proporciones poco frecuentes fuera de las [verduras de hoja verde](/alimentos/verduras-hortalizas/hojas).
 
 **[La castaña](/alimentos/frutos-secos/castana)** es el caso aparte del grupo: con solo 2,3 g de grasa por cada 100 g —frente a los 49-75 g del resto— su energía viene del almidón, no de la grasa. Y es el único fruto seco del grupo con una concentración relevante del antioxidante esencial para el colágeno y la inmunidad —la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c)—: 43 mg por cada 100 g, comparable a una naranja mediana.
 

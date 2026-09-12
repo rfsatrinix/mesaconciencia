@@ -58,7 +58,7 @@ El manganeso está presente de forma abundante en los vegetales, especialmente e
 | Pan integral de trigo | 2,0 mg |
 | Arroz integral (cocido) | 1,1 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 1,1 mg |
-| Espinacas cocidas | 0,9 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,9 mg |
 | Piña | 0,9 mg |
 | Té negro infusionado (por 100 mL) | 0,5–1,0 mg |
 | Arándanos | 0,3 mg |

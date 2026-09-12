@@ -67,8 +67,8 @@ La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la 
 | Leche entera | 119 mg |
 | Yogur natural | 110 mg |
 | Tofu (precipitado con calcio) | 105–200 mg |
-| Espinacas cocidas | 99 mg |
-| Brócoli cocido | 44 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 99 mg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 44 mg |
 
 *Valores aproximados. Fuente: BEDCA; USDA FoodData Central.*
 

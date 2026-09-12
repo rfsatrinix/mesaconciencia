@@ -52,7 +52,7 @@ Datos por cada 100 g de pistacho crudo sin cáscara:
 
 Los [frutos secos](/alimentos/frutos-secos) no suelen tener color. La [almendra](/alimentos/frutos-secos/almendra) es beige; la [nuez](/alimentos/frutos-secos/nuez), marrón; la [avellana](/alimentos/frutos-secos/avellana), marrón rojizo. El pistacho es la excepción visible. Y la razón del verde no está en ningún tinte: está en los pigmentos liposolubles de color amarillo-verde que la semilla acumula de forma natural —los **carotenoides**—, concretamente la **luteína** y la **zeaxantina**.
 
-Estos carotenoides no son exclusivos del pistacho: los encuentras en las espinacas, en el kale, en los huevos de gallinas en pasto. Lo que sí es exclusivo del pistacho entre los frutos secos habituales es la concentración. La almendra tiene aproximadamente 1 µg de luteína y zeaxantina por cada 100 g; la nuez, unos 9 µg; la avellana, unos 92 µg. El pistacho tiene 1.160 µg.
+Estos carotenoides no son exclusivos del pistacho: los encuentras en las [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), en el kale, en los huevos de gallinas en pasto. Lo que sí es exclusivo del pistacho entre los frutos secos habituales es la concentración. La almendra tiene aproximadamente 1 µg de luteína y zeaxantina por cada 100 g; la nuez, unos 9 µg; la avellana, unos 92 µg. El pistacho tiene 1.160 µg.
 
 Esa diferencia tiene una consecuencia directa sobre el procesado. Cuando el pistacho se blanquea —se somete a escaldado para retirar la piel y obtener una semilla de color más uniforme—, pierde gran parte de esos carotenoides. La semilla pálida no es el mismo pistacho en términos de luteína. La señal es visible: el pistacho más verde es el que más luteína tiene, sin necesidad de ninguna analítica.
 

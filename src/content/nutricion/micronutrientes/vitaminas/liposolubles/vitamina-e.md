@@ -64,7 +64,7 @@ Los aceites vegetales y los [frutos secos](/alimentos/frutos-secos) concentran l
 | Aceite de oliva virgen extra | 14 mg |
 | Piñones | 9 mg |
 | Aguacate | 2 mg |
-| Espinacas cocidas | 2 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 2 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 

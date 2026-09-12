@@ -17,12 +17,17 @@ const { Content, headings } = await render(entrada);
 const segmentos = entrada.id.split('/').slice(0, -1);
 
 const etiquetas: Record<string, string> = {
-  legumbres:            'Legumbres',
-  'frutos-secos':       'Frutos secos',
-  cereales:             'Cereales y pseudocereales',
-  pescados:             'Pescados',
+  legumbres:             'Legumbres',
+  'frutos-secos':        'Frutos secos',
+  cereales:              'Cereales y pseudocereales',
+  pescados:              'Pescados',
   'verduras-hortalizas': 'Verduras y hortalizas',
-  frutas:               'Frutas',
+  hojas:                 'Verduras de hoja',
+  bulbos:                'Verduras de bulbo',
+  'hortalizas-de-fruto': 'Hortalizas de fruto',
+  'raices-tuberculos':   'Raíces y tubérculos',
+  flores:                'Verduras de flor',
+  frutas:                'Frutas',
 };
 
 const migas = [

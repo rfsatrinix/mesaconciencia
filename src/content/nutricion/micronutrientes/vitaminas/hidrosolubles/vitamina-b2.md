@@ -71,7 +71,7 @@ Las fuentes más concentradas son los órganos animales, los lácteos, los [frut
 | Queso curado | 0,35 mg |
 | Yogur natural | 0,27 mg |
 | Salmón del Atlántico (cocido) | 0,25 mg |
-| Espinacas cocidas | 0,20 mg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,20 mg |
 | Leche entera | 0,18 mg |
 | Pechuga de pollo (cocida) | 0,15 mg |
 

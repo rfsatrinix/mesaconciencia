@@ -26,7 +26,7 @@ Se disuelve formando un gel viscoso en tu tracto digestivo. Ese gel hace tres co
 
 **Nutre las bacterias beneficiosas de tu intestino.** Las fibras solubles fermentables sirven de alimento a las bacterias de tu colon —la **microbiota intestinal**— que a cambio producen compuestos con efectos protectores sobre la mucosa.
 
-Fuentes principales: avena, cebada, [legumbres](/alimentos/legumbres), manzana, pera, zanahoria y la cáscara de la semilla de *Plantago ovata* —el **psyllium**—, una de las fibras solubles más utilizadas clínicamente.
+Fuentes principales: avena, cebada, [legumbres](/alimentos/legumbres), manzana, pera, [zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria) y la cáscara de la semilla de *Plantago ovata* —el **psyllium**—, una de las fibras solubles más utilizadas clínicamente.
 
 ### Fibra insoluble
 
@@ -40,7 +40,7 @@ Fuentes principales: cereales integrales, salvado de trigo, verduras fibrosas, [
 
 ### Fibra prebiótica
 
-Un subgrupo de la fibra soluble actúa específicamente como prebiótico: sirve de alimento selectivo para bacterias beneficiosas como *Bifidobacterium* y *Lactobacillus*. Los más estudiados son las cadenas cortas de fructosa que las bacterias del colon fermentan con facilidad —la **inulina** y los **fructooligosacáridos (FOS)**—, presentes en achicoria, ajo, puerro, alcachofa de Jerusalén y plátano verde.
+Un subgrupo de la fibra soluble actúa específicamente como prebiótico: sirve de alimento selectivo para bacterias beneficiosas como *Bifidobacterium* y *Lactobacillus*. Los más estudiados son las cadenas cortas de fructosa que las bacterias del colon fermentan con facilidad —la **inulina** y los **fructooligosacáridos (FOS)**—, presentes en achicoria, [ajo](/alimentos/verduras-hortalizas/bulbos/ajo), puerro, alcachofa de Jerusalén y plátano verde.
 
 Los tres tipos de fibra no se eligen: en la comida real vienen juntos.
 
@@ -73,7 +73,7 @@ Las fuentes con mayor concentración de fibra son:
 | [Almendras](/alimentos/frutos-secos/almendra) | 13 g |
 | Avena (cruda) | 10 g |
 | Pan integral de centeno | 6 g |
-| Brócoli cocido | 3 g |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 3 g |
 | Manzana con piel | 2,4 g |
 | Arroz integral cocido | 1,8 g |
 

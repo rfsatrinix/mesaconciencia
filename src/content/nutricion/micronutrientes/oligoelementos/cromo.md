@@ -55,7 +55,7 @@ El cromo está distribuido de forma irregular en la dieta. Los valores analític
 | Ostras (cocidas) | 26 µg |
 | Germen de trigo | 21 µg |
 | Hígado de ternera (cocido) | 11 µg |
-| Brócoli | 11 µg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) | 11 µg |
 | Champiñones | 10 µg |
 | Nueces | 5–8 µg |
 | Pan integral | 2–5 µg |
@@ -64,7 +64,7 @@ El cromo está distribuido de forma irregular en la dieta. Los valores analític
 
 *Valores aproximados. Los valores de cromo presentan mayor variabilidad analítica que los de otros [minerales](/nutricion/micronutrientes/minerales). Fuente: USDA FoodData Central y fuentes diversas.*
 
-Una fuente que pocas guías nutricionales mencionan son los **utensilios de acero inoxidable**: cocinar con ingredientes ácidos —salsa de tomate, guisos con vino, salsas con zumo de limón— en ollas o sartenes de acero inoxidable libera cantidades medibles de Cr(III) al alimento. No representa riesgo a esas concentraciones, pero sí una aportación real que varía con el tipo de cocinado sin que quien cocina lo sepa.
+Una fuente que pocas guías nutricionales mencionan son los **utensilios de acero inoxidable**: cocinar con ingredientes ácidos —salsa de [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate), guisos con vino, salsas con zumo de limón— en ollas o sartenes de acero inoxidable libera cantidades medibles de Cr(III) al alimento. No representa riesgo a esas concentraciones, pero sí una aportación real que varía con el tipo de cocinado sin que quien cocina lo sepa.
 
 Tu cuerpo absorbe muy poco Cr(III) de la dieta: entre el 0,5 y el 2 % de la ingesta, y esa absorción disminuye aún más en presencia de los compuestos presentes en cereales y [legumbres](/alimentos/legumbres) que se unen a los minerales en el intestino impidiendo su paso a la sangre —los **fitatos**—, el [calcio](/nutricion/micronutrientes/minerales/calcio) y el [zinc](/nutricion/micronutrientes/oligoelementos/zinc). La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) puede mejorar la absorción al mantener el cromo en una forma más soluble. Un subproducto del metabolismo del [triptófano](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/triptofano) —el **ácido picolínico**— también la facilita, lo que explica la elección del picolinato como sal para los suplementos de cromo.
 

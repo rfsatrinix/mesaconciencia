@@ -92,7 +92,7 @@ El consumo elevado de azúcares libres tiene efectos documentados sobre varios s
 
 **Elevación de [grasas](/nutricion/macronutrientes/grasas-o-lipidos) en sangre.** El exceso de fructosa altera los niveles de grasas en tu sangre —una condición que se conoce como **dislipemia**—, un factor de riesgo cardiovascular independiente del colesterol.
 
-Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Si soy sincera, el problema con los azúcares libres no es el azúcar que añades al café: es el que viene oculto en el pan de molde, el aliño de ensalada y la salsa de tomate envasada, sin que nadie lo cuente ni lo vea. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
+Estos riesgos dependen de la dosis y de tu patrón alimentario global, no de episodios puntuales. Si soy sincera, el problema con los azúcares libres no es el azúcar que añades al café: es el que viene oculto en el pan de molde, el aliño de ensalada y la salsa de [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate) envasada, sin que nadie lo cuente ni lo vea. La restricción de la OMS no afecta a la fruta entera: apunta a lo que se extrae, se añade y se embotella.
 
 ---
 

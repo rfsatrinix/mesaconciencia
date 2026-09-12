@@ -10,7 +10,7 @@ imageAlt: "Vitamina K"
 
 A principios de los años veinte, los ganaderos de Alberta y Dakota del Norte empezaban a perder reses sin explicación. Animales sanos morían de hemorragia después de procedimientos de rutina —una descornación, una castración, un corte menor—. El patrón tardó años en aclararse: solo los que habían comido heno de trébol dulce mal fermentado presentaban el problema. Esa pista llevó al bioquímico Karl Paul Link a aislar, en 1940, el compuesto culpable —el **dicumarol**—, que bloqueaba una vitamina identificada apenas una década antes: la llamaban *Koagulationsvitamin*, vitamina K, precisamente por ese papel en la coagulación que el trébol fermentado saboteaba. El dicumarol llevó a la warfarina —un raticida primero, un anticoagulante aprobado para humanos en 1954—. Hoy es uno de los fármacos más prescritos del mundo para prevenir trombos en personas con fibrilación auricular o válvulas cardíacas mecánicas.
 
-La vitamina K tiene hoy dos caras que pocas personas relacionan entre sí. La primera es visible: cualquier persona que tome acenocumarol —Sintrom— o warfarina necesita que su ingesta de vitamina K sea estable semana a semana para que el fármaco funcione con precisión. Un cambio brusco en el consumo de verduras de hoja verde puede reducir el efecto anticoagulante y elevar el riesgo de trombosis, o potenciarlo y aumentar el riesgo de hemorragia.
+La vitamina K tiene hoy dos caras que pocas personas relacionan entre sí. La primera es visible: cualquier persona que tome acenocumarol —Sintrom— o warfarina necesita que su ingesta de vitamina K sea estable semana a semana para que el fármaco funcione con precisión. Un cambio brusco en el consumo de [verduras de hoja verde](/alimentos/verduras-hortalizas/hojas) puede reducir el efecto anticoagulante y elevar el riesgo de trombosis, o potenciarlo y aumentar el riesgo de hemorragia.
 
 La segunda cara es invisible. Hay un nivel de K2 que basta para que la sangre coagule correctamente, pero que no alcanza para que los vasos mantengan activo el freno frente a la calcificación arterial. Y eso no aparece en ningún análisis de rutina; puede progresar sin síntomas durante años.
 
@@ -46,7 +46,7 @@ La EFSA no ha establecido requerimientos medios para la vitamina K —los datos 
 
 *Fuente: EFSA 2017.*
 
-Una ración de espinacas cocidas aporta más de 500 μg de K1, siete veces tu ingesta adecuada diaria. Si incluyes verduras de hoja verde con cierta regularidad, cubrir los 70 μg no requiere ningún esfuerzo adicional.
+Una ración de [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas aporta más de 500 μg de K1, siete veces tu ingesta adecuada diaria. Si incluyes verduras de hoja verde con cierta regularidad, cubrir los 70 μg no requiere ningún esfuerzo adicional.
 
 ## Fuentes alimentarias de vitamina K
 
@@ -60,7 +60,7 @@ La K1 se concentra en vegetales de hoja verde y aceites vegetales; la K2 aparece
 | Col rizada cocida | 700 μg | K1 |
 | Espinacas cocidas | 540 μg | K1 |
 | Coles de Bruselas cocidas | 140 μg | K1 |
-| Brócoli cocido | 140 μg | K1 |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 140 μg | K1 |
 | Queso gouda | 75 μg | K2 |
 | Aceite de oliva virgen extra | 60 μg | K1 |
 | Yema de huevo | 32 μg | K2 |

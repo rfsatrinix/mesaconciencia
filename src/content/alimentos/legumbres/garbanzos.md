@@ -68,7 +68,7 @@ Un análisis publicado en *Archives of Internal Medicine* (Jenkins et al., 2012)
 
 Los garbanzos tienen hierro —2,9 mg por cada 100 g cocidos—. Pero es el tipo de hierro que se encuentra en los vegetales —el **hierro no hemo**— y que tu cuerpo absorbe con menor eficiencia que el de la carne.
 
-La solución es sencilla: añadir [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, un tomate. La vitamina C puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
+La solución es sencilla: añadir [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) a la misma comida. Un chorro de limón, un pimiento crudo de acompañamiento, un [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate). La vitamina C puede multiplicar por tres o cuatro la absorción del hierro no hemo (Hallberg et al., 1989).
 
 > Un chorrito de limón en el potaje no es solo costumbre. Tiene su lógica.
 

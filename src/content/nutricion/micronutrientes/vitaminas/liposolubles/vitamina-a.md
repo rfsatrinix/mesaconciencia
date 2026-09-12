@@ -63,7 +63,7 @@ El retinol se encuentra en fuentes de origen animal; el beta-caroteno, en vegeta
 | Paté de hígado | 3800 μg | Retinol |
 | Aceite de hígado de bacalao | 2500 μg | Retinol |
 | Boniato cocido | 961 μg | Beta-caroteno |
-| Zanahoria cruda | 835 μg | Beta-caroteno |
+| [Zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria) cruda | 835 μg | Beta-caroteno |
 | Espinaca cocida | 524 μg | Beta-caroteno |
 | Kale cocido | 241 μg | Beta-caroteno |
 | Pimiento rojo crudo | 157 μg | Beta-caroteno |

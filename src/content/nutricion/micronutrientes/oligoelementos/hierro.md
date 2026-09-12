@@ -35,7 +35,7 @@ La diferencia entre hierro hemo y no hemo es la más importante en la práctica 
 | Tipo | Fuentes | Absorción |
 |---|---|---|
 | **Hierro hemo** | Carnes rojas, aves, pescado, marisco | 15–35 % |
-| **Hierro no hemo** | [Legumbres](/alimentos/legumbres), verduras de hoja, huevos, cereales, [frutos secos](/alimentos/frutos-secos) | 2–20 % |
+| **Hierro no hemo** | [Legumbres](/alimentos/legumbres), [verduras de hoja](/alimentos/verduras-hortalizas/hojas), huevos, cereales, [frutos secos](/alimentos/frutos-secos) | 2–20 % |
 
 El **hierro hemo** es el que está incorporado en la hemoglobina y la mioglobina de los animales. Las células intestinales lo absorben como molécula intacta, sin que los factores dietéticos que inhiben el otro tipo —fitatos, taninos, calcio— lo afecten significativamente. Tu intestino lo capta con una eficiencia del 15 al 35 %, independientemente del resto de la comida.
 
@@ -66,7 +66,7 @@ Estas cifras asumen una dieta mixta con hierro hemo e hierro no hemo. Si sigues 
 | Semillas de chía | 7,7 mg | No hemo |
 | Hígado de ternera (cocido) | 6,5 mg | Hemo |
 | Lentejas cocidas | 3,3 mg | No hemo |
-| Espinacas crudas | 2,7 mg | No hemo |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) crudas | 2,7 mg | No hemo |
 | Tofu | 2,4 mg | No hemo |
 | Carne de ternera (magra, cocida) | 2,2 mg | Hemo |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 2,1 mg | No hemo |

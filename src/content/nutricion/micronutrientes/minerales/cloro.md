@@ -50,7 +50,7 @@ Una cucharadita de sal (6 g de NaCl) aporta unos 3.600 mg de cloruro —por enci
 
 A diferencia de la mayoría de los minerales, el cloro no tiene fuentes alimentarias propias significativas: su origen es casi exclusivamente la sal añadida durante el procesado o la cocción, o la que ya llevan incorporada los ultraprocesados. Las mismas fuentes que concentran sodio —conservas, embutidos, quesos curados, pan industrial— concentran cloruro en la misma proporción, porque ambos llegan como NaCl.
 
-En cantidades menores, algunas verduras —apio, remolacha, tomate, espinacas— y las algas marinas contienen cloruro de forma natural, pero su contribución es marginal frente al aporte de la sal.
+En cantidades menores, algunas verduras —apio, remolacha, [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate), [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas)— y las algas marinas contienen cloruro de forma natural, pero su contribución es marginal frente al aporte de la sal.
 
 ## La absorción del cloro
 

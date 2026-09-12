@@ -51,16 +51,16 @@ Las células que más se dividen son las primeras en acusar el problema: en la m
 
 ## Fuentes alimentarias de folato
 
-El nombre «folato» viene del latín *folium* (hoja): las verduras de hoja verde son su fuente más característica. Pero el alimento con mayor concentración no es una verdura: es el hígado. Las [legumbres](/alimentos/legumbres) también figuran entre las fuentes más ricas:
+El nombre «folato» viene del latín *folium* (hoja): las [verduras de hoja verde](/alimentos/verduras-hortalizas/hojas) son su fuente más característica. Pero el alimento con mayor concentración no es una verdura: es el hígado. Las [legumbres](/alimentos/legumbres) también figuran entre las fuentes más ricas:
 
 | Alimento | Folato por cada 100 g |
 |---|---|
 | Hígado de ternera (cocido) | 220 µg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 180 µg |
-| Espinacas cocidas | 150 µg |
+| [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 150 µg |
 | Espárragos cocidos | 150 µg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 140 µg |
-| Brócoli cocido | 108 µg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 108 µg |
 | Rúcula (cruda) | 97 µg |
 | Aguacate | 80 µg |
 | Naranja | 30 µg |

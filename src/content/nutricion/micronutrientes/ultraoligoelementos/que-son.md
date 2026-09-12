@@ -19,7 +19,7 @@ Que no tengan una ingesta de referencia no significa que sean inertes ni que la 
 | **Boro** | Frutas, [frutos secos](/alimentos/frutos-secos), [legumbres](/alimentos/legumbres), verduras | Interviene en la formación del hueso, la regulación hormonal y la función cognitiva | Baja a dosis dietéticas |
 | **Silicio** | Cereales integrales, verduras, granos fermentados | Participa en la fabricación de colágeno y en la estructura del hueso | Muy baja a dosis dietéticas |
 | **Vanadio** | Marisco, setas, cereales, pimienta negra | Interviene en la sensibilidad a la insulina y el control del azúcar en sangre | Moderada; margen estrecho entre dosis estudiada y tóxica |
-| **Germanio** | Ajo, setas medicinales, ginseng | No tiene función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
+| **Germanio** | [Ajo](/alimentos/verduras-hortalizas/bulbos/ajo), setas medicinales, ginseng | No tiene función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
 
 **[Boro](/nutricion/micronutrientes/ultraoligoelementos/boro).** Las investigaciones más consistentes apuntan a los procesos de formación y mantenimiento del hueso —el **metabolismo óseo**— y a la función cognitiva en personas mayores. El boro parece amplificar la actividad de la [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) y de los estrógenos, que intervienen en la incorporación del [calcio](/nutricion/micronutrientes/minerales/calcio) al hueso. Si tu dieta es rica en frutas y verduras, tu ingesta habitual de boro se sitúa entre 1 y 3 mg/día, y ningún caso de toxicidad se ha asociado a fuentes alimentarias.
 

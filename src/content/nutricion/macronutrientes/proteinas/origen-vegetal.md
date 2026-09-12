@@ -83,7 +83,7 @@ La soja cruda y otras legumbres sin cocinar contienen compuestos que bloquean la
 
 Las legumbres crudas contienen un tipo de proteínas capaces de unirse a las células del intestino e interferir con la digestión —las **lectinas**—. La cocción adecuada —hervir, no solo remojar— las neutraliza.
 
-En espinacas y otros vegetales de hoja se concentran compuestos que se unen al calcio en el intestino y reducen su absorción —los **oxalatos**—. Su efecto sobre la proteína es mucho menor que el de los fitatos.
+En [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) y otros vegetales de hoja se concentran compuestos que se unen al calcio en el intestino y reducen su absorción —los **oxalatos**—. Su efecto sobre la proteína es mucho menor que el de los fitatos.
 
 La mayoría de estas limitaciones se resuelven con una preparación adecuada. Las legumbres bien cocidas tienen una digestibilidad proteica notablemente mejor que crudas o mal cocinadas.
 

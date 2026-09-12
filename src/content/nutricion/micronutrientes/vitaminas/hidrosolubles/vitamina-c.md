@@ -26,7 +26,7 @@ Para que esas cadenas se conviertan en colágeno maduro, dos enzimas les añaden
 
 **Antioxidante y regenerador.** El funcionamiento normal de tus células genera como subproducto moléculas inestables que, si no se neutralizan, dañan el ADN, las membranas y otros componentes de la célula —los **radicales libres**—. La vitamina C es el antioxidante más abundante en el plasma y en el líquido intracelular: los captura y los neutraliza antes de que alcancen estructuras críticas. Pero hace algo más que otros antioxidantes no pueden: regenera la [vitamina E](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-e) oxidada —el principal antioxidante de las membranas lipídicas— devolviéndole su capacidad de protección. La vitamina E detiene la oxidación en las membranas; la vitamina C la restaura desde el compartimento acuoso. Las dos forman un equipo.
 
-**Absorción del hierro vegetal.** Si comes [legumbres](/alimentos/legumbres), espinacas o cereales integrales como fuente de [hierro](/nutricion/micronutrientes/oligoelementos/hierro), hay un problema de partida: el hierro de origen vegetal llega al intestino en estado oxidado (Fe³⁺), que el intestino absorbe mal porque no puede unirse a la proteína que introduce el hierro en las células del intestino delgado —el **DMT-1**—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que el DMT-1 sí transporta. Ingerida en la misma comida que esas fuentes vegetales, puede multiplicar la absorción del hierro entre dos y cuatro veces.
+**Absorción del hierro vegetal.** Si comes [legumbres](/alimentos/legumbres), [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) o cereales integrales como fuente de [hierro](/nutricion/micronutrientes/oligoelementos/hierro), hay un problema de partida: el hierro de origen vegetal llega al intestino en estado oxidado (Fe³⁺), que el intestino absorbe mal porque no puede unirse a la proteína que introduce el hierro en las células del intestino delgado —el **DMT-1**—. La vitamina C reduce el Fe³⁺ a Fe²⁺ en el duodeno, la forma que el DMT-1 sí transporta. Ingerida en la misma comida que esas fuentes vegetales, puede multiplicar la absorción del hierro entre dos y cuatro veces.
 
 **Sistema inmunitario.** Cuando tienes una infección, las células de defensa acumulan vitamina C en su interior a una concentración entre 50 y 100 veces superior a la del plasma. Esas células —neutrófilos, linfocitos y macrófagos, agrupados bajo el nombre de **leucocitos**— la movilizan hacia los tejidos afectados de forma inmediata.
 
@@ -63,7 +63,7 @@ Los pimientos crudos y algunas frutas tropicales son las fuentes más concentrad
 | Escaramujo (fresco) | 426 mg |
 | Pimiento rojo crudo | 190 mg |
 | Kiwi | 93 mg |
-| Brócoli cocido | 65 mg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 65 mg |
 | Fresa | 59 mg |
 | Naranja | 53 mg |
 | Espinaca cruda | 28 mg |

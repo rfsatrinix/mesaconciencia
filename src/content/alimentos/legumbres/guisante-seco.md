@@ -76,7 +76,7 @@ La ración habitual es de 80-100 g en seco, que se convierte en unos 200 g cocid
 
 **Con vitamina C para el hierro.** El hierro del guisante es del tipo que tu cuerpo absorbe con menor eficiencia que el de la carne —el **hierro no hemo**—. Añadir [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) en la misma comida —un chorro de limón, perejil fresco, pimiento— puede multiplicar esa absorción por dos o por tres.
 
-**En dals, sopas y purés.** El guisante partido es la base del dal indio, de la *ärtsoppa* escandinava y del puré de guisante del norte de Europa. Un puré de guisante partido con caldo, ajo y comino tiene exactamente el mismo tiempo de preparación que una sopa instantánea, con un valor nutricional que no tiene nada que ver.
+**En dals, sopas y purés.** El guisante partido es la base del dal indio, de la *ärtsoppa* escandinava y del puré de guisante del norte de Europa. Un puré de guisante partido con caldo, [ajo](/alimentos/verduras-hortalizas/bulbos/ajo) y comino tiene exactamente el mismo tiempo de preparación que una sopa instantánea, con un valor nutricional que no tiene nada que ver.
 
 Si soy sincera, el guisante seco es la legumbre con más distancia entre lo que ofrece y el lugar que ocupa en la cocina española. La fibra más alta del grupo, la proteína que lidera el mercado vegetal y, en su versión partida, la digestión más sencilla de todas.
 

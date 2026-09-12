@@ -56,11 +56,11 @@ El boro se concentra especialmente en frutas, frutos secos y legumbres:
 | Aguacate | 1,1 mg |
 | Vino tinto | 0,8 mg ¹ |
 | Manzana | 0,3 mg |
-| Brócoli | 0,3 mg |
+| [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) | 0,3 mg |
 
 *Valores aproximados. ¹ Por cada 100 mL. Fuente: USDA FoodData Central. Los valores varían según variedad y origen geográfico.*
 
-Las frutas deshidratadas concentran el boro porque pierden líquido durante el secado pero retienen sus nutrientes: 30 g de pasas aportan aproximadamente 1,4 mg de boro —más de la mitad de la ingesta diaria típica en una dieta con frutas y frutos secos—. Los cereales y las verduras de hoja contienen boro, pero en concentraciones significativamente menores.
+Las frutas deshidratadas concentran el boro porque pierden líquido durante el secado pero retienen sus nutrientes: 30 g de pasas aportan aproximadamente 1,4 mg de boro —más de la mitad de la ingesta diaria típica en una dieta con frutas y frutos secos—. Los cereales y las [verduras de hoja](/alimentos/verduras-hortalizas/hojas) contienen boro, pero en concentraciones significativamente menores.
 
 ## La absorción del boro
 

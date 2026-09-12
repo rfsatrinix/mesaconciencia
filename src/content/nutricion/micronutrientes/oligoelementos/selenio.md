@@ -31,7 +31,7 @@ La EFSA estableció en 2014 la ingesta de referencia para la población (PRI) de
 | Niños 4–6 | 20 µg/día |
 | Niños 1–3 | 15 µg/día |
 
-El nivel máximo tolerable para adultos es de **300 µg/día** según la EFSA —el Instituto de Medicina de EEUU fija el umbral en 400 µg/día—. Lo que hace al selenio especialmente delicado es la proximidad entre la ingesta óptima y la tóxica: a partir de ingestas crónicas superiores a 300–400 µg/día aparece un síndrome con aliento que huele a ajo, caída de cabello, fragilidad y pérdida de uñas, y en casos graves daño en los nervios de las extremidades —la **selenosis**—. El olor a ajo no es una metáfora: el selenio que tu cuerpo no puede excretar por la orina lo elimina a través de los pulmones en forma de dimetilselenio, un compuesto volátil con ese olor característico.
+El nivel máximo tolerable para adultos es de **300 µg/día** según la EFSA —el Instituto de Medicina de EEUU fija el umbral en 400 µg/día—. Lo que hace al selenio especialmente delicado es la proximidad entre la ingesta óptima y la tóxica: a partir de ingestas crónicas superiores a 300–400 µg/día aparece un síndrome con aliento que huele a [ajo](/alimentos/verduras-hortalizas/bulbos/ajo), caída de cabello, fragilidad y pérdida de uñas, y en casos graves daño en los nervios de las extremidades —la **selenosis**—. El olor a ajo no es una metáfora: el selenio que tu cuerpo no puede excretar por la orina lo elimina a través de los pulmones en forma de dimetilselenio, un compuesto volátil con ese olor característico.
 
 ## La selenocisteína: el aminoácido exclusivo del selenio
 

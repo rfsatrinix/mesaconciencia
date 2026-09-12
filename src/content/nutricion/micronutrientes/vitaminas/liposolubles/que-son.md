@@ -24,7 +24,7 @@ Tu dieta puede aportarte vitamina A activa de dos fuentes distintas:
 
 **Retinol (vitamina A preformada).** Se encuentra en fuentes de origen animal —vísceras, especialmente hígado de ternera, huevos y lácteos enteros— y tu intestino lo absorbe con una eficiencia del 70–90 %.
 
-**Beta-caroteno (provitamina A).** Se encuentra en los vegetales de color naranja, amarillo y verde oscuro —zanahoria, boniato, espinacas, mango— y tu organismo lo convierte en retinol con menor eficiencia: 12 μg de beta-caroteno dietético equivalen a 1 μg de retinol activo.
+**Beta-caroteno (provitamina A).** Se encuentra en los vegetales de color naranja, amarillo y verde oscuro —[zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria), boniato, [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), mango— y tu organismo lo convierte en retinol con menor eficiencia: 12 μg de beta-caroteno dietético equivalen a 1 μg de retinol activo.
 
 La toxicidad por exceso de retinol —la **hipervitaminosis A**— es posible con suplementación elevada y prolongada, y puede causar daño al hígado, dolor de cabeza y, durante el embarazo, malformaciones en el feto —es **teratogénica**, capaz de alterar el desarrollo del embrión—. El beta-caroteno dietético no es tóxico: si tu ingesta es alta, la piel puede adquirir un tono amarillento (carotenodermia), pero reversible y sin daño interno. La EFSA fija el límite superior tolerable de retinol en 3.000 μg/día para adultos.
 
@@ -56,7 +56,7 @@ La [vitamina K](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-k) es
 
 Existen dos formas principales con distribución alimentaria diferente:
 
-**K1 (filoquinona).** Se encuentra en concentraciones elevadas en las verduras de hoja verde —espinacas, col rizada, brócoli— y es la forma mayoritaria en la dieta occidental.
+**K1 (filoquinona).** Se encuentra en concentraciones elevadas en las [verduras de hoja verde](/alimentos/verduras-hortalizas/hojas) —espinacas, col rizada, [brócoli](/alimentos/verduras-hortalizas/flores/brocoli)— y es la forma mayoritaria en la dieta occidental.
 
 **K2 (menaquinonas).** La producen las bacterias intestinales y se encuentra en productos fermentados como el natto —un preparado japonés de [soja](/alimentos/legumbres/soja) fermentada que concentra la mayor cantidad por gramo de cualquier producto—, el queso curado y el chucrut; llega con mayor eficiencia a los tejidos fuera del hígado, como el hueso y las arterias, que la K1.
 

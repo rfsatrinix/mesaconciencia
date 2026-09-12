@@ -76,7 +76,7 @@ La ración habitual es de 80-100 g en seco, que se convierte en unos 200 g cocid
 
 **Remojo obligatorio, mínimo 8 horas.** A diferencia del [guisante partido](/alimentos/legumbres/guisante-seco), las habas secas enteras no se pueden cocer sin remojo: la piel es dura y la cocción directa no la ablanda bien. Déjalas en remojo la noche anterior y cambia el líquido antes de cocer.
 
-**Cocción larga, o exprés.** Sin olla a presión, las habas tardan entre dos y tres horas. Con olla exprés, 30-40 minutos a alta presión son suficientes. El tiempo no es negociable —a diferencia de lentejas o guisantes partidos—, pero tampoco requiere atención: puedes dejarlas al fuego con laurel y ajo y olvidarte.
+**Cocción larga, o exprés.** Sin olla a presión, las habas tardan entre dos y tres horas. Con olla exprés, 30-40 minutos a alta presión son suficientes. El tiempo no es negociable —a diferencia de lentejas o guisantes partidos—, pero tampoco requiere atención: puedes dejarlas al fuego con laurel y [ajo](/alimentos/verduras-hortalizas/bulbos/ajo) y olvidarte.
 
 **Con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) para el hierro.** El hierro de las habas es del tipo que tu cuerpo absorbe con menor eficiencia que el de la carne —el **hierro no hemo**—. Acompañar con un chorro de limón o pimiento fresco en la misma comida puede multiplicar esa absorción por dos o por tres.
 

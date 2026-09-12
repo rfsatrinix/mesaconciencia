@@ -71,7 +71,7 @@ Si tienes lupus eritematoso sistémico —o cualquier otra enfermedad autoinmune
 
 ## La vitamina K y los anticoagulantes: una interacción que merece conocerse
 
-Los brotes tienen una cantidad moderada de vitamina K —30,5 µg por cada 100 g—, comparable a la de muchas verduras de hoja verde. No es un valor preocupante en condiciones normales.
+Los brotes tienen una cantidad moderada de vitamina K —30,5 µg por cada 100 g—, comparable a la de muchas [verduras de hoja verde](/alimentos/verduras-hortalizas/hojas). No es un valor preocupante en condiciones normales.
 
 El problema aparece cuando el consumo habitual de alfalfa coincide con un tratamiento con fármacos que funcionan bloqueando la vitamina K —los **antagonistas de la vitamina K**—, como la warfarina o el acenocumarol, el principio activo del Sintrom, el anticoagulante oral más prescrito en España.
 

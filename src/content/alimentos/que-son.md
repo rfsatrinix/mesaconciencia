@@ -16,13 +16,13 @@ Un [nutriente](/nutricion) es la molécula que tus células utilizan: glucosa, [
 
 Tomemos el hierro como ejemplo. El hierro de las lentejas y el hierro de la carne son el mismo mineral sobre el papel. Tu cuerpo absorbe entre el 2 y el 20 % del primero, y entre el 15 y el 35 % del segundo. La diferencia no está en el hierro: está en la red de [proteínas](/nutricion/macronutrientes/proteinas), [grasas](/nutricion/macronutrientes/grasas-o-lipidos), [fibra](/nutricion/fibra-alimenticia) y fitoquímicos que lo rodea en cada alimento —lo que en nutrición se llama **matriz alimentaria**—.
 
-No todo lo que viaja en esa red trabaja a tu favor. Los fitatos de los cereales y las legumbres, los oxalatos de las espinacas o la avidina del huevo crudo reducen la absorción de ciertos [micronutrientes](/nutricion/micronutrientes) —se agrupan bajo el nombre de **antinutrientes**—. No son venenos; son moléculas con las que la preparación y la combinación de alimentos saben lidiar.
+No todo lo que viaja en esa red trabaja a tu favor. Los fitatos de los cereales y las legumbres, los oxalatos de las [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) o la avidina del huevo crudo reducen la absorción de ciertos [micronutrientes](/nutricion/micronutrientes) —se agrupan bajo el nombre de **antinutrientes**—. No son venenos; son moléculas con las que la preparación y la combinación de alimentos saben lidiar.
 
 > El alimento no es el nutriente. Es el contexto en el que ese nutriente llega a tu cuerpo.
 
 ## La preparación forma parte del perfil nutricional
 
-El porcentaje del nutriente que tu cuerpo absorbe y usa realmente —su **biodisponibilidad**— no es un dato fijo. Cambia con lo que haces antes de comer. El remojo reduce los antinutrientes de legumbres y cereales. El calor libera más el compuesto que da el color rojo al tomate —el **licopeno**—, pero destruye parte de la vitamina C del brócoli. La fermentación del pan de masa madre descompone fitatos que la levadura convencional no elimina.
+El porcentaje del nutriente que tu cuerpo absorbe y usa realmente —su **biodisponibilidad**— no es un dato fijo. Cambia con lo que haces antes de comer. El remojo reduce los antinutrientes de legumbres y cereales. El calor libera más el compuesto que da el color rojo al [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate) —el **licopeno**—, pero destruye parte de la vitamina C del [brócoli](/alimentos/verduras-hortalizas/flores/brocoli). La fermentación del pan de masa madre descompone fitatos que la levadura convencional no elimina.
 
 Y cambia también con lo que combinas en el mismo plato. Añadir un chorro de zumo de limón a una comida con hierro vegetal puede triplicar lo que absorbes. Las grasas del aliño ayudan a absorber las [vitaminas](/nutricion/micronutrientes/vitaminas) que las verduras llevan dentro. La [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) mejora la absorción del [calcio](/nutricion/micronutrientes/minerales/calcio).
 

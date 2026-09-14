@@ -5,7 +5,7 @@ date: 2026-09-11
 categoria: "Hortalizas de fruto"
 draft: false
 image: "./fotos/tomate_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con tomate en tres formas: a la izquierda, un cuenco de cerámica oscura con tomates de variedad comercial, uno entero y otro partido por la mitad mostrando el interior rojo intenso; en el centro, sobre una tabla de madera clara, tomates de variedades tradicionales —corazón de buey y kumato— de formas irregulares y colores desiguales; a la derecha, un cuenco de cerámica clara con salsa de tomate casera recién cocinada. Cada grupo lleva una etiqueta de papel kraft: «Tomate maduro · Licopeno», «Variedades tradicionales · Sabor» y «Salsa cocinada · Umami»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con tomate en tres formas: a la izquierda, un cuenco de cerámica clara con tomates de variedad comercial, uno entero y otro partido por la mitad mostrando el interior rojo intenso; en el centro, sobre una tabla de madera clara, tomates de variedades tradicionales —corazón de buey y kumato— de formas irregulares y colores desiguales; a la derecha, un cuenco de cerámica clara con salsa de tomate casera recién cocinada. Cada grupo lleva una etiqueta de papel kraft: «Tomate maduro · Licopeno», «Variedades tradicionales · Sabor» y «Salsa cocinada · Umami»."
 ---
 
 Muerdes un tomate de enero, de los que venden envueltos en plástico en cualquier supermercado, y sabe a agua con un vago recuerdo a tomate. Muerdes el que recolecta tu abuelo en agosto, o el que compras en el mercado a un agricultor de la zona, y el sabor te llena la boca entera. No es nostalgia: hay tomates que saben y tomates que no.

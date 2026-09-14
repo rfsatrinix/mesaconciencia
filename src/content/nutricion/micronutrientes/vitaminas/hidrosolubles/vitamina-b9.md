@@ -62,8 +62,8 @@ El nombre «folato» viene del latín *folium* (hoja): las [verduras de hoja ver
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 140 µg |
 | [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 108 µg |
 | Rúcula (cruda) | 97 µg |
-| Aguacate | 80 µg |
-| Naranja | 30 µg |
+| [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 80 µg |
+| [Naranja](/alimentos/frutas/fresca/citricos/naranja) | 30 µg |
 | Arroz integral cocido | 9 µg |
 
 *Fuente: USDA FoodData Central. Valores aproximados.*

@@ -80,7 +80,7 @@ Tus reservas corporales de tiamina son pequeñas —alrededor de 30 mg, distribu
 
 **Tiaminasas.** Son enzimas presentes en los peces de río crudos, en algunos mariscos crudos y en ciertas plantas que degradan activamente la tiamina; la cocción las inactiva.
 
-**Sulfitos.** Son aditivos conservantes usados en vino, zumos industriales y frutas desecadas que destruyen la tiamina directamente.
+**Sulfitos.** Son aditivos conservantes usados en vino, zumos industriales y [frutas](/alimentos/frutas) desecadas que destruyen la tiamina directamente.
 
 **Alcohol.** Bloquea la absorción intestinal de tiamina y acelera su excreción renal —el mecanismo que explica la alta prevalencia de déficit de tiamina en personas con alcoholismo crónico—.
 

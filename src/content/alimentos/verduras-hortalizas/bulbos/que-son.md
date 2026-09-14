@@ -22,7 +22,7 @@ El puerro es un caso a medias: lo que te comes no es un bulbo redondo, sino la b
 
 El valor de este grupo está en cuatro cosas, y ninguna es «un montón de vitaminas»: una química que se dispara al cortarlas, una fibra que alimenta a tus bacterias, un sabor que te deja comer más verdura con menos sal, y unas [vitaminas](/nutricion/micronutrientes/vitaminas) y [minerales](/nutricion/micronutrientes/minerales) que aportan poco. Vamos una por una.
 
-## Herramienta 1: la química que se activa al cortar
+## Herramienta 1: la química que se activa al cortar los bulbos
 
 Dentro de un diente de ajo entero hay dos cosas guardadas por separado: una molécula de azufre sin olor y una enzima que la transformará en cuanto entren en contacto. Mientras el diente está intacto, no pasa nada.
 
@@ -38,7 +38,7 @@ Cortarlo fino hace más efecto que usarlo entero. El ajo entero asado sabe suave
 
 > El ajo de un guiso y el ajo de un allioli no son el mismo alimento. La diferencia la marcan el cuchillo y el reloj.
 
-## Herramienta 2: comida para tus bacterias
+## Herramienta 2: la fibra de los bulbos, comida para tus bacterias
 
 El ajo, la cebolla y el puerro están entre las fuentes más concentradas de un tipo de [fibra](/nutricion/fibra-alimenticia) que tú no puedes digerir pero tus bacterias intestinales sí —los **fructanos**, también llamados inulina—. El ajo tiene entre 12 y 17 g por cada 100 g; la cebolla, entre 2 y 6.
 
@@ -50,7 +50,7 @@ Cocinarlos no los elimina: los fructanos aguantan el calor y se disuelven en [ag
 
 > La misma fibra que a la mayoría le cuida el intestino es la que a otras personas se lo revuelve.
 
-## Herramienta 3: sabor que reemplaza sal y grasa
+## Herramienta 3: el sabor de los bulbos, que reemplaza sal y grasa
 
 Esta es la herramienta más infravalorada. Una base de ajo y cebolla pochados hace que un plato de [legumbres](/alimentos/legumbres), de verdura o de arroz sepa a algo, y eso tiene una consecuencia nutricional directa: comes más de esos alimentos y necesitas menos [sal](/nutricion/micronutrientes/minerales/sodio) y menos [grasa](/nutricion/macronutrientes/grasas-o-lipidos) para que te resulten apetecibles.
 
@@ -58,7 +58,7 @@ No es un efecto que salga en ninguna tabla, pero es real.
 
 > La cebolla no te da [hierro](/nutricion/micronutrientes/oligoelementos/hierro). Te da la razón por la que te comes las lentejas.
 
-## Herramienta 4: en la tabla, poca cosa
+## Herramienta 4: en la tabla nutricional, los bulbos aportan poca cosa
 
 Si miras los números, la cebolla es sobre todo agua con algo de [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) y de [potasio](/nutricion/micronutrientes/minerales/potasio). Su aporte más interesante es un pigmento antioxidante del que la cebolla —sobre todo la roja y las capas de fuera— es de las fuentes más ricas de la dieta —la **quercetina**—.
 
@@ -74,7 +74,7 @@ El ajo parece rico en varios minerales, pero la tabla engaña: un diente pesa en
 
 El puerro es la excepción del grupo. Como te comes también parte de la zona verde, aporta más [folato](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9) y algo de [vitamina K](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-k): está más cerca de una hoja que de un diente de ajo.
 
-## ¿Cómo sacarles el máximo?
+## ¿Cómo sacarles el máximo a las verduras de bulbo?
 
 **Machaca el ajo y dale unos minutos** antes de que toque la sartén, para que la química se complete.
 

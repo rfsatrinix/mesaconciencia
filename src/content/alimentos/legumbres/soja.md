@@ -20,7 +20,7 @@ La soja (*Glycine max*) es una [legumbre](/alimentos/legumbres) de la familia Fa
 
 En occidente se consume principalmente como granos maduros cocidos, edamame —los granos cosechados antes de que maduren del todo—, tofu, leche vegetal y proteína texturizada. El procesado cambia los valores nutricionales en cada forma; este artículo toma los granos cocidos como referencia.
 
-## Composición nutricional
+## Composición nutricional de la soja
 
 Datos por cada 100 g de soja cocida, sin sal:
 

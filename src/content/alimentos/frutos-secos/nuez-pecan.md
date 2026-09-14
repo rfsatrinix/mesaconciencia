@@ -20,7 +20,7 @@ La nuez pecán (*Carya illinoinensis*) es el fruto de un árbol de la familia Ju
 
 Lo que conoces como nuez pecán es la semilla del fruto. La cáscara exterior es dura y lisa, de color marrón oscuro; la semilla interior tiene una piel fina, también oscura, casi negra, que envuelve las dos mitades. Esa piel es el dato nutricional más importante de todo el fruto seco.
 
-## Composición nutricional
+## Composición nutricional de la nuez pecán
 
 Datos por cada 100 g de nuez pecán cruda:
 

@@ -20,7 +20,7 @@ La almendra (*Prunus dulcis*) es la semilla de un árbol de la familia Rosaceae 
 
 España es el segundo productor mundial, después de California. Las tres variedades más habituales en la despensa española son la **marcona** —redonda, más grasa, de sabor más suave, la más apreciada gastronómicamente y una de las más exportadas del mundo—, la **largueta** —alargada, más seca, típica de Aragón y Cataluña— y las variedades comunes de uso industrial. También existen almendras amargas (*Prunus amygdalus* var. *amara*), que contienen un compuesto que libera cianuro al digerirse —la **amigdalina**— y no son comestibles en crudo; las almendras dulces son las únicas que se consumen directamente.
 
-## Composición nutricional
+## Composición nutricional de la almendra
 
 Datos por cada 100 g de almendra cruda con piel:
 
@@ -55,7 +55,7 @@ Las fuentes que más la concentran —aceites vegetales y [frutos secos](/alimen
 
 La almendra es la excepción. Con 25,6 mg de alfa-tocoferol por cada 100 g, casi duplica la cantidad diaria recomendada por la EFSA para un adulto (entre 11 y 15 mg). Una ración de 30 g aporta 7,7 mg: entre el 50 % y el 70 % de esa cantidad en un solo alimento.
 
-El aceite de girasol tiene más vitamina E por cada 100 g (41 mg), pero lo usas en cucharadas de 10-15 g que aportan 4-6 mg. El aceite de oliva tiene 14 mg por cada 100 g, pero la cucharada habitual aporta apenas 1,5 mg. El aguacate tiene 2,1 mg por cada 100 g; un aguacate mediano entero aporta unos 2,5 mg. Los pimientos rojos y las [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas, 1,5-2 mg por cada 100 g.
+El aceite de girasol tiene más vitamina E por cada 100 g (41 mg), pero lo usas en cucharadas de 10-15 g que aportan 4-6 mg. El aceite de oliva tiene 14 mg por cada 100 g, pero la cucharada habitual aporta apenas 1,5 mg. El [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) tiene 2,1 mg por cada 100 g; un aguacate mediano entero aporta unos 2,5 mg. Los pimientos rojos y las [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas, 1,5-2 mg por cada 100 g.
 
 La vitamina E tiene además un papel directo en el riesgo de sufrir un infarto o un ictus: actúa sobre las partículas del colesterol que en tu analítica aparecen como «malo» —el **LDL**— y reduce su tendencia a oxidarse.
 

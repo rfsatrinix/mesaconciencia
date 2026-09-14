@@ -8,7 +8,7 @@ image: "./fotos/hortalizasdefruto_portada.jpg"
 imageAlt: "Fotografía editorial sobre fondo oscuro con tres hortalizas de fruto: a la izquierda, tomates verdes y maduros mezclados, con uno partido por la mitad mostrando el interior rojo; en el centro, un pimiento rojo entero y otro partido mostrando las semillas y el interior blanco; a la derecha, un cuenco de cerámica clara con guindillas rojas picantes. Cada grupo lleva una etiqueta de papel kraft: «Tomate · Licopeno», «Pimiento rojo · Vitamina C» y «Guindilla · Capsaicina»."
 ---
 
-En la frutería, el [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate) se sienta junto al pimiento y al calabacín. Nunca junto a la manzana o la naranja. Pero botánicamente tiene mucho más en común con la manzana que con la [zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria).
+En la frutería, el [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate) se sienta junto al pimiento y al calabacín. Nunca junto a la [manzana](/alimentos/frutas/fresca/dulces/manzana) o la [naranja](/alimentos/frutas/fresca/citricos/naranja). Pero botánicamente tiene mucho más en común con la manzana que con la [zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria).
 
 Es el dato de trivial de siempre: «el tomate es en realidad una fruta». Se suelta en una sobremesa, arranca una sonrisa, y ahí se queda, como una curiosidad y nada más.
 
@@ -62,7 +62,7 @@ Es una defensa muy afinada. A los mamíferos, que masticarían las semillas y la
 
 El agua no quita el picor: la capsaicina no se disuelve en agua. La leche o el yogur, sí, porque se disuelve en grasa.
 
-## Lo que aportan (y lo que no)
+## Lo que aportan las hortalizas de fruto (y lo que no)
 
 | Por cada 100 g crudo | Energía | Agua | Azúcares | Vitamina C |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ El agua no quita el picor: la capsaicina no se disuelve en agua. La leche o el y
 
 El dato que más sorprende de la tabla: el pimiento rojo tiene más vitamina C que una naranja, que ronda los 53 mg por cada 100 g. No es un error ni una excepción: los pimientos, en general, están entre las mejores fuentes de vitamina C de toda la dieta.
 
-## ¿Cómo sacarles el máximo?
+## ¿Cómo sacarles el máximo a las hortalizas de fruto?
 
 **Cocina el tomate con algo de grasa** si buscas el licopeno. Crudo también aporta, pero cocinado y con un poco de aceite se aprovecha mucho más.
 

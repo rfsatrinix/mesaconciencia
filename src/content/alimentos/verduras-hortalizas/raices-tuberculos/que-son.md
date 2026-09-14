@@ -5,7 +5,7 @@ categoria: "Raíces y tubérculos"
 draft: true
 date: 2026-09-11
 image: "./fotos/raicesytuberculos_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con tres raíces y tubérculos: a la izquierda, un cuenco de cerámica oscura con patatas, una entera mostrando los ojos de la piel y otra cortada por la mitad; en el centro, sobre una tabla de madera clara, un manojo de zanahorias y una remolacha entera junto a otra partida por la mitad mostrando los anillos rojo violáceo; a la derecha, un cuenco de cerámica clara con boniatos enteros y uno cortado mostrando la pulpa naranja. Cada grupo lleva una etiqueta de papel kraft: «Patata · Tubérculo de tallo», «Zanahoria y remolacha · Raíz» y «Boniato · Betacaroteno»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con tres raíces y tubérculos: a la izquierda, un cuenco de cerámica clara con patatas, una entera mostrando los ojos de la piel y otra cortada por la mitad; en el centro, sobre una tabla de madera clara, un manojo de zanahorias y una remolacha entera junto a otra partida por la mitad mostrando los anillos rojo violáceo; a la derecha, un cuenco de cerámica clara con boniatos enteros y uno cortado mostrando la pulpa naranja. Cada grupo lleva una etiqueta de papel kraft: «Patata · Tubérculo de tallo», «Zanahoria y remolacha · Raíz» y «Boniato · Betacaroteno»."
 ---
 
 Dejas una patata demasiado tiempo en el cajón de la cocina y le salen bultitos verdosos por toda la piel, dispuestos a convertirse en tallos. Nunca le ha pasado eso a una [zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria) olvidada en la nevera. La diferencia no es la humedad ni el tiempo que llevan ahí: es que una es un tallo, y la otra es una raíz.
@@ -16,7 +16,7 @@ La botánica no está de acuerdo, y la diferencia cambia lo que cada una guarda 
 
 ## ¿Qué son las raíces y los tubérculos?
 
-La zanahoria, la remolacha, el nabo, el rábano y el boniato son raíces de verdad: la parte de la planta que normalmente busca agua y minerales bajo tierra, pero que en estas especies se ha hinchado para acumular energía de reserva.
+La zanahoria, la remolacha, el nabo, el rábano y el boniato son raíces de verdad: la parte de la planta que normalmente busca [agua](/nutricion/agua) y [minerales](/nutricion/micronutrientes/minerales) bajo tierra, pero que en estas especies se ha hinchado para acumular energía de reserva.
 
 La patata es otra cosa por completo: no es una raíz, es un tallo subterráneo modificado —un **tubérculo de tallo**—, con nudos y con esas yemas que conoces como los ojos de la patata. Por eso una patata olvidada echa brotes con solo un trozo de piel y un ojo, y una zanahoria olvidada, no: solo el tallo guarda esa capacidad de generar una planta entera por sí mismo.
 
@@ -46,7 +46,7 @@ Esto es lo que menos se espera: aunque crecen enterradas, sin ver la luz en ning
 
 El naranja de la zanahoria viene de los mismos pigmentos que colorean el [tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate) y el pimiento —los **carotenoides**—, y cumple la misma función defensiva y antioxidante que en cualquier otra parte de la planta expuesta al sol: neutralizar los compuestos inestables que dañan las células con el paso del tiempo —los **radicales libres**—.
 
-El rojo violáceo de la remolacha es harina de otro costal. No es un carotenoide ni tampoco es de la misma familia que el rojo de la fresa o el morado de la berenjena —las **antocianinas**—: es un pigmento propio, exclusivo de un grupo reducido de plantas —las **betalaínas**—.
+El rojo violáceo de la remolacha es harina de otro costal. No es un carotenoide ni tampoco es de la misma familia que el rojo de la [fresa](/alimentos/frutas/fresca/bayas/fresa) o el morado de la berenjena —las **antocianinas**—: es un pigmento propio, exclusivo de un grupo reducido de plantas —las **betalaínas**—.
 
 La ciencia ha comprobado algo curioso: ninguna planta conocida fabrica a la vez betalaínas y antocianinas. Las dos rutas químicas compiten por la misma materia prima, así que cada especie eligió un bando hace millones de años y ya no puede volver atrás.
 
@@ -56,9 +56,9 @@ Hay incluso patatas moradas, con antocianinas en la pulpa —la misma familia de
 
 > El color, bajo tierra, nunca es para que lo vean. Es para defenderse de algo que ni tú ni yo vemos.
 
-## Lo que aportan (y lo que no)
+## Lo que aportan las raíces y los tubérculos (y lo que no)
 
-| Por cada 100 g en crudo | Energía | Agua | Hidratos de carbono | Azúcares | Potasio |
+| Por cada 100 g en crudo | Energía | Agua | Hidratos de carbono | Azúcares | [Potasio](/nutricion/micronutrientes/minerales/potasio) |
 |---|---|---|---|---|---|
 | Patata | 77 kcal | 79 g | 17 g | 0,8 g | 425 mg |
 | Zanahoria | 41 kcal | 88 g | 10 g | 4,7 g | 320 mg |
@@ -70,7 +70,7 @@ Hay incluso patatas moradas, con antocianinas en la pulpa —la misma familia de
 
 El grupo entero comparte un perfil: son las verduras con más hidratos de carbono y más calorías de todo el cajón de la nevera, muy por encima de una hoja o un tallo. No es un defecto, es solo lo que corresponde a una despensa de energía. La zanahoria y el boniato destacan además por su cantidad de carotenoides —el boniato de pulpa naranja lleva todavía más que la zanahoria—, que tu cuerpo convierte en [vitamina A](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-a).
 
-## ¿Cómo sacarles el máximo?
+## ¿Cómo sacarles el máximo a las raíces y los tubérculos?
 
 **No las peles a fondo si la piel está limpia.** Justo debajo de la piel de la patata y de la zanahoria se concentra buena parte de la [fibra](/nutricion/fibra-alimenticia) y de los nutrientes que se pierden al pelar en profundidad.
 

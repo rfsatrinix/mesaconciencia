@@ -93,7 +93,7 @@ El ajo negro es la versión de cocina: cabezas enteras sometidas a un calor suav
 
 > Cinco preparaciones, cinco moléculas protagonistas. Cuando alguien te diga «el ajo hace X», la pregunta es: ¿qué ajo?
 
-## Lo que dice la evidencia (y lo que no)
+## Lo que dice la evidencia sobre el ajo (y lo que no)
 
 **Tensión arterial.** Es el efecto mejor documentado. Las revisiones de estudios encuentran que los suplementos de ajo bajan la tensión sistólica una media de unos 8 mmHg en personas hipertensas, una bajada real, comparable a la de algún fármaco suave. Pero son cápsulas estandarizadas, tomadas durante semanas, con una dosis de compuestos activos muy por encima de la de un par de dientes en el guiso.
 
@@ -115,7 +115,7 @@ Al digerir el ajo se liberan cuatro compuestos de azufre olorosos. Tres los desc
 
 Por eso el aliento a ajo persistente no se quita con el cepillo de dientes ni con un chicle: el olor no está en la boca, sube desde los pulmones con cada respiración. Por eso mismo se huele también en la piel al sudar, y por eso pasa a la leche materna.
 
-Lo que sí ayuda, y está medido: manzana cruda, lechuga cruda, hojas de menta y leche. Funcionan mejor tomados durante la comida con ajo, no después. Unas enzimas y unos compuestos de esos [alimentos](/alimentos) neutralizan los olores antes de que lleguen a la sangre.
+Lo que sí ayuda, y está medido: [manzana](/alimentos/frutas/fresca/dulces/manzana) cruda, lechuga cruda, hojas de menta y leche. Funcionan mejor tomados durante la comida con ajo, no después. Unas enzimas y unos compuestos de esos [alimentos](/alimentos) neutralizan los olores antes de que lleguen a la sangre.
 
 > Contra el aliento a ajo, la manzana durante la comida le gana al cepillo de después.
 

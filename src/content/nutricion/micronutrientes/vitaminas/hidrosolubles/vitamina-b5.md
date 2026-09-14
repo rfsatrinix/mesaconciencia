@@ -66,7 +66,7 @@ La distribución excepcionalmente amplia del ácido pantoténico queda reflejada
 | Semillas de girasol (crudas) | 7,1 mg |
 | Hígado de ternera (cocido) | 7,0 mg |
 | Salmón del Atlántico (cocido) | 1,5 mg |
-| Aguacate | 1,5 mg |
+| [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 1,5 mg |
 | Champiñones (crudos) | 1,5 mg |
 | Pechuga de pollo (cocida) | 1,0 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 0,6 mg |

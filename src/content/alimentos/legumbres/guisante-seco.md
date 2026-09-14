@@ -20,7 +20,7 @@ El guisante (*Pisum sativum*) es una [legumbre](/alimentos/legumbres) de la fami
 
 En seco se presenta principalmente en dos formas. El guisante seco entero conserva la piel exterior y requiere remojo previo. El guisante partido —con la piel retirada— no necesita remojo, se cocina en 30-45 minutos y es la base de sopas y purés clásicos del norte de Europa: el *erwtensoep* holandés o la *ärtsoppa* escandinava, platos tan habituales allí como el potaje de garbanzos aquí.
 
-## Composición nutricional
+## Composición nutricional del guisante seco
 
 Datos por cada 100 g de guisante seco cocido, sin sal:
 

@@ -24,7 +24,7 @@ Lo que comes no es exactamente lo que parece. El árbol produce primero una estr
 
 Lo que no ves nunca es la cáscara. Y hay una razón química para eso.
 
-## Composición nutricional
+## Composición nutricional del anacardo
 
 Datos por cada 100 g de anacardo crudo procesado:
 

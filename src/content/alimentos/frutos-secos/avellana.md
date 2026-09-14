@@ -20,7 +20,7 @@ La avellana (*Corylus avellana*) es la semilla madura del fruto del avellano, un
 
 Lo que comes es la semilla. El fruto completo tiene una cáscara dura que protege el interior, envuelta a su vez por una cúpula verde y dentada —el **involucro**— que se descarta durante la recolección. La semilla tiene una piel fina de color marrón rojizo que, como la piel de la nuez, concentra los compuestos con efecto antioxidante —los **polifenoles**—.
 
-## Composición nutricional
+## Composición nutricional de la avellana
 
 Datos por cada 100 g de avellana cruda con piel:
 

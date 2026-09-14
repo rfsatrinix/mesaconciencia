@@ -30,9 +30,9 @@ Y cambia también con lo que combinas en el mismo plato. Añadir un chorro de zu
 
 ## Qué encontrarás en Alimentos
 
-En esta sección encontrarás qué contienen y cómo te afectan los grupos de alimentos más importantes: [legumbres](/alimentos/legumbres), [frutos secos](/alimentos/frutos-secos), cereales y pseudocereales, pescados, verduras y hortalizas, frutas, carnes, lácteos, huevos, hongos y semillas. Y también algas e insectos: dos grupos poco habituales en la dieta occidental pero con tanto que contar nutricionalmente que merecen un artículo propio. Cada artículo explica qué hace único a ese alimento dentro de su grupo, qué compuestos lo acompañan y cómo prepararlo para sacar el máximo partido de lo que contiene.
+En esta sección encontrarás qué contienen y cómo te afectan los grupos de alimentos más importantes: [legumbres](/alimentos/legumbres), [frutos secos](/alimentos/frutos-secos), cereales y pseudocereales, pescados, [verduras y hortalizas](/alimentos/verduras-hortalizas), [frutas](/alimentos/frutas), carnes, lácteos, huevos, hongos y semillas. Y también algas e insectos: dos grupos poco habituales en la dieta occidental pero con tanto que contar nutricionalmente que merecen un artículo propio. Cada artículo explica qué hace único a ese alimento dentro de su grupo, qué compuestos lo acompañan y cómo prepararlo para sacar el máximo partido de lo que contiene.
 
-Gran parte de la confusión que rodea la nutrición popular viene, creo yo, de tratar el nutriente como si fuera el alimento que lo contiene. El hierro no es las lentejas. La vitamina C no es la naranja. Son cosas distintas, y confundirlas genera consejos que suenan convincentes pero no funcionan.
+Gran parte de la confusión que rodea la nutrición popular viene, creo yo, de tratar el nutriente como si fuera el alimento que lo contiene. El hierro no es las lentejas. La vitamina C no es la [naranja](/alimentos/frutas/fresca/citricos/naranja). Son cosas distintas, y confundirlas genera consejos que suenan convincentes pero no funcionan.
 
 > Lo que comes importa. Cómo lo preparas y con qué lo combinas, también.
 

@@ -20,7 +20,7 @@ El pistacho (*Pistacia vera*) es la semilla de un árbol de la familia Anacardia
 
 Lo que conoces como pistacho es la semilla de un fruto carnoso. La cubierta exterior del fruto —verde cuando no ha madurado, rojiza cuando lo ha hecho— se retira durante el procesado. Dentro está la cáscara dura con la semilla. Esa cáscara se abre sola cuando la semilla alcanza su tamaño completo: la apertura espontánea es el indicador de madurez, no un defecto. Los pistachos que no abren no han completado su desarrollo.
 
-## Composición nutricional
+## Composición nutricional del pistacho
 
 Datos por cada 100 g de pistacho crudo sin cáscara:
 

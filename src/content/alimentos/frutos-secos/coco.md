@@ -22,7 +22,7 @@ El coco (*Cocos nucifera*) es el fruto de la palmera cocotero, de la familia Are
 
 Lo que aparece en la sección de frutos secos es el coco deshidratado: la pulpa blanca del interior del fruto, triturada y secada. El coco fresco tiene unos 33 g de grasa por cada 100 g; el deshidratado, al perder la mayor parte de su humedad, concentra esa grasa hasta los 64-65 g por cada 100 g. Los datos de este artículo corresponden a coco deshidratado sin azúcar —que es el coco sin más— y no al coco fresco ni al rallado azucarado de la repostería industrial.
 
-## Composición nutricional
+## Composición nutricional del coco
 
 Datos por cada 100 g de coco deshidratado sin azúcar:
 

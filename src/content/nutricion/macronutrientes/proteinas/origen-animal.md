@@ -42,7 +42,7 @@ El huevo entero es históricamente el patrón de referencia para medir la calida
 
 > Si consumes solo claras, la ganancia en proteína respecto al huevo entero es mínima, pero pierdes casi todos esos micronutrientes.
 
-## Carnes
+## Las carnes como fuente de proteína
 
 ### Carnes blancas (pollo, pavo, conejo)
 
@@ -72,7 +72,7 @@ Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a 
 
 > Embutidos y carne fresca comparten etiqueta en la pirámide alimentaria. No comparten perfil de riesgo.
 
-## Pescado y marisco
+## Pescado y marisco como fuente de proteína
 
 El pescado azul combina proteína de alta calidad con los ácidos grasos de cadena larga que tu cuerpo puede usar directamente para reducir la inflamación y proteger el sistema cardiovascular —el **EPA** y el **DHA**, los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) más relevantes en la dieta—. Los pescados blancos son más magros pero igualmente ricos en proteína completa.
 
@@ -89,7 +89,7 @@ El pescado azul combina proteína de alta calidad con los ácidos grasos de cade
 
 > Para EPA y DHA, el salmón y la sardina son las fuentes más densas de la dieta habitual. Ningún alimento de origen vegetal los aporta directamente.
 
-## Lácteos
+## Lácteos como fuente de proteína
 
 La proteína láctea se divide en dos fracciones con características distintas.
 

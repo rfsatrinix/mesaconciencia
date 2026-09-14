@@ -16,13 +16,13 @@ Son también imprescindibles para que tu cuerpo absorba las [vitaminas](/nutrici
 
 ### Saturadas
 
-Son las grasas que se encuentran principalmente en productos de origen animal (carnes grasas, mantequilla, queso, nata) y en algunos aceites vegetales tropicales (coco, palma). A temperatura ambiente son sólidas.
+Son las grasas que se encuentran principalmente en productos de origen animal (carnes grasas, mantequilla, queso, nata) y en algunos aceites vegetales tropicales ([coco](/alimentos/frutos-secos/coco), palma). A temperatura ambiente son sólidas.
 
 Su consumo elevado se asocia con un aumento del tipo de colesterol que eleva el riesgo cardiovascular —el **colesterol LDL**—. La EFSA recomienda no superar el 10 % de tu energía total en forma de [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas).
 
 ### Monoinsaturadas
 
-La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el aguacate y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en [frutos secos](/alimentos/frutos-secos) como [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana). Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
+La grasa monoinsaturada más común es la que predomina en el aceite de oliva, el [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) y las aceitunas —el **ácido oleico**, un omega-9—. También se encuentra en [frutos secos](/alimentos/frutos-secos) como [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana). Tienen un efecto neutro o ligeramente positivo sobre la distribución de colesterol y grasas en tu sangre —tu **perfil lipídico**—.
 
 ### Poliinsaturadas
 

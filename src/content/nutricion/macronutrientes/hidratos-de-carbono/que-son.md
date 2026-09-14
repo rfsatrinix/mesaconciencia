@@ -16,7 +16,7 @@ Los hidratos de carbono son la fuente de energía que tu organismo consume con m
 
 Tu cuerpo los absorbe con rapidez en tu intestino y produce una elevación brusca del nivel de azúcar en tu sangre —la **glucemia**—.
 
-**Monosacáridos:** son los azúcares más simples, formados por una sola molécula. Los principales son la glucosa, el azúcar que abunda en las frutas —la **fructosa**— y el azúcar presente en la leche —la **galactosa**—.
+**Monosacáridos:** son los azúcares más simples, formados por una sola molécula. Los principales son la glucosa, el azúcar que abunda en las [frutas](/alimentos/frutas) —la **fructosa**— y el azúcar presente en la leche —la **galactosa**—.
 
 **Disacáridos:** están formados por dos monosacáridos encadenados. El azúcar de mesa —la **sacarosa**— une glucosa y fructosa; el azúcar de la leche —la **lactosa**— une glucosa y galactosa.
 

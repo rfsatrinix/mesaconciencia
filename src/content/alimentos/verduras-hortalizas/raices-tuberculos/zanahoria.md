@@ -5,7 +5,7 @@ date: 2026-09-11
 categoria: "Raíces y tubérculos"
 draft: false
 image: "./fotos/zanahoria_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con zanahoria en tres formas: a la izquierda, un manojo de zanahorias naranjas enteras junto a una cortada en rodajas sobre una tabla de madera clara; en el centro, un cuenco de cerámica oscura con zanahorias moradas y amarillas, una de ellas partida por la mitad mostrando el interior; a la derecha, un plato de cerámica clara con zanahoria salteada en rodajas con brillo de aceite. Cada grupo lleva una etiqueta de papel kraft: «Zanahoria naranja · Betacaroteno», «Variedades antiguas · Morada y amarilla» y «Zanahoria salteada · Mejor absorción»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con zanahoria en tres formas: a la izquierda, un manojo de zanahorias naranjas enteras junto a una cortada en rodajas sobre una tabla de madera clara; en el centro, un cuenco de cerámica clara con zanahorias moradas y amarillas, una de ellas partida por la mitad mostrando el interior; a la derecha, un plato de cerámica clara con zanahoria salteada en rodajas con brillo de aceite. Cada grupo lleva una etiqueta de papel kraft: «Zanahoria naranja · Betacaroteno», «Variedades antiguas · Morada y amarilla» y «Zanahoria salteada · Mejor absorción»."
 ---
 
 En 1940, un piloto de caza nocturno británico llamado John Cunningham empezó a derribar bombarderos alemanes en plena oscuridad, uno detrás de otro. La prensa lo bautizó «Ojos de Gato» y explicó su don: comía zanahorias a puñados. El país entero se lo creyó, y ochenta y cinco años después, todavía hay quien repite que la zanahoria da buena vista.

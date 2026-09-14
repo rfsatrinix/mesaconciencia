@@ -10,7 +10,7 @@ imageAlt: "Vitamina C"
 
 Un perro adulto produce entre 40 y 80 mg de vitamina C por kilogramo de peso al día, sin dieta especial ni suplementos. Una cabra sometida a estrés puede superar los 200 mg/kg. La práctica totalidad de los mamíferos tienen en el hígado la maquinaria enzimática para fabricar vitamina C a partir de glucosa. Tu hígado tiene esa misma maquinaria —o debería tenerla—: una mutación puntual inutilizó el gen responsable del último paso de esa síntesis —el **GULO**— hace aproximadamente 63 millones de años, en el linaje de los primates. El gen sigue ahí en tu genoma, intacto en secuencia pero incapaz de funcionar. No produce nada. Desde entonces, los primates dependemos de la dieta para obtener una molécula que la mayor parte de los mamíferos fabrican sin esfuerzo.
 
-Durante la mayor parte de la historia humana, esa dependencia no fue un problema: las personas comían plantas, y las plantas la contienen en abundancia. El problema llegó cuando los europeos empezaron a cruzar los océanos durante meses sin fruta fresca. Entre los siglos XV y XVIII, la enfermedad producida por la deficiencia grave de vitamina C —el **escorbuto**— mató a más marineros que las tormentas, los cañones y los naufragios juntos. En algunos viajes, llegó a reducir a la mitad la tripulación antes de alcanzar el destino. La causa de aquella epidemia y la vitamina que la habría evitado tardarían aún en identificarse. Hoy la vitamina C es uno de los suplementos más vendidos del mercado, impulsada en parte por las afirmaciones de un doble premio Nobel que décadas de investigación posterior no pudieron confirmar del todo.
+Durante la mayor parte de la historia humana, esa dependencia no fue un problema: las personas comían plantas, y las plantas la contienen en abundancia. El problema llegó cuando los europeos empezaron a cruzar los océanos durante meses sin [fruta fresca](/alimentos/frutas/fresca). Entre los siglos XV y XVIII, la enfermedad producida por la deficiencia grave de vitamina C —el **escorbuto**— mató a más marineros que las tormentas, los cañones y los naufragios juntos. En algunos viajes, llegó a reducir a la mitad la tripulación antes de alcanzar el destino. La causa de aquella epidemia y la vitamina que la habría evitado tardarían aún en identificarse. Hoy la vitamina C es uno de los suplementos más vendidos del mercado, impulsada en parte por las afirmaciones de un doble premio Nobel que décadas de investigación posterior no pudieron confirmar del todo.
 
 La **vitamina C** —también llamada **ácido ascórbico**— es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que no puedes almacenar en cantidades significativas: el riñón excreta el exceso en horas, y las reservas corporales —repartidas principalmente en glándulas suprarrenales, leucocitos y plasma sanguíneo— se agotan en pocas semanas con una ingesta insuficiente. Lo que el gen GULO dejó de fabricar hace 63 millones de años solo puede venir del plato.
 
@@ -55,16 +55,16 @@ La EFSA establece un umbral orientativo de 1 000 mg/día. Por encima de esa cant
 
 ## Fuentes alimentarias de vitamina C
 
-Los pimientos crudos y algunas frutas tropicales son las fuentes más concentradas. La naranja es la referencia popular de la vitamina C, pero un pimiento rojo crudo aporta casi cuatro veces más:
+Los pimientos crudos y algunas [frutas](/alimentos/frutas) tropicales son las fuentes más concentradas. La [naranja](/alimentos/frutas/fresca/citricos/naranja) es la referencia popular de la vitamina C, pero un pimiento rojo crudo aporta casi cuatro veces más:
 
 | Alimento | Vitamina C por cada 100 g |
 |---|---|
 | Acerola (cruda) | 1677 mg |
 | Escaramujo (fresco) | 426 mg |
 | Pimiento rojo crudo | 190 mg |
-| Kiwi | 93 mg |
+| [Kiwi](/alimentos/frutas/fresca/exoticas/kiwi) | 93 mg |
 | [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 65 mg |
-| Fresa | 59 mg |
+| [Fresa](/alimentos/frutas/fresca/bayas/fresa) | 59 mg |
 | Naranja | 53 mg |
 | Espinaca cruda | 28 mg |
 | Espinaca cocida | 10 mg |

@@ -20,7 +20,7 @@ El altramuz (*Lupinus albus*) es una [legumbre](/alimentos/legumbres) de la fami
 
 En España se conoce también como chocho o lupin, y se consume casi exclusivamente como aperitivo en salmuera. En Portugal —donde se llaman *tremoços*— tienen el mismo papel. En el norte de Europa se comercializa cada vez más como ingrediente proteico en harinas, pastas y hamburguesas vegetales: una presencia que en España todavía no ha llegado.
 
-## Composición nutricional
+## Composición nutricional del altramuz
 
 Datos por cada 100 g de altramuz cocido, escurrido, sin sal añadida:
 

@@ -47,7 +47,7 @@ Su absorción también es singular: la B12 necesita unirse a una proteína que f
 
 La [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) (ácido ascórbico) ocupa un lugar aparte dentro de las hidrosolubles: no pertenece al grupo B, no actúa principalmente como coenzima y su historia en la alimentación humana es diferente. La mayoría de los mamíferos —perros, ratas, caballos— sintetizan vitamina C en el hígado; los humanos, junto con otros primates y algunas aves, perdieron esa capacidad y dependen por completo de la dieta.
 
-Es la molécula que neutraliza el daño de los radicales libres en los líquidos de tu cuerpo —el principal **antioxidante** hidrosoluble— y es necesaria para que tu organismo fabrique la proteína que da firmeza a la piel, los tendones, los vasos sanguíneos y el cartílago —el **colágeno**—. Sin vitamina C, las heridas no cicatrizan y el colágeno existente se degrada: ese es el mecanismo de la enfermedad que diezmó a las tripulaciones navales durante siglos —el **escorbuto**—, hasta que James Lind demostró en 1747 que los cítricos lo prevenían.
+Es la molécula que neutraliza el daño de los radicales libres en los líquidos de tu cuerpo —el principal **antioxidante** hidrosoluble— y es necesaria para que tu organismo fabrique la proteína que da firmeza a la piel, los tendones, los vasos sanguíneos y el cartílago —el **colágeno**—. Sin vitamina C, las heridas no cicatrizan y el colágeno existente se degrada: ese es el mecanismo de la enfermedad que diezmó a las tripulaciones navales durante siglos —el **escorbuto**—, hasta que James Lind demostró en 1747 que los [cítricos](/alimentos/frutas/fresca/citricos) lo prevenían.
 
 La forma del [hierro](/nutricion/micronutrientes/oligoelementos/hierro) que contienen las legumbres y las verduras —el **hierro no hemo**— se absorbe mucho mejor cuando tomas vitamina C en la misma comida: la diferencia puede ser de tres a cuatro veces.
 
@@ -83,7 +83,7 @@ La EFSA ha establecido ingestas de referencia (PRI) o ingestas adecuadas (IA) pa
 
 **[Las verduras de hoja verde](/alimentos/verduras-hortalizas/hojas)** —[espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), acelgas, [brócoli](/alimentos/verduras-hortalizas/flores/brocoli)— son la fuente vegetal más rica en B9 y aportan también vitamina C en cantidades relevantes.
 
-**La vitamina C** se concentra en el pimiento rojo (190 mg/100 g), el kiwi, las fresas y los cítricos; se degrada parcialmente con el calor y la exposición al oxígeno, por lo que el consumo en crudo o con cocción breve maximiza el aporte.
+**La vitamina C** se concentra en el pimiento rojo (190 mg/100 g), el [kiwi](/alimentos/frutas/fresca/exoticas/kiwi), las fresas y los cítricos; se degrada parcialmente con el calor y la exposición al oxígeno, por lo que el consumo en crudo o con cocción breve maximiza el aporte.
 
 ## ¿Cuándo hay riesgo de déficit?
 

@@ -18,11 +18,11 @@ La indicación está ahí por una razón concreta. La explicación es el selenio
 
 *Bertholletia excelsa* es la semilla de uno de los árboles más grandes del bosque amazónico, perteneciente a la familia Lecythidaceae, sin relación botánica con el nogal ni con ningún otro fruto seco habitual de la despensa española. El árbol puede alcanzar los 50 metros de altura y vivir más de 500 años; produce frutos durante décadas una vez que alcanza la madurez, que tarda entre 10 y 15 años.
 
-Lo que conoces como nuez del Brasil no es el fruto sino la semilla. El fruto es una vaina leñosa esférica, del tamaño de un [coco](/alimentos/frutos-secos/coco) mediano —el **ouriço**—, que puede pesar entre 500 g y 2,5 kg. Dentro, entre 8 y 24 semillas con forma triangular se disponen como los gajos de una naranja. Cuando el ouriço madura y cae —los ouriços caen desde 50 metros, con fuerza suficiente para matar a alguien que esté debajo—, los recolectores recogen del suelo del bosque los frutos intactos y los abren para extraer las semillas.
+Lo que conoces como nuez del Brasil no es el fruto sino la semilla. El fruto es una vaina leñosa esférica, del tamaño de un [coco](/alimentos/frutos-secos/coco) mediano —el **ouriço**—, que puede pesar entre 500 g y 2,5 kg. Dentro, entre 8 y 24 semillas con forma triangular se disponen como los gajos de una [naranja](/alimentos/frutas/fresca/citricos/naranja). Cuando el ouriço madura y cae —los ouriços caen desde 50 metros, con fuerza suficiente para matar a alguien que esté debajo—, los recolectores recogen del suelo del bosque los frutos intactos y los abren para extraer las semillas.
 
 Bolivia es hoy el mayor exportador mundial, por delante de Brasil. Toda la producción comercial es de recolección silvestre: no existe una plantación de nueces del Brasil productiva en ningún lugar fuera de su ecosistema natural.
 
-## Composición nutricional
+## Composición nutricional de la nuez del Brasil
 
 Datos por cada 100 g de nuez del Brasil cruda:
 

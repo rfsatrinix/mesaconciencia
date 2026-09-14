@@ -8,7 +8,7 @@ image: "./fotos/alfalfa_portada.jpg"
 imageAlt: "Fotografía de brotes de alfalfa"
 ---
 
-Los brotes de alfalfa llegan en una bolsa transparente del supermercado. Finos, blancos, con la puntita verde. Aparecen en las ensaladas de los restaurantes de cocina saludable, encima del aguacate o del hummus, o como guarnición de platos que los necesitan para parecer más frescos. Decorativos. Nadie los pide expresamente.
+Los brotes de alfalfa llegan en una bolsa transparente del supermercado. Finos, blancos, con la puntita verde. Aparecen en las ensaladas de los restaurantes de cocina saludable, encima del [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) o del hummus, o como guarnición de platos que los necesitan para parecer más frescos. Decorativos. Nadie los pide expresamente.
 
 Detrás de esos brotes hay una de las plantas más cultivadas de España. Aragón, Castilla-La Mancha y Extremadura producen millones de toneladas de alfalfa al año. Casi toda va a pienso para el ganado. Los españoles comen los brotes —generalmente producidos en otros países— sin saber que la planta que los origina crece a cientos de kilómetros de su mesa.
 
@@ -20,7 +20,7 @@ La alfalfa (*Medicago sativa*) es una [legumbre](/alimentos/legumbres) de la fam
 
 Hoy es uno de los cultivos forrajeros más extendidos del mundo. En España, las comunidades con mayor producción son Aragón, Castilla-La Mancha y Extremadura. El consumo humano directo se limita a los brotes germinados —la forma en que se vende en supermercados— y, en menor medida, a infusiones y suplementos herbales elaborados con la hoja seca.
 
-## Composición nutricional
+## Composición nutricional de la alfalfa
 
 Datos por cada 100 g de brotes de alfalfa crudos:
 

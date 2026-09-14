@@ -24,7 +24,7 @@ Como toda hoja, es sobre todo [agua](/nutricion/agua): un 91 % de su peso. Eso e
 
 ## Media hoja, media tabla de vitaminas
 
-Aquí está lo que de verdad hace especial a la espinaca. Con unas 23 kcal por cada 100 g —menos que una manzana pequeña—, una ración te acerca a cubrir el día de varios nutrientes a la vez.
+Aquí está lo que de verdad hace especial a la espinaca. Con unas 23 kcal por cada 100 g —menos que una [manzana](/alimentos/frutas/fresca/dulces/manzana) pequeña—, una ración te acerca a cubrir el día de varios nutrientes a la vez.
 
 | Espinaca cruda (por cada 100 g) | Cantidad |
 |---|---|
@@ -79,7 +79,7 @@ Qué puedes hacer:
 
 **Variar las hojas.** Si alternas la espinaca con otras hojas bajas en oxalato —rúcula, canónigos, lechuga—, repartes la carga a lo largo de la semana.
 
-**Un toque de ácido.** Acompañarla con algo de [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) —un chorro de limón, unos gajos de naranja, pimiento crudo— mejora el poco hierro que queda disponible.
+**Un toque de ácido.** Acompañarla con algo de [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) —un chorro de limón, unos gajos de [naranja](/alimentos/frutas/fresca/citricos/naranja), pimiento crudo— mejora el poco hierro que queda disponible.
 
 **No cuentes con la espinaca para el calcio.** Para eso están los lácteos, las [legumbres](/alimentos/legumbres) o las hojas de bajo oxalato.
 

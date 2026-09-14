@@ -20,7 +20,7 @@ La lenteja (*Lens culinaris*) es una [legumbre](/alimentos/legumbres) de la fami
 
 Existen variedades muy distintas —pardina, verde, roja, beluga— que comparten unos valores nutricionales notablemente similares pero se comportan de forma diferente en la cocina. Esa diversidad, y el hecho de que ninguna necesite remojo, la hace la legumbre de entrada más sencilla.
 
-## Composición nutricional
+## Composición nutricional de la lenteja
 
 Datos por cada 100 g de lenteja cocida, sin sal:
 
@@ -59,7 +59,7 @@ Las lentejas contienen compuestos naturales que se unen al hierro en el intestin
 
 La cocción reduce la concentración de fitatos, pero no los elimina del todo. El remojo previo —tirando el líquido de remojo, nunca usándolo para cocinar— los reduce aún más, aunque con la lenteja es opcional porque se cocina bien sin él.
 
-El contrapeso es la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). Hallberg et al. (1989) demostraron que añadir 75 mg de vitamina C a una comida con hierro no hemo puede triplicar o cuadruplicar su absorción. 75 mg es lo que contiene medio pimiento rojo crudo, un kiwi o el zumo de medio limón.
+El contrapeso es la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). Hallberg et al. (1989) demostraron que añadir 75 mg de vitamina C a una comida con hierro no hemo puede triplicar o cuadruplicar su absorción. 75 mg es lo que contiene medio pimiento rojo crudo, un [kiwi](/alimentos/frutas/fresca/exoticas/kiwi) o el zumo de medio limón.
 
 > El aliño ácido de las lentejas en ensalada no es solo costumbre mediterránea. La práctica llegó siglos antes que la explicación.
 

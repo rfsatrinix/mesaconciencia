@@ -10,7 +10,7 @@ imageAlt: "Mesa de madera rústica con tela de lino: pimiento naranja abierto en
 
 La historia de las vitaminas es, en gran parte, la historia de sus ausencias. El escorbuto —encías sangrantes, heridas que no cicatrizan, articulaciones que duelen— reveló la [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c). El beriberi —parálisis progresiva, insuficiencia cardíaca— llevó al descubrimiento de la B1. La pelagra —dermatitis, diarrea, demencia— a la B3. Cada enfermedad fue el mapa negativo de una molécula que faltaba en la dieta. Las 13 vitaminas que hoy reconocemos son los [micronutrientes](/nutricion/micronutrientes) orgánicos que tu cuerpo necesita en cantidades pequeñas para mantener el metabolismo en funcionamiento, y que no puede fabricar por sí solo en cantidad suficiente.
 
-A diferencia de los [minerales](/nutricion/micronutrientes/minerales) —elementos inorgánicos que el calor y el cocinado no alteran—, las vitaminas son compuestos que el procesado y el almacenamiento prolongado sí pueden destruir. La vitamina C de una naranja expuesta al aire durante horas es considerablemente menor que la de una naranja recién cortada.
+A diferencia de los [minerales](/nutricion/micronutrientes/minerales) —elementos inorgánicos que el calor y el cocinado no alteran—, las vitaminas son compuestos que el procesado y el almacenamiento prolongado sí pueden destruir. La vitamina C de una [naranja](/alimentos/frutas/fresca/citricos/naranja) expuesta al aire durante horas es considerablemente menor que la de una naranja recién cortada.
 
 ## Hidrosolubles y liposolubles: la diferencia práctica
 

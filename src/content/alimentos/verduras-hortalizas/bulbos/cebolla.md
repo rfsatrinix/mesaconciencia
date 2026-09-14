@@ -5,7 +5,7 @@ date: 2026-09-11
 categoria: "Verduras de bulbo"
 draft: false
 image: "./fotos/cebolla_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con cebolla en tres formas: a la izquierda, una cebolla amarilla entera y otra partida por la mitad junto a un cuenco de cerámica oscura con anillos cortados; en el centro, una cebolla roja entera y otra partida mostrando los anillos morados; a la derecha, un cuenco de cerámica clara con cebolla pochada y caramelizada. Cada grupo lleva una etiqueta de papel kraft: «Cebolla amarilla · Factor lacrimógeno», «Cebolla roja · Antocianinas» y «Cebolla pochada · Sin lágrimas»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con cebolla en tres formas: a la izquierda, una cebolla amarilla entera y otra partida por la mitad junto a un cuenco de cerámica clara con anillos cortados; en el centro, una cebolla roja entera y otra partida mostrando los anillos morados; a la derecha, un cuenco de cerámica clara con cebolla pochada y caramelizada. Cada grupo lleva una etiqueta de papel kraft: «Cebolla amarilla · Factor lacrimógeno», «Cebolla roja · Antocianinas» y «Cebolla pochada · Sin lágrimas»."
 ---
 
 Primer corte, nada. Segundo corte, un escozor raro en los ojos. Al tercero estás llorando sobre la tabla, con el cuchillo a medio camino y la cebolla todavía por la mitad.
@@ -56,7 +56,7 @@ Ese gas llega a tus ojos, se disuelve en la lágrima que los cubre y forma un co
 
 Cuánto pica y cuánto hace llorar una cebolla depende de cuánto azufre absorbió del suelo mientras crecía. Las variedades dulces no son una casualidad genética: se cultivan a propósito en tierras pobres en azufre, porque sin esa materia prima la planta no puede fabricar tanto compuesto irritante.
 
-## Trucos que funcionan (y los que no)
+## Trucos contra el llanto de la cebolla que funcionan (y los que no)
 
 **Enfríala antes de cortarla.** Las reacciones químicas van más lentas en frío, y el gas se evapora peor. Es de los trucos con más base real.
 
@@ -98,7 +98,7 @@ Y hay una parte de la cebolla que casi nadie aprovecha: la piel seca y la primer
 
 > La piel que tiras a la basura es más rica en quercetina que la cebolla que te comes.
 
-## Lo que dice la evidencia (y lo que no)
+## Lo que dice la evidencia sobre la cebolla (y lo que no)
 
 **Tensión arterial.** Los suplementos de quercetina bajan la tensión sistólica unos 3 mmHg de media, un efecto real pero modesto, y solo a partir de dosis de 500 mg al día. Una dieta normal aporta entre 10 y 25 mg de quercetina, así que ni comiendo cebolla a diario te acercas a esa cantidad.
 

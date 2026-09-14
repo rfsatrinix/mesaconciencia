@@ -5,7 +5,7 @@ categoria: "Verduras de hoja"
 draft: true
 date: 2026-09-10
 image: "./fotos/verdurasdehoja_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con tres verduras de hoja: a la izquierda, hojas de acelga con sus pencas de colores en una bandeja de cristal; en el centro, un cuenco de cerámica oscura rebosante de espinaca fresca; a la derecha, hojas de rúcula en un cuenco de cristal. Delante de cada uno, un manojo de hojas atado con cordel de yute y una etiqueta de papel kraft con su nombre y un nutriente destacado: «Acelga · Vitamina K 830 µg», «Espinacas · Folato 190 µg» y «Rúcula · Magnesio 45 mg»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con tres verduras de hoja: a la izquierda, hojas de acelga con sus pencas de colores en una bandeja de cristal; en el centro, un cuenco de cerámica clara rebosante de espinaca fresca; a la derecha, hojas de rúcula en un cuenco de cristal. Delante de cada uno, un manojo de hojas atado con cordel de yute y una etiqueta de papel kraft con su nombre y un nutriente destacado: «Acelga · Vitamina K 830 µg», «Espinacas · Folato 190 µg» y «Rúcula · Magnesio 45 mg»."
 ---
 
 Compras una bolsa de [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) para toda la semana. El miércoles ya huele raro. El viernes, la mitad es una masa verde pegada al plástico que va directa a la basura. Con la lechuga pasa parecido: entra crujiente y sale lacia.
@@ -68,7 +68,7 @@ Hervir la espinaca y tirar el agua se lleva parte del oxalato; un chorro de lim�
 
 > La pregunta no es si comes hojas verdes. Es si comes siempre la misma.
 
-## ¿Cómo sacarles el máximo?
+## ¿Cómo sacarles el máximo a las verduras de hoja?
 
 **Alterna crudo y cocinado.** En crudo conservas el folato y la vitamina C. Cocinadas —al vapor o en un salteado corto— pierden algo de esas dos, pero encogen: comes más cantidad en un plato, liberas los carotenoides y, en la espinaca y la acelga, bajas el oxalato.
 

@@ -20,7 +20,7 @@ La nuez de macadamia (*Macadamia integrifolia* y *M. tetraphylla*) es la semilla
 
 Lo que comes es la semilla encerrada dentro de una de las cáscaras más duras del mundo vegetal: se necesitan entre 1.500 y 2.000 N de fuerza para abrirla, razón por la que la maquinaria industrial sustituyó al cascanueces hace décadas. La semilla interior es esférica, cremosa, de sabor neutro con un fondo de mantequilla que no tiene ningún otro fruto seco del grupo.
 
-## Composición nutricional
+## Composición nutricional de la nuez de macadamia
 
 Datos por cada 100 g de nuez de macadamia cruda:
 

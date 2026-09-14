@@ -20,7 +20,7 @@ La nuez (*Juglans regia*) es el fruto del nogal, árbol originario de Persia y A
 
 Lo que comes no es el fruto completo sino la semilla. La cáscara dura exterior es el hueso del fruto, y la nuez que conoces es el interior. Esa semilla tiene, a su vez, una piel fina y marrón —la **película** o pellejo— que la mayoría descarta por su amargor. Esa decisión tiene consecuencias nutricionales, como se explica en el apartado sobre el tostado.
 
-## Composición nutricional
+## Composición nutricional de la nuez
 
 Datos por cada 100 g de nuez cruda sin cáscara:
 

@@ -5,7 +5,7 @@ categoria: "Verduras de flor"
 draft: true
 date: 2026-09-11
 image: "./fotos/verdurasdeflor_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con tres verduras de flor: a la izquierda, un cuenco de cerámica oscura con un brócoli entero y otro cortado por la mitad mostrando el racimo de yemas de flor apretadas; en el centro, sobre una tabla de madera clara, una coliflor entera blanca junto a un corte transversal que muestra la masa de tejido apretada; a la derecha, un cuenco de cerámica clara con dos alcachofas enteras y una partida por la mitad mostrando el corazón y la pelusa central. Cada grupo lleva una etiqueta de papel kraft: «Brócoli · Sulforafano», «Coliflor · Tejido sin abrir» y «Alcachofa · Cianarina»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con tres verduras de flor: a la izquierda, un cuenco de cerámica clara con un brócoli entero y otro cortado por la mitad mostrando el racimo de yemas de flor apretadas; en el centro, sobre una tabla de madera clara, una coliflor entera blanca junto a un corte transversal que muestra la masa de tejido apretada; a la derecha, un cuenco de cerámica clara con dos alcachofas enteras y una partida por la mitad mostrando el corazón y la pelusa central. Cada grupo lleva una etiqueta de papel kraft: «Brócoli · Sulforafano», «Coliflor · Tejido sin abrir» y «Alcachofa · Cianarina»."
 ---
 
 Cortas un [brócoli](/alimentos/verduras-hortalizas/flores/brocoli) por la mitad y ves cientos de puntitos verdes apretados en la copa, como una alfombra en miniatura. Son flores. Miles de ellas, todavía cerradas, a las que nunca vas a ver abrirse porque te las vas a comer antes.
@@ -64,7 +64,7 @@ El motivo es un compuesto que se estudió ya en 1972 —la **cianarina**—: se 
 
 Además de esa curiosidad, la alcachofa es la más fibrosa del grupo —buena parte de esa [fibra](/nutricion/fibra-alimenticia) es un tipo que alimenta a las bacterias de tu intestino, del mismo grupo que la fibra del ajo y la [cebolla](/alimentos/verduras-hortalizas/bulbos/cebolla)—, lo que explica por qué sacia tanto para lo poco que pesa.
 
-## Lo que aportan (y lo que no)
+## Lo que aportan las verduras de flor (y lo que no)
 
 | Por cada 100 g en crudo | Energía | Agua | Fibra | Vitamina C | Potasio |
 |---|---|---|---|---|---|
@@ -74,9 +74,9 @@ Además de esa curiosidad, la alcachofa es la más fibrosa del grupo —buena pa
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
 
-El brócoli destaca por la vitamina C —más que muchas frutas cítricas por el mismo peso—, y la alcachofa por la fibra, casi el doble que sus compañeras de grupo. Ninguna de las tres es especialmente calórica: la que más aporta, la alcachofa, sigue estando muy lejos de una raíz o un tubérculo.
+El brócoli destaca por la vitamina C —más que muchas [frutas](/alimentos/frutas) cítricas por el mismo peso—, y la alcachofa por la fibra, casi el doble que sus compañeras de grupo. Ninguna de las tres es especialmente calórica: la que más aporta, la alcachofa, sigue estando muy lejos de una raíz o un tubérculo.
 
-## ¿Cómo sacarles el máximo?
+## ¿Cómo sacarles el máximo a las verduras de flor?
 
 **Corta el brócoli o la coliflor y déjalos reposar unos diez minutos antes de cocinarlos** si te interesa el sulforafano. Es el mismo truco que con el ajo: cortar primero, esperar, cocinar después.
 

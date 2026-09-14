@@ -28,7 +28,7 @@ La deficiencia leve no siempre genera síntomas inmediatos, pero deteriora el fu
 
 Las más comunes en Europa son las de vitamina D —más del 40 % de la población europea presenta niveles insuficientes—, hierro y [yodo](/nutricion/micronutrientes/oligoelementos/yodo).
 
-## Fuentes alimentarias y suplementación
+## Fuentes alimentarias y suplementación de micronutrientes
 
 La mayor parte de los micronutrientes los cubres con una dieta que incluya vegetales frescos, [legumbres](/alimentos/legumbres), cereales integrales, [frutos secos](/alimentos/frutos-secos) y proteínas de calidad. Los ultraprocesados desplazan estas fuentes y reducen la cantidad de vitaminas y minerales que aportan por cada 100 kilocalorías —la **densidad de micronutrientes**— sin reducir las calorías: ese trueque explica por qué existen deficiencias en países con abundancia alimentaria.
 

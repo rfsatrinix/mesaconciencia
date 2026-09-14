@@ -16,7 +16,7 @@ Que no tengan una ingesta de referencia no significa que sean inertes ni que la 
 
 | Elemento | Principales fuentes | Investigación principal | Toxicidad |
 |---|---|---|---|
-| **Boro** | Frutas, [frutos secos](/alimentos/frutos-secos), [legumbres](/alimentos/legumbres), verduras | Interviene en la formación del hueso, la regulación hormonal y la función cognitiva | Baja a dosis dietéticas |
+| **Boro** | [Frutas](/alimentos/frutas), [frutos secos](/alimentos/frutos-secos), [legumbres](/alimentos/legumbres), verduras | Interviene en la formación del hueso, la regulación hormonal y la función cognitiva | Baja a dosis dietéticas |
 | **Silicio** | Cereales integrales, verduras, granos fermentados | Participa en la fabricación de colágeno y en la estructura del hueso | Muy baja a dosis dietéticas |
 | **Vanadio** | Marisco, setas, cereales, pimienta negra | Interviene en la sensibilidad a la insulina y el control del azúcar en sangre | Moderada; margen estrecho entre dosis estudiada y tóxica |
 | **Germanio** | [Ajo](/alimentos/verduras-hortalizas/bulbos/ajo), setas medicinales, ginseng | No tiene función confirmada en humanos | Alta en formas inorgánicas; casos documentados de daño renal grave |
@@ -31,7 +31,7 @@ Que no tengan una ingesta de referencia no significa que sean inertes ni que la 
 
 **[Germanio](/nutricion/micronutrientes/ultraoligoelementos/germanio).** Es el único de los cuatro con una señal de riesgo documentada de forma inequívoca. El dióxido de germanio (GeO₂) —la forma inorgánica presente en suplementos vendidos durante los años ochenta— causó la pérdida grave e irreversible de la función del riñón —la **insuficiencia renal**— y muertes en usuarios que lo tomaron de forma prolongada. Los compuestos orgánicos de germanio tienen un perfil de seguridad algo mejor, pero tampoco tienen ningún papel conocido en el organismo ni evidencia clínica sólida de beneficio. Para mí, la única justificación para incluirlo aquí es precisamente esa: sigue apareciendo en tiendas de suplementos, y la historia de sus riesgos reales merece una exposición honesta.
 
-## ¿Por qué no existe una dosis de referencia?
+## ¿Por qué no existe una dosis de referencia para los ultraoligoelementos?
 
 La EFSA establece ingestas de referencia cuando puede determinar, con datos en humanos, a partir de qué cantidad de un nutriente aparece el beneficio y a partir de cuánta empieza el daño —lo que se conoce como una **curva dosis-respuesta**—. Para los cuatro ultraoligoelementos, esa curva no existe con datos humanos suficientes.
 
@@ -45,7 +45,7 @@ El proceso requiere tres pasos:
 
 Sin los tres pasos completados, la EFSA no puede fijar ninguna cifra. Con los ultraoligoelementos, ninguno de los tres está completamente cerrado.
 
-## Suplementación: el principal riesgo
+## Suplementación de ultraoligoelementos: el principal riesgo
 
 Ninguno de los cuatro ultraoligoelementos tiene una indicación de suplementación respaldada por las guías clínicas europeas.
 

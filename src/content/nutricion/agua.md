@@ -25,7 +25,7 @@ La regla de los ocho vasos no tiene base científica concreta. Lo que sí existe
 | Mujeres adultas | 2,0 litros/día |
 | Niños (4–13 años) | 1,2–1,5 litros/día |
 
-Estas cifras incluyen todo el agua que entra al día: la que bebes, la de los alimentos que comes y la de otras bebidas. El **20 % del agua diaria** viene de los alimentos sólidos —especialmente frutas, verduras y sopas—, más de lo que la mayoría imagina.
+Estas cifras incluyen todo el agua que entra al día: la que bebes, la de los alimentos que comes y la de otras bebidas. El **20 % del agua diaria** viene de los alimentos sólidos —especialmente [frutas](/alimentos/frutas), verduras y sopas—, más de lo que la mayoría imagina.
 
 ## ¿Qué factores elevan tus necesidades de agua?
 
@@ -48,9 +48,9 @@ No toda el agua proviene de beber. Los alimentos con mayor contenido en agua son
 | Alimento | Contenido en agua |
 |---|---|
 | Pepino, lechuga, apio | >95 % |
-| [Tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate), sandía, naranja | 90–94 % |
+| [Tomate](/alimentos/verduras-hortalizas/hortalizas-de-fruto/tomate), sandía, [naranja](/alimentos/frutas/fresca/citricos/naranja) | 90–94 % |
 | Leche | ~87 % |
-| Plátano, patata cocida | ~75 % |
+| [Plátano](/alimentos/frutas/fresca/exoticas/platano), patata cocida | ~75 % |
 | Arroz cocido | ~70 % |
 | Pan | ~35 % |
 | Queso curado | ~30 % |

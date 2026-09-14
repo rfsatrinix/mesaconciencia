@@ -20,7 +20,7 @@ Es una [legumbre](/alimentos/legumbres) de la familia Fabaceae, originaria del M
 
 En España, las variedades más comunes son el pedrosillano —pequeño, de piel fina, el más habitual en el cocido castellano— y el castellano —más grande, con textura más firme—. En la cocina india y de Oriente Próximo se usa el garbanzo desi, más pequeño y de piel oscura, base del dal y del falafel de esa tradición.
 
-## Composición nutricional
+## Composición nutricional del garbanzo
 
 Datos por cada 100 g de garbanzo cocido, sin sal:
 

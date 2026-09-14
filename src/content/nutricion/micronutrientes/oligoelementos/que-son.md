@@ -24,15 +24,15 @@ Se conocen siete oligoelementos con funciones esenciales bien documentadas en el
 | **[Manganeso](/nutricion/micronutrientes/oligoelementos/manganeso)** | Participa en el procesamiento de [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) y proteínas | Cereales integrales, legumbres, té |
 | **[Flúor](/nutricion/micronutrientes/oligoelementos/fluor)** | Endurece y protege el esmalte de tus dientes | Pescado, té, sal fluorada |
 
-## Deficiencias más frecuentes
+## Deficiencias más frecuentes de los oligoelementos
 
 La deficiencia de hierro es la carencia nutricional más extendida en el mundo: afecta a más de 1.600 millones de personas según la OMS. Le sigue la de yodo: puede provocar el agrandamiento visible de la glándula tiroides —el **bocio**— y alteraciones del desarrollo neurológico en el feto y el lactante. La de zinc es especialmente frecuente en dietas basadas en cereales sin fermentar.
 
 > Tres carencias —hierro, yodo y zinc— concentran la mayor parte del problema mundial.
 
-El selenio plantea un riesgo diferente: su concentración en los alimentos no depende de lo que comes, sino del suelo donde crecen los cultivos. Las regiones con suelos pobres en este mineral —varias zonas de Europa central y del norte— producen alimentos con concentraciones muy bajas, independientemente de lo variada que sea tu dieta.
+El selenio plantea un riesgo diferente: su concentración en los [alimentos](/alimentos) no depende de lo que comes, sino del suelo donde crecen los cultivos. Las regiones con suelos pobres en este mineral —varias zonas de Europa central y del norte— producen alimentos con concentraciones muy bajas, independientemente de lo variada que sea tu dieta.
 
-## Biodisponibilidad
+## Biodisponibilidad de los oligoelementos
 
 Tu organismo no absorbe todos los oligoelementos con la misma eficiencia —lo que se llama **biodisponibilidad**—, y el contexto de cada comida importa tanto como la cantidad total que ingieres.
 
@@ -46,7 +46,7 @@ El calcio en dosis altas puede inhibir la absorción de hierro cuando ambos se i
 
 En la práctica, incluir una fuente de vitamina C en tus comidas con hierro vegetal y remojar las legumbres antes de cocinarlas son los dos ajustes con mayor impacto sobre tu absorción de hierro y zinc.
 
-## Suplementación
+## Suplementación de oligoelementos
 
 Los suplementos de oligoelementos están indicados únicamente ante deficiencias confirmadas por un análisis de sangre. El exceso de algunos —especialmente hierro, selenio y cobre— puede resultar tóxico. El hierro en particular no debe suplementarse sin diagnóstico previo: el exceso se acumula en hígado, corazón y páncreas y puede provocar daño orgánico irreversible —la **hemocromatosis**—. Para mí, el hierro es el caso más claro: nadie debería tomarlo en suplemento sin saber primero si realmente lo necesita.
 

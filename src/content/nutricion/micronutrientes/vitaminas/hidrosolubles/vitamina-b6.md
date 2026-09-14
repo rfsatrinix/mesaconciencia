@@ -72,7 +72,7 @@ La vitamina B6 está presente en una amplia variedad de fuentes:
 | Salmón del Atlántico (cocido) | 0,8 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
 | Patata cocida | 0,3 mg |
-| Plátano | 0,3 mg |
+| [Plátano](/alimentos/frutas/fresca/exoticas/platano) | 0,3 mg |
 | Pan integral | 0,2 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,2 mg |
 

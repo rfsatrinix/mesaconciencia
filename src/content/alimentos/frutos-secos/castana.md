@@ -20,7 +20,7 @@ La castaña (*Castanea sativa*) es el fruto del castaño europeo, un árbol cadu
 
 Lo que comes es técnicamente un fruto seco en sentido botánico: un fruto de cáscara dura que contiene una semilla. Pero ahí termina el parecido con los demás miembros del grupo. La semilla de la castaña no es una fuente de grasa: es una fuente de almidón, y su composición se parece más a la de la patata o el pan que a la de la nuez o la almendra. La clasificación del mercado refleja la forma y la textura; los números de la tabla nutricional cuentan otra historia.
 
-## Composición nutricional
+## Composición nutricional de la castaña
 
 Datos por cada 100 g de castaña cruda:
 
@@ -64,9 +64,9 @@ Eso cambia casi todo lo que se suele decir sobre los frutos secos. La saciedad q
 
 La vitamina C no es un nutriente que se asocie con los frutos secos. Y con razón: la almendra tiene 0 mg por cada 100 g; la nuez, 1,3 mg; la avellana, 6,3 mg; el [anacardo](/alimentos/frutos-secos/anacardo), 0,5 mg. La castaña tiene 43 mg.
 
-Eso equivale a la vitamina C de una naranja mediana. Tu cuerpo necesita vitamina C para fabricar la proteína estructural de la piel, los vasos sanguíneos y el tejido conjuntivo —el **colágeno**—, para sostener el sistema inmunitario y para convertir el hierro de origen vegetal en una forma que el intestino pueda absorber.
+Eso equivale a la vitamina C de una [naranja](/alimentos/frutas/fresca/citricos/naranja) mediana. Tu cuerpo necesita vitamina C para fabricar la proteína estructural de la piel, los vasos sanguíneos y el tejido conjuntivo —el **colágeno**—, para sostener el sistema inmunitario y para convertir el hierro de origen vegetal en una forma que el intestino pueda absorber.
 
-No es un [micronutriente](/nutricion/micronutrientes) menor: es uno de los que más fácilmente escasean en la dieta si comes poca fruta fresca.
+No es un [micronutriente](/nutricion/micronutrientes) menor: es uno de los que más fácilmente escasean en la dieta si comes poca [fruta fresca](/alimentos/frutas/fresca).
 
 El matiz importante es el procesado. La vitamina C es sensible al calor y se pierde en parte con la cocción: el asado directo con la cáscara —a temperatura alta y durante poco tiempo— reduce la vitamina C en torno a un 25-35 %; el hervido prolongado puede eliminar más de la mitad. La bolsita del magosto, paradójicamente, es la forma que mejor conserva este nutriente.
 

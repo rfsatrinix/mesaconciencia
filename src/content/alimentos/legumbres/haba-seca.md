@@ -20,7 +20,7 @@ La haba (*Vicia faba*) es una [legumbre](/alimentos/legumbres) de la familia Fab
 
 En España se consume principalmente en seco —remojada y cocida durante horas— o fresca durante la primavera. La versión seca concentra más nutrientes y compuestos activos que la fresca, y es la que tiene presencia histórica en la cocina tradicional española.
 
-## Composición nutricional
+## Composición nutricional de la haba seca
 
 Datos por cada 100 g de haba seca cocida, sin sal:
 

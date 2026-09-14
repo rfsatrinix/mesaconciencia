@@ -20,7 +20,7 @@ La alubia (*Phaseolus vulgaris*) es una [legumbre](/alimentos/legumbres) de la f
 
 Es el grupo de legumbres más diverso en variedades: blanca, pinta, negra, roja, canela, borlotti. Cada una tiene usos culinarios distintos y pequeñas diferencias de textura y sabor, pero sus valores nutricionales son notablemente similares. Este artículo toma la alubia blanca cocida como referencia.
 
-## Composición nutricional
+## Composición nutricional de la alubia
 
 Datos por cada 100 g de alubia blanca cocida, sin sal:
 

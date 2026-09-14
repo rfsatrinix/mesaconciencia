@@ -8,7 +8,7 @@ image: "./fotos/simples_portada.jpg"
 imageAlt: "Mesa de madera rústica con tela de lino: tarro de miel con palillo de madera en plato redondo central, platito de dátiles, cuenco de azúcar moreno, racimo de uvas rojas, fresas, plátano entero y partido"
 ---
 
-Un plátano maduro, un vaso de zumo de naranja recién exprimido y una lata de refresco son, los tres, fuentes de azúcares simples. La OMS incluye el zumo y la cola dentro del límite diario de azúcar, pero no el plátano. El motivo no está en el tipo de molécula: está en lo que los acompaña —o en lo que les han quitado—.
+Un [plátano](/alimentos/frutas/fresca/exoticas/platano) maduro, un vaso de zumo de [naranja](/alimentos/frutas/fresca/citricos/naranja) recién exprimido y una lata de refresco son, los tres, fuentes de azúcares simples. La OMS incluye el zumo y la cola dentro del límite diario de azúcar, pero no el plátano. El motivo no está en el tipo de molécula: está en lo que los acompaña —o en lo que les han quitado—.
 
 Los [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) simples son moléculas de uno o dos azúcares que el cuerpo digiere y absorbe con rapidez, lo que provoca una elevación más rápida de la glucosa en tu sangre —la **glucemia**— en comparación con los [hidratos complejos](/nutricion/macronutrientes/hidratos-de-carbono/complejos). Clasificarlos como «buenos» o «malos» en abstracto no lleva a ningún sitio: lo que importa es de dónde proceden y en qué cantidad los consumes.
 
@@ -20,7 +20,7 @@ Son la unidad más pequeña de hidrato de carbono y no se pueden descomponer má
 
 | Monosacárido | Dónde se encuentra | Peculiaridades |
 |---|---|---|
-| **Glucosa** | Frutas, miel, almidón digerido | Principal combustible de tus células; referencia del índice glucémico (IG = 100) |
+| **Glucosa** | [Frutas](/alimentos/frutas), miel, almidón digerido | Principal combustible de tus células; referencia del índice glucémico (IG = 100) |
 | **Fructosa** | Frutas, miel, jarabe de maíz | Se metaboliza principalmente en el hígado; no eleva tu glucemia directamente |
 | **Galactosa** | Lácteos (como parte de la lactosa) | Se convierte en glucosa en el hígado |
 
@@ -71,7 +71,7 @@ Estas fuentes contienen azúcares simples pero con un perfil nutricional complet
 | Alimento | Azúcares por 100 g | Contexto nutricional |
 |---|---|---|
 | Plátano maduro | 15 g | [Potasio](/nutricion/micronutrientes/minerales/potasio), [B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/b6), fibra |
-| Manzana | 10 g | Fibra (pectina), polifenoles |
+| [Manzana](/alimentos/frutas/fresca/dulces/manzana) | 10 g | Fibra (pectina), polifenoles |
 | Uva | 16 g | Resveratrol, agua |
 | Leche entera | 5 g (lactosa) | [Proteína](/nutricion/macronutrientes/proteinas), [calcio](/nutricion/micronutrientes/minerales/calcio), [vitamina D](/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d) |
 | Yogur natural sin azúcar | 4 g (lactosa) | Probióticos, proteína |

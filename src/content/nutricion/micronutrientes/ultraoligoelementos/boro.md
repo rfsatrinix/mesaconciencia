@@ -40,7 +40,7 @@ La EFSA no ha establecido ninguna dosis de referencia para el boro. El Instituto
 
 Lo que sí existe es un límite de seguridad: el umbral a partir del cual el riesgo de efectos adversos aumenta de forma significativa —el **nivel máximo tolerable**— está fijado en 20 mg/día para adultos. Esa cifra se basa en la toxicidad observada en animales a dosis muy altas, no en intoxicaciones documentadas en personas.
 
-Las ingestas habituales en dietas occidentales con frutas, frutos secos y [legumbres](/alimentos/legumbres) se sitúan entre **1 y 3 mg/día**. Las dietas muy bajas en frutas y verduras pueden caer por debajo de 0,5 mg/día —el rango en el que los estudios controlados han observado los efectos descritos—. Las dietas vegetarianas o muy ricas en frutas pueden alcanzar 4–7 mg/día sin ningún signo de toxicidad.
+Las ingestas habituales en dietas occidentales con [frutas](/alimentos/frutas), frutos secos y [legumbres](/alimentos/legumbres) se sitúan entre **1 y 3 mg/día**. Las dietas muy bajas en frutas y verduras pueden caer por debajo de 0,5 mg/día —el rango en el que los estudios controlados han observado los efectos descritos—. Las dietas vegetarianas o muy ricas en frutas pueden alcanzar 4–7 mg/día sin ningún signo de toxicidad.
 
 ## Fuentes alimentarias de boro
 
@@ -53,9 +53,9 @@ El boro se concentra especialmente en frutas, frutos secos y legumbres:
 | Avellanas | 2,5 mg |
 | Ciruelas pasas | 2,2 mg |
 | Cacahuetes | 1,8 mg |
-| Aguacate | 1,1 mg |
+| [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 1,1 mg |
 | Vino tinto | 0,8 mg ¹ |
-| Manzana | 0,3 mg |
+| [Manzana](/alimentos/frutas/fresca/dulces/manzana) | 0,3 mg |
 | [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) | 0,3 mg |
 
 *Valores aproximados. ¹ Por cada 100 mL. Fuente: USDA FoodData Central. Los valores varían según variedad y origen geográfico.*

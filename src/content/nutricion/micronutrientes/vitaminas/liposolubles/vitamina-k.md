@@ -64,7 +64,7 @@ La K1 se concentra en vegetales de hoja verde y aceites vegetales; la K2 aparece
 | Queso gouda | 75 μg | K2 |
 | Aceite de oliva virgen extra | 60 μg | K1 |
 | Yema de huevo | 32 μg | K2 |
-| Aguacate | 21 μg | K1 |
+| [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 21 μg | K1 |
 
 *Valores aproximados. Fuente: BEDCA; USDA FoodData Central.*
 

@@ -5,7 +5,7 @@ date: 2026-09-12
 categoria: "Verduras de flor"
 draft: false
 image: "./fotos/brocoli_portada.jpg"
-imageAlt: "Fotografía editorial sobre fondo oscuro con brócoli en tres formas: a la izquierda, un cuenco de cerámica oscura con un brócoli entero y otro cortado en floretes sueltos; en el centro, sobre una tabla de madera clara, un puñado de brotes de brócoli germinados junto a un tarro de semillas para germinar; a la derecha, un cuenco de cristal con brócoli congelado en floretes junto a un montón de mostaza en polvo. Cada grupo lleva una etiqueta de papel kraft: «Brócoli fresco · Sulforafano», «Brote de brócoli · Versión concentrada» y «Congelado · Mostaza en polvo»."
+imageAlt: "Fotografía editorial sobre fondo oscuro con brócoli en tres formas: a la izquierda, un cuenco de cerámica clara con un brócoli entero y otro cortado en floretes sueltos; en el centro, sobre una tabla de madera clara, un puñado de brotes de brócoli germinados junto a un tarro de semillas para germinar; a la derecha, un cuenco de cristal con brócoli congelado en floretes junto a un montón de mostaza en polvo. Cada grupo lleva una etiqueta de papel kraft: «Brócoli fresco · Sulforafano», «Brote de brócoli · Versión concentrada» y «Congelado · Mostaza en polvo»."
 ---
 
 Metes una bolsa de brócoli congelado en el agua hirviendo porque no te ha dado tiempo a comprar fresco. Lo cocinas, te lo comes, y das por hecho que es el mismo brócoli de siempre, solo que más cómodo.
@@ -67,7 +67,7 @@ Para la inmensa mayoría de la gente, esto no es un motivo para comer menos bró
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
 
-El dato que más sorprende: 100 g de brócoli crudo llevan más vitamina C que una naranja, que ronda los 53 mg. No hace falta comer una cantidad enorme para notarlo en la analítica.
+El dato que más sorprende: 100 g de brócoli crudo llevan más vitamina C que una [naranja](/alimentos/frutas/fresca/citricos/naranja), que ronda los 53 mg. No hace falta comer una cantidad enorme para notarlo en la analítica.
 
 ## ¿Cuánto brócoli consumir y cómo?
 

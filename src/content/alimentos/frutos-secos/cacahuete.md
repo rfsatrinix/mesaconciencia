@@ -22,7 +22,7 @@ Eso ocurre porque la planta usa un mecanismo inusual: tras la polinización, el 
 
 China, India y Nigeria producen la mayor parte de la cosecha mundial. España no cultiva cacahuete en volúmenes significativos; todo lo que consumes es importado.
 
-## Composición nutricional
+## Composición nutricional del cacahuete
 
 Datos por cada 100 g de cacahuete crudo con piel interior:
 

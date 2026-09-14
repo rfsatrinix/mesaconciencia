@@ -20,7 +20,7 @@ El potasio es el [mineral](/nutricion/micronutrientes/minerales) más abundante 
 
 > Mantener esa carga lista consume entre el 25 y el 40 % de la energía que produce cada célula en reposo.
 
-**Transmisión nerviosa.** Cuando un nervio se activa, unas proteínas de la membrana que funcionan como puertas selectivas —los **canales de sodio**— se abren y el sodio entra en la célula, invirtiendo bruscamente la carga eléctrica. La recuperación del estado de reposo —la **repolarización**— depende del potasio: los canales de potasio se abren, el potasio sale de la célula y la carga negativa se restaura. Sin ese flujo de salida de potasio, los nervios no pueden disparar impulsos de forma repetida.
+**Transmisión nerviosa.** Cuando un nervio se activa, unas [proteínas](/nutricion/macronutrientes/proteinas) de la membrana que funcionan como puertas selectivas —los **canales de sodio**— se abren y el sodio entra en la célula, invirtiendo bruscamente la carga eléctrica. La recuperación del estado de reposo —la **repolarización**— depende del potasio: los canales de potasio se abren, el potasio sale de la célula y la carga negativa se restaura. Sin ese flujo de salida de potasio, los nervios no pueden disparar impulsos de forma repetida.
 
 **Contracción muscular y ritmo cardíaco.** El [calcio](/nutricion/micronutrientes/minerales/calcio) desencadena la contracción muscular, pero el potasio controla la repolarización que permite al músculo relajarse y prepararse para la siguiente contracción. En el músculo cardíaco, la forma y la duración del latido dependen directamente del potasio disponible. Un desequilibrio de potasio en sangre es uno de los factores más frecuentes de arritmia cardíaca.
 
@@ -50,7 +50,7 @@ La ingesta media en España y en la mayoría de los países europeos se sitúa e
 
 ## Fuentes alimentarias de potasio
 
-El potasio está presente de forma natural en prácticamente todo lo que comes de origen vegetal, en concentraciones muy superiores a las del sodio. Las frutas, verduras, [legumbres](/alimentos/legumbres) y [frutos secos](/alimentos/frutos-secos) son las fuentes más ricas:
+El potasio está presente de forma natural en prácticamente todo lo que comes de origen vegetal, en concentraciones muy superiores a las del sodio. Las [frutas](/alimentos/frutas), verduras, [legumbres](/alimentos/legumbres) y [frutos secos](/alimentos/frutos-secos) son las fuentes más ricas:
 
 | Alimento | Potasio por cada 100 g |
 |---|---|
@@ -58,9 +58,9 @@ El potasio está presente de forma natural en prácticamente todo lo que comes d
 | [Almendras](/alimentos/frutos-secos/almendra) | 733 mg |
 | [Alubias blancas](/alimentos/legumbres/alubia) cocidas | 561 mg |
 | Patata cocida (con piel) | 544 mg |
-| Aguacate | 485 mg |
+| [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 485 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 466 mg |
-| Plátano | 358 mg |
+| [Plátano](/alimentos/frutas/fresca/exoticas/platano) | 358 mg |
 | Atún (al natural) | 237 mg |
 | Leche entera | 150 mg |
 

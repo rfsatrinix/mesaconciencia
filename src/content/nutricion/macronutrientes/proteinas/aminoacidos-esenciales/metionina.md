@@ -64,7 +64,7 @@ La metionina abunda en las [proteínas de origen animal](/nutricion/macronutrien
 | Huevo entero (cocido) | 390 mg |
 | [Soja](/alimentos/legumbres/soja) texturizada (seca) | 335 mg |
 | Lentejas cocidas | 155 mg |
-| Arroz blanco cocido | 55 mg |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) blanco cocido | 55 mg |
 
 *Fuente: USDA FoodData Central. Valores aproximados.*
 
@@ -94,7 +94,7 @@ Cada fuente proteica tiene un aminoácido que escasea hasta el punto de limitar 
 
 Este patrón complementario es el fundamento de la combinación clásica legumbre + cereal: las legumbres aportan la lisina que los cereales no tienen; los cereales aportan la metionina que escasea en las legumbres.
 
-La soja y la quinoa son excepciones a este esquema: contienen todos los [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) en proporciones adecuadas, incluida la metionina.
+La soja y la [quinoa](/alimentos/cereales/pseudocereales/quinoa) son excepciones a este esquema: contienen todos los [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) en proporciones adecuadas, incluida la metionina.
 
 > Lentejas con arroz, garbanzos con pan, alubias con maíz: culturas distintas, el mismo problema nutricional resuelto de la misma forma.
 

@@ -54,7 +54,7 @@ Las [legumbres](/alimentos/legumbres) son con diferencia las fuentes más ricas 
 | [Alubias negras](/alimentos/legumbres/alubia) cocidas | 60 µg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 50 µg |
 | [Guisantes](/alimentos/legumbres/guisante-seco) cocidos | 22 µg |
-| Avena | 15 µg |
+| [Avena](/alimentos/cereales/con-gluten/avena) | 15 µg |
 | Trigo integral | 12 µg |
 | Huevo entero | 9 µg |
 | Almendras | 7 µg |

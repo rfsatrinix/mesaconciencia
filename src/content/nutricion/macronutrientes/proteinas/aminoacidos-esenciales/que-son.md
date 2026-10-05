@@ -46,7 +46,7 @@ Para mí, el éxito de los suplementos de BCAAs tiene más que ver con el market
 
 La fabricación de cada proteína requiere que todos sus aminoácidos estén disponibles simultáneamente. Si falta uno, la fabricación se detiene: el aminoácido que falta —el **limitante**— condiciona el aprovechamiento de todos los demás.
 
-Las deficiencias graves son raras en dietas variadas, pero aparecen cuando la dieta es muy monótona o cuando la fuente proteica principal es baja en algún aminoácido concreto: el maíz en triptófano y lisina, el arroz en lisina, las [legumbres](/alimentos/legumbres) en metionina. La enfermedad por déficit de niacina —la **pelagra**— se asoció durante siglos al maíz como alimento casi exclusivo, precisamente porque el maíz es bajo en triptófano, el único aminoácido que tu cuerpo puede convertir en [niacina (vitamina B3)](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3).
+Las deficiencias graves son raras en dietas variadas, pero aparecen cuando la dieta es muy monótona o cuando la fuente proteica principal es baja en algún aminoácido concreto: el maíz en triptófano y lisina, el [arroz](/alimentos/cereales/sin-gluten/arroz) en lisina, las [legumbres](/alimentos/legumbres) en metionina. La enfermedad por déficit de niacina —la **pelagra**— se asoció durante siglos al maíz como alimento casi exclusivo, precisamente porque el maíz es bajo en triptófano, el único aminoácido que tu cuerpo puede convertir en [niacina (vitamina B3)](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3).
 
 > La pelagra no era una enfermedad de niacina. Era una enfermedad de triptófano.
 
@@ -72,7 +72,7 @@ En contexto clínico, la suplementación de estos aminoácidos puede ser necesar
 
 Basta con que incluyas variedad de fuentes proteicas a lo largo del día.
 
-**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y quinoa.
+**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y [quinoa](/alimentos/cereales/pseudocereales/quinoa).
 
 **Proteínas complementarias.** Las [fuentes vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) son deficitarias en uno o dos aminoácidos, pero legumbres y cereales se complementan mutuamente. No hace falta combinarlas en la misma comida; tu organismo mantiene una reserva (*pool*) de aminoácidos libres en sangre que equilibra el aporte a lo largo del día.
 

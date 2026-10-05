@@ -8,7 +8,7 @@ image: "./fotos/vitaminab1_portada.jpg"
 imageAlt: "Vitamina B1"
 ---
 
-A finales del siglo XIX, el médico holandés Christiaan Eijkman trabajaba en el hospital militar de Batavia —hoy Yakarta— investigando el beriberi, una enfermedad que paralizaba y mataba a miles de personas en toda Asia. Un día observó que los pollos del patio arrastraban las patas igual que sus pacientes. Rastreando la causa, descubrió que el cocinero los había estado alimentando con arroz blanco pulido de las sobras del hospital. Cuando un nuevo cocinero retomó el salvado, los pollos se recuperaron. Eijkman, sin proponérselo, había descubierto que el proceso de retirar el salvado y el germen del grano para obtener arroz blanco —el **pulido**— eliminaba algo esencial —algo tan pequeño que tardaría décadas en aislarse—.
+A finales del siglo XIX, el médico holandés Christiaan Eijkman trabajaba en el hospital militar de Batavia —hoy Yakarta— investigando el beriberi, una enfermedad que paralizaba y mataba a miles de personas en toda Asia. Un día observó que los pollos del patio arrastraban las patas igual que sus pacientes. Rastreando la causa, descubrió que el cocinero los había estado alimentando con [arroz](/alimentos/cereales/sin-gluten/arroz) blanco pulido de las sobras del hospital. Cuando un nuevo cocinero retomó el salvado, los pollos se recuperaron. Eijkman, sin proponérselo, había descubierto que el proceso de retirar el salvado y el germen del grano para obtener arroz blanco —el **pulido**— eliminaba algo esencial —algo tan pequeño que tardaría décadas en aislarse—.
 
 Casimir Funk lo aisló en 1912 y para nombrarlo inventó el término *vitamina* —de *vita*, vida, y amina—: la tiamina fue, literalmente, la primera vitamina con nombre. El beriberi clásico sobrevive hoy en zonas de pobreza extrema donde el arroz blanco es la base de la dieta. Su equivalente moderno —el síndrome de Wernicke-Korsakoff, causado casi siempre por alcoholismo crónico— es uno de los daños cerebrales graves que más veces se pasan por alto en urgencias: se estima que hasta el 80 % de los casos de encefalopatía de Wernicke no se reconocen a tiempo.
 
@@ -58,7 +58,7 @@ La tiamina se concentra en el salvado y el germen de los cereales, en las [legum
 | Germen de trigo | 1,9 mg |
 | Semillas de girasol (crudas) | 1,5 mg |
 | Lomo de cerdo (cocido) | 0,9 mg |
-| Copos de avena (crudos) | 0,8 mg |
+| Copos de [avena](/alimentos/cereales/con-gluten/avena) (crudos) | 0,8 mg |
 | Pan integral | 0,3 mg |
 | Arroz integral cocido | 0,2 mg |
 | Guisantes cocidos | 0,2 mg |

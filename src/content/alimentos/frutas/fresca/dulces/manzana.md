@@ -45,7 +45,7 @@ La manzana tiene bastante azúcar para ser fruta —unos 10 g por cada 100 g—,
 
 Al llegar a tu estómago, la pectina se hidrata y se hincha, formando una especie de gel espeso que ralentiza la velocidad a la que el contenido pasa al intestino. Menos velocidad de vaciado significa que el azúcar de la manzana llega a tu sangre más despacio y en dosis más pequeñas, en lugar de todo de golpe.
 
-Un estudio de 2022 con voluntarios lo comprobó de forma directa: quienes se comían una manzana justo antes de un plato de arroz blanco tenían un pico de glucosa notablemente más bajo que quienes comían solo el arroz —75 mg/dl de subida frente a 90 mg/dl—. El efecto es más marcado en personas con problemas de azúcar, precisamente el grupo que más se beneficia de amortiguar esos picos.
+Un estudio de 2022 con voluntarios lo comprobó de forma directa: quienes se comían una manzana justo antes de un plato de [arroz](/alimentos/cereales/sin-gluten/arroz) blanco tenían un pico de glucosa notablemente más bajo que quienes comían solo el arroz —75 mg/dl de subida frente a 90 mg/dl—. El efecto es más marcado en personas con problemas de azúcar, precisamente el grupo que más se beneficia de amortiguar esos picos.
 
 Ese freno depende de que la fibra siga entera. Por eso un zumo de manzana, aunque tenga el mismo azúcar, no se comporta igual que la fruta —como se explica en la página [frutas](/alimentos/frutas)—: al exprimir, la pectina se queda casi toda en el bagazo que se descarta, y el azúcar llega a tu sangre sin nada que lo frene.
 

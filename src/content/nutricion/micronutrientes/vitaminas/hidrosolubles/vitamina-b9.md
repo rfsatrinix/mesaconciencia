@@ -64,7 +64,7 @@ El nombre «folato» viene del latín *folium* (hoja): las [verduras de hoja ver
 | Rúcula (cruda) | 97 µg |
 | [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 80 µg |
 | [Naranja](/alimentos/frutas/fresca/citricos/naranja) | 30 µg |
-| Arroz integral cocido | 9 µg |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) integral cocido | 9 µg |
 
 *Fuente: USDA FoodData Central. Valores aproximados.*
 

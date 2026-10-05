@@ -8,7 +8,7 @@ image: "./fotos/guisanteseco_portada.jpg"
 imageAlt: "Fotografía de guisantes secos"
 ---
 
-El guisante congelado es uno de los vegetales más vendidos en los supermercados españoles. Entra en la paella, en la tortilla de los bares, en el arroz del martes. Lo echas sin pensártelo.
+El guisante congelado es uno de los vegetales más vendidos en los supermercados españoles. Entra en la paella, en la tortilla de los bares, en el [arroz](/alimentos/cereales/sin-gluten/arroz) del martes. Lo echas sin pensártelo.
 
 Y sin embargo, el guisante seco —la misma planta cosechada y deshidratada, con el doble de fibra y proteína que la versión congelada— es prácticamente invisible en la despensa española. No tiene el estatus del [garbanzo](/alimentos/legumbres/garbanzos) ni la tradición de la [lenteja](/alimentos/legumbres/lentejas).
 

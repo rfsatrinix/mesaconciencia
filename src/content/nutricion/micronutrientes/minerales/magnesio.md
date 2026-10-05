@@ -71,7 +71,7 @@ Las fuentes con mayor contenido son semillas, [frutos secos](/alimentos/frutos-s
 | Chocolate negro (85 % cacao) | 228 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 87 mg |
 | Pan integral | 68 mg |
-| Arroz integral cocido | 44 mg |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) integral cocido | 44 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 36 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*

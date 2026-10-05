@@ -91,7 +91,7 @@ Un ensayo clínico de Jenkins et al. midió cuánto subía el azúcar en sangre 
 
 La almendra no solo tiene un pico de azúcar propio muy bajo —su contenido en almidón es mínimo—, sino que amortigua el que provocan los carbohidratos que se comen con ella.
 
-> La almendra es el snack que reduce el pico de azúcar del pan, el arroz o la pasta que comas con ella.
+> La almendra es el snack que reduce el pico de azúcar del pan, el [arroz](/alimentos/cereales/sin-gluten/arroz) o la pasta que comas con ella.
 
 ## ¿Cuántas almendras consumir y cómo?
 

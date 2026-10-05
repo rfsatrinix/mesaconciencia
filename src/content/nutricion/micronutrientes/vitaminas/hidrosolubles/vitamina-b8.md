@@ -72,7 +72,7 @@ La biotina aparece en una gran variedad de fuentes de la dieta, aunque en concen
 | Coliflor cocida | 17 µg |
 | Champiñones cocidos | 16 µg |
 | Almendras | 16 µg |
-| Avena cocida | 7 µg |
+| [Avena](/alimentos/cereales/con-gluten/avena) cocida | 7 µg |
 | Salmón del Atlántico (cocido) | 5 µg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 4 µg |
 

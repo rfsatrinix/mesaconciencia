@@ -67,7 +67,7 @@ Las ostras son, con diferencia, el alimento más rico en zinc de la naturaleza:
 | Pipas de calabaza | 7,5 mg |
 | [Anacardos](/alimentos/frutos-secos/anacardo) | 5,6 mg |
 | Carne de cordero (cocinada) | 4,5 mg |
-| Copos de avena | 3,6 mg |
+| Copos de [avena](/alimentos/cereales/con-gluten/avena) | 3,6 mg |
 | Cangrejos (cocidos) | 3,5 mg |
 | Queso cheddar | 3,1 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 1,5 mg |

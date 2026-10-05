@@ -52,7 +52,7 @@ Cocinarlos no los elimina: los fructanos aguantan el calor y se disuelven en [ag
 
 ## Herramienta 3: el sabor de los bulbos, que reemplaza sal y grasa
 
-Esta es la herramienta más infravalorada. Una base de ajo y cebolla pochados hace que un plato de [legumbres](/alimentos/legumbres), de verdura o de arroz sepa a algo, y eso tiene una consecuencia nutricional directa: comes más de esos alimentos y necesitas menos [sal](/nutricion/micronutrientes/minerales/sodio) y menos [grasa](/nutricion/macronutrientes/grasas-o-lipidos) para que te resulten apetecibles.
+Esta es la herramienta más infravalorada. Una base de ajo y cebolla pochados hace que un plato de [legumbres](/alimentos/legumbres), de verdura o de [arroz](/alimentos/cereales/sin-gluten/arroz) sepa a algo, y eso tiene una consecuencia nutricional directa: comes más de esos alimentos y necesitas menos [sal](/nutricion/micronutrientes/minerales/sodio) y menos [grasa](/nutricion/macronutrientes/grasas-o-lipidos) para que te resulten apetecibles.
 
 No es un efecto que salga en ninguna tabla, pero es real.
 

@@ -98,7 +98,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 Si sigues una dieta vegana, puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
 
-**Bebidas vegetales enriquecidas.** Las de soja, avena y almendra, cuando llevan sales cálcicas añadidas, aportan entre 120 y 150 mg de calcio por 100 mL; si no se añaden, su contenido es marginal.
+**Bebidas vegetales enriquecidas.** Las de soja, [avena](/alimentos/cereales/con-gluten/avena) y almendra, cuando llevan sales cálcicas añadidas, aportan entre 120 y 150 mg de calcio por 100 mL; si no se añaden, su contenido es marginal.
 
 **Tofu precipitado con sulfato cálcico o cloruro cálcico.** Aporta entre 100 y 200 mg por 100 g dependiendo de la firmeza —el tofu más firme concentra más calcio—.
 

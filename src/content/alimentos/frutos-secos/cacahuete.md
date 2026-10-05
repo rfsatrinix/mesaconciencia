@@ -67,7 +67,7 @@ Con 25,8 g de proteína por cada 100 g, el cacahuete es el alimento más proteic
 
 Ese dato tiene un matiz. La proteína solo es útil en la medida en que el cuerpo pueda aprovecharla, y para eso necesita todos los [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) en las proporciones adecuadas. El cacahuete, como la mayoría de las legumbres, tiene relativamente poca cantidad del aminoácido que tus células usan para fabricar su principal defensa antioxidante y para docenas de procesos internos —la [**metionina**](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—. No está ausente, pero aparece en menor proporción de la que tu cuerpo necesita: es el aminoácido que, si escasea, frena el aprovechamiento de los demás —el **aminoácido limitante**—.
 
-La solución es antigua y práctica: combinar el cacahuete con cereales, que tienen exactamente el perfil complementario —abundantes en metionina, escasos en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, mientras el cacahuete es rico en lisina. Pan con crema de cacahuete, arroz con cacahuetes, pasta con salsa de cacahuete: en todos esos casos, la mezcla produce un perfil de aminoácidos más completo que cualquiera de los dos ingredientes por separado.
+La solución es antigua y práctica: combinar el cacahuete con cereales, que tienen exactamente el perfil complementario —abundantes en metionina, escasos en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, mientras el cacahuete es rico en lisina. Pan con crema de cacahuete, [arroz](/alimentos/cereales/sin-gluten/arroz) con cacahuetes, pasta con salsa de cacahuete: en todos esos casos, la mezcla produce un perfil de aminoácidos más completo que cualquiera de los dos ingredientes por separado.
 
 El cacahuete aporta también la vitamina del grupo B que tu cuerpo usa para convertir lo que comes en energía y para reparar el ADN —la **niacina** (B3)—. Con 12,1 mg por cada 100 g, ningún otro fruto seco ni legumbre habitual se le acerca. Una ración de 30 g cubre más del 75 % de la cantidad diaria recomendada de niacina para un adulto.
 
@@ -93,7 +93,7 @@ Los estudios con cacahuetes suelen usar entre 28 y 35 g. Con 30 g —unas 25 uni
 
 **Con piel interior.** La piel fina rojiza que envuelve la semilla concentra los compuestos con efecto antioxidante de la planta —los **polifenoles**—, incluido el resveratrol. Los cacahuetes tostados y pelados los pierden.
 
-**Combinados con cereales para completar la proteína.** Si el cacahuete es una fuente importante de proteína en tu dieta, consumirlo en la misma comida que pan, arroz o avena resuelve la falta relativa de metionina. Pan con crema de cacahuete natural es una de las formas más baratas de obtener proteína vegetal de calidad.
+**Combinados con cereales para completar la proteína.** Si el cacahuete es una fuente importante de proteína en tu dieta, consumirlo en la misma comida que pan, arroz o [avena](/alimentos/cereales/con-gluten/avena) resuelve la falta relativa de metionina. Pan con crema de cacahuete natural es una de las formas más baratas de obtener proteína vegetal de calidad.
 
 **Con atención al formato.** 30 g de cacahuetes enteros son un puñado pequeño. 30 g de mantequilla natural aportan lo mismo. En la versión industrial, las calorías del azúcar y el aceite añadidos cambian el cálculo.
 

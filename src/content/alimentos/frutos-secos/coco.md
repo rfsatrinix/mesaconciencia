@@ -78,7 +78,7 @@ El valor más alto de todos los frutos secos habituales. Y casi nunca aparece en
 
 La fibra del coco es principalmente insoluble —celulosa de la pulpa del fruto—: añade volumen al intestino y acelera el tránsito. En la práctica, ayuda a ir al baño con regularidad y a llegar con menos hambre a la siguiente comida.
 
-También tiene una fracción fermentable: las bacterias de tu colon la descomponen y producen compuestos que sirven de alimento directo a las células que recubren el interior del intestino. No es la fibra que más nutre las bacterias intestinales —la de la fruta o la avena es más potente en ese sentido—, pero no es despreciable.
+También tiene una fracción fermentable: las bacterias de tu colon la descomponen y producen compuestos que sirven de alimento directo a las células que recubren el interior del intestino. No es la fibra que más nutre las bacterias intestinales —la de la fruta o la [avena](/alimentos/cereales/con-gluten/avena) es más potente en ese sentido—, pero no es despreciable.
 
 > Es el fruto seco con más fibra del grupo, y casi nadie lo sabe.
 

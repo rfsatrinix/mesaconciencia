@@ -53,10 +53,10 @@ El manganeso está presente de forma abundante en los vegetales, especialmente e
 | Alimento | Manganeso por cada 100 g |
 |---|---|
 | Mejillones cocidos | 6,8 mg |
-| Copos de avena | 3,6 mg |
+| Copos de [avena](/alimentos/cereales/con-gluten/avena) | 3,6 mg |
 | Almendras | 2,2 mg |
 | Pan integral de trigo | 2,0 mg |
-| Arroz integral (cocido) | 1,1 mg |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) integral (cocido) | 1,1 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 1,1 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,9 mg |
 | Piña | 0,9 mg |

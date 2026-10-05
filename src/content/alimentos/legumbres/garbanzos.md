@@ -48,7 +48,7 @@ Una ración de 200 g cocidos aporta 17,8 g de proteína, 15,2 g de fibra y 344 �
 
 Pero hay un matiz.
 
-No es proteína completa. Le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que los cereales tienen en abundancia. Si combinas garbanzo con arroz, pan o cuscús, las dos proteínas se complementan y obtienes el perfil de [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que necesitas. No hace falta que sea en la misma comida.
+No es proteína completa. Le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que los cereales tienen en abundancia. Si combinas garbanzo con [arroz](/alimentos/cereales/sin-gluten/arroz), pan o cuscús, las dos proteínas se complementan y obtienes el perfil de [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que necesitas. No hace falta que sea en la misma comida.
 
 > El potaje con pan, el hummus con pita, el falafel con arroz: la cocina mediterránea resolvió este problema siglos antes que la ciencia de los aminoácidos.
 

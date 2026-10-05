@@ -22,7 +22,7 @@ Se disuelve formando un gel viscoso en tu tracto digestivo. Ese gel hace tres co
 
 **Reduce el azúcar en sangre después de comer.** El gel ralentiza el paso de la glucosa al torrente sanguíneo, amortiguando el aumento brusco de glucosa —el **pico glucémico**— que sigue a las comidas con [hidratos de carbono](/nutricion/macronutrientes/hidratos-de-carbono) refinados o sin fibra.
 
-**Baja el colesterol LDL** entre un 5 y un 10 %: el gel captura en el intestino los compuestos que tu hígado fabrica a partir del colesterol para digerir las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —los **ácidos biliares**— y los arrastra en las heces, obligando a tu hígado a fabricar nuevos usando el colesterol circulante. El tipo de fibra soluble presente en la avena y la cebada —el **beta-glucano**— es la forma con mayor evidencia clínica para este efecto.
+**Baja el colesterol LDL** entre un 5 y un 10 %: el gel captura en el intestino los compuestos que tu hígado fabrica a partir del colesterol para digerir las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) —los **ácidos biliares**— y los arrastra en las heces, obligando a tu hígado a fabricar nuevos usando el colesterol circulante. El tipo de fibra soluble presente en la [avena](/alimentos/cereales/con-gluten/avena) y la cebada —el **beta-glucano**— es la forma con mayor evidencia clínica para este efecto.
 
 **Nutre las bacterias beneficiosas de tu intestino.** Las fibras solubles fermentables sirven de alimento a las bacterias de tu colon —la **microbiota intestinal**— que a cambio producen compuestos con efectos protectores sobre la mucosa.
 
@@ -75,7 +75,7 @@ Las fuentes con mayor concentración de fibra son:
 | Pan integral de centeno | 6 g |
 | [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 3 g |
 | Manzana con piel | 2,4 g |
-| Arroz integral cocido | 1,8 g |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) integral cocido | 1,8 g |
 
 *Fuente: BEDCA; USDA FoodData Central.*
 

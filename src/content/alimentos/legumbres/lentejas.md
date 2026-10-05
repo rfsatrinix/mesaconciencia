@@ -45,7 +45,7 @@ Una ración de 200 g cocidas aporta 6,6 mg de hierro y 362 µg de folatos. Para 
 
 9 g de proteína por cada 100 g cocidas sitúa a la lenteja entre las fuentes vegetales más densas en proteína. Con el mismo matiz que tienen todas las legumbres: le falta el aminoácido que tu cuerpo no puede fabricar por sí solo —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—, el que abunda en los cereales.
 
-El arroz con lentejas, las lentejas con pan, el dal con naan son combinaciones que distintas culturas han perfeccionado durante siglos sin saber de aminoácidos: simplemente funcionaban. El resultado es una proteína completa sin necesidad de que ambos coincidan en el mismo plato, solo en el mismo día.
+El [arroz](/alimentos/cereales/sin-gluten/arroz) con lentejas, las lentejas con pan, el dal con naan son combinaciones que distintas culturas han perfeccionado durante siglos sin saber de aminoácidos: simplemente funcionaban. El resultado es una proteína completa sin necesidad de que ambos coincidan en el mismo plato, solo en el mismo día.
 
 > La ciencia de los aminoácidos tardó siglos en llegar. La receta ya estaba.
 

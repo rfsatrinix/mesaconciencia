@@ -48,8 +48,8 @@ El **índice glucémico (IG)** mide con qué rapidez un alimento eleva tu glucem
 |---|---|
 | Glucosa | 100 |
 | Pan blanco | 71 |
-| Arroz blanco | 64 |
-| Avena (copos) | 55 |
+| [Arroz](/alimentos/cereales/sin-gluten/arroz) blanco | 64 |
+| [Avena](/alimentos/cereales/con-gluten/avena) (copos) | 55 |
 | Boniato | 44 |
 | [Garbanzo cocido](/alimentos/legumbres/garbanzos) | 28 |
 | [Lenteja cocida](/alimentos/legumbres/lentejas) | 25 |

@@ -8,7 +8,7 @@ image: "./fotos/origenvegetal_portada.jpg"
 imageAlt: "Mesa de madera rústica con tela de lino: bloque de tofu en plato redondo central, tabla con lonchas de tempeh, cuencos de garbanzos, lentejas, semillas de cáñamo y chía, edamame en vainas, quinoa y almendras dispersas"
 ---
 
-En 1971, la reconocida investigadora, activista y escritora estadounidense Frances Moore Lappé publicó *Diet for a Small Planet* y popularizó la idea de que las proteínas vegetales debían combinarse en la misma comida para funcionar. La restricción se instaló en los libros de texto y sobrevivió décadas: arroz con lentejas tenía que ser en la misma comida, punto. Diez años después, la propia Lappé la retiró en una edición revisada: el cuerpo no necesita que la complementación ocurra en la misma comida, sino a lo largo del día.
+En 1971, la reconocida investigadora, activista y escritora estadounidense Frances Moore Lappé publicó *Diet for a Small Planet* y popularizó la idea de que las proteínas vegetales debían combinarse en la misma comida para funcionar. La restricción se instaló en los libros de texto y sobrevivió décadas: [arroz](/alimentos/cereales/sin-gluten/arroz) con lentejas tenía que ser en la misma comida, punto. Diez años después, la propia Lappé la retiró en una edición revisada: el cuerpo no necesita que la complementación ocurra en la misma comida, sino a lo largo del día.
 
 Las [proteínas](/nutricion/macronutrientes/proteinas) de origen vegetal son las que proceden de [legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos), semillas y verduras. Durante décadas se consideraron "incompletas" por ser deficitarias en uno o más [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales). Esa etiqueta describe una característica bioquímica real, pero **no significa que sean insuficientes** para cubrir tus necesidades proteicas: con una dieta variada y suficiente en calorías, es perfectamente posible obtener todos los aminoácidos esenciales de fuentes vegetales.
 
@@ -29,7 +29,7 @@ Tres fuentes vegetales son excepciones con perfil completo:
 
 **[Soja](/alimentos/legumbres/soja).** Es la única legumbre con una calidad proteica comparable a la de las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal): cubre todos los aminoácidos esenciales en proporciones adecuadas.
 
-**Quinoa.** A diferencia del trigo o el arroz, esta semilla no procede de un pasto sino de una planta botánicamente distinta —un **pseudocereal**—, pero su perfil de aminoácidos esenciales es igualmente completo.
+**[Quinoa](/alimentos/cereales/pseudocereales/quinoa).** A diferencia del trigo o el arroz, esta semilla no procede de un pasto sino de una planta botánicamente distinta —un **pseudocereal**—, pero su perfil de aminoácidos esenciales es igualmente completo.
 
 **Amaranto.** Tiene un perfil de aminoácidos similar al de la quinoa y se clasifica también como pseudocereal.
 
@@ -99,7 +99,7 @@ Para un adulto sano con necesidades de aproximadamente 0,83 g/kg/día (EFSA), un
 
 **Soja y derivados** (tofu, tempeh, edamame, bebida de soja). Es la fuente vegetal más completa y versátil. El tempeh, al ser fermentado, tiene mejor biodisponibilidad que el tofu.
 
-**Cereales integrales** (avena, arroz integral, quinoa, espelta). Úsalos en todas las comidas; complementan el perfil de lisina de las legumbres.
+**Cereales integrales** ([avena](/alimentos/cereales/con-gluten/avena), arroz integral, quinoa, espelta). Úsalos en todas las comidas; complementan el perfil de lisina de las legumbres.
 
 **Frutos secos y semillas** ([nueces](/alimentos/frutos-secos/nuez), almendras, semillas de cáñamo, chía). Incorpóralos como complemento por su aporte de proteína y [grasas](/nutricion/macronutrientes/grasas-o-lipidos) saludables.
 

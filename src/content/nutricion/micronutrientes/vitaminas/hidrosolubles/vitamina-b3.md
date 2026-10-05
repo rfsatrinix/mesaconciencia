@@ -70,7 +70,7 @@ La niacina se concentra en carnes, pescados, [frutos secos](/alimentos/frutos-se
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
 
-El maíz merece una mención aparte. Su contenido de niacina no es despreciable en términos cuantitativos, pero está unida a polisacáridos en una forma que el intestino no puede absorber —la **niacitina**—. El tratamiento alcalino que los pueblos mesoamericanos aplicaban al maíz desde hace milenios —la nixtamalización, que consiste en cocer el grano en solución de cal viva— libera esa niacina y la hace biodisponible. Las culturas que adoptaron el maíz sin adoptar la nixtamalización pagaron el precio. Es la historia de la pelagra.
+El maíz merece una mención aparte. Su contenido de niacina no es despreciable en términos cuantitativos, pero está unida a polisacáridos en una forma que el intestino no puede absorber —la **niacitina**—. El tratamiento alcalino que los pueblos mesoamericanos aplicaban al maíz desde hace milenios —la nixtamalización, que consiste en cocer el grano en solución de cal viva— libera esa niacina y la hace biodisponible. Las culturas que adoptaron el maíz sin adoptar la nixtamalización pagaron el precio. Es la historia de la pelagra —y también parte de la historia que se cuenta en la página [cereales sin gluten](/alimentos/cereales/sin-gluten), el grupo de cereales al que pertenece el maíz—.
 
 ## Pelagra: la enfermedad del maíz y el error epidémico
 

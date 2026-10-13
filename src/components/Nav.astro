@@ -67,7 +67,16 @@ const definicion: NavItem[] = [
     ],
   },
   { label: 'Recetas',   href: '/recetas',   coleccion: 'recetas' },
-  { label: 'Dietas',    href: '/dietas',    coleccion: 'dietas' },
+  {
+    label: 'Dietas',
+    href:  '/dietas',
+    coleccion: 'dietas',
+    submenu: [
+      { label: 'Dietas populares',          href: '/dietas/populares' },
+      { label: 'Dietas terapéuticas',       href: '/dietas/terapeuticas' },
+      { label: 'Dietas sin base científica', href: '/dietas/sin-base-cientifica' },
+    ],
+  },
   { label: 'Salud',     href: '/salud',     coleccion: 'salud' },
   { label: 'Plantas',   href: '/plantas',   coleccion: 'plantas' },
   { label: 'Artículos', href: '/articulos', coleccion: 'articulos' },

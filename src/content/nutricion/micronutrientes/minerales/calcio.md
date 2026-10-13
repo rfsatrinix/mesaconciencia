@@ -96,7 +96,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 ## Calcio en dietas veganas
 
-Si sigues una dieta vegana, puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
+Si sigues una [dieta vegana](/dietas/populares/vegana), puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
 
 **Bebidas vegetales enriquecidas.** Las de soja, [avena](/alimentos/cereales/con-gluten/avena) y almendra, cuando llevan sales cálcicas añadidas, aportan entre 120 y 150 mg de calcio por 100 mL; si no se añaden, su contenido es marginal.
 

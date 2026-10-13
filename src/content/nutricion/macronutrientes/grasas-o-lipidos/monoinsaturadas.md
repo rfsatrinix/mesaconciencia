@@ -10,7 +10,7 @@ imageAlt: "Mesa de madera rústica con tela de lino: botella de aceite de oliva 
 
 En las décadas en que todas las grasas pasaron a ser el enemigo de la dieta sana, el aceite de oliva fue la excepción que nadie sabía muy bien cómo justificar. Los países que lo usaban como grasa principal seguían teniendo tasas de enfermedad cardiovascular más bajas. La respuesta, en gran parte, está en el tipo de grasa que predomina en ese aceite —y en las aceitunas, el [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) y los [frutos secos](/alimentos/frutos-secos)—: la grasa monoinsaturada.
 
-Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos cuya cadena tiene una única conexión química especial entre dos átomos de carbono —el **doble enlace**—. Esa característica les da una estructura ligeramente curvada que las mantiene líquidas a temperatura ambiente y las hace más resistentes al proceso por el que las grasas se degradan con el calor o el tiempo —la **oxidación**— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas). Son el tipo de grasa más representativo de la **dieta mediterránea** y el que más se ha estudiado en relación con tu salud cardiovascular.
+Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI) son ácidos grasos cuya cadena tiene una única conexión química especial entre dos átomos de carbono —el **doble enlace**—. Esa característica les da una estructura ligeramente curvada que las mantiene líquidas a temperatura ambiente y las hace más resistentes al proceso por el que las grasas se degradan con el calor o el tiempo —la **oxidación**— que las [poliinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas). Son el tipo de grasa más representativo de la [dieta mediterránea](/dietas/populares/mediterranea) y el que más se ha estudiado en relación con tu salud cardiovascular.
 
 ## El ácido oleico: protagonista de las grasas monoinsaturadas
 
@@ -30,7 +30,7 @@ La distribución de colesterol y triglicéridos en tu sangre —el **perfil lip�
 | AGMI vs hidratos refinados | Reduce LDL | Eleva HDL |
 | AGMI vs poliinsaturadas | Similar reducción de LDL | Mejor mantenimiento de HDL |
 
-Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón más favorable para tu salud cardiovascular. Es uno de los mecanismos que explica los resultados de un estudio clínico español que siguió a más de 7.000 personas de alto riesgo cardiovascular y se publicó en The New England Journal of Medicine en 2013 —el ensayo **PREDIMED**—: la dieta mediterránea enriquecida con AOVE redujo el riesgo de eventos cardiovasculares mayores en aproximadamente un 30 % respecto al grupo control.
+Esta combinación —reducción del LDL sin pérdida de HDL— es el patrón más favorable para tu salud cardiovascular. Es uno de los mecanismos que explica los resultados de un estudio clínico español que siguió a más de 7.000 personas de alto riesgo cardiovascular —el ensayo **PREDIMED**, publicado originalmente en 2013 y corregido y vuelto a publicar en 2018 tras detectarse un problema con la aleatorización de algunos participantes—: la dieta mediterránea enriquecida con AOVE redujo el riesgo de eventos cardiovasculares mayores en aproximadamente un 30 % respecto al grupo control.
 
 > Pocos ingredientes de la dieta tienen un ensayo de 7.000 participantes que los respalde. El aceite de oliva virgen extra tiene uno.
 
@@ -80,3 +80,4 @@ Si soy sincera, hay pocas decisiones culinarias con mejor relación calidad-prec
 ## Referencias
 
 - <a href="https://efsa.onlinelibrary.wiley.com/doi/10.2903/j.efsa.2010.1461" target="_blank" rel="noopener noreferrer">EFSA Panel on Dietetic Products, Nutrition and Allergies (NDA). Dietary reference values for fats. EFSA Journal. 2010.</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/29897866/" target="_blank" rel="noopener noreferrer">Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, et al. (2018). Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts. *New England Journal of Medicine*, 378(25), e34.</a>

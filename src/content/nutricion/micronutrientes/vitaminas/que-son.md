@@ -90,7 +90,7 @@ Los suplementos vitamínicos no tienen efecto demostrado en personas sin défici
 
 Si vives en una latitud alta o pasas poco tiempo al aire libre, la **vitamina D** en dosis de 800–2.000 UI durante los meses de otoño e invierno es la suplementación con mayor respaldo en adultos sanos.
 
-Si sigues una dieta vegana o vegetariana estricta, la suplementación de **B12** no es opcional: sin ella, el déficit es inevitable a medio plazo.
+Si sigues una [dieta vegana](/dietas/populares/vegana) o vegetariana estricta, la suplementación de **B12** no es opcional: sin ella, el déficit es inevitable a medio plazo.
 
 Si estás buscando quedarte embarazada o estás en las primeras semanas de gestación, el **ácido fólico** —400–800 μg/día— está indicado para reducir el riesgo de defectos del tubo neural.
 

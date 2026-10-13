@@ -82,7 +82,7 @@ Tu organismo puede fabricar la mayoría de las grasas que necesita. Solo hay dos
 
 ## Qué grasas priorizar en tu dieta
 
-**Aceite de oliva virgen extra:** úsalo como grasa principal para cocinar y aliñar. Es la fuente más accesible de ácido oleico en la dieta mediterránea.
+**Aceite de oliva virgen extra:** úsalo como grasa principal para cocinar y aliñar. Es la fuente más accesible de ácido oleico en la [dieta mediterránea](/dietas/populares/mediterranea).
 
 **Pescado azul** (salmón, sardinas, caballa, boquerón): intenta comerlo al menos dos veces por semana. Es la forma más directa de asegurar EPA y DHA sin depender de la conversión desde el ALA.
 

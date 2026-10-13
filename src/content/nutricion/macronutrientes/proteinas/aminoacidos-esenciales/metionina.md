@@ -80,7 +80,7 @@ Tres [vitaminas](/nutricion/micronutrientes/vitaminas) regulan el destino de la 
 
 **[Folato (vitamina B9)](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b9):** actúa como cofactor de la metionina sintasa, la enzima que recicla la homocisteína de vuelta a metionina.
 
-**[Vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12):** también actúa como cofactor indispensable en ese mismo paso. Su deficiencia es la causa más frecuente de hiperhomocisteinemia en adultos mayores y en personas con dieta vegana sin suplementación.
+**[Vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12):** también actúa como cofactor indispensable en ese mismo paso. Su deficiencia es la causa más frecuente de hiperhomocisteinemia en adultos mayores y en personas con [dieta vegana](/dietas/populares/vegana) sin suplementación.
 
 **[Vitamina B6](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b6):** actúa como cofactor de la cistationina beta-sintasa, la enzima que convierte la homocisteína en cisteína por la vía de la transulfuración.
 

@@ -35,7 +35,7 @@ Las más críticas en la práctica son la B9 y la B12. El ácido fólico tiene d
 
 La vitamina B12 comparte la categoría «hidrosoluble» con las demás vitaminas del grupo B, pero su comportamiento es diferente: el hígado acumula reservas suficientes para 3–5 años. Eso tiene dos consecuencias prácticas directas.
 
-La primera es que si sigues una dieta vegana, el déficit puede tardar años en manifestarse, lo que genera una falsa sensación de seguridad. La segunda es que cuando los síntomas aparecen —hormigueo en manos y pies, dificultad para mantener el equilibrio, deterioro cognitivo— el daño neurológico puede ser parcialmente irreversible.
+La primera es que si sigues una [dieta vegana](/dietas/populares/vegana), el déficit puede tardar años en manifestarse, lo que genera una falsa sensación de seguridad. La segunda es que cuando los síntomas aparecen —hormigueo en manos y pies, dificultad para mantener el equilibrio, deterioro cognitivo— el daño neurológico puede ser parcialmente irreversible.
 
 > La suplementación de B12 en dietas veganas no es opcional.
 

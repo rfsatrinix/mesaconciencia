@@ -48,7 +48,7 @@ Datos por cada 100 g de avellana cruda con piel:
 
 ## El fruto seco más oleico de la despensa
 
-La avellana tiene un 75 % de sus ácidos grasos en forma monoinsaturada, con el ácido oleico como componente dominante: el mismo tipo de grasa que hace del aceite de oliva el referente de la dieta mediterránea. En cuanto al tipo de grasa que contiene, se parece más al aceite de oliva que al resto de los [frutos secos](/alimentos/frutos-secos): supera a la [almendra](/alimentos/frutos-secos/almendra) (63 % de monoinsaturadas) y dobla ampliamente el porcentaje de la [nuez](/alimentos/frutos-secos/nuez), cuya grasa dominante son las poliinsaturadas omega-6.
+La avellana tiene un 75 % de sus ácidos grasos en forma monoinsaturada, con el ácido oleico como componente dominante: el mismo tipo de grasa que hace del aceite de oliva el referente de la [dieta mediterránea](/dietas/populares/mediterranea). En cuanto al tipo de grasa que contiene, se parece más al aceite de oliva que al resto de los [frutos secos](/alimentos/frutos-secos): supera a la [almendra](/alimentos/frutos-secos/almendra) (63 % de monoinsaturadas) y dobla ampliamente el porcentaje de la [nuez](/alimentos/frutos-secos/nuez), cuya grasa dominante son las poliinsaturadas omega-6.
 
 Eso tiene consecuencias documentadas sobre el colesterol. Los ácidos grasos monoinsaturados en sustitución de las grasas saturadas de la dieta reducen el colesterol «malo» —el **LDL**— sin modificar el «bueno» —el **HDL**—. No es un efecto exclusivo de la avellana: lo comparten la almendra, el [anacardo](/alimentos/frutos-secos/anacardo) y el aceite de oliva. Pero la avellana tiene más grasa monoinsaturada que cualquier otro fruto seco del pasillo del supermercado.
 

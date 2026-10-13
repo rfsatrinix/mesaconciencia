@@ -91,7 +91,7 @@ La mayoría de estas limitaciones se resuelven con una preparación adecuada. La
 
 ## Cómo cubrir las necesidades proteicas con alimentación vegetal
 
-Para un adulto sano con necesidades de aproximadamente 0,83 g/kg/día (EFSA), una dieta vegana variada puede cubrir perfectamente esas necesidades con estas bases:
+Para un adulto sano con necesidades de aproximadamente 0,83 g/kg/día (EFSA), una [dieta vegana](/dietas/populares/vegana) variada puede cubrir perfectamente esas necesidades con estas bases:
 
 ### Fuentes a incluir habitualmente
 

@@ -68,7 +68,7 @@ Los aceites vegetales y los [frutos secos](/alimentos/frutos-secos) concentran l
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
-El aceite de germen de trigo tiene una concentración extraordinaria, pero se consume en cantidades mínimas. En la práctica, los aceites de girasol y oliva —usados a diario para cocinar y aliñar— son las fuentes principales en la dieta mediterránea. Los frutos secos, especialmente almendras y avellanas, son la fuente más fiable si quieres cubrir las necesidades sin depender solo del aceite.
+El aceite de germen de trigo tiene una concentración extraordinaria, pero se consume en cantidades mínimas. En la práctica, los aceites de girasol y oliva —usados a diario para cocinar y aliñar— son las fuentes principales en la [dieta mediterránea](/dietas/populares/mediterranea). Los frutos secos, especialmente almendras y avellanas, son la fuente más fiable si quieres cubrir las necesidades sin depender solo del aceite.
 
 ## La absorción de la vitamina E
 

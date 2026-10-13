@@ -10,7 +10,7 @@ imageAlt: "Fotografía de cacahuetes con vaina"
 
 La bolsa de cacahuetes del supermercado, la salsa de cacahuete de la cocina tailandesa, la crema del desayuno americano. El cacahuete está en todas partes: en el aperitivo del bar, en la barra energética del gimnasio, en la cocina de medio mundo. Es, en toneladas consumidas, el fruto seco más popular del planeta.
 
-Lleva décadas en la sección de frutos secos, clasificado junto a nueces y almendras en las guías alimentarias, en los estudios y en las pirámides de la dieta mediterránea.
+Lleva décadas en la sección de frutos secos, clasificado junto a nueces y almendras en las guías alimentarias, en los estudios y en las pirámides de la [dieta mediterránea](/dietas/populares/mediterranea).
 
 La etiqueta de fruto seco lo sigue a todas partes. Pero el cacahuete no es un fruto seco: es una legumbre.
 

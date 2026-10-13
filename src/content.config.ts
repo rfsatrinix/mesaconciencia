@@ -37,7 +37,7 @@ const recetas = defineCollection({
 const dietas = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/dietas' }),
   schema: ({ image }) => base.extend({
-    tipo: z.string().optional(),
+    categoria: z.string().optional(),
     image: image().optional(),
   }),
 });

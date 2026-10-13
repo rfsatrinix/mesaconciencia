@@ -125,7 +125,7 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 
 **Reduce el uso de aceites de girasol y maíz** en favor del aceite de oliva, que aporta mucho menos omega-6.
 
-**Si sigues una dieta vegetariana o vegana**, valora tomar un suplemento de EPA+DHA de microalgas: es la única fuente directa de ambos ácidos grasos sin origen animal.
+**Si sigues una [dieta vegetariana](/dietas/populares/vegetariana) o vegana**, valora tomar un suplemento de EPA+DHA de microalgas: es la única fuente directa de ambos ácidos grasos sin origen animal.
 
 Para mí, el cambio con mayor impacto y menor esfuerzo es añadir sardinas o caballa dos veces por semana: cuestan poco, tienen los mejores ratios de EPA+DHA de los pescados comunes, y el efecto en el ratio omega-6:omega-3 es inmediato.
 

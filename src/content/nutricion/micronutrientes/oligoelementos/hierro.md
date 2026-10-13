@@ -56,7 +56,7 @@ Las necesidades de hierro varían con las pérdidas. Las mujeres en edad fértil
 | Hombres adultos | 11 mg/día |
 | Mujeres >50 años (posmenopausia) | 11 mg/día |
 
-Estas cifras asumen una dieta mixta con hierro hemo e hierro no hemo. Si sigues una dieta vegetariana o vegana y obtienes todo el hierro de fuentes vegetales, puedes necesitar hasta 1,8 veces esas cantidades para compensar la menor absorción del hierro no hemo.
+Estas cifras asumen una dieta mixta con hierro hemo e hierro no hemo. Si sigues una [dieta vegetariana](/dietas/populares/vegetariana) o vegana y obtienes todo el hierro de fuentes vegetales, puedes necesitar hasta 1,8 veces esas cantidades para compensar la menor absorción del hierro no hemo.
 
 ## Fuentes de hierro en la dieta
 

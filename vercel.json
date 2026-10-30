@@ -7,17 +7,7 @@
       "permanent": true
     },
     {
-      "source": "/nutricion/micronutrientes/vitaminas/vitamina-d/",
-      "destination": "/nutricion/micronutrientes/vitaminas/liposolubles/vitamina-d",
-      "permanent": true
-    },
-    {
       "source": "/alimentos/garbanzos",
-      "destination": "/alimentos/legumbres/garbanzos",
-      "permanent": true
-    },
-    {
-      "source": "/alimentos/garbanzos/",
       "destination": "/alimentos/legumbres/garbanzos",
       "permanent": true
     }

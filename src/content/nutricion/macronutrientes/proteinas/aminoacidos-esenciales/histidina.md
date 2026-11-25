@@ -44,9 +44,9 @@ La histidina se concentra en las fuentes ricas en proteína completa, especialme
 
 | Alimento | Histidina por cada 100 g |
 |---|---|
-| Atún fresco (cocido) | 1.000 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 1.000 mg |
 | Pechuga de pollo (cocida) | 960 mg |
-| Salmón del Atlántico (cocido) | 730 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 730 mg |
 | Ternera (filete, cocinada) | 700 mg |
 | Queso parmesano | 650 mg |
 | Huevo entero (cocido) | 300 mg |
@@ -61,7 +61,7 @@ El atún destaca con diferencia: tiene la concentración más alta de histidina 
 
 La intolerancia a la histamina no es una alergia: no interviene el sistema inmunitario. Ocurre cuando la histamina que ingieres con la dieta supera la capacidad de la enzima que la neutraliza en el intestino antes de que pase a la sangre —la **diaminooxidasa** (DAO)—. El resultado son síntomas que imitan una reacción alérgica: dolor de cabeza —la **cefalea**—, ronchas con picor en la piel —la **urticaria**—, congestión nasal —la **rinitis**—, náuseas o diarrea.
 
-Los productos con más histamina ya formada son los fermentados y los procesados: vino, vinagre, quesos curados, embutidos, conservas de pescado y encurtidos. En estos casos el problema no es la histidina que contienen, sino la histamina que las bacterias han fabricado antes de que los comieras.
+Los productos con más histamina ya formada son los fermentados y los procesados: vino, vinagre, [quesos curados](/alimentos/lacteos/quesos), embutidos, conservas de pescado y encurtidos. En estos casos el problema no es la histidina que contienen, sino la histamina que las bacterias han fabricado antes de que los comieras.
 
 La distinción importa en la práctica: la histidina de la proteína no produce síntomas. Es la histamina preformada en la dieta la que los desencadena en personas con déficit de DAO. Restringir o aumentar la histidina dietética no tiene ningún efecto sobre esos síntomas.
 

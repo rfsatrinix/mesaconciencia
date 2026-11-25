@@ -56,16 +56,16 @@ El yodo es escaso en los suelos continentales —fue arrastrado hacia el océano
 | Alga kombu/kelp (seca) | 1.600–8.000 µg (muy variable) |
 | Bacalao (cocinado) | 170 µg |
 | Sal yodada | 77 µg/g de sal |
-| Leche entera | 50–80 µg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 50–80 µg |
 | Alga nori (seca) | 37 µg |
 | Gambas (cocidas) | 36 µg |
 | Yogur | 35–75 µg |
 | Huevo entero | 27 µg/unidad |
-| Atún (en lata) | 20 µg |
+| [Atún](/alimentos/pescados/azules/atun) (en lata) | 20 µg |
 
 *Valores aproximados. Fuente: USDA FoodData Central y EFSA 2014. Los valores de leche y algas presentan variabilidad significativa según prácticas ganaderas y especie.*
 
-Los **lácteos** son una fuente sorprendentemente rica, y no por razones obvias: el contenido de yodo en la leche procede en gran parte de los desinfectantes a base de yodo que se utilizan para limpiar equipos y ubres en las ganaderías —los **yodóforos**— y del yodo añadido a los piensos del ganado. En países donde la industria láctea usa yodóforos, la leche puede aportar entre un tercio y la mitad de tu ingesta diaria recomendada de yodo.
+Los **[lácteos](/alimentos/lacteos)** son una fuente sorprendentemente rica, y no por razones obvias: el contenido de yodo en la leche procede en gran parte de los desinfectantes a base de yodo que se utilizan para limpiar equipos y ubres en las ganaderías —los **yodóforos**— y del yodo añadido a los piensos del ganado. En países donde la industria láctea usa yodóforos, la leche puede aportar entre un tercio y la mitad de tu ingesta diaria recomendada de yodo.
 
 Las **algas marinas** son la fuente más concentrada, pero con variabilidad extrema. Las algas pardas (kelp, kombu, *Laminaria*) pueden contener hasta 8.000 µg de yodo por 100 g de producto seco —decenas de veces el nivel máximo tolerable en una sola ración—. El consumo habitual de estas algas, creciente en mercados europeos como complemento o sustituto de sal, entraña riesgo real de superar el límite de forma crónica. El nori, usado en sushi, contiene cantidades mucho menores y es significativamente más seguro a las dosis habituales.
 

@@ -12,7 +12,7 @@ En 1933, el bioquímico Roger Williams llevaba semanas alimentando cultivos de l
 
 Ese rasgo —la distribución universal— es la característica más definitoria del ácido pantoténico, y también la razón por la que su deficiencia clínica es excepcional. A diferencia de la [vitamina B1](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b1), cuya escasez en el [arroz](/alimentos/cereales/sin-gluten/arroz) blanco diezmó ejércitos, o de la [vitamina B3](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b3), cuya ausencia en el maíz sin procesar produjo décadas de pelagra, el ácido pantoténico nunca ha dejado ese tipo de huella histórica. La EFSA, al revisar la evidencia para establecer valores de referencia, constató que los datos clínicos sobre deficiencia eran tan escasos que no podía derivar una relación dosis-respuesta: la enfermedad era demasiado rara para haber sido estudiada con rigor. Es lo que hace de la vitamina B5 un caso singular entre las del grupo B: la más difícil de que escasee en tu dieta, y también la menos conocida.
 
-La **vitamina B5**, o **ácido pantoténico**, es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que no se almacena en cantidades significativas —cualquier exceso se excreta por la orina en horas—, pero que tampoco escasea en la dieta: cereales integrales, carnes, pescados, lácteos, [legumbres](/alimentos/legumbres), verduras, [frutos secos](/alimentos/frutos-secos) y hongos la contienen en cantidades apreciables.
+La **vitamina B5**, o **ácido pantoténico**, es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) que no se almacena en cantidades significativas —cualquier exceso se excreta por la orina en horas—, pero que tampoco escasea en la dieta: cereales integrales, carnes, [pescados](/alimentos/pescados), [lácteos](/alimentos/lacteos), [legumbres](/alimentos/legumbres), verduras, [frutos secos](/alimentos/frutos-secos) y hongos la contienen en cantidades apreciables.
 
 En tu organismo actúa exclusivamente en la forma en que tus células la convierten —la **coenzima A (CoA)**—, una de las moléculas más versátiles de la bioquímica celular. La CoA participa en el metabolismo de la glucosa, de las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) y de las [proteínas](/nutricion/macronutrientes/proteinas); interviene en la síntesis de las hormonas que el cuerpo fabrica a partir del colesterol —las **hormonas esteroideas**—, del pigmento que porta el hierro en los glóbulos rojos —el **grupo hemo**—, del mensajero que dispara las contracciones musculares voluntarias —la **acetilcolina**—, y modifica las proteínas sobre las que se enrolla el ADN —las **histonas**— para regular qué genes se activan y cuáles permanecen silenciosos.
 
@@ -65,14 +65,14 @@ La distribución excepcionalmente amplia del ácido pantoténico queda reflejada
 |---|---|
 | Semillas de girasol (crudas) | 7,1 mg |
 | Hígado de ternera (cocido) | 7,0 mg |
-| Salmón del Atlántico (cocido) | 1,5 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 1,5 mg |
 | [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 1,5 mg |
 | Champiñones (crudos) | 1,5 mg |
 | Pechuga de pollo (cocida) | 1,0 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 0,6 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
 | [Brócoli](/alimentos/verduras-hortalizas/flores/brocoli) cocido | 0,5 mg |
-| Leche entera | 0,4 mg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 0,4 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
 

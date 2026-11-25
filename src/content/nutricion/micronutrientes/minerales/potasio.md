@@ -61,8 +61,8 @@ El potasio está presente de forma natural en prácticamente todo lo que comes d
 | [Aguacate](/alimentos/frutas/fresca/exoticas/aguacate) | 485 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 466 mg |
 | [Plátano](/alimentos/frutas/fresca/exoticas/platano) | 358 mg |
-| Atún (al natural) | 237 mg |
-| Leche entera | 150 mg |
+| [Atún](/alimentos/pescados/azules/atun) (al natural) | 237 mg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 150 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 

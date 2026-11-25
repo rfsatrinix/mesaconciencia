@@ -70,7 +70,7 @@ A eso se añade la vitamina E: 15,3 mg por cada 100 g. Es menos que la almendra 
 
 ## Lo que la avellana pierde al convertirse en pasta industrial
 
-La Nutella tiene avellana. Según los datos publicados por Ferrero, la proporción es de aproximadamente el 13 % del peso total del producto. El 87 % restante es azúcar —el primer ingrediente en la lista—, aceite de palma, cacao magro en polvo, leche desnatada en polvo y lecitina como emulsionante.
+La Nutella tiene avellana. Según los datos publicados por Ferrero, la proporción es de aproximadamente el 13 % del peso total del producto. El 87 % restante es azúcar —el primer ingrediente en la lista—, aceite de palma, cacao magro en polvo, [leche](/alimentos/lacteos/leches/vaca) desnatada en polvo y lecitina como emulsionante.
 
 > En 30 g de Nutella hay unos 4 g de avellana real.
 

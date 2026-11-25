@@ -48,9 +48,9 @@ Esto no significa que la dieta cetogénica no funcione — sí reduce el peso, m
 
 La teoría está bien, pero lo que de verdad importa es cómo se traduce en un día de comida real, dentro de un límite tan ajustado de hidratos.
 
-**Desayuno:** huevos revueltos con [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) y [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) salteadas en aceite de oliva.
+**Desayuno:** [huevos](/alimentos/huevos) revueltos con [aguacate](/alimentos/frutas/fresca/exoticas/aguacate) y [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) salteadas en aceite de oliva.
 
-**Comida:** salmón a la plancha con verdura de hoja verde y un puñado de [frutos secos](/alimentos/frutos-secos) de acompañamiento.
+**Comida:** [salmón](/alimentos/pescados/azules/salmon) a la plancha con verdura de hoja verde y un puñado de [frutos secos](/alimentos/frutos-secos) de acompañamiento.
 
 **Cena:** pechuga de pollo con calabacín salteado y un buen chorro de aceite de oliva virgen extra.
 

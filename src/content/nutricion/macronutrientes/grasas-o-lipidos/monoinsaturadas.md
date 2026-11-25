@@ -16,7 +16,7 @@ Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) monoinsaturadas (AGMI)
 
 El principal ácido graso monoinsaturado de la dieta —el **ácido oleico** (omega-9)— representa más del 90 % de las grasas monoinsaturadas que consumes. Es el componente principal del aceite de oliva virgen extra (AOVE), donde supone entre el 55 y el 83 % de su composición grasa, y del aguacate; también está presente en cantidades notables en [almendras](/alimentos/frutos-secos/almendra) y [avellanas](/alimentos/frutos-secos/avellana).
 
-Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En lácteos y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—. A diferencia de los trans industriales, no eleva el LDL ni parece reducir el HDL.
+Hay otros ácidos grasos monoinsaturados en la dieta, aunque en cantidades mucho menores. En aceite de macadamia, pescado y grasa animal encuentras una variante de cadena más corta que el oleico —el **ácido palmitoleico**—. En [lácteos](/alimentos/lacteos) y carnes de rumiante hay un ácido graso que, aunque lleva el nombre «trans», se origina de forma natural en el estómago del animal —el **ácido vaccénico**—. A diferencia de los trans industriales, no eleva el LDL ni parece reducir el HDL.
 
 > Cuando la etiqueta dice «rico en grasas monoinsaturadas», quiere decir, casi siempre, rico en ácido oleico. El 90 % de las AGMI que consumes llevan el mismo nombre.
 

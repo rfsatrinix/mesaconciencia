@@ -35,7 +35,7 @@ La diferencia entre hierro hemo y no hemo es la más importante en la práctica 
 | Tipo | Fuentes | Absorción |
 |---|---|---|
 | **Hierro hemo** | Carnes rojas, aves, pescado, marisco | 15–35 % |
-| **Hierro no hemo** | [Legumbres](/alimentos/legumbres), [verduras de hoja](/alimentos/verduras-hortalizas/hojas), huevos, cereales, [frutos secos](/alimentos/frutos-secos) | 2–20 % |
+| **Hierro no hemo** | [Legumbres](/alimentos/legumbres), [verduras de hoja](/alimentos/verduras-hortalizas/hojas), [huevos](/alimentos/huevos), cereales, [frutos secos](/alimentos/frutos-secos) | 2–20 % |
 
 El **hierro hemo** es el que está incorporado en la hemoglobina y la mioglobina de los animales. Las células intestinales lo absorben como molécula intacta, sin que los factores dietéticos que inhiben el otro tipo —fitatos, taninos, calcio— lo afecten significativamente. Tu intestino lo capta con una eficiencia del 15 al 35 %, independientemente del resto de la comida.
 

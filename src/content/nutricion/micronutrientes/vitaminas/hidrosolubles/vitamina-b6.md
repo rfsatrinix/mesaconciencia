@@ -68,8 +68,8 @@ La vitamina B6 está presente en una amplia variedad de fuentes:
 | Semillas de girasol (crudas) | 1,3 mg |
 | Hígado de ternera (cocido) | 1,0 mg |
 | Pechuga de pollo (cocida) | 0,9 mg |
-| Atún fresco (cocido) | 0,9 mg |
-| Salmón del Atlántico (cocido) | 0,8 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 0,9 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 0,8 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 0,5 mg |
 | Patata cocida | 0,3 mg |
 | [Plátano](/alimentos/frutas/fresca/exoticas/platano) | 0,3 mg |

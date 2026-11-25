@@ -84,12 +84,12 @@ El contenido de selenio en lo que comes depende, más que en casi cualquier otro
 | Alimento | Selenio por cada 100 g |
 |---|---|
 | Nuez de Brasil | 1.917 µg (muy variable: 10–400 µg/unidad) |
-| Atún (en lata, al natural) | 80 µg |
+| [Atún](/alimentos/pescados/azules/atun) (en lata, al natural) | 80 µg |
 | Halibut (cocinado) | 54 µg |
-| Sardinas (en lata) | 53 µg |
+| [Sardinas](/alimentos/pescados/azules/sardinas) (en lata) | 53 µg |
 | Gambas (cocidas) | 40 µg |
 | Carne de cerdo (cocinada) | 35 µg |
-| Huevos enteros | 32 µg |
+| [Huevos](/alimentos/huevos) enteros | 32 µg |
 | Carne de vacuno (cocinada) | 26 µg |
 | Pan integral de trigo | 26 µg |
 | Lentejas cocidas | 6 µg |

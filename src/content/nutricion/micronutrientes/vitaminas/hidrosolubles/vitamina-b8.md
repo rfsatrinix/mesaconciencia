@@ -34,7 +34,7 @@ La enzima que hace esa conversión —la **piruvato carboxilasa (PC)**— necesi
 
 La primera —la ACC1— fabrica el bloque de partida para construir nuevos ácidos grasos. Sin ella, no hay síntesis de grasas nueva. La segunda —la ACC2— hace algo más sutil: en lugar de fabricar grasas, actúa de freno para que los ácidos grasos no entren a quemarse en las centrales energéticas de la célula —las **mitocondrias**—. La ACC2 no construye: decide cuánto se quema.
 
-**El procesamiento de grasas y aminoácidos especiales.** La mayoría de las grasas que comes se descompone de forma estándar. Pero hay una pequeña fracción —las grasas de cadena impar, presentes sobre todo en productos lácteos y en la carne de los rumiantes— que deja un residuo que el cuerpo no puede procesar por la vía habitual. Lo mismo ocurre con los restos que quedan al descomponer tres aminoácidos concretos —[isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina) y [treonina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/treonina)—. Para todos esos casos existe una enzima específica —la **propionil-CoA carboxilasa (PCC)**— que los transforma en una forma que la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) puede procesar a continuación para que entren en el proceso central de obtención de energía —el **ciclo de Krebs**—.
+**El procesamiento de grasas y aminoácidos especiales.** La mayoría de las grasas que comes se descompone de forma estándar. Pero hay una pequeña fracción —las grasas de cadena impar, presentes sobre todo en [productos lácteos](/alimentos/lacteos) y en la carne de los rumiantes— que deja un residuo que el cuerpo no puede procesar por la vía habitual. Lo mismo ocurre con los restos que quedan al descomponer tres aminoácidos concretos —[isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina) y [treonina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/treonina)—. Para todos esos casos existe una enzima específica —la **propionil-CoA carboxilasa (PCC)**— que los transforma en una forma que la [vitamina B12](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-b12) puede procesar a continuación para que entren en el proceso central de obtención de energía —el **ciclo de Krebs**—.
 
 **La degradación de la leucina.** Cuando el cuerpo descompone la [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina) —el aminoácido más abundante en la proteína muscular—, uno de los pasos de ese proceso depende de la cuarta carboxilasa —la **3-metilcrotonil-CoA carboxilasa (MCC)**—. Su papel es más discreto que el de las otras tres, pero tiene valor diagnóstico: cuando la MCC no funciona por déficit de biotina, un subproducto se acumula y aparece en la orina como marcador del problema.
 
@@ -73,7 +73,7 @@ La biotina aparece en una gran variedad de fuentes de la dieta, aunque en concen
 | Champiñones cocidos | 16 µg |
 | Almendras | 16 µg |
 | [Avena](/alimentos/cereales/con-gluten/avena) cocida | 7 µg |
-| Salmón del Atlántico (cocido) | 5 µg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 5 µg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 4 µg |
 
 *Valores aproximados. Fuente: USDA FoodData Central.*
@@ -84,7 +84,7 @@ Las bacterias del intestino grueso también sintetizan biotina, aunque la contri
 
 Lo que diezmó a aquellas ratas de 1927 era una proteína de la clara de huevo cruda con una de las afinidades de unión más fuertes de toda la bioquímica —la **avidina**—. La avidina se une a la biotina con tanta fuerza que el complejo atraviesa el tracto digestivo intacto sin absorberse. La solución es simple: el calor desnaturaliza la avidina y destruye completamente esa capacidad de unión. El huevo cocido no tiene ningún efecto sobre la absorción de biotina.
 
-En humanos, el síndrome se ha observado en personas que consumían cantidades muy grandes de huevo crudo de forma habitual —batidos con claras crudas, protocolos de entrenamiento con varios huevos sin cocinar al día—. No ocurre con un huevo crudo ocasional: requiere cantidades importantes mantenidas durante semanas.
+En humanos, el síndrome se ha observado en personas que consumían cantidades muy grandes de huevo crudo de forma habitual —batidos con claras crudas, protocolos de entrenamiento con varios [huevos](/alimentos/huevos) sin cocinar al día—. No ocurre con un huevo crudo ocasional: requiere cantidades importantes mantenidas durante semanas.
 
 > El huevo cocido aporta biotina. El crudo, en cantidades suficientes, la bloquea.
 

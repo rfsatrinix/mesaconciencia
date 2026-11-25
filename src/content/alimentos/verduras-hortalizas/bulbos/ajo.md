@@ -115,7 +115,7 @@ Al digerir el ajo se liberan cuatro compuestos de azufre olorosos. Tres los desc
 
 Por eso el aliento a ajo persistente no se quita con el cepillo de dientes ni con un chicle: el olor no está en la boca, sube desde los pulmones con cada respiración. Por eso mismo se huele también en la piel al sudar, y por eso pasa a la leche materna.
 
-Lo que sí ayuda, y está medido: [manzana](/alimentos/frutas/fresca/dulces/manzana) cruda, lechuga cruda, hojas de menta y leche. Funcionan mejor tomados durante la comida con ajo, no después. Unas enzimas y unos compuestos de esos [alimentos](/alimentos) neutralizan los olores antes de que lleguen a la sangre.
+Lo que sí ayuda, y está medido: [manzana](/alimentos/frutas/fresca/dulces/manzana) cruda, lechuga cruda, hojas de menta y [leche](/alimentos/lacteos/leches/vaca). Funcionan mejor tomados durante la comida con ajo, no después. Unas enzimas y unos compuestos de esos [alimentos](/alimentos) neutralizan los olores antes de que lleguen a la sangre.
 
 > Contra el aliento a ajo, la manzana durante la comida le gana al cepillo de después.
 

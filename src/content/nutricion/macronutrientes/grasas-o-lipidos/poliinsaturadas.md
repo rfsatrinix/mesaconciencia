@@ -8,7 +8,7 @@ image: "./fotos/poliinsaturadas_portada.jpg"
 imageAlt: "Mesa de madera rústica con tela de lino: rodaja de salmón en plato redondo central, cuencos de nueces, semillas de lino oscuras, semillas de chía y pipas de girasol, tres sardinas pequeñas y eneldo disperso"
 ---
 
-En los años setenta, dos investigadores daneses publicaron algo que no cuadraba con el consenso de la época. Los inuit de Groenlandia comían cantidades de grasa que habrían horrorizado a cualquier cardiólogo occidental —focas, ballenas, salmón a diario—, y sin embargo sus tasas de enfermedad coronaria eran notablemente bajas. Bang y Dyerberg señalaron al omega-3 como la pieza que faltaba. Tenían razón, aunque la historia resultó más compleja de lo que parecía.
+En los años setenta, dos investigadores daneses publicaron algo que no cuadraba con el consenso de la época. Los inuit de Groenlandia comían cantidades de grasa que habrían horrorizado a cualquier cardiólogo occidental —focas, ballenas, [salmón](/alimentos/pescados/azules/salmon) a diario—, y sin embargo sus tasas de enfermedad coronaria eran notablemente bajas. Bang y Dyerberg señalaron al omega-3 como la pieza que faltaba. Tenían razón, aunque la historia resultó más compleja de lo que parecía.
 
 Las [grasas](/nutricion/macronutrientes/grasas-o-lipidos) poliinsaturadas (AGPI) son ácidos grasos cuya cadena tiene dos o más conexiones químicas especiales entre átomos de carbono —los **dobles enlaces**—. Esa estructura las hace líquidas a temperatura ambiente y más sensibles a la degradación por el calor y la luz —la **oxidación**— que las [monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas). Y a diferencia de cualquier otro tipo de grasa, incluyen ácidos que tu cuerpo no puede sintetizar: tienes que obtenerlos de la dieta —son los **ácidos grasos esenciales**—.
 
@@ -90,7 +90,7 @@ El ALA es el ácido graso esencial de la familia omega-3. Tu organismo puede con
 | Caballa (fresca) | 2000 mg |
 | Sardina (fresca) | 1400 mg |
 | Boquerón (fresco) | 1200 mg |
-| Atún fresco | 400–1500 mg (varía según especie) |
+| [Atún](/alimentos/pescados/azules/atun) fresco | 400–1500 mg (varía según especie) |
 
 *Fuente: USDA FoodData Central.*
 
@@ -119,7 +119,7 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 
 ### Cómo mejorar tu ratio omega-6 / omega-3 en la práctica
 
-**Consume pescado azul 2–3 veces por semana** (salmón, sardinas, caballa, boquerón, arenque): es la fuente directa más eficiente de EPA y DHA.
+**Consume pescado azul 2–3 veces por semana** (salmón, [sardinas](/alimentos/pescados/azules/sardinas), caballa, boquerón, arenque): es la fuente directa más eficiente de EPA y DHA.
 
 **Añade nueces y semillas de lino o chía** al desayuno o en ensaladas para aumentar tu aporte de ALA vegetal.
 
@@ -127,7 +127,7 @@ El omega-6 también es esencial y no debe eliminarse; el problema es su predomin
 
 **Si sigues una [dieta vegetariana](/dietas/populares/vegetariana) o vegana**, valora tomar un suplemento de EPA+DHA de microalgas: es la única fuente directa de ambos ácidos grasos sin origen animal.
 
-Para mí, el cambio con mayor impacto y menor esfuerzo es añadir sardinas o caballa dos veces por semana: cuestan poco, tienen los mejores ratios de EPA+DHA de los pescados comunes, y el efecto en el ratio omega-6:omega-3 es inmediato.
+Para mí, el cambio con mayor impacto y menor esfuerzo es añadir sardinas o caballa dos veces por semana: cuestan poco, tienen los mejores ratios de EPA+DHA de los [pescados](/alimentos/pescados) comunes, y el efecto en el ratio omega-6:omega-3 es inmediato.
 
 En la mayoría de dietas occidentales, el otro cambio decisivo es sustituir los aceites industriales de semillas por aceite de oliva. Con esos dos ajustes vas de 15:1 a algo que tu metabolismo reconoce.
 

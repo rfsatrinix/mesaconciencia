@@ -57,18 +57,18 @@ El fósforo está presente en cantidades relevantes en prácticamente todo lo qu
 | Semillas de calabaza | 1.230 mg |
 | Queso parmesano | 694 mg |
 | Semillas de girasol | 660 mg |
-| Sardinas en conserva | 490 mg |
+| [Sardinas en conserva](/alimentos/pescados/azules/sardinas) | 490 mg |
 | Pechuga de pollo | 220 mg |
 | Huevo entero | 200 mg |
 | Pan integral | 200 mg |
 | Lentejas cocidas | 180 mg |
-| Leche entera | 93 mg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 93 mg |
 
 *Valores aproximados. Fuente: USDA FoodData Central; BEDCA.*
 
-El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que el grano usa para almacenar fósforo y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo para que puedas absorberlo. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, pescados, lácteos— se absorbe con mayor eficiencia porque no está unido a fitatos.
+El fósforo procedente de fuentes vegetales —especialmente semillas, [legumbres](/alimentos/legumbres) y cereales integrales— está en gran parte unido a unos compuestos que el grano usa para almacenar fósforo y que tu intestino no puede digerir directamente —los **fitatos**—. El remojo prolongado y la fermentación activan las enzimas que los descomponen —las **fitasas**— y liberan el fósforo para que puedas absorberlo. El fósforo de [las proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) —carnes, [pescados](/alimentos/pescados), [lácteos](/alimentos/lacteos)— se absorbe con mayor eficiencia porque no está unido a fitatos.
 
-Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola y quesos fundidos —los **aditivos de fosfato**— son una fuente muy diferente: se absorben con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. No aparecen desglosadas en el etiquetado nutricional y pueden elevar tu ingesta real de fósforo de forma significativa sin que lo detectes.
+Las sales de fosfato añadidas en ultraprocesados, embutidos, refrescos de cola y [quesos fundidos](/alimentos/lacteos/quesos) —los **aditivos de fosfato**— son una fuente muy diferente: se absorben con una eficiencia del 80–100 %, mucho mayor que la del fósforo dietético convencional. No aparecen desglosadas en el etiquetado nutricional y pueden elevar tu ingesta real de fósforo de forma significativa sin que lo detectes.
 
 ## La absorción del fósforo
 

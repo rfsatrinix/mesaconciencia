@@ -35,7 +35,7 @@ Tres fuentes vegetales son excepciones con perfil completo:
 
 ## Calidad proteica de las fuentes vegetales
 
-La puntuación que mide cuántos aminoácidos de cada alimento puede aprovechar realmente tu organismo —el **DIAAS**— es la herramienta más precisa para comparar proteínas. Para referencia: la proteína de huevo tiene un DIAAS de 1,13 y la leche entera de 1,18.
+La puntuación que mide cuántos aminoácidos de cada alimento puede aprovechar realmente tu organismo —el **DIAAS**— es la herramienta más precisa para comparar proteínas. Para referencia: la proteína de huevo tiene un DIAAS de 1,13 y la [leche](/alimentos/lacteos/leches/vaca) entera de 1,18.
 
 | Alimento | Proteína por 100 g (cocido o crudo según indica) | DIAAS aproximado |
 |---|---|---|

@@ -36,7 +36,7 @@ En 1990 publicó el primer ensayo clínico que demostró que un cambio de estilo
 
 La vegana y la vegetariana comparten un origen todavía más alejado de la báscula: son posturas éticas antes que nutricionales.
 
-La Sociedad Vegetariana británica se fundó en 1847, y casi un siglo después, en 1944, un grupo liderado por Donald Watson rompió con ella para fundar la Sociedad Vegana —el desacuerdo, precisamente, era si los lácteos y los huevos debían considerarse aceptables—. Ninguna de las dos nació pensando en el peso corporal.
+La Sociedad Vegetariana británica se fundó en 1847, y casi un siglo después, en 1944, un grupo liderado por Donald Watson rompió con ella para fundar la Sociedad Vegana —el desacuerdo, precisamente, era si los [lácteos](/alimentos/lacteos) y los [huevos](/alimentos/huevos) debían considerarse aceptables—. Ninguna de las dos nació pensando en el peso corporal.
 
 > La dieta que hoy promete «quemar grasa en ayunas» se inventó para tratar la epilepsia infantil, no la báscula.
 

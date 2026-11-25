@@ -8,9 +8,9 @@ image: "./fotos/vitaminab2_portada.jpg"
 imageAlt: "Vitamina B2"
 ---
 
-En 1934, el bioquímico alemán Richard Kuhn procesó 5.400 litros de suero de leche desnatada —el líquido amarillo-verdoso que sobra al fabricar queso— para aislar un pigmento amarillo que nadie había podido purificar antes. El resultado fue apenas un gramo de una sustancia cristalina de un amarillo limón intenso. Ese suero, que los queseros llevaban siglos desechando o dando a los cerdos, era una de las concentraciones naturales más ricas del pigmento. Kuhn lo llamó *lactoflavina* —*flavus* es latín para amarillo—. Cuatro años después recibió el Premio Nobel de Química. Hoy llamamos a esa sustancia riboflavina, y es la que tiñe tu orina de amarillo intenso cada vez que tomas un suplemento que la contiene.
+En 1934, el bioquímico alemán Richard Kuhn procesó 5.400 litros de suero de [leche](/alimentos/lacteos/leches/vaca) desnatada —el líquido amarillo-verdoso que sobra al fabricar queso— para aislar un pigmento amarillo que nadie había podido purificar antes. El resultado fue apenas un gramo de una sustancia cristalina de un amarillo limón intenso. Ese suero, que los queseros llevaban siglos desechando o dando a los cerdos, era una de las concentraciones naturales más ricas del pigmento. Kuhn lo llamó *lactoflavina* —*flavus* es latín para amarillo—. Cuatro años después recibió el Premio Nobel de Química. Hoy llamamos a esa sustancia riboflavina, y es la que tiñe tu orina de amarillo intenso cada vez que tomas un suplemento que la contiene.
 
-La carencia de riboflavina que el cuerpo ya empieza a acusar —la **ariboflavinosis**— es una de las deficiencias nutricionales más extendidas en el mundo. Se calcula que alrededor de dos mil millones de personas tienen una ingesta insuficiente. En los países de renta alta, el déficit grave es menos frecuente porque la dieta suele incluir lácteos, la principal fuente. Pero la carencia que el cuerpo sufre sin que se note en síntomas claros —el **déficit subclínico**— es más frecuente de lo que sugieren las estadísticas, y su característica más traicionera es que raramente aparece solo: cuando la riboflavina escasea, otras tres [vitaminas](/nutricion/micronutrientes/vitaminas) del grupo B también funcionan mal, aunque la dieta las aporte en cantidad suficiente. El déficit viaja de incógnito.
+La carencia de riboflavina que el cuerpo ya empieza a acusar —la **ariboflavinosis**— es una de las deficiencias nutricionales más extendidas en el mundo. Se calcula que alrededor de dos mil millones de personas tienen una ingesta insuficiente. En los países de renta alta, el déficit grave es menos frecuente porque la dieta suele incluir [lácteos](/alimentos/lacteos), la principal fuente. Pero la carencia que el cuerpo sufre sin que se note en síntomas claros —el **déficit subclínico**— es más frecuente de lo que sugieren las estadísticas, y su característica más traicionera es que raramente aparece solo: cuando la riboflavina escasea, otras tres [vitaminas](/nutricion/micronutrientes/vitaminas) del grupo B también funcionan mal, aunque la dieta las aporte en cantidad suficiente. El déficit viaja de incógnito.
 
 La **vitamina B2**, o **riboflavina**, es una [vitamina hidrosoluble](/nutricion/micronutrientes/vitaminas/hidrosolubles) con una propiedad física inconfundible: es de color amarillo intenso y emite fluorescencia verde-amarilla bajo luz ultravioleta. Esa propiedad óptica no es ornamental: refleja la misma capacidad química que la hace útil en tu organismo, la de captar y ceder electrones. En el cuerpo actúa en dos formas activas que funcionan como lanzaderas de electrones en más de cien reacciones bioquímicas: una molécula más pequeña —el **mononucleótido de flavina** (FMN)— y una molécula más grande que incorpora también una unidad de adenina —el **dinucleótido de flavina y adenina** (FAD)—.
 
@@ -70,7 +70,7 @@ Las fuentes más concentradas son los órganos animales, los lácteos, los [frut
 | Huevo entero (cocido) | 0,45 mg |
 | Queso curado | 0,35 mg |
 | Yogur natural | 0,27 mg |
-| Salmón del Atlántico (cocido) | 0,25 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 0,25 mg |
 | [Espinacas](/alimentos/verduras-hortalizas/hojas/espinacas) cocidas | 0,20 mg |
 | Leche entera | 0,18 mg |
 | Pechuga de pollo (cocida) | 0,15 mg |
@@ -113,7 +113,7 @@ El déficit clínico de riboflavina produce signos bastante específicos, aunque
 
 Los grupos con mayor riesgo son:
 
-**Personas que no consumen lácteos ni productos animales sin planificación dietética.** La riboflavina se concentra en el hígado, los lácteos, el pescado y los huevos, y cubrir los 1,6 mg diarios sin ninguno de ellos requiere combinar fuentes vegetales específicas.
+**Personas que no consumen lácteos ni productos animales sin planificación dietética.** La riboflavina se concentra en el hígado, los lácteos, el pescado y los [huevos](/alimentos/huevos), y cubrir los 1,6 mg diarios sin ninguno de ellos requiere combinar fuentes vegetales específicas.
 
 **Personas con alcoholismo crónico.** El alcohol reduce la absorción intestinal de riboflavina y aumenta su excreción renal.
 

@@ -59,8 +59,8 @@ La metionina abunda en las [proteínas de origen animal](/nutricion/macronutrien
 | Nueces de Brasil | 1000 mg |
 | Queso parmesano | 960 mg |
 | Pechuga de pollo (cocida) | 740 mg |
-| Atún (fresco, cocido) | 710 mg |
-| Salmón del Atlántico (cocido) | 620 mg |
+| [Atún](/alimentos/pescados/azules/atun) (fresco, cocido) | 710 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 620 mg |
 | Huevo entero (cocido) | 390 mg |
 | [Soja](/alimentos/legumbres/soja) texturizada (seca) | 335 mg |
 | Lentejas cocidas | 155 mg |

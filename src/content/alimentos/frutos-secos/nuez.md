@@ -49,7 +49,7 @@ Los ácidos grasos omega-3 no son una sola molécula. Hay tres formas con releva
 
 La nuez contiene 9,1 g de ALA por cada 100 g. Eso la convierte en la fuente de omega-3 vegetal más abundante de la despensa habitual: dobla o triplica la cantidad de cualquier otro fruto seco. Una ración de 30 g —aproximadamente siete mitades— aporta unos 2,7 g de ALA, más del doble de la cantidad diaria recomendada por la EFSA.
 
-Aquí entra el matiz que importa. Tu cuerpo convierte el ALA en EPA con una eficiencia de aproximadamente el 5-10 %, y en DHA con menos del 1-5 %. Comer nueces no equivale a comer salmón: la conversión es demasiado limitada para que el ALA sustituya al EPA y al DHA del pescado azul cuando tomas poco.
+Aquí entra el matiz que importa. Tu cuerpo convierte el ALA en EPA con una eficiencia de aproximadamente el 5-10 %, y en DHA con menos del 1-5 %. Comer nueces no equivale a comer [salmón](/alimentos/pescados/azules/salmon): la conversión es demasiado limitada para que el ALA sustituya al EPA y al DHA del pescado azul cuando tomas poco.
 
 Dicho eso, el ALA tiene efectos biológicos propios, no solo como precursor. Y la proporción entre omega-6 y omega-3 en las nueces —aproximadamente 4:1— es mucho más favorable que la de la mayoría de aceites vegetales y que la de la dieta occidental típica, donde esa proporción suele rondar 15:1 o 20:1. Eso tiene consecuencias sobre la inflamación que van más allá de la conversión.
 

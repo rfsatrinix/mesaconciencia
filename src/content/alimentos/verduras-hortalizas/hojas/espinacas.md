@@ -81,7 +81,7 @@ Qué puedes hacer:
 
 **Un toque de ácido.** Acompañarla con algo de [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) —un chorro de limón, unos gajos de [naranja](/alimentos/frutas/fresca/citricos/naranja), pimiento crudo— mejora el poco hierro que queda disponible.
 
-**No cuentes con la espinaca para el calcio.** Para eso están los lácteos, las [legumbres](/alimentos/legumbres) o las hojas de bajo oxalato.
+**No cuentes con la espinaca para el calcio.** Para eso están los [lácteos](/alimentos/lacteos), las [legumbres](/alimentos/legumbres) o las hojas de bajo oxalato.
 
 Un apunte para quien haya tenido cálculos renales de oxalato de calcio: en ese caso conviene moderar las espinacas y no tomarlas a diario, algo que el médico ya habrá indicado. Para el resto de la población, el oxalato de la espinaca no es un problema de salud; es solo un motivo para no comer siempre la misma hoja.
 

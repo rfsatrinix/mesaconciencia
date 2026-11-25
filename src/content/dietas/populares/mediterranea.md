@@ -26,7 +26,7 @@ Olvida la idea de que la dieta mediterránea es «comer sano al estilo español�
 
 **Cada día:** verdura y fruta, cereales integrales (pan, arroz, pasta), aceite de oliva virgen extra como grasa principal, y [frutos secos](/alimentos/frutos-secos) en puñados pequeños —[almendra](/alimentos/frutos-secos/almendra), [pistacho](/alimentos/frutos-secos/pistacho), [avellana](/alimentos/frutos-secos/avellana): los tres con siglos de cultivo en la cuenca mediterránea—.
 
-**Varias veces por semana:** [legumbres](/alimentos/legumbres), pescado —sobre todo azul—, huevos, y aves de corral.
+**Varias veces por semana:** [legumbres](/alimentos/legumbres), pescado —sobre todo azul—, [huevos](/alimentos/huevos), y aves de corral.
 
 **Pocas veces, y en cantidades pequeñas:** carne roja, embutidos y dulces.
 
@@ -62,7 +62,7 @@ La teoría está muy bien, pero lo que de verdad importa es cómo se traduce en 
 
 **Comida:** [lentejas](/alimentos/legumbres/lentejas) guisadas con verduras variadas ([zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria), pimiento, calabacín), servidas con [arroz](/alimentos/cereales/sin-gluten/arroz) integral y una ensalada variada.
 
-**Cena:** sardinas a la plancha con verduras salteadas y fruta de postre.
+**Cena:** [sardinas](/alimentos/pescados/azules/sardinas) a la plancha con verduras salteadas y fruta de postre.
 
 Fíjate en la comida: lentejas y arroz no es una combinación casual del recetario tradicional. Las legumbres son ricas en un aminoácido esencial que escasea en los cereales —la [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, y los cereales aportan el que falta en las legumbres —la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—.
 

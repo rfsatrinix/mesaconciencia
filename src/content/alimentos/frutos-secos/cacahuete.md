@@ -63,7 +63,7 @@ El tipo de grasa sí se parece más al de los frutos secos de árbol: el 50 % es
 
 ## La proteína más alta del grupo, con el aminoácido que la completa
 
-Con 25,8 g de proteína por cada 100 g, el cacahuete es el alimento más proteico de los que se consumen habitualmente como fruto seco, y uno de los más proteicos de toda la despensa vegetal. En términos prácticos: 30 g de cacahuetes —un puñado pequeño— aportan 7,7 g de proteína, más que un vaso de leche entera.
+Con 25,8 g de proteína por cada 100 g, el cacahuete es el alimento más proteico de los que se consumen habitualmente como fruto seco, y uno de los más proteicos de toda la despensa vegetal. En términos prácticos: 30 g de cacahuetes —un puñado pequeño— aportan 7,7 g de proteína, más que un vaso de [leche](/alimentos/lacteos/leches/vaca) entera.
 
 Ese dato tiene un matiz. La proteína solo es útil en la medida en que el cuerpo pueda aprovecharla, y para eso necesita todos los [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) en las proporciones adecuadas. El cacahuete, como la mayoría de las legumbres, tiene relativamente poca cantidad del aminoácido que tus células usan para fabricar su principal defensa antioxidante y para docenas de procesos internos —la [**metionina**](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina)—. No está ausente, pero aparece en menor proporción de la que tu cuerpo necesita: es el aminoácido que, si escasea, frena el aprovechamiento de los demás —el **aminoácido limitante**—.
 

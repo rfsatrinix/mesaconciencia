@@ -53,7 +53,7 @@ Datos por cada 100 g de nuez del Brasil cruda:
 
 El mineral que tu tiroides necesita para fabricar sus hormonas, que sostiene el sistema inmunitario y que forma parte de las defensas de tus células contra el daño del oxígeno —el **selenio**— tiene una cantidad diaria recomendada de 70 µg al día para adultos (EFSA). Una nuez del Brasil de tamaño habitual pesa alrededor de 5 g. Con los 1.917 µg por cada 100 g que registra el USDA, una sola nuez aporta unos 96 µg: el 137 % de esa cantidad en una sola unidad.
 
-Ningún otro alimento habitual de la despensa española se acerca a esa concentración en una ración tan pequeña. El atún en lata tiene unos 80 µg por cada 100 g; el hígado de cerdo, unos 50 µg; los huevos, unos 15 µg. En el mundo vegetal, no hay nada comparable: las semillas de girasol tienen unos 79 µg por cada 100 g, pero una ración de 30 g aporta solo 24 µg. La nuez del Brasil es una anomalía.
+Ningún otro alimento habitual de la despensa española se acerca a esa concentración en una ración tan pequeña. El [atún](/alimentos/pescados/azules/atun) en lata tiene unos 80 µg por cada 100 g; el hígado de cerdo, unos 50 µg; los [huevos](/alimentos/huevos), unos 15 µg. En el mundo vegetal, no hay nada comparable: las semillas de girasol tienen unos 79 µg por cada 100 g, pero una ración de 30 g aporta solo 24 µg. La nuez del Brasil es una anomalía.
 
 Las consecuencias prácticas son claras si tu dieta no incluye pescado ni carne. El selenio es uno de los [minerales](/nutricion/micronutrientes/minerales) más difíciles de cubrir en dietas vegetales, en parte porque los suelos agrícolas europeos —incluidos los españoles— son más pobres en selenio que los de América del Norte o Asia oriental, y los cereales y verduras cultivados aquí reflejan esa escasez.
 

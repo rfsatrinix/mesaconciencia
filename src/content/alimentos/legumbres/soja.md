@@ -40,7 +40,7 @@ Datos por cada 100 g de soja cocida, sin sal:
 
 *Fuente: BEDCA.*
 
-Dos cifras destacan. La primera es la proteína: 16,6 g por cada 100 g cocida es casi el doble que la [lenteja](/alimentos/legumbres/lentejas) o el [garbanzo](/alimentos/legumbres/garbanzos). La segunda es el calcio: 175 mg —una cantidad que habitualmente asociamos a los lácteos, no a las legumbres.
+Dos cifras destacan. La primera es la proteína: 16,6 g por cada 100 g cocida es casi el doble que la [lenteja](/alimentos/legumbres/lentejas) o el [garbanzo](/alimentos/legumbres/garbanzos). La segunda es el calcio: 175 mg —una cantidad que habitualmente asociamos a los [lácteos](/alimentos/lacteos), no a las legumbres.
 
 El hierro (5,1 mg) es el más alto de las legumbres habituales, aunque es del tipo que tu cuerpo absorbe con menor eficiencia. Combinarlo con [vitamina C](/nutricion/micronutrientes/vitaminas/hidrosolubles/vitamina-c) en la misma comida —un chorro de limón, un pimiento crudo— puede triplicar esa absorción.
 
@@ -48,7 +48,7 @@ El hierro (5,1 mg) es el más alto de las legumbres habituales, aunque es del ti
 
 Las proteínas se forman a partir de aminoácidos. Tu cuerpo puede fabricar algunos, pero otros los tienes que obtener sí o sí de la dieta —son los [aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales)—. El problema habitual de las proteínas vegetales es que les falta uno de ellos: la [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina). Por eso las legumbres se combinan con cereales, que sí tienen metionina en abundancia.
 
-La soja no tiene ese déficit. Contiene todos los aminoácidos esenciales en proporciones que tu cuerpo puede aprovechar directamente. El índice que mide la calidad de una proteína según sus aminoácidos y cuánto los absorbe tu intestino —el **PDCAAS**— de la soja está entre 0,9 y 1,0. El del huevo está en 1,0. El de la leche de vaca, también.
+La soja no tiene ese déficit. Contiene todos los aminoácidos esenciales en proporciones que tu cuerpo puede aprovechar directamente. El índice que mide la calidad de una proteína según sus aminoácidos y cuánto los absorbe tu intestino —el **PDCAAS**— de la soja está entre 0,9 y 1,0. El del huevo está en 1,0. El de la [leche](/alimentos/lacteos/leches/vaca) de vaca, también.
 
 > Ninguna otra legumbre se acerca.
 
@@ -74,7 +74,7 @@ Hay un matiz real que merece nombrarse: en mujeres que toman un fármaco que blo
 
 ## ¿Cuánta soja consumir y cómo?
 
-La ración habitual de granos cocidos es de 150-200 g. Con 200 g obtienes 346 kcal, 33 g de proteína —el equivalente a cuatro huevos— y 350 mg de calcio.
+La ración habitual de granos cocidos es de 150-200 g. Con 200 g obtienes 346 kcal, 33 g de proteína —el equivalente a cuatro [huevos](/alimentos/huevos)— y 350 mg de calcio.
 
 A diferencia de las lentejas, la soja sí necesita remojo: 8-12 horas, cambiando el líquido antes de cocer. La cocción tarda entre dos y tres horas a fuego normal; con olla a presión, 45-60 minutos son suficientes.
 

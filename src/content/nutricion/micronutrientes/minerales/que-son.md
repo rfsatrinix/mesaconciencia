@@ -18,12 +18,12 @@ Los seis macrominerales con mayor relevancia clínica y dietética son:
 
 | Mineral | Función principal | Fuentes principales |
 |---|---|---|
-| **[Calcio](/nutricion/micronutrientes/minerales/calcio)** | Da estructura a tus huesos y dientes; participa en la contracción muscular y en la coagulación sanguínea | Lácteos, sardinas, [brócoli](/alimentos/verduras-hortalizas/flores/brocoli), almendras |
+| **[Calcio](/nutricion/micronutrientes/minerales/calcio)** | Da estructura a tus huesos y dientes; participa en la contracción muscular y en la coagulación sanguínea | [Lácteos](/alimentos/lacteos), [sardinas](/alimentos/pescados/azules/sardinas), [brócoli](/alimentos/verduras-hortalizas/flores/brocoli), almendras |
 | **[Fósforo](/nutricion/micronutrientes/minerales/fosforo)** | Forma los huesos junto con el calcio, constituye las paredes de tus células y participa en la producción de energía celular | Carnes, pescado, lácteos, [legumbres](/alimentos/legumbres) |
 | **[Magnesio](/nutricion/micronutrientes/minerales/magnesio)** | Activa más de 300 enzimas y regula el funcionamiento del músculo y el sistema nervioso | [Frutos secos](/alimentos/frutos-secos), legumbres, cereales integrales |
 | **[Potasio](/nutricion/micronutrientes/minerales/potasio)** | Es el ion principal dentro de tus células; regula el equilibrio hídrico y la presión arterial | [Frutas](/alimentos/frutas), verduras, legumbres, patata |
 | **[Sodio](/nutricion/micronutrientes/minerales/sodio)** | Es el ion principal fuera de tus células; permite la conducción nerviosa y mantiene el equilibrio del pH | Sal común, productos procesados |
-| **[Azufre](/nutricion/micronutrientes/minerales/azufre)** | Participa en la fabricación del principal antioxidante que produce tu cuerpo y de ciertos aminoácidos | Carnes, huevos, legumbres, crucíferas |
+| **[Azufre](/nutricion/micronutrientes/minerales/azufre)** | Participa en la fabricación del principal antioxidante que produce tu cuerpo y de ciertos aminoácidos | Carnes, [huevos](/alimentos/huevos), legumbres, crucíferas |
 
 ## El calcio: el mineral más abundante
 

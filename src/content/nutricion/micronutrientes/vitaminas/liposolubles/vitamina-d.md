@@ -78,9 +78,9 @@ Las fuentes dietéticas que contienen vitamina D son escasas y aportan cantidade
 |---|---|
 | Aceite de hígado de bacalao | 250 µg |
 | Arenque ahumado | 22 µg |
-| Salmón cocido | 11–16 µg |
-| Sardinas en conserva | 4,8 µg |
-| Atún en conserva (en aceite) | 3,7 µg |
+| [Salmón](/alimentos/pescados/azules/salmon) cocido | 11–16 µg |
+| [Sardinas en conserva](/alimentos/pescados/azules/sardinas) | 4,8 µg |
+| [Atún](/alimentos/pescados/azules/atun) en conserva (en aceite) | 3,7 µg |
 | Setas expuestas al sol | hasta 10 µg |
 | Huevo entero (yema) | 1,8 µg |
 
@@ -88,7 +88,7 @@ Las fuentes dietéticas que contienen vitamina D son escasas y aportan cantidade
 
 Las setas producen vitamina D2 cuando se exponen a radiación ultravioleta —el mismo mecanismo que la piel humana, aunque con el precursor vegetal que activa la síntesis en hongos —el **ergosterol**— en lugar del 7-dehidrocolesterol—. La vitamina D3 de origen animal es más potente que la D2 de origen vegetal.
 
-La leche, las bebidas vegetales y los cereales de desayuno suelen estar enriquecidos con vitamina D en muchos países. En España no existe enriquecimiento obligatorio, por lo que conviene revisar el etiquetado.
+La [leche](/alimentos/lacteos/leches/vaca), las bebidas vegetales y los cereales de desayuno suelen estar enriquecidos con vitamina D en muchos países. En España no existe enriquecimiento obligatorio, por lo que conviene revisar el etiquetado.
 
 ## Déficit de vitamina D y grupos de riesgo
 

@@ -45,7 +45,7 @@ Las fuentes más ricas en aminoácidos azufrados son:
 | Alimento | Proteína por cada 100 g | Metionina + cisteína |
 |---|---|---|
 | Pechuga de pollo | 31 g | 1.500 mg |
-| Atún en lata (al natural) | 26 g | 1.100 mg |
+| [Atún](/alimentos/pescados/azules/atun) en lata (al natural) | 26 g | 1.100 mg |
 | Ternera (filete magro) | 26 g | 1.000 mg |
 | Huevo entero | 13 g | 900 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 9 g | 360 mg |

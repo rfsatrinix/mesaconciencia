@@ -36,7 +36,7 @@ El equilibrio entre omega-6 y omega-3 influye en cómo responde tu cuerpo ante i
 
 ### Grasas trans
 
-Se forman principalmente durante el proceso industrial que convierte aceites vegetales líquidos en grasas sólidas —la **hidrogenación industrial**—, presente en margarinas duras y ultraprocesados. También aparecen en pequeñas cantidades de forma natural en lácteos y carnes de rumiantes. Las de origen industrial se asocian con un aumento del riesgo cardiovascular; intenta que su consumo sea el mínimo posible.
+Se forman principalmente durante el proceso industrial que convierte aceites vegetales líquidos en grasas sólidas —la **hidrogenación industrial**—, presente en margarinas duras y ultraprocesados. También aparecen en pequeñas cantidades de forma natural en [lácteos](/alimentos/lacteos) y carnes de rumiantes. Las de origen industrial se asocian con un aumento del riesgo cardiovascular; intenta que su consumo sea el mínimo posible.
 
 A diferencia del resto, las grasas trans industriales no aportan ninguna función útil a tu cuerpo.
 
@@ -75,7 +75,7 @@ Tu organismo puede fabricar la mayoría de las grasas que necesita. Solo hay dos
 | Almendras | 50 g | Monoinsaturadas |
 | Semillas de chía | 31 g | Poliinsaturadas (ALA omega-3) |
 | Aguacate | 15 g | Monoinsaturadas |
-| Salmón (fresco) | 13 g | Poliinsaturadas (EPA, DHA) |
+| [Salmón](/alimentos/pescados/azules/salmon) (fresco) | 13 g | Poliinsaturadas (EPA, DHA) |
 | Sardina (fresca) | 9 g | Poliinsaturadas (EPA, DHA) |
 
 *Fuente: BEDCA; USDA FoodData Central.*
@@ -84,7 +84,7 @@ Tu organismo puede fabricar la mayoría de las grasas que necesita. Solo hay dos
 
 **Aceite de oliva virgen extra:** úsalo como grasa principal para cocinar y aliñar. Es la fuente más accesible de ácido oleico en la [dieta mediterránea](/dietas/populares/mediterranea).
 
-**Pescado azul** (salmón, sardinas, caballa, boquerón): intenta comerlo al menos dos veces por semana. Es la forma más directa de asegurar EPA y DHA sin depender de la conversión desde el ALA.
+**Pescado azul** (salmón, [sardinas](/alimentos/pescados/azules/sardinas), caballa, boquerón): intenta comerlo al menos dos veces por semana. Es la forma más directa de asegurar EPA y DHA sin depender de la conversión desde el ALA.
 
 **Frutos secos sin procesar:** son una buena fuente de [grasas monoinsaturadas](/nutricion/macronutrientes/grasas-o-lipidos/monoinsaturadas) y de omega-3 vegetal, aunque sin sustituir al pescado azul para el EPA y el DHA.
 

@@ -8,9 +8,9 @@ image: "./fotos/almendra_portada.jpg"
 imageAlt: "Fotografía de almendras crudas con piel"
 ---
 
-Coges el bote del armario, sacas unas pocas almendras y lo cierras antes de pillar más. El consejo lo has visto en una red social y en ese grupo de WhatsApp de deporte: un puñado, no más de veinte, masticadas despacio para saciar mejor.
+Coges el bote de la despensa, sacas unas pocas almendras y lo cierras antes de pillar más. El consejo lo has visto en una red social y en ese grupo de WhatsApp de deporte: un puñado, no más de veinte, masticadas despacio para saciar mejor.
 
-Luego lees la etiqueta: 576 kcal por cada 100 g. Y el bote vuelve al fondo del armario.
+Luego lees la etiqueta: 576 kcal por cada 100 g. Y el bote vuelve al fondo de la despensa.
 
 Pero hay un dato que el consejo no explica: las calorías de la almendra no se absorben todas.
 

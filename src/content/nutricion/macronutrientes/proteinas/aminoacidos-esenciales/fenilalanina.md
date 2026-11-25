@@ -34,7 +34,7 @@ La dopamina regula la motivación y el movimiento voluntario. La noradrenalina y
 
 ## Fuentes alimentarias de fenilalanina
 
-La fenilalanina está presente en todas las fuentes de [proteína](/nutricion/macronutrientes/proteinas) completa, con concentraciones especialmente altas en [frutos secos](/alimentos/frutos-secos) y quesos curados:
+La fenilalanina está presente en todas las fuentes de [proteína](/nutricion/macronutrientes/proteinas) completa, con concentraciones especialmente altas en [frutos secos](/alimentos/frutos-secos) y [quesos curados](/alimentos/lacteos/quesos):
 
 | Alimento | Fenilalanina por cada 100 g |
 |---|---|
@@ -42,8 +42,8 @@ La fenilalanina está presente en todas las fuentes de [proteína](/nutricion/ma
 | Almendras | 1.120 mg |
 | Semillas de calabaza (crudas) | 1.100 mg |
 | Pechuga de pollo (cocida) | 950 mg |
-| Atún fresco (cocido) | 900 mg |
-| Salmón del Atlántico (cocido) | 810 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 900 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 810 mg |
 | Huevo entero (cocido) | 590 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 520 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 480 mg |

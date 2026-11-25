@@ -48,7 +48,7 @@ La mayoría —almendra, avellana, anacardo, pistacho y [nuez de macadamia](/ali
 
 La [nuez](/alimentos/frutos-secos/nuez) y la [nuez pecán](/alimentos/frutos-secos/nuez-pecan) tienen más del otro tipo de grasa insaturada, el que incluye los omega-3 —los [ácidos grasos poliinsaturados](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas)—. Su consumo habitual se asocia a reducciones modestas pero consistentes del colesterol LDL —el «malo»— en ensayos clínicos.
 
-[El coco](/alimentos/frutos-secos/coco) es el caso aparte. Contiene [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) en proporción alta, pero son en su mayoría de cadena más corta que las de la carne o los lácteos —los **triglicéridos de cadena media (TCM)**—, que el hígado procesa por una vía diferente a las grasas saturadas de cadena larga. Qué significa eso exactamente para tu salud cardiovascular sigue siendo objeto de debate entre investigadores.
+[El coco](/alimentos/frutos-secos/coco) es el caso aparte. Contiene [grasas saturadas](/nutricion/macronutrientes/grasas-o-lipidos/saturadas) en proporción alta, pero son en su mayoría de cadena más corta que las de la carne o los [lácteos](/alimentos/lacteos) —los **triglicéridos de cadena media (TCM)**—, que el hígado procesa por una vía diferente a las grasas saturadas de cadena larga. Qué significa eso exactamente para tu salud cardiovascular sigue siendo objeto de debate entre investigadores.
 
 Creo que el mayor error en la comunicación sobre frutos secos ha sido simplificar el mensaje a «son grasos y engordan» sin distinguir el tipo de grasa ni confrontar la evidencia real sobre su efecto en el metabolismo. Los datos apuntan con coherencia en la dirección que menos se espera.
 

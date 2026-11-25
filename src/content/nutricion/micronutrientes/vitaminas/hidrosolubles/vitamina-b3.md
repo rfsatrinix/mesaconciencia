@@ -53,15 +53,15 @@ La EFSA establece un nivel máximo tolerable de **10 mg/día** para la forma de 
 
 ## Fuentes alimentarias de niacina
 
-La niacina se concentra en carnes, pescados, [frutos secos](/alimentos/frutos-secos) y cereales integrales. Los valores son de niacina ya presente en el alimento; la contribución del triptófano añade un margen adicional en dietas ricas en ese aminoácido:
+La niacina se concentra en carnes, [pescados](/alimentos/pescados), [frutos secos](/alimentos/frutos-secos) y cereales integrales. Los valores son de niacina ya presente en el alimento; la contribución del triptófano añade un margen adicional en dietas ricas en ese aminoácido:
 
 | Alimento | Niacina preformada por cada 100 g |
 |---|---|
-| Atún fresco (cocido) | 16 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 16 mg |
 | Pechuga de pollo (cocida) | 14 mg |
 | Hígado de ternera (cocido) | 14 mg |
 | [Cacahuetes](/alimentos/frutos-secos/cacahuete) tostados | 13 mg |
-| Salmón del Atlántico (cocido) | 8 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 8 mg |
 | Semillas de girasol (crudas) | 8 mg |
 | Champiñones (crudos) | 4 mg |
 | Pan integral | 4 mg |
@@ -90,7 +90,7 @@ La pelagra sigue existiendo. Aparece en campos de refugiados con dietas monóton
 
 Tu intestino absorbe la niacina dietética en el tramo superior del intestino delgado con gran eficiencia a las cantidades que aporta la dieta normal. El organismo no la almacena como reserva independiente: mantiene en cambio una reserva activa de NAD⁺ y NADP⁺ que usa y repone de forma continua en cada célula. Lo que sobra se excreta por la orina, pero antes el cuerpo le hace una pequeña modificación química —le añade un fragmento molecular llamado **grupo metilo**— y la convierte en otra forma —la **N-metilnicotinamida**—, que es lo que los análisis miden para saber si tienes suficiente niacina.
 
-La biodisponibilidad varía según la fuente. La niacina de la carne, el pescado y los lácteos se absorbe casi en su totalidad. La niacitina del maíz no tratado no puede absorberse sin tratamiento alcalino previo. Y la niacina que el organismo sintetiza a partir del triptófano tiene un límite de eficiencia: se necesitan 60 mg de triptófano para producir 1 mg de niacina, y la conversión requiere vitamina B2 y vitamina B6 como cofactores.
+La biodisponibilidad varía según la fuente. La niacina de la carne, el pescado y los [lácteos](/alimentos/lacteos) se absorbe casi en su totalidad. La niacitina del maíz no tratado no puede absorberse sin tratamiento alcalino previo. Y la niacina que el organismo sintetiza a partir del triptófano tiene un límite de eficiencia: se necesitan 60 mg de triptófano para producir 1 mg de niacina, y la conversión requiere vitamina B2 y vitamina B6 como cofactores.
 
 > La niacina del triptófano tiene un precio: para producirla hay que gastar B2 y B6.
 

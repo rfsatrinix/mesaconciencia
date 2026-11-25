@@ -101,7 +101,7 @@ La ración habitual en los estudios oscila entre 28 y 42 g. Con 30 g —aproxima
 
 **Con atención a la ración.** Con 718 kcal por cada 100 g, la macadamia es el fruto seco más calórico del grupo. Los 30 g equivalen a 215 kcal; duplicar la ración suma más de 400 kcal en un solo alimento.
 
-**Como fuente de palmitoleico cuando no hay pescado azul con frecuencia.** Si tu dieta no incluye salmón, boquerón, sardina o caballa de forma habitual, la macadamia es la forma más eficiente de obtener omega-7 desde la despensa habitual.
+**Como fuente de palmitoleico cuando no hay pescado azul con frecuencia.** Si tu dieta no incluye [salmón](/alimentos/pescados/azules/salmon), boquerón, sardina o caballa de forma habitual, la macadamia es la forma más eficiente de obtener omega-7 desde la despensa habitual.
 
 **Como complemento de tiamina en dietas con bajo aporte de cereales integrales.** Los cereales integrales son la fuente principal de tiamina en la dieta española. Si los reduces —por preferencia, intolerancia o restricción calórica— tu punto de partida en tiamina es bajo. La macadamia es la alternativa con mayor concentración del grupo.
 

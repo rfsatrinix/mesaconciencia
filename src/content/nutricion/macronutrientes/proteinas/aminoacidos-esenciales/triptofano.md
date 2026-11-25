@@ -44,7 +44,7 @@ El triptófano está presente en todas las fuentes de proteína completa. Las m�
 | Semillas de calabaza (secas) | 576 mg |
 | Queso parmesano | 330 mg |
 | Pechuga de pavo (cocida) | 240 mg |
-| Atún (fresco, cocido) | 230 mg |
+| [Atún](/alimentos/pescados/azules/atun) (fresco, cocido) | 230 mg |
 | Pechuga de pollo (cocida) | 200 mg |
 | Huevo entero | 167 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 77 mg |

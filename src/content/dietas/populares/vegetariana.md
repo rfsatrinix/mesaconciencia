@@ -16,7 +16,7 @@ Como se explica en la página [Dietas populares](/dietas/populares), la dieta ve
 
 ## ¿Qué es la dieta vegetariana?
 
-La dieta vegetariana excluye la carne, el pescado y el marisco, pero no necesariamente el resto de productos de origen animal. La variante más extendida mantiene tanto el huevo como los lácteos —se llama **ovo-lacto-vegetariana**—. Quien solo conserva los lácteos sigue una dieta **lacto-vegetariana**, y quien solo conserva el huevo, una **ovo-vegetariana**.
+La dieta vegetariana excluye la carne, el pescado y el marisco, pero no necesariamente el resto de productos de origen animal. La variante más extendida mantiene tanto el huevo como los [lácteos](/alimentos/lacteos) —se llama **ovo-lacto-vegetariana**—. Quien solo conserva los lácteos sigue una dieta **lacto-vegetariana**, y quien solo conserva el huevo, una **ovo-vegetariana**.
 
 Hay también quien se llama a sí mismo vegetariano pero sigue comiendo pescado —se conoce como **dieta pesco-vegetariana**—, aunque muchas personas y asociaciones vegetarianas no aceptan esa etiqueta, precisamente porque el pescado es un animal.
 
@@ -32,13 +32,13 @@ Olvida la idea de que la dieta vegetariana es «la vegana con un poco de queso»
 
 **También sin esfuerzo extra:** el lácteo te resuelve el [calcio](/nutricion/micronutrientes/minerales/calcio), uno de los puntos que más cuesta cubrir en la dieta vegana sin recurrir a bebidas vegetales enriquecidas o tofu.
 
-**Lo que sigue siendo un reto, exactamente igual que en la dieta vegana:** el huevo y el lácteo aportan muy poco [hierro](/nutricion/micronutrientes/oligoelementos/hierro), así que si no comes carne ni pescado sigues dependiendo del hierro no hemo de las [legumbres](/alimentos/legumbres) y los cereales integrales, con la misma absorción limitada. Y salvo que elijas huevos enriquecidos en omega-3, el huevo y el lácteo apenas aportan [DHA y EPA](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), así que ese punto se queda tan pendiente como en la dieta vegana.
+**Lo que sigue siendo un reto, exactamente igual que en la dieta vegana:** el [huevo](/alimentos/huevos) y el lácteo aportan muy poco [hierro](/nutricion/micronutrientes/oligoelementos/hierro), así que si no comes carne ni pescado sigues dependiendo del hierro no hemo de las [legumbres](/alimentos/legumbres) y los cereales integrales, con la misma absorción limitada. Y salvo que elijas huevos enriquecidos en omega-3, el huevo y el lácteo apenas aportan [DHA y EPA](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas), así que ese punto se queda tan pendiente como en la dieta vegana.
 
 ## Por qué el huevo y el lácteo cubren justo lo que la planta no puede
 
 No es casualidad que el huevo y el lácteo resuelvan precisamente la B12, la proteína completa y el calcio. Los tres tienen algo en común: son productos que el cuerpo de un animal fabrica para alimentar a otro ser vivo.
 
-El huevo contiene todo lo necesario para que un embrión se convierta en pollo, así que su perfil de aminoácidos está, por diseño biológico, cerca de lo óptimo. La leche se fabrica para que un mamífero recién nacido crezca deprisa, y para eso el cuerpo de la madre moviliza su propio calcio hacia la ubre. Y la B12 que llevan ambos no la fabrica ni la gallina ni la vaca: la fabrican bacterias que viven en su sistema digestivo, y de ahí pasa a sus tejidos y a sus secreciones.
+El huevo contiene todo lo necesario para que un embrión se convierta en pollo, así que su perfil de aminoácidos está, por diseño biológico, cerca de lo óptimo. La [leche](/alimentos/lacteos/leches/vaca) se fabrica para que un mamífero recién nacido crezca deprisa, y para eso el cuerpo de la madre moviliza su propio calcio hacia la ubre. Y la B12 que llevan ambos no la fabrica ni la gallina ni la vaca: la fabrican bacterias que viven en su sistema digestivo, y de ahí pasa a sus tejidos y a sus secreciones.
 
 > El huevo y el lácteo no son «comida vegetariana con suerte»: son, literalmente, la receta que un animal usa para construir a otro animal. De ahí que resuelvan justo lo que ninguna planta resuelve igual de bien.
 

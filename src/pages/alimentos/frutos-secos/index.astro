@@ -21,6 +21,16 @@ const grupos = Array.from(
   (_, i) => articulos.slice(i * PAGE_SIZE, (i + 1) * PAGE_SIZE)
 );
 
+const hermanas = [
+  { label: 'Verduras y hortalizas',    href: '/alimentos/verduras-hortalizas' },
+  { label: 'Frutas',                   href: '/alimentos/frutas' },
+  { label: 'Legumbres',                href: '/alimentos/legumbres' },
+  { label: 'Cereales y pseudocereales', href: '/alimentos/cereales' },
+  { label: 'Huevos',                   href: '/alimentos/huevos' },
+  { label: 'Pescados',                 href: '/alimentos/pescados' },
+  { label: 'Lácteos',                  href: '/alimentos/lacteos' },
+];
+
 const migas = [{ href: '/alimentos', label: 'Alimentos' }];
 ---
 
@@ -34,6 +44,8 @@ const migas = [{ href: '/alimentos', label: 'Alimentos' }];
       breadcrumbs={migas}
       headings={headings}
       relacionados={[]}
+      hermanas={hermanas}
+      categoriaLabel="Alimentos"
     >
       <Content />
     </ArticleLayout>

@@ -32,7 +32,7 @@ La misma reacción libera también la forma activa del ácido fólico que circul
 
 **Adenosilcobalamina** — Es el cofactor de la metilmalonil-CoA mutasa, la enzima que convierte el metilmalonil-CoA en succinil-CoA dentro de la central energética de la célula —la **mitocondria**—.
 
-El metilmalonil-CoA se genera al degradar los ácidos grasos de cadena impar —los que tienen un número impar de átomos de carbono, presentes en pequeñas cantidades en lácteos y carne— y tres aminoácidos: la [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), la [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina) y la [treonina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/treonina).
+El metilmalonil-CoA se genera al degradar los ácidos grasos de cadena impar —los que tienen un número impar de átomos de carbono, presentes en pequeñas cantidades en [lácteos](/alimentos/lacteos) y carne— y tres aminoácidos: la [isoleucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/isoleucina), la [valina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/valina) y la [treonina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/treonina).
 
 Sin la mutasa, ese intermedio se acumula y se convierte en ácido metilmalónico, que el cuerpo excreta por la orina. De ahí que la prueba del ácido metilmalónico urinario sea el marcador más sensible del déficit funcional de B12.
 
@@ -49,12 +49,12 @@ El cobalto dietético en una forma utilizable para los humanos es, en la prácti
 | Berberechos cocidos | 84 µg |
 | Hígado de ternera (cocido) | 83 µg |
 | Almejas cocidas | 20 µg |
-| Salmón del Atlántico (cocido) | 3,2 µg |
-| Atún enlatado al natural | 2,5 µg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 3,2 µg |
+| [Atún](/alimentos/pescados/azules/atun) enlatado al natural | 2,5 µg |
 | Ternera magra (cocida) | 1,9 µg |
 | Queso curado | 1,5 µg |
 | Huevo entero (cocido) | 0,9 µg |
-| Leche entera | 0,45 µg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 0,45 µg |
 
 *Valores aproximados. Fuente: USDA FoodData Central. Valores expresados como vitamina B12 por ser la única forma de cobalto biodisponible para humanos.*
 

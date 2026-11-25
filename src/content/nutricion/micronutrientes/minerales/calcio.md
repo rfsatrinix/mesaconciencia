@@ -26,7 +26,7 @@ El calcio es el [mineral](/nutricion/micronutrientes/minerales) más abundante d
 
 **Señalización celular.** Más allá del músculo y los nervios, el calcio actúa como mensajero dentro de cada célula: cuando una hormona da una orden desde el exterior, el calcio es uno de los mecanismos que traduce esa señal en una acción concreta en el interior —activar una enzima, producir una proteína, iniciar la división celular—. Es uno de los sistemas de mensajería intracelular más utilizados en todo el organismo.
 
-> La señal nerviosa, la contracción muscular, la coagulación. Ninguna puede esperar al próximo vaso de leche.
+> La señal nerviosa, la contracción muscular, la coagulación. Ninguna puede esperar al próximo vaso de [leche](/alimentos/lacteos/leches/vaca).
 
 ## ¿Cómo regula tu organismo el calcio en sangre?
 
@@ -61,7 +61,7 @@ La adolescencia y la posmenopausia son los dos momentos de mayor demanda. En la 
 |---|---|
 | Queso parmesano | 1.184 mg |
 | Queso manchego curado | 756 mg |
-| Sardinas en conserva (con espinas) | 382 mg |
+| [Sardinas en conserva](/alimentos/pescados/azules/sardinas) (con espinas) | 382 mg |
 | [Almendras](/alimentos/frutos-secos/almendra) | 269 mg |
 | Bebida de [soja](/alimentos/legumbres/soja) enriquecida | 120 mg |
 | Leche entera | 119 mg |
@@ -96,7 +96,7 @@ El contenido bruto de la tabla no equivale al calcio que tu cuerpo absorbe. Las 
 
 ## Calcio en dietas veganas
 
-Si sigues una [dieta vegana](/dietas/populares/vegana), puedes cubrir tus necesidades de calcio sin lácteos combinando fuentes vegetales con buena biodisponibilidad.
+Si sigues una [dieta vegana](/dietas/populares/vegana), puedes cubrir tus necesidades de calcio sin [lácteos](/alimentos/lacteos) combinando fuentes vegetales con buena biodisponibilidad.
 
 **Bebidas vegetales enriquecidas.** Las de soja, [avena](/alimentos/cereales/con-gluten/avena) y almendra, cuando llevan sales cálcicas añadidas, aportan entre 120 y 150 mg de calcio por 100 mL; si no se añaden, su contenido es marginal.
 

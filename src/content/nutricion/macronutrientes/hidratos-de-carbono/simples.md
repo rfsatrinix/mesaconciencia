@@ -22,7 +22,7 @@ Son la unidad más pequeña de hidrato de carbono y no se pueden descomponer má
 |---|---|---|
 | **Glucosa** | [Frutas](/alimentos/frutas), miel, almidón digerido | Principal combustible de tus células; referencia del índice glucémico (IG = 100) |
 | **Fructosa** | Frutas, miel, jarabe de maíz | Se metaboliza principalmente en el hígado; no eleva tu glucemia directamente |
-| **Galactosa** | Lácteos (como parte de la lactosa) | Se convierte en glucosa en el hígado |
+| **Galactosa** | [Lácteos](/alimentos/lacteos) (como parte de la lactosa) | Se convierte en glucosa en el hígado |
 
 *El índice glucémico (IG) mide con qué rapidez un alimento eleva tu glucemia en comparación con la glucosa pura, a la que se asigna un valor de 100.*
 
@@ -33,7 +33,7 @@ Están formados por dos monosacáridos encadenados. Tu intestino los descompone 
 | Disacárido | Composición | Fuentes principales |
 |---|---|---|
 | **Sacarosa** | Glucosa + Fructosa | Azúcar de mesa, frutas, remolacha, caña |
-| **Lactosa** | Glucosa + Galactosa | Leche y derivados lácteos |
+| **Lactosa** | Glucosa + Galactosa | [Leche](/alimentos/lacteos/leches/vaca) y derivados lácteos |
 | **Maltosa** | Glucosa + Glucosa | Cereales germinados, cerveza |
 
 ## Por qué no todos los azúcares simples tienen el mismo impacto

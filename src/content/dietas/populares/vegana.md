@@ -16,7 +16,7 @@ Como se explica en la página [Dietas populares](/dietas/populares), la dieta ve
 
 ## ¿Qué es la dieta vegana?
 
-La dieta vegana excluye todo alimento de origen animal: carne, pescado, marisco, huevos, lácteos y, en su versión más estricta, también la miel. No es lo mismo que ser vegetariano —quien sigue una [dieta vegetariana](/dietas/populares/vegetariana) suele mantener huevos o lácteos, o ambos, según la variante—; lo que distingue a la vegana es que no deja ninguna excepción animal en el plato.
+La dieta vegana excluye todo alimento de origen animal: carne, pescado, marisco, [huevos](/alimentos/huevos), [lácteos](/alimentos/lacteos) y, en su versión más estricta, también la miel. No es lo mismo que ser vegetariano —quien sigue una [dieta vegetariana](/dietas/populares/vegetariana) suele mantener huevos o lácteos, o ambos, según la variante—; lo que distingue a la vegana es que no deja ninguna excepción animal en el plato.
 
 Más allá de la comida, muchas personas veganas extienden el criterio a otros ámbitos de su vida —ropa, cosmética, ocio— evitando productos que impliquen explotación animal. Ese alcance más amplio queda fuera de un artículo sobre alimentación, pero conviene tenerlo presente: para quien la sigue, la dieta vegana suele ser una pieza más de una postura más general, no un capricho aislado centrado solo en comer.
 

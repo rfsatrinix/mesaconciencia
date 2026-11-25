@@ -10,7 +10,7 @@ imageAlt: "Mesa de madera rústica con tela de lino: rodaja de salmón en plato 
 
 Durante décadas, los nutricionistas usaron el huevo como referencia absoluta para medir la calidad de cualquier proteína. No era una elección arbitraria: su perfil de aminoácidos encaja mejor que ningún otro alimento conocido con lo que el cuerpo humano necesita. Carne, pescado, legumbre —todo se midió contra ese estándar. Hoy lo seguimos haciendo, aunque el índice que usamos tenga otro nombre.
 
-Las [proteínas](/nutricion/macronutrientes/proteinas) de origen animal son las que proceden de tejidos animales o de sus secreciones (leche, huevos). Su ventaja principal frente a las [proteínas vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) es el **perfil completo de aminoácidos esenciales**: contienen los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que tu organismo no puede sintetizar, en proporciones cercanas a las que necesitas.
+Las [proteínas](/nutricion/macronutrientes/proteinas) de origen animal son las que proceden de tejidos animales o de sus secreciones ([leche](/alimentos/lacteos/leches/vaca), [huevos](/alimentos/huevos)). Su ventaja principal frente a las [proteínas vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) es el **perfil completo de aminoácidos esenciales**: contienen los [nueve aminoácidos esenciales](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales) que tu organismo no puede sintetizar, en proporciones cercanas a las que necesitas.
 
 ## Calidad proteica: PDCAAS y DIAAS
 
@@ -26,7 +26,7 @@ La FAO recomienda actualmente un índice más preciso que mide la digestibilidad
 | Huevo entero | 1,13 |
 | Carne de ternera | 1,10 |
 | Pechuga de pollo | 1,08 |
-| Atún en conserva | 1,00 |
+| [Atún](/alimentos/pescados/azules/atun) en conserva | 1,00 |
 
 > Un DIAAS superior a 1,00 indica que esa proteína no solo cubre, sino que supera tus necesidades de aminoácidos esenciales por cada gramo que consumes.
 
@@ -74,12 +74,12 @@ Embutidos, salchichas, beicon y hamburguesas industriales no son equivalentes a 
 
 ## Pescado y marisco como fuente de proteína
 
-El pescado azul combina proteína de alta calidad con los ácidos grasos de cadena larga que tu cuerpo puede usar directamente para reducir la inflamación y proteger el sistema cardiovascular —el **EPA** y el **DHA**, los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) más relevantes en la dieta—. Los pescados blancos son más magros pero igualmente ricos en proteína completa.
+El [pescado](/alimentos/pescados) azul combina proteína de alta calidad con los ácidos grasos de cadena larga que tu cuerpo puede usar directamente para reducir la inflamación y proteger el sistema cardiovascular —el **EPA** y el **DHA**, los [ácidos grasos omega-3](/nutricion/macronutrientes/grasas-o-lipidos/poliinsaturadas) más relevantes en la dieta—. Los pescados blancos son más magros pero igualmente ricos en proteína completa.
 
 | Alimento (cocido) | Proteína por 100 g | EPA + DHA |
 |---|---|---|
 | Atún (fresco) | 29 g | 400 mg |
-| Salmón del Atlántico | 25 g | 2000 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) | 25 g | 2000 mg |
 | Gamba cocida | 24 g | 500 mg |
 | Sardina (fresca) | 21 g | 1400 mg |
 | Merluza | 18 g | 300 mg |

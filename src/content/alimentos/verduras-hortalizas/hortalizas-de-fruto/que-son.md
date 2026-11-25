@@ -60,7 +60,7 @@ Es una defensa muy afinada. A los mamíferos, que masticarían las semillas y la
 
 > El picante no quema de verdad. Es una alarma que suena sin que haya fuego.
 
-El agua no quita el picor: la capsaicina no se disuelve en agua. La leche o el yogur, sí, porque se disuelve en grasa.
+El agua no quita el picor: la capsaicina no se disuelve en agua. La [leche](/alimentos/lacteos/leches/vaca) o el yogur, sí, porque se disuelve en grasa.
 
 ## Lo que aportan las hortalizas de fruto (y lo que no)
 

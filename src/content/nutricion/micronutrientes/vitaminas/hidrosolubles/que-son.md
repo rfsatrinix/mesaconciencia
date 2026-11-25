@@ -75,7 +75,7 @@ La EFSA ha establecido ingestas de referencia (PRI) o ingestas adecuadas (IA) pa
 
 **Las carnes y las vísceras** —especialmente el hígado de ternera— concentran las vitaminas B1, B2, B3, B5, B6, B9 y B12 en cantidades que cubren gran parte de las necesidades diarias con una sola ración de 100 g.
 
-**Los huevos** aportan B2, B5, B8 (biotina) y B12. La biotina de la clara cruda no se absorbe porque la clara contiene un compuesto que la bloquea —la **avidina**—; el calor de la cocción la destruye, por eso el huevo cocido sí te aporta la biotina disponible.
+**Los [huevos](/alimentos/huevos)** aportan B2, B5, B8 (biotina) y B12. La biotina de la clara cruda no se absorbe porque la clara contiene un compuesto que la bloquea —la **avidina**—; el calor de la cocción la destruye, por eso el huevo cocido sí te aporta la biotina disponible.
 
 **Las legumbres** son especialmente ricas en B9 (ácido fólico) y aportan también B1, B2 y B6; la cantidad que tu intestino realmente absorbe de lo que contienen —la **biodisponibilidad**— mejora significativamente con el remojo prolongado.
 

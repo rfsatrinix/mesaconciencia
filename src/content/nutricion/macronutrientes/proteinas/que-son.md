@@ -53,7 +53,7 @@ El contenido proteico por 100 g varía según el alimento y el modo de preparaci
 | Alimento | Proteína por 100 g |
 |---|---|
 | Pechuga de pollo (cocida) | 31 g |
-| Atún en conserva (escurrido) | 25 g |
+| [Atún](/alimentos/pescados/azules/atun) en conserva (escurrido) | 25 g |
 | Tofu firme | 17 g |
 | Huevo entero | 13 g |
 | [Lentejas cocidas](/alimentos/legumbres/lentejas) | 9 g |
@@ -63,7 +63,7 @@ El contenido proteico por 100 g varía según el alimento y el modo de preparaci
 
 ## Proteína animal vs. proteína vegetal
 
-Las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) (huevo, carne, pescado, lácteos) tienen un perfil completo de aminoácidos esenciales y tu intestino puede absorber y aprovechar la mayor parte de lo que consumes —una **digestibilidad** alta—. Las [de origen vegetal](/nutricion/macronutrientes/proteinas/origen-vegetal) ([legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos)) suelen ser deficitarias en uno o más aminoácidos esenciales —el garbanzo en [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), el [arroz](/alimentos/cereales/sin-gluten/arroz) en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, pero combinando distintas fuentes a lo largo del día cubres perfectamente el perfil que tu cuerpo necesita.
+Las [proteínas de origen animal](/nutricion/macronutrientes/proteinas/origen-animal) (huevo, carne, pescado, [lácteos](/alimentos/lacteos)) tienen un perfil completo de aminoácidos esenciales y tu intestino puede absorber y aprovechar la mayor parte de lo que consumes —una **digestibilidad** alta—. Las [de origen vegetal](/nutricion/macronutrientes/proteinas/origen-vegetal) ([legumbres](/alimentos/legumbres), cereales, [frutos secos](/alimentos/frutos-secos)) suelen ser deficitarias en uno o más aminoácidos esenciales —el garbanzo en [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina), el [arroz](/alimentos/cereales/sin-gluten/arroz) en [lisina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/lisina)—, pero combinando distintas fuentes a lo largo del día cubres perfectamente el perfil que tu cuerpo necesita.
 
 La puntuación de aminoácidos esenciales digestibles (DIAAS) mide la calidad proteica considerando tanto el perfil de aminoácidos esenciales como la digestibilidad real. El huevo y el derivado líquido del proceso de fabricación del queso —la **proteína de suero**— obtienen un DIAAS ≥ 1, lo que significa que cubren completamente las necesidades de referencia. Las legumbres se sitúan en torno a 0,6–0,8. Si combinas legumbres con cereales en el mismo día, el DIAAS conjunto sube por encima de lo que daría cada fuente por separado.
 
@@ -71,7 +71,7 @@ La puntuación de aminoácidos esenciales digestibles (DIAAS) mide la calidad pr
 
 ## ¿Necesitas suplementos de proteína?
 
-Una dieta variada con fuentes proteicas en cada comida cubre tus necesidades sin suplementación. Los suplementos más usados son la proteína de suero, la proteína principal de la leche —la **caseína**— y los suplementos de proteína vegetal. Son convenientes, no imprescindibles, para deportistas con requerimientos elevados o personas con dificultad para alcanzar sus objetivos solo con la dieta. Para mí, la mayoría de quienes los compran cubrirían sus necesidades perfectamente con una dieta variada.
+Una dieta variada con fuentes proteicas en cada comida cubre tus necesidades sin suplementación. Los suplementos más usados son la proteína de suero, la proteína principal de la [leche](/alimentos/lacteos/leches/vaca) —la **caseína**— y los suplementos de proteína vegetal. Son convenientes, no imprescindibles, para deportistas con requerimientos elevados o personas con dificultad para alcanzar sus objetivos solo con la dieta. Para mí, la mayoría de quienes los compran cubrirían sus necesidades perfectamente con una dieta variada.
 
 Tienen sentido en contextos concretos: un volumen de entrenamiento alto que eleve tu requerimiento por encima de 1,8 g/kg/día, fases de restricción calórica donde te cuesta mantener tu ingesta proteica, o dietas vegetarianas estrictas donde el perfil de aminoácidos esenciales es más difícil de cubrir sin recurrir a suplementos.
 

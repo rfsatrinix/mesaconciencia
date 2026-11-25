@@ -43,10 +43,10 @@ La treonina abunda en las [proteínas de origen animal](/nutricion/macronutrient
 | Alimento | Treonina por cada 100 g |
 |---|---|
 | Pechuga de pollo (cocida) | 1.100 mg |
-| Atún (fresco, cocido) | 1.060 mg |
+| [Atún](/alimentos/pescados/azules/atun) (fresco, cocido) | 1.060 mg |
 | Queso parmesano | 1.000 mg |
 | Semillas de calabaza (crudas) | 970 mg |
-| Salmón del Atlántico (cocido) | 950 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 950 mg |
 | Huevo entero (cocido) | 610 mg |
 | Almendras | 580 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 430 mg |
@@ -54,7 +54,7 @@ La treonina abunda en las [proteínas de origen animal](/nutricion/macronutrient
 
 *Fuente: USDA FoodData Central. Valores aproximados.*
 
-En el gluten de trigo, la treonina es el aminoácido que está en menor cantidad de lo que el cuerpo necesita —lo que lo convierte en el **aminoácido limitante**—. Las harinas refinadas de trigo tienen una concentración baja, lo que hace que, si tu dieta se centra principalmente en pan y pasta sin otras fuentes proteicas, la ingesta puede quedarse corta. Combinar cereales con huevo, lácteos o legumbres resuelve el desequilibrio sin ningún cálculo adicional.
+En el gluten de trigo, la treonina es el aminoácido que está en menor cantidad de lo que el cuerpo necesita —lo que lo convierte en el **aminoácido limitante**—. Las harinas refinadas de trigo tienen una concentración baja, lo que hace que, si tu dieta se centra principalmente en pan y pasta sin otras fuentes proteicas, la ingesta puede quedarse corta. Combinar cereales con huevo, [lácteos](/alimentos/lacteos) o legumbres resuelve el desequilibrio sin ningún cálculo adicional.
 
 ## La treonina y la barrera intestinal
 

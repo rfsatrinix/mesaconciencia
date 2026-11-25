@@ -22,7 +22,7 @@ En el núcleo de tus células, su forma activa —el **ácido retinoico**— act
 
 Tu dieta puede aportarte vitamina A activa de dos fuentes distintas:
 
-**Retinol (vitamina A preformada).** Se encuentra en fuentes de origen animal —vísceras, especialmente hígado de ternera, huevos y lácteos enteros— y tu intestino lo absorbe con una eficiencia del 70–90 %.
+**Retinol (vitamina A preformada).** Se encuentra en fuentes de origen animal —vísceras, especialmente hígado de ternera, [huevos](/alimentos/huevos) y [lácteos](/alimentos/lacteos) enteros— y tu intestino lo absorbe con una eficiencia del 70–90 %.
 
 **Beta-caroteno (provitamina A).** Se encuentra en los vegetales de color naranja, amarillo y verde oscuro —[zanahoria](/alimentos/verduras-hortalizas/raices-tuberculos/zanahoria), boniato, [espinacas](/alimentos/verduras-hortalizas/hojas/espinacas), mango— y tu organismo lo convierte en retinol con menor eficiencia: 12 μg de beta-caroteno dietético equivalen a 1 μg de retinol activo.
 

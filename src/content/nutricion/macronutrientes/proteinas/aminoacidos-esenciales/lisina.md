@@ -39,9 +39,9 @@ La lisina abunda en las [proteínas de origen animal](/nutricion/macronutrientes
 | Alimento | Lisina por cada 100 g |
 |---|---|
 | Queso parmesano | 3.300 mg |
-| Atún (fresco, cocido) | 2.600 mg |
+| [Atún](/alimentos/pescados/azules/atun) (fresco, cocido) | 2.600 mg |
 | Pechuga de pollo (cocida) | 2.400 mg |
-| Salmón del Atlántico (cocido) | 2.300 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 2.300 mg |
 | Lentejas cocidas | 650 mg |
 | Garbanzos cocidos | 530 mg |
 | Arroz blanco cocido | 110 mg |
@@ -81,7 +81,7 @@ En las dosis habituales, el cuerpo la tolera sin problemas. A partir de 10 g al 
 
 ## ¿Qué ocurre si te falta lisina?
 
-La deficiencia aislada de lisina es rara en dietas variadas. Puede aparecer en personas que consumen dietas muy basadas en cereales refinados sin apenas legumbres, huevos, lácteos ni carne. Los signos descritos incluyen fatiga, pérdida de apetito, náuseas y retraso del crecimiento en niños; en casos graves, alteraciones en la síntesis de colágeno.
+La deficiencia aislada de lisina es rara en dietas variadas. Puede aparecer en personas que consumen dietas muy basadas en cereales refinados sin apenas legumbres, [huevos](/alimentos/huevos), [lácteos](/alimentos/lacteos) ni carne. Los signos descritos incluyen fatiga, pérdida de apetito, náuseas y retraso del crecimiento en niños; en casos graves, alteraciones en la síntesis de colágeno.
 
 Las poblaciones históricas con mayor riesgo eran las que subsistían casi exclusivamente de maíz. El maíz tiene la menor concentración de lisina de los cereales de uso extendido. Cuando se convierte en la base prácticamente única de la dieta —sin legumbres ni proteína animal que lo complementen—, el retraso del crecimiento en niños es una de las primeras señales visibles.
 

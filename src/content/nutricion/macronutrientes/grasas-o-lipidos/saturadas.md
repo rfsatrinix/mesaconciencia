@@ -24,7 +24,7 @@ El ácido graso de cadena corta más estudiado —el **ácido butírico** (C4)�
 
 ### Ácidos grasos de cadena media (C8–C12)
 
-El aceite de coco y los lácteos contienen dos ácidos grasos de cadena media —el **ácido caprílico** (C8) y el **ácido cáprico** (C10)— que tu hígado absorbe directamente sin necesidad de las partículas que normalmente transportan las grasas a través de la linfa —los **quilomicrones**—, y los convierte con rapidez en energía. Son los componentes del aceite de **triglicéridos de cadena media** (MCT).
+El aceite de coco y los [lácteos](/alimentos/lacteos) contienen dos ácidos grasos de cadena media —el **ácido caprílico** (C8) y el **ácido cáprico** (C10)— que tu hígado absorbe directamente sin necesidad de las partículas que normalmente transportan las grasas a través de la linfa —los **quilomicrones**—, y los convierte con rapidez en energía. Son los componentes del aceite de **triglicéridos de cadena media** (MCT).
 
 El ácido graso saturado más abundante en el aceite de coco —el **ácido laúrico** (C12), con aproximadamente el 50 % de su composición— eleva tanto el LDL como el tipo de colesterol que protege las arterias —el **HDL**—. El efecto neto sobre el riesgo cardiovascular es objeto de debate; la mayoría de los organismos de salud lo clasifican como saturado con un efecto sobre el LDL similar al de los ácidos grasos de cadena larga.
 
@@ -93,7 +93,7 @@ En uso ocasional o en contextos concretos (repostería, cocina asiática), no es
 
 ## Cómo enfocar las grasas saturadas en tu dieta
 
-No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en lácteos enteros, huevos y carnes no procesadas. Siendo honesta, creo que el queso y los huevos recibieron mala prensa durante décadas sin merecerla: el problema real nunca estuvo en ellos, sino en los ultraprocesados con aceite de palma que nadie cuestionaba.
+No tienes que eliminar las grasas saturadas por completo: están presentes de forma natural en lácteos enteros, [huevos](/alimentos/huevos) y carnes no procesadas. Siendo honesta, creo que el queso y los huevos recibieron mala prensa durante décadas sin merecerla: el problema real nunca estuvo en ellos, sino en los ultraprocesados con aceite de palma que nadie cuestionaba.
 
 El problema surge cuando las saturadas desplazan a las grasas insaturadas en tu dieta, o cuando van de la mano de carnes procesadas —embutidos, bacon— que añaden [sodio](/nutricion/micronutrientes/minerales/sodio), nitratos y otros compuestos de riesgo.
 

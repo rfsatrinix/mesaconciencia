@@ -8,7 +8,7 @@ image: "./fotos/avenasingluten_portada.jpg"
 imageAlt: "Fotografía editorial sobre fondo oscuro con tres grupos: a la izquierda, un tarro de cristal tumbado con copos de avena derramados y una etiqueta de papel kraft atada al propio tarro con el texto «Avena certificada»; en el centro, un cuenco de cerámica clara con grano de trigo y cebada mezclados; a la derecha, una bandeja de madera clara con un pequeño tubo de ensayo de cristal y un montón de copos de avena. Etiquetas de papel kraft en la mesa: «Lo que nunca debe tocar» y «Menos de 20 ppm»."
 ---
 
-Dos paquetes de avena en el mismo lineal del supermercado. Misma planta, mismos copos, casi el mismo aspecto. Uno cuesta el doble que el otro, y solo uno de los dos es seguro si eres celíaco.
+Dos paquetes de avena en la misma estantería de supermercado. Misma planta, mismos copos, casi el mismo aspecto. Uno cuesta el doble que el otro, y solo uno de los dos es seguro si eres celíaco.
 
 La diferencia no está en la semilla. Está en todo lo que ha pasado entre el campo y la bolsa.
 

@@ -45,8 +45,8 @@ La leucina es el BCAA más abundante en casi todas las fuentes proteicas:
 | [Soja](/alimentos/legumbres/soja) texturizada (seca) | 2.000 mg |
 | Pechuga de pollo (cocida) | 1.900 mg |
 | Queso parmesano | 1.750 mg |
-| Atún fresco (cocido) | 1.700 mg |
-| Salmón del Atlántico (cocido) | 1.600 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 1.700 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 1.600 mg |
 | Almendras | 1.490 mg |
 | Semillas de calabaza (crudas) | 1.400 mg |
 | Huevo entero (cocido) | 1.086 mg |

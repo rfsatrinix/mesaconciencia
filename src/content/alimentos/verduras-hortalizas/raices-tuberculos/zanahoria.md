@@ -54,7 +54,7 @@ El motivo es el mismo que en el [tomate](/alimentos/verduras-hortalizas/hortaliz
 
 Hay una segunda capa que el mito tampoco cuenta: el betacaroteno no es vitamina A, es una **provitamina**, una sustancia que tu cuerpo tiene que transformar antes de poder usarla. Esa conversión no es eficiente: hacen falta unos 12 microgramos de betacaroteno de la dieta para conseguir apenas 1 microgramo de vitamina A activa.
 
-El hígado o los lácteos, que llevan vitamina A ya lista para usar, no necesitan ese paso intermedio. La zanahoria puede darte mucha vitamina A, pero necesita mucho betacaroteno de partida para lograrlo.
+El hígado o los [lácteos](/alimentos/lacteos), que llevan vitamina A ya lista para usar, no necesitan ese paso intermedio. La zanahoria puede darte mucha vitamina A, pero necesita mucho betacaroteno de partida para lograrlo.
 
 ## El naranja no es la zanahoria «de verdad»
 

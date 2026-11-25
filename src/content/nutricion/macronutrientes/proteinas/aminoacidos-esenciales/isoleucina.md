@@ -43,8 +43,8 @@ La isoleucina está bien distribuida entre las fuentes proteicas, con mayor conc
 | Alimento | Isoleucina por cada 100 g |
 |---|---|
 | Pechuga de pollo (cocida) | 1.100 mg |
-| Atún fresco (cocido) | 1.050 mg |
-| Salmón del Atlántico (cocido) | 1.000 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 1.050 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 1.000 mg |
 | Queso parmesano | 1.000 mg |
 | Semillas de calabaza (crudas) | 910 mg |
 | [Almendras](/alimentos/frutos-secos/almendra) | 700 mg |

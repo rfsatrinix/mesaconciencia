@@ -60,7 +60,7 @@ El flúor es excepcional entre los oligoelementos porque lo que más contribuye 
 | Suministro fluorizado (0,7 mg/L) | 1,4 mg en 2 litros diarios |
 | Té negro infusionado (3–5 min) | 0,5–2,0 mg por taza de 240 mL |
 | Mineral embotellada (variable) | 0,01–8,5 mg/L según manantial |
-| Sardinas en lata (con espinas) | 0,2 mg/100 g |
+| [Sardinas en lata](/alimentos/pescados/azules/sardinas) (con espinas) | 0,2 mg/100 g |
 | Bacalao cocido | 0,2 mg/100 g |
 | Uvas pasas | 0,2 mg/100 g |
 | Patata cocida (con piel) | 0,1 mg/100 g |

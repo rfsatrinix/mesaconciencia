@@ -48,7 +48,7 @@ La proteína de guisante es hoy el ingrediente más solicitado en la formulació
 
 El guisante tiene, como el resto de legumbres, menos [metionina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/metionina) de la que tu cuerpo necesita. Pero en el aminoácido que actúa como señal de arranque para que tu músculo fabrique proteína —la [leucina](/nutricion/macronutrientes/proteinas/aminoacidos-esenciales/leucina)— supera a la mayoría de fuentes vegetales y se acerca a lo que hacen las proteínas animales.
 
-Un estudio publicado en 2015 en *Journal of the International Society of Sports Nutrition* que comparó proteína de guisante con proteína de suero de leche en 161 deportistas durante doce semanas encontró ganancias de grosor muscular comparables en los dos grupos.
+Un estudio publicado en 2015 en *Journal of the International Society of Sports Nutrition* que comparó proteína de guisante con proteína de suero de [leche](/alimentos/lacteos/leches/vaca) en 161 deportistas durante doce semanas encontró ganancias de grosor muscular comparables en los dos grupos.
 
 A eso se suma que no genera alergias frecuentes, no arrastra los debates regulatorios de la [soja](/alimentos/legumbres/soja) transgénica y tiene un sabor suficientemente neutro para integrarse en casi cualquier producto.
 

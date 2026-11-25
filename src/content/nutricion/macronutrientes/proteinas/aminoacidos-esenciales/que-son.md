@@ -72,7 +72,7 @@ En contexto clínico, la suplementación de estos aminoácidos puede ser necesar
 
 Basta con que incluyas variedad de fuentes proteicas a lo largo del día.
 
-**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, leche y lácteos, [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y [quinoa](/alimentos/cereales/pseudocereales/quinoa).
+**Proteínas completas** (contienen los nueve en proporciones adecuadas): huevo, [leche](/alimentos/lacteos/leches/vaca) y [lácteos](/alimentos/lacteos), [carnes y pescados](/nutricion/macronutrientes/proteinas/origen-animal), [soja](/alimentos/legumbres/soja) y [quinoa](/alimentos/cereales/pseudocereales/quinoa).
 
 **Proteínas complementarias.** Las [fuentes vegetales](/nutricion/macronutrientes/proteinas/origen-vegetal) son deficitarias en uno o dos aminoácidos, pero legumbres y cereales se complementan mutuamente. No hace falta combinarlas en la misma comida; tu organismo mantiene una reserva (*pool*) de aminoácidos libres en sangre que equilibra el aporte a lo largo del día.
 

@@ -66,12 +66,12 @@ La vitamina B12 se encuentra de forma natural casi exclusivamente en productos d
 | Ostras (cocidas) | 16 µg |
 | Mejillones (cocidos) | 12 µg |
 | Sardina en conserva | 8,9 µg |
-| Salmón (cocido) | 3,2 µg |
-| Atún en conserva | 3,0 µg |
+| [Salmón](/alimentos/pescados/azules/salmon) (cocido) | 3,2 µg |
+| [Atún](/alimentos/pescados/azules/atun) en conserva | 3,0 µg |
 | Ternera magra (cocida) | 2,5 µg |
 | Huevo entero | 0,9 µg |
 | Yogur natural | 0,5 µg |
-| Leche entera | 0,4 µg |
+| [Leche](/alimentos/lacteos/leches/vaca) entera | 0,4 µg |
 
 *Fuente: BEDCA; USDA FoodData Central. Valores aproximados.*
 

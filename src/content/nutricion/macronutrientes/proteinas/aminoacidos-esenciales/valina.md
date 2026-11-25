@@ -42,10 +42,10 @@ La valina se distribuye de forma similar a los otros BCAA, con mayor concentraci
 |---|---|
 | Pechuga de pollo (cocida) | 1.100 mg |
 | Queso parmesano | 1.100 mg |
-| Atún fresco (cocido) | 1.050 mg |
+| [Atún](/alimentos/pescados/azules/atun) fresco (cocido) | 1.050 mg |
 | Semillas de calabaza (crudas) | 1.040 mg |
 | Almendras | 1.020 mg |
-| Salmón del Atlántico (cocido) | 1.000 mg |
+| [Salmón del Atlántico](/alimentos/pescados/azules/salmon) (cocido) | 1.000 mg |
 | Huevo entero (cocido) | 720 mg |
 | [Lentejas](/alimentos/legumbres/lentejas) cocidas | 550 mg |
 | [Garbanzos](/alimentos/legumbres/garbanzos) cocidos | 480 mg |

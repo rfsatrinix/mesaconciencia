@@ -52,7 +52,7 @@ Los productos sin procesar contienen muy poco sodio. La práctica totalidad del 
 |---|---|
 | Anchoas en conserva | 3.668 mg |
 | Jamón serrano | 1.600 mg |
-| Queso manchego curado | 800 mg |
+| [Queso manchego curado](/alimentos/lacteos/quesos) | 800 mg |
 | Aceitunas (en salmuera) | 735 mg |
 | Pan de molde industrial | 550 mg |
 | Pan integral de panadería | 400 mg |

@@ -64,7 +64,7 @@ La revisión también señala sus límites: no hay evidencia suficiente para rec
 
 La teoría está bien, pero lo que de verdad importa es cómo encaja en un día normal. Un ejemplo con ventana de alimentación de 13:00 a 21:00 ayuda a verlo en la práctica.
 
-**Durante el ayuno**, de 21:00 a 13:00 del día siguiente, solo tomas agua, café solo o infusiones sin azúcar ni leche: nada que aporte calorías.
+**Durante el ayuno**, de 21:00 a 13:00 del día siguiente, solo tomas agua, café solo o infusiones sin azúcar ni [leche](/alimentos/lacteos/leches/vaca): nada que aporte calorías.
 
 **A las 13:00 abres la ventana** con [lentejas](/alimentos/legumbres/lentejas) guisadas con verdura variada y [arroz](/alimentos/cereales/sin-gluten/arroz) integral, siguiendo la misma lógica de plato que ya se explica en el [día real de dieta mediterránea](/dietas/populares/mediterranea).
 

@@ -12,7 +12,7 @@ En la barra de cualquier bar de España hay un cuenco de altramuces. Amarillos, 
 
 Nadie los toma como fuente de proteína. Son el aperitivo, el pasatiempo, la cosa que comes mientras esperas. La legumbre que se da gratis con la cerveza.
 
-Y sin embargo, los altramuces que caen en un cuenco generoso —unos 100 g— aportan más proteína que dos huevos.
+Y sin embargo, los altramuces que caen en un cuenco generoso —unos 100 g— aportan más proteína que dos [huevos](/alimentos/huevos).
 
 ## ¿Qué es el altramuz?
 
